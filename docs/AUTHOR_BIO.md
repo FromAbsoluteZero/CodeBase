@@ -1,20 +1,5 @@
 # Author Biography
 
-## Short (~25 words — cover, catalogue listing)
-
-Shanmukh Behara is a Data Governance Advisor at Southern California Edison. *From Absolute Zero*
-is his first book.
-
-## Medium (~60 words — back cover, conference bio)
-
-Shanmukh Behara is a Data Governance Advisor at Southern California Edison, where he has spent
-several years turning usage, contract, and operational data into financial models and business
-recommendations. He wrote *From Absolute Zero* to be the book he wanted when he started: one that
-explains why methods behave as they do, executes every program it prints, and keeps the results
-that contradict expectation.
-
-## Long (~150 words — publisher page, press material)
-
 Shanmukh Behara is a Data Governance Advisor at Southern California Edison, a major electric
 utility, where he turns usage, contract, and operational data into financial models and business
 recommendations.
