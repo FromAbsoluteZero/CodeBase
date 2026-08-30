@@ -1,0 +1,77 @@
+LICENSE — From Absolute Zero companion repository
+
+IMPORTANT: FINAL LICENCE TO BE CONFIRMED BY AUTHOR AND PUBLISHER BEFORE PUBLICATION.
+
+This file records the intended position. A publishing contract may change it, and the
+publisher should confirm before this repository is made public.
+
+--------------------------------------------------------------------------------
+1. SOURCE CODE  ..............................................  MIT (intended)
+--------------------------------------------------------------------------------
+
+MIT License
+
+Copyright (c) 2026 Shanmukh Behara
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons
+to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+Scope: the .py files under code/ and scripts/, the notebooks under notebooks/, and the
+test files under tests/.
+
+--------------------------------------------------------------------------------
+2. GENERATED DATASETS  ......................................  Same as code
+--------------------------------------------------------------------------------
+
+The CSV files in data/generated/ are produced by the generation scripts in this
+repository. They are entirely synthetic, contain no personal or real-world data, and are
+covered by the same licence as the code.
+
+--------------------------------------------------------------------------------
+3. BOOK TEXT AND FIGURES  ...................................  NOT MIT
+--------------------------------------------------------------------------------
+
+The prose, structure, exercises, solutions and typeset figures of "From Absolute Zero" are
+NOT covered by the MIT licence above. All rights reserved by the author and, once a
+publishing agreement exists, subject to that agreement.
+
+The figure image files under figures/ are provided so readers can view them at full
+resolution. They are not licensed for redistribution or reuse outside that purpose.
+
+--------------------------------------------------------------------------------
+4. THIRD-PARTY ASSETS  ......................................  Separate terms
+--------------------------------------------------------------------------------
+
+COVER ARTWORK — NOT OWNED BY THE AUTHOR AND NOT LICENSED BY THIS FILE.
+
+  NGC 346, James Webb Space Telescope (NIRCam). ESA/Webb image weic2301a.
+  Credit: NASA, ESA, CSA, STScI, A. Pagan (STScI).
+  Licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+  Reuse requires the credit line above. The full-resolution source image is NOT
+  redistributed in this repository. Obtain it from the official ESA/Webb release.
+
+SOFTWARE DEPENDENCIES are licensed by their own authors under their own terms (see
+requirements.txt). Nothing in this file grants rights over them.
+
+--------------------------------------------------------------------------------
+5. OPEN QUESTIONS FOR THE PUBLISHER
+--------------------------------------------------------------------------------
+
+  [ ] Does the publishing agreement permit an MIT-licensed companion repository?
+  [ ] Does the publisher require a specific copyright line or notice?
+  [ ] Should the repository be public at launch, or gated?
+  [ ] Does the publisher require different terms for the figure files?

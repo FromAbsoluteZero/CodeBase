@@ -1,0 +1,48 @@
+# secrets — never commit
+.env
+.env.*
+*.key
+*.pem
+*.p12
+credentials*
+secrets/
+*_secret*
+*token*
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.Python
+build/
+dist/
+
+# notebooks
+.ipynb_checkpoints/
+
+# testing / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# large or regenerable artefacts
+*.tif
+*.tiff
+*.pdf.bak
+outputs/
+scratch/

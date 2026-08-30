@@ -1,0 +1,9 @@
+# From Absolute Zero — core dependencies
+# Pinned to the versions the book's printed output was produced under.
+# Do not upgrade casually: tree-based results in particular can shift between versions.
+
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.8

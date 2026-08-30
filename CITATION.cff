@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "From Absolute Zero: Data science, machine learning, and AI — from no code to transformers and production"
+message: "If you use this book or its companion code, please cite it as below."
+type: book
+authors:
+  - family-names: Behara
+    given-names: Shanmukh
+edition: "First Edition"
+year: 2026
+isbn: "9798170522552"
+# publisher:
+#   name: "[TO BE SUPPLIED]"
+url: "https://github.com/FromAbsoluteZero/CodeBase"
+abstract: >-
+  A forty-five chapter introduction to data science, machine learning and AI, assuming no
+  prior programming, calculus or statistics. Every program in the book was executed and its
+  real output printed, including results that contradict the chapter's expectation. Deep
+  learning chapters are implemented in pure NumPy so the mechanics remain inspectable.
+keywords:
+  - machine learning
+  - data science
+  - artificial intelligence
+  - deep learning
+  - transformers
+  - large language models
+  - reproducibility
+  - algorithmic fairness
+  - Python
+license: MIT
+license-url: "./LICENSE"

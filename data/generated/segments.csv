@@ -1,0 +1,3501 @@
+AvgBasket,OrdersPerMonth,DaysSinceLast,LinesPerOrder,TrueType
+13.27,8.82,11.8,3.93,weekly regulars
+21.59,2.61,45.09,1.96,bargain hunters
+24.59,0.52,64.28,1.16,lapsed
+110.83,1.99,5.39,7.05,bulk buyers
+25.55,8.17,13.21,3.01,weekly regulars
+38.46,8.89,9.41,2.74,weekly regulars
+34.29,8.96,12.55,4.31,weekly regulars
+17.61,7.85,3.93,3.38,weekly regulars
+34.5,3.19,30.46,1.69,bargain hunters
+32.23,8.87,11.04,3.98,weekly regulars
+26.65,10.83,16.94,3.52,weekly regulars
+15.78,1.99,46.58,1.76,bargain hunters
+14.47,0.28,111.29,0.9,lapsed
+16.39,1.46,62.54,1.58,bargain hunters
+24.42,0.26,83.23,1.31,lapsed
+17.3,0.91,46.86,1.21,bargain hunters
+155.12,2.75,20.35,2.27,unclassifiable
+46.61,9.94,9.48,3.73,weekly regulars
+33.56,5.41,10.97,2.31,weekly regulars
+23.22,6.53,15.96,3.03,weekly regulars
+19.51,2.11,28.04,1.49,bargain hunters
+21.37,0.3,54.48,0.61,lapsed
+112.77,1.57,7.74,6.77,bulk buyers
+42.69,7.38,12.85,2.37,weekly regulars
+265.03,0.47,72.18,5.98,unclassifiable
+15.24,1.54,55.79,0.65,bargain hunters
+10.86,1.13,37.88,1.33,bargain hunters
+11.78,1.7,59.4,0.78,bargain hunters
+40.94,6.71,15.09,2.82,weekly regulars
+25.04,5.49,6.91,2.9,weekly regulars
+20.36,1.76,55.15,1.16,bargain hunters
+18.11,3.43,46.39,1.52,bargain hunters
+20.52,0.62,41.1,0.98,lapsed
+115.66,1.87,6.61,5.8,bulk buyers
+108.97,8.13,16.4,0.21,unclassifiable
+22.75,1.75,19.14,1.06,bargain hunters
+14.1,1.84,50.93,1.8,bargain hunters
+15.54,2.09,39.55,1.17,bargain hunters
+21.52,8.07,12.67,3.03,weekly regulars
+220.9,1.52,7.71,5.36,bulk buyers
+19.67,2.75,41.68,1.64,bargain hunters
+27.79,0.44,67.69,1.17,lapsed
+20.32,2.54,24.41,0.76,bargain hunters
+20.27,0.26,73.56,1.15,lapsed
+20.12,2.4,71.64,1.61,bargain hunters
+31.7,6.82,13.28,2.47,weekly regulars
+67.39,3.65,11.82,7.51,unclassifiable
+105.5,1.01,9.77,7.63,bulk buyers
+18.29,2.93,33.77,1.44,bargain hunters
+13.45,2.11,45.7,1.43,bargain hunters
+45.56,3.27,14.41,2.68,unclassifiable
+23.44,0.39,62.59,1.2,lapsed
+21.82,2.56,45.69,1.07,bargain hunters
+32.15,9.22,14.6,2.94,weekly regulars
+19.0,7.27,10.99,4.42,weekly regulars
+27.56,12.55,18.88,2.16,weekly regulars
+174.62,1.74,13.72,3.42,bulk buyers
+22.25,6.96,15.06,2.9,weekly regulars
+42.27,6.75,11.72,3.3,weekly regulars
+24.14,2.8,30.54,1.09,bargain hunters
+18.74,2.37,46.99,1.13,bargain hunters
+30.0,9.32,22.03,3.01,weekly regulars
+30.31,9.16,15.07,2.33,weekly regulars
+27.15,2.76,46.68,1.43,bargain hunters
+51.35,8.54,8.21,3.87,weekly regulars
+88.79,6.29,72.64,3.86,unclassifiable
+129.34,1.09,11.65,7.37,bulk buyers
+82.06,9.88,15.06,2.69,weekly regulars
+20.88,0.3,86.04,1.38,lapsed
+11.51,2.37,36.03,1.34,bargain hunters
+21.44,1.21,46.67,1.66,bargain hunters
+10.53,2.17,50.33,0.77,bargain hunters
+47.16,4.8,10.37,2.8,weekly regulars
+62.81,8.71,11.31,4.5,weekly regulars
+29.78,9.33,10.13,2.49,weekly regulars
+24.0,0.53,88.01,1.04,lapsed
+177.47,0.95,10.66,7.08,bulk buyers
+15.89,1.82,65.71,1.2,bargain hunters
+37.91,5.0,10.29,3.17,weekly regulars
+35.3,6.98,11.37,2.86,weekly regulars
+25.55,0.61,59.08,1.25,lapsed
+45.77,8.24,15.12,3.11,weekly regulars
+77.44,1.84,15.42,7.6,bulk buyers
+146.08,1.22,9.44,7.01,bulk buyers
+37.37,6.61,9.71,3.27,weekly regulars
+100.42,2.01,6.5,4.88,bulk buyers
+19.37,1.02,26.4,0.63,bargain hunters
+35.79,6.95,16.56,2.89,weekly regulars
+37.59,1.98,58.32,1.33,bargain hunters
+17.37,1.79,59.51,1.5,bargain hunters
+24.16,2.39,40.47,1.61,bargain hunters
+20.84,2.01,37.82,1.74,bargain hunters
+106.11,1.58,7.84,4.66,bulk buyers
+35.29,8.05,13.26,3.96,weekly regulars
+35.46,7.39,18.17,2.42,weekly regulars
+25.73,0.32,71.86,1.19,lapsed
+123.54,1.55,8.31,5.55,bulk buyers
+13.73,2.69,44.79,1.36,bargain hunters
+129.29,0.94,10.26,7.2,bulk buyers
+22.37,0.5,22.62,1.24,lapsed
+18.02,1.8,46.71,1.36,bargain hunters
+36.99,6.86,11.28,2.96,weekly regulars
+18.67,1.36,64.88,1.72,bargain hunters
+19.85,3.59,52.74,1.53,bargain hunters
+80.3,1.54,6.89,8.55,bulk buyers
+109.61,1.37,13.04,9.28,bulk buyers
+180.38,1.49,9.67,5.73,bulk buyers
+25.23,0.2,36.5,1.11,lapsed
+15.18,2.02,55.53,1.54,bargain hunters
+13.71,2.06,36.07,1.28,bargain hunters
+43.68,10.55,5.72,4.23,weekly regulars
+20.46,0.31,51.82,1.43,lapsed
+19.17,0.43,50.88,0.56,lapsed
+20.46,2.02,33.92,1.25,bargain hunters
+41.55,7.52,8.54,3.16,weekly regulars
+45.23,9.76,8.23,3.48,weekly regulars
+20.38,2.32,47.06,1.58,bargain hunters
+13.25,4.56,79.63,4.82,unclassifiable
+17.36,3.26,41.65,1.73,bargain hunters
+17.61,1.74,42.22,1.58,bargain hunters
+32.46,8.5,13.2,4.24,weekly regulars
+121.54,1.61,9.66,7.01,bulk buyers
+17.15,2.04,50.96,1.81,bargain hunters
+17.86,5.24,10.88,2.5,weekly regulars
+24.24,0.95,52.98,1.32,bargain hunters
+26.73,0.53,88.58,1.12,lapsed
+17.96,2.93,46.45,1.29,bargain hunters
+33.08,0.45,101.18,1.28,lapsed
+12.65,2.3,23.93,2.06,bargain hunters
+12.04,0.26,82.08,0.69,lapsed
+19.48,1.97,34.78,1.69,bargain hunters
+27.11,0.5,84.28,1.69,lapsed
+130.4,0.93,10.12,8.17,bulk buyers
+34.09,7.41,14.0,2.1,weekly regulars
+53.59,7.3,8.89,4.33,weekly regulars
+78.21,1.55,10.87,4.34,bulk buyers
+20.8,0.53,49.83,1.59,lapsed
+14.16,1.4,37.67,1.34,bargain hunters
+62.03,3.77,3.68,0.06,unclassifiable
+22.99,0.33,76.06,1.23,lapsed
+33.09,4.59,37.65,2.21,unclassifiable
+41.0,3.18,7.86,4.25,weekly regulars
+13.67,2.49,63.71,1.24,bargain hunters
+20.57,0.98,65.04,1.77,bargain hunters
+131.02,1.07,6.73,9.07,bulk buyers
+45.14,4.92,41.27,1.28,unclassifiable
+19.77,0.56,46.97,0.85,lapsed
+116.93,1.66,7.83,6.85,bulk buyers
+102.97,1.79,9.45,5.27,bulk buyers
+30.38,0.6,69.48,1.3,lapsed
+229.29,1.11,4.61,5.06,bulk buyers
+21.04,11.48,19.4,2.87,weekly regulars
+189.89,1.49,8.71,3.73,bulk buyers
+46.76,8.53,16.35,3.08,weekly regulars
+73.85,0.99,4.81,5.99,bulk buyers
+17.47,2.46,13.65,1.64,bargain hunters
+22.18,1.7,51.56,1.41,bargain hunters
+24.73,9.04,13.77,4.04,weekly regulars
+25.23,12.61,10.39,3.78,weekly regulars
+87.69,1.11,7.12,8.42,bulk buyers
+38.5,2.62,17.64,2.55,weekly regulars
+17.7,1.86,53.32,1.26,bargain hunters
+107.31,1.45,9.55,4.77,bulk buyers
+34.17,6.66,10.25,3.77,weekly regulars
+103.88,1.21,1.33,5.19,bulk buyers
+17.1,2.17,36.14,1.24,bargain hunters
+7.28,1.91,36.25,1.62,bargain hunters
+26.66,7.09,9.37,3.26,weekly regulars
+14.68,0.51,67.52,0.98,lapsed
+24.26,0.36,70.95,1.11,lapsed
+23.73,13.16,16.38,3.15,weekly regulars
+32.61,9.72,15.3,3.32,weekly regulars
+55.72,0.45,95.22,1.13,lapsed
+25.75,2.49,40.32,1.45,bargain hunters
+41.77,0.53,88.32,1.14,lapsed
+137.44,1.63,9.92,3.05,bulk buyers
+23.37,8.66,12.63,3.14,weekly regulars
+70.35,1.75,9.38,7.11,bulk buyers
+40.85,12.67,14.77,3.33,weekly regulars
+129.13,0.99,8.52,9.11,bulk buyers
+18.48,0.49,75.39,1.11,lapsed
+26.95,7.62,9.49,1.27,weekly regulars
+20.86,0.37,55.98,1.19,lapsed
+119.98,1.87,12.4,6.34,bulk buyers
+20.39,0.44,41.23,1.25,lapsed
+29.67,9.81,8.24,2.72,weekly regulars
+135.51,0.79,10.84,6.7,bulk buyers
+17.69,1.56,32.8,1.49,bargain hunters
+143.84,2.03,10.85,5.92,bulk buyers
+59.12,1.97,7.88,6.16,bulk buyers
+17.95,0.47,51.56,0.71,lapsed
+23.52,6.14,8.86,2.93,weekly regulars
+30.24,0.25,98.02,0.8,lapsed
+15.22,2.0,87.07,1.24,bargain hunters
+93.64,1.82,9.04,3.35,bulk buyers
+40.95,0.52,51.96,1.25,lapsed
+24.73,7.34,17.52,4.05,weekly regulars
+165.25,3.48,25.51,1.83,unclassifiable
+21.27,12.67,8.75,3.2,weekly regulars
+25.46,2.39,59.45,0.91,bargain hunters
+123.31,1.08,12.25,3.81,bulk buyers
+33.29,1.88,47.43,1.61,bargain hunters
+23.86,0.4,70.89,0.61,lapsed
+24.03,1.51,46.54,1.06,bargain hunters
+32.46,6.2,13.96,3.01,weekly regulars
+9.58,2.44,61.3,1.19,bargain hunters
+22.1,0.36,30.42,1.29,lapsed
+41.98,1.45,93.8,4.53,unclassifiable
+53.55,13.63,9.9,2.81,weekly regulars
+49.13,3.34,7.21,4.18,weekly regulars
+119.15,0.96,8.07,6.38,bulk buyers
+14.66,3.11,58.77,1.67,bargain hunters
+119.16,0.98,6.58,7.07,bulk buyers
+16.42,2.95,48.01,0.76,bargain hunters
+23.96,8.57,14.75,4.17,weekly regulars
+114.69,1.44,8.56,3.56,bulk buyers
+27.03,7.46,1.93,3.59,weekly regulars
+24.87,0.35,65.88,0.78,lapsed
+47.63,9.43,10.15,2.14,weekly regulars
+58.0,6.64,10.8,3.26,weekly regulars
+36.94,0.35,57.04,0.75,lapsed
+10.06,2.33,41.53,1.84,bargain hunters
+26.84,2.81,46.99,1.49,bargain hunters
+14.65,0.49,77.08,0.89,lapsed
+36.13,10.25,10.29,3.08,weekly regulars
+20.58,0.39,72.22,1.32,lapsed
+161.45,1.26,9.38,7.73,bulk buyers
+20.5,1.89,19.89,1.75,bargain hunters
+18.81,0.47,102.68,1.03,lapsed
+29.08,1.45,26.93,0.93,unclassifiable
+21.03,0.47,23.34,1.35,lapsed
+32.99,3.71,56.8,1.31,unclassifiable
+39.58,4.66,9.24,2.29,weekly regulars
+185.81,2.14,7.88,5.8,bulk buyers
+203.05,1.01,10.21,5.23,bulk buyers
+12.79,0.31,111.78,0.99,lapsed
+13.71,2.74,46.17,1.26,bargain hunters
+16.13,2.6,92.92,1.39,bargain hunters
+15.41,1.62,64.92,1.4,bargain hunters
+44.52,8.22,6.85,4.31,weekly regulars
+121.77,1.23,7.94,7.47,bulk buyers
+102.67,5.85,72.55,4.99,unclassifiable
+115.4,0.57,12.88,8.8,bulk buyers
+41.0,9.53,14.77,4.42,weekly regulars
+19.06,1.6,49.27,1.72,bargain hunters
+209.63,0.61,9.52,5.53,bulk buyers
+35.74,10.41,11.17,4.04,weekly regulars
+58.11,5.57,9.7,2.51,weekly regulars
+26.54,2.13,54.47,2.02,bargain hunters
+22.1,0.48,71.89,1.3,lapsed
+38.8,7.51,21.3,3.7,weekly regulars
+16.84,0.12,23.21,1.23,lapsed
+122.39,1.13,11.16,5.77,bulk buyers
+17.49,1.45,39.09,1.94,bargain hunters
+25.36,7.47,9.49,3.23,weekly regulars
+25.47,0.45,90.48,1.07,lapsed
+18.92,0.41,66.7,1.06,lapsed
+142.07,1.49,12.04,6.98,bulk buyers
+12.67,1.9,35.15,1.5,bargain hunters
+31.33,3.49,15.53,3.07,weekly regulars
+69.9,5.14,46.35,6.56,unclassifiable
+33.83,5.86,6.22,3.45,weekly regulars
+30.16,1.98,43.41,1.3,bargain hunters
+23.13,9.73,15.72,4.27,weekly regulars
+31.56,0.3,42.15,0.98,lapsed
+15.99,2.02,78.23,0.5,bargain hunters
+17.06,0.48,48.6,1.38,lapsed
+25.93,2.18,24.39,1.37,bargain hunters
+24.22,0.3,45.21,1.37,lapsed
+22.7,0.28,50.89,1.18,lapsed
+157.9,1.52,11.96,5.59,bulk buyers
+20.09,2.73,42.59,1.24,bargain hunters
+36.79,3.78,12.32,2.98,weekly regulars
+22.65,1.66,32.23,1.79,bargain hunters
+18.32,1.59,50.06,0.99,bargain hunters
+37.07,14.51,15.96,2.37,weekly regulars
+45.31,9.52,10.07,2.35,weekly regulars
+8.18,7.04,36.31,4.85,unclassifiable
+26.82,2.17,27.0,1.75,bargain hunters
+17.15,2.11,50.9,1.0,bargain hunters
+28.94,9.88,10.69,2.96,weekly regulars
+160.58,0.93,9.62,8.07,bulk buyers
+21.71,2.05,39.13,1.26,bargain hunters
+20.96,0.22,103.7,0.96,lapsed
+15.18,3.01,30.9,1.54,bargain hunters
+16.7,1.46,25.16,1.06,bargain hunters
+38.62,6.08,11.12,3.24,weekly regulars
+25.41,0.5,65.21,1.25,lapsed
+39.56,1.77,36.26,2.05,bargain hunters
+9.33,0.56,62.38,0.89,lapsed
+31.24,9.1,11.77,2.18,weekly regulars
+208.71,0.54,9.44,2.97,bulk buyers
+35.4,10.2,9.93,2.42,weekly regulars
+18.13,0.36,89.82,1.35,lapsed
+145.42,1.42,9.5,4.6,bulk buyers
+19.7,0.45,26.15,0.98,lapsed
+31.31,8.47,9.34,2.65,weekly regulars
+22.77,2.21,34.19,1.5,bargain hunters
+23.18,2.63,53.43,1.42,bargain hunters
+23.44,1.48,32.62,1.52,bargain hunters
+23.78,0.39,77.36,0.77,lapsed
+16.67,2.7,62.89,1.62,bargain hunters
+35.26,10.12,6.23,3.7,weekly regulars
+43.98,9.39,18.18,2.53,weekly regulars
+85.34,3.35,62.63,1.5,unclassifiable
+26.96,9.61,5.92,3.45,weekly regulars
+21.47,2.64,65.44,1.48,bargain hunters
+29.25,0.21,26.91,1.06,lapsed
+30.43,4.6,127.46,2.44,unclassifiable
+38.22,4.35,16.11,3.63,weekly regulars
+115.89,1.95,6.66,5.19,bulk buyers
+113.68,1.78,7.52,8.13,bulk buyers
+25.93,1.61,45.62,1.38,bargain hunters
+14.39,2.29,54.53,1.42,bargain hunters
+16.56,0.42,110.85,1.51,lapsed
+143.43,1.84,10.38,5.54,bulk buyers
+21.35,10.84,9.23,3.47,weekly regulars
+25.15,3.83,57.31,1.67,bargain hunters
+32.22,4.82,48.36,0.19,unclassifiable
+32.8,7.52,4.62,2.34,weekly regulars
+115.78,1.83,10.36,6.3,bulk buyers
+16.43,3.04,47.95,1.5,bargain hunters
+24.66,4.68,10.3,2.84,weekly regulars
+22.95,2.67,57.3,1.11,bargain hunters
+113.02,1.41,8.8,7.29,bulk buyers
+17.54,0.34,23.38,1.34,lapsed
+17.6,1.84,22.89,1.04,bargain hunters
+23.2,5.54,7.03,0.98,unclassifiable
+34.27,0.37,75.04,0.79,lapsed
+16.27,1.56,41.37,1.53,bargain hunters
+140.39,1.14,9.39,5.48,bulk buyers
+27.01,2.43,68.41,1.66,bargain hunters
+38.95,5.11,14.05,3.18,weekly regulars
+20.81,1.82,21.66,1.11,bargain hunters
+14.97,1.79,50.07,2.02,bargain hunters
+31.75,2.55,42.28,1.16,bargain hunters
+33.85,10.45,13.52,1.65,weekly regulars
+23.66,8.15,5.21,2.84,weekly regulars
+22.5,0.3,57.05,1.09,lapsed
+27.93,5.8,13.53,2.17,weekly regulars
+91.53,1.66,7.75,5.35,bulk buyers
+142.5,1.56,10.71,6.06,bulk buyers
+18.05,2.57,33.86,1.21,bargain hunters
+28.6,8.58,17.32,2.65,weekly regulars
+17.35,1.52,42.42,1.13,bargain hunters
+21.81,0.46,64.41,1.25,lapsed
+66.29,9.14,14.01,2.28,weekly regulars
+33.84,13.13,16.08,3.88,weekly regulars
+151.66,1.39,9.2,5.97,bulk buyers
+123.18,1.52,7.55,6.93,bulk buyers
+22.89,1.52,35.67,1.58,bargain hunters
+22.57,1.63,52.7,1.86,bargain hunters
+13.6,2.23,40.71,1.34,bargain hunters
+28.97,2.82,47.8,0.72,bargain hunters
+25.02,2.32,69.86,1.44,bargain hunters
+16.66,0.43,59.35,1.25,lapsed
+101.88,1.34,11.72,6.47,bulk buyers
+31.13,4.91,12.11,3.63,weekly regulars
+24.27,0.15,58.7,1.0,lapsed
+22.02,0.44,99.43,0.93,lapsed
+31.8,0.47,58.02,1.39,lapsed
+35.73,0.35,43.58,1.36,lapsed
+129.11,2.02,8.36,1.88,bulk buyers
+89.13,1.26,9.76,6.52,bulk buyers
+27.85,7.53,9.04,2.98,weekly regulars
+143.7,1.36,9.76,5.32,bulk buyers
+31.04,0.41,85.88,0.76,lapsed
+42.79,9.38,10.67,3.2,weekly regulars
+38.05,1.16,26.46,1.23,bargain hunters
+16.9,0.49,49.5,0.9,lapsed
+15.99,2.07,61.35,1.19,bargain hunters
+157.33,1.06,10.18,8.39,bulk buyers
+25.21,3.36,51.61,1.52,bargain hunters
+35.13,2.9,13.52,4.32,weekly regulars
+34.61,10.85,6.62,3.72,weekly regulars
+23.98,1.43,42.38,2.13,bargain hunters
+56.62,8.72,9.64,3.82,weekly regulars
+140.42,1.54,6.0,6.68,bulk buyers
+26.32,7.91,8.29,4.18,weekly regulars
+28.91,0.21,92.62,0.96,lapsed
+14.2,1.69,39.56,1.52,bargain hunters
+17.79,2.01,67.05,2.33,bargain hunters
+24.31,2.42,41.29,1.24,bargain hunters
+18.3,0.26,65.93,1.09,lapsed
+24.17,0.45,38.37,1.12,lapsed
+31.84,13.03,15.29,2.58,weekly regulars
+154.31,1.36,6.96,3.41,bulk buyers
+125.77,1.05,6.43,7.52,bulk buyers
+22.83,2.15,70.6,1.01,bargain hunters
+14.47,0.43,99.18,1.17,lapsed
+212.9,1.67,7.14,4.79,bulk buyers
+8.45,3.74,28.44,5.07,unclassifiable
+123.44,1.21,7.39,3.83,bulk buyers
+37.9,9.49,14.11,2.12,weekly regulars
+98.29,2.36,7.22,8.84,bulk buyers
+33.82,8.77,15.18,4.22,weekly regulars
+136.59,2.31,4.32,6.26,bulk buyers
+19.63,2.14,38.73,1.38,bargain hunters
+25.04,1.16,59.87,1.39,bargain hunters
+24.84,2.4,52.16,1.7,bargain hunters
+14.46,1.92,72.33,1.71,bargain hunters
+46.53,0.26,98.7,1.25,lapsed
+23.67,0.38,48.25,0.63,lapsed
+20.8,0.68,18.28,1.26,lapsed
+13.06,2.1,41.58,0.94,bargain hunters
+16.01,0.2,53.57,1.44,lapsed
+46.55,10.21,11.09,3.54,weekly regulars
+18.54,2.17,37.34,1.14,bargain hunters
+21.94,4.51,13.38,3.75,weekly regulars
+157.69,1.63,7.61,8.4,bulk buyers
+21.73,1.89,43.07,1.48,bargain hunters
+18.77,0.44,87.14,1.2,lapsed
+39.83,13.24,11.86,2.64,weekly regulars
+42.71,4.3,23.02,3.64,unclassifiable
+15.17,0.65,19.06,2.03,bargain hunters
+32.2,9.68,12.2,3.67,weekly regulars
+22.2,0.46,70.75,1.24,lapsed
+13.66,0.36,76.92,1.09,lapsed
+20.62,1.35,56.2,1.22,bargain hunters
+83.29,1.42,6.47,5.48,bulk buyers
+55.27,8.94,9.26,1.54,weekly regulars
+18.33,2.5,45.01,1.28,bargain hunters
+23.24,1.61,36.88,1.05,bargain hunters
+28.69,8.37,13.57,1.97,weekly regulars
+15.81,1.72,58.09,1.25,bargain hunters
+147.73,0.8,7.44,7.31,bulk buyers
+26.84,0.39,63.15,1.13,lapsed
+15.91,1.97,36.19,1.27,bargain hunters
+29.93,1.2,38.47,3.5,unclassifiable
+13.97,1.55,53.47,1.81,bargain hunters
+19.74,2.7,0.72,1.32,bargain hunters
+38.88,2.61,66.53,1.6,unclassifiable
+54.39,8.65,10.07,3.14,weekly regulars
+135.16,2.29,12.19,3.05,bulk buyers
+13.11,1.45,45.27,1.12,bargain hunters
+17.86,0.55,65.88,1.4,lapsed
+12.02,0.53,72.4,1.06,lapsed
+32.95,10.2,16.29,3.76,weekly regulars
+25.54,1.99,49.42,1.13,bargain hunters
+38.65,7.12,14.06,3.23,weekly regulars
+16.9,3.32,44.64,1.26,bargain hunters
+55.46,8.26,14.62,1.74,weekly regulars
+82.07,1.2,5.98,4.76,bulk buyers
+126.92,6.06,44.91,3.69,unclassifiable
+23.58,1.14,70.0,1.54,bargain hunters
+19.99,7.22,17.2,3.57,weekly regulars
+48.75,6.83,14.75,2.96,weekly regulars
+11.39,0.22,17.63,1.32,bargain hunters
+40.01,6.27,11.4,4.03,weekly regulars
+34.15,6.42,15.24,2.88,weekly regulars
+73.03,11.12,18.38,2.33,weekly regulars
+19.43,0.49,69.15,0.89,lapsed
+53.9,9.05,11.59,4.14,weekly regulars
+38.54,7.2,8.58,2.94,weekly regulars
+23.02,0.49,79.98,0.68,lapsed
+12.55,1.63,75.88,1.11,bargain hunters
+30.93,12.34,16.83,3.82,weekly regulars
+22.45,1.55,56.47,1.24,bargain hunters
+17.69,2.62,40.23,1.88,bargain hunters
+62.02,11.05,14.9,4.21,weekly regulars
+15.35,2.22,56.84,1.26,bargain hunters
+36.41,9.29,11.36,3.36,weekly regulars
+31.1,9.75,12.46,3.64,weekly regulars
+78.36,0.85,9.68,5.3,bulk buyers
+17.7,1.9,36.86,1.69,bargain hunters
+36.61,8.62,13.9,2.4,weekly regulars
+62.0,11.24,17.71,4.51,weekly regulars
+14.47,3.21,40.06,3.71,unclassifiable
+11.96,1.66,46.96,1.41,bargain hunters
+98.64,1.16,6.63,4.8,bulk buyers
+131.86,1.42,6.92,6.98,bulk buyers
+19.03,2.84,49.47,1.09,bargain hunters
+120.14,0.68,9.69,5.45,bulk buyers
+16.28,1.48,62.55,1.2,bargain hunters
+37.01,9.09,15.4,3.23,weekly regulars
+15.38,1.84,53.37,1.62,bargain hunters
+18.18,2.22,55.65,1.46,bargain hunters
+13.24,1.31,54.21,1.34,bargain hunters
+21.64,9.69,19.61,2.66,weekly regulars
+28.28,4.38,97.25,0.48,unclassifiable
+17.53,0.26,60.87,1.2,lapsed
+51.58,10.74,5.38,3.79,weekly regulars
+134.47,1.56,7.63,5.36,bulk buyers
+37.4,10.31,11.14,3.24,weekly regulars
+42.05,8.32,13.29,3.42,weekly regulars
+63.61,11.11,14.06,3.7,weekly regulars
+85.17,0.88,10.83,4.83,bulk buyers
+27.38,10.02,11.14,4.16,weekly regulars
+18.94,2.09,46.31,1.39,bargain hunters
+23.31,6.7,8.39,2.93,weekly regulars
+14.12,0.36,138.34,0.94,lapsed
+88.16,1.52,12.37,6.48,bulk buyers
+26.62,0.4,26.24,0.91,lapsed
+23.32,9.18,11.3,2.85,weekly regulars
+20.04,0.56,76.78,1.14,lapsed
+26.57,0.36,84.88,0.96,lapsed
+26.29,8.84,16.59,4.15,weekly regulars
+20.66,9.74,11.69,4.2,weekly regulars
+15.06,0.32,54.49,1.6,lapsed
+29.82,0.32,82.05,1.3,lapsed
+13.99,2.06,40.92,1.39,bargain hunters
+173.08,0.77,10.91,4.72,bulk buyers
+26.86,0.39,75.45,0.96,lapsed
+78.2,2.39,96.07,4.85,unclassifiable
+211.78,0.62,14.43,6.51,bulk buyers
+27.27,9.83,7.58,3.89,weekly regulars
+241.49,1.8,5.93,6.75,bulk buyers
+127.29,1.22,8.56,8.67,bulk buyers
+30.79,11.27,22.84,3.26,weekly regulars
+17.53,1.97,55.74,1.5,bargain hunters
+45.33,10.87,15.26,3.27,weekly regulars
+29.75,2.38,22.05,1.23,bargain hunters
+25.58,9.67,14.73,5.29,weekly regulars
+39.7,0.3,80.64,1.13,lapsed
+198.16,1.68,13.52,5.43,bulk buyers
+41.73,12.07,13.31,3.43,weekly regulars
+20.16,2.26,59.01,1.15,bargain hunters
+54.12,7.18,19.57,4.11,weekly regulars
+26.74,0.33,44.49,1.29,lapsed
+19.0,2.23,35.45,1.34,bargain hunters
+70.86,10.7,9.26,1.85,weekly regulars
+25.27,4.59,18.55,6.21,unclassifiable
+92.12,1.76,6.09,6.56,bulk buyers
+28.3,9.97,12.53,3.29,weekly regulars
+24.27,2.03,47.52,1.37,bargain hunters
+134.26,1.27,11.88,7.6,bulk buyers
+21.29,2.1,57.54,0.98,bargain hunters
+49.33,4.81,9.27,4.05,weekly regulars
+21.33,3.58,39.54,1.15,bargain hunters
+23.49,0.31,67.01,1.3,lapsed
+183.54,1.7,9.61,6.92,bulk buyers
+39.44,7.89,2.97,3.71,weekly regulars
+24.99,0.28,89.66,0.54,lapsed
+134.83,1.49,9.72,6.13,bulk buyers
+38.36,3.64,11.21,3.14,weekly regulars
+24.0,2.21,71.15,1.93,bargain hunters
+116.38,1.26,10.07,4.69,bulk buyers
+113.09,1.02,7.33,7.55,bulk buyers
+19.94,1.42,67.91,1.47,bargain hunters
+36.29,7.99,4.35,4.02,weekly regulars
+47.58,12.55,15.21,3.21,weekly regulars
+19.34,0.51,35.92,1.19,lapsed
+15.94,1.89,60.31,1.33,bargain hunters
+193.56,1.23,8.82,5.86,bulk buyers
+107.57,1.0,8.83,4.91,bulk buyers
+27.69,8.95,11.67,3.18,weekly regulars
+33.12,11.49,13.67,4.49,weekly regulars
+65.34,1.92,9.8,5.74,bulk buyers
+21.04,1.51,50.65,0.92,bargain hunters
+23.07,2.31,43.8,0.66,bargain hunters
+172.89,1.76,14.6,6.52,bulk buyers
+209.03,4.37,67.4,1.2,unclassifiable
+17.69,1.94,23.65,1.31,bargain hunters
+26.15,0.3,76.64,1.22,lapsed
+17.3,2.78,52.6,1.37,bargain hunters
+25.98,12.54,10.3,4.36,weekly regulars
+51.87,7.17,10.44,2.28,weekly regulars
+22.49,7.23,8.18,3.2,weekly regulars
+68.98,3.29,62.88,0.73,unclassifiable
+24.98,0.24,63.99,1.07,lapsed
+39.47,8.52,10.65,4.39,weekly regulars
+103.7,2.09,5.47,7.29,bulk buyers
+36.1,0.25,27.37,1.14,lapsed
+18.45,0.33,81.34,1.1,lapsed
+17.44,2.19,46.38,1.25,bargain hunters
+161.62,1.18,6.51,6.69,bulk buyers
+35.66,8.69,13.57,3.82,weekly regulars
+28.71,9.44,7.93,3.19,weekly regulars
+33.56,9.41,16.51,4.05,weekly regulars
+17.36,1.8,38.03,1.24,bargain hunters
+18.5,0.32,65.83,1.44,lapsed
+15.74,2.07,69.31,1.49,bargain hunters
+75.38,13.3,9.76,3.27,weekly regulars
+37.83,8.63,12.96,3.4,weekly regulars
+23.15,1.4,54.28,1.57,bargain hunters
+19.06,1.42,60.36,1.69,bargain hunters
+145.26,1.62,7.39,5.1,bulk buyers
+154.06,1.16,6.93,5.52,bulk buyers
+17.29,2.23,53.63,1.26,bargain hunters
+11.17,2.1,72.09,1.43,bargain hunters
+35.06,8.03,18.56,4.43,weekly regulars
+122.22,1.11,2.4,5.12,bulk buyers
+123.53,1.07,9.38,8.38,bulk buyers
+32.38,6.72,7.6,3.63,weekly regulars
+59.91,2.16,39.64,4.09,unclassifiable
+38.5,0.24,119.37,1.54,lapsed
+24.66,5.18,35.36,3.86,unclassifiable
+35.67,9.74,12.87,4.7,weekly regulars
+31.21,0.52,26.77,1.39,lapsed
+76.15,1.32,6.43,4.93,bulk buyers
+33.71,9.52,15.26,1.72,weekly regulars
+154.78,1.29,7.89,5.91,bulk buyers
+26.54,1.88,27.82,1.52,unclassifiable
+50.38,11.75,15.11,3.76,weekly regulars
+18.56,0.3,63.23,1.57,lapsed
+158.35,1.54,5.15,7.31,bulk buyers
+16.94,11.6,6.74,3.55,weekly regulars
+14.26,2.44,30.99,1.52,bargain hunters
+24.49,0.14,97.61,0.87,lapsed
+127.95,1.3,12.56,9.52,bulk buyers
+26.37,5.19,18.6,3.2,weekly regulars
+45.96,4.63,10.94,4.62,weekly regulars
+146.59,1.37,8.29,3.71,bulk buyers
+30.96,2.59,47.01,1.47,bargain hunters
+54.11,10.39,3.77,2.13,weekly regulars
+31.52,0.46,61.58,1.42,lapsed
+30.79,7.0,14.5,4.34,weekly regulars
+39.11,0.64,72.94,1.2,lapsed
+7.04,1.63,41.79,3.49,unclassifiable
+98.72,0.58,11.8,4.38,bulk buyers
+42.4,11.28,10.07,2.2,weekly regulars
+228.08,1.35,12.11,5.59,bulk buyers
+178.14,1.66,8.94,7.95,bulk buyers
+18.09,1.96,44.3,1.92,bargain hunters
+36.61,7.72,9.85,3.15,weekly regulars
+11.79,2.09,49.85,1.24,bargain hunters
+146.44,1.58,5.3,7.5,bulk buyers
+22.9,1.6,24.09,1.46,bargain hunters
+44.79,8.89,11.71,3.24,weekly regulars
+17.42,0.55,58.52,1.36,lapsed
+29.1,10.97,7.83,3.19,weekly regulars
+50.96,3.29,9.06,2.65,weekly regulars
+33.83,14.42,12.73,3.29,weekly regulars
+124.85,1.32,9.47,7.52,bulk buyers
+32.13,10.57,9.11,2.31,weekly regulars
+111.26,1.07,10.9,4.81,bulk buyers
+11.17,1.66,34.48,1.28,bargain hunters
+40.78,7.37,18.66,4.23,weekly regulars
+32.45,7.71,15.58,3.79,weekly regulars
+61.08,0.81,77.85,0.42,unclassifiable
+32.34,0.29,74.06,0.85,lapsed
+19.58,0.56,95.94,0.83,lapsed
+42.84,5.3,11.86,3.77,weekly regulars
+55.64,1.93,75.05,4.08,unclassifiable
+20.18,0.35,81.39,1.43,lapsed
+229.41,2.63,7.67,5.92,unclassifiable
+28.63,0.5,72.14,1.07,lapsed
+121.06,1.12,7.69,6.52,bulk buyers
+52.76,6.73,5.53,3.32,weekly regulars
+42.93,9.96,17.02,3.29,weekly regulars
+105.79,1.39,6.01,3.95,bulk buyers
+14.36,2.38,32.07,2.06,bargain hunters
+122.35,1.45,7.71,7.95,bulk buyers
+45.86,8.03,11.7,2.36,weekly regulars
+26.96,0.45,70.01,1.18,lapsed
+32.35,12.58,19.48,2.37,weekly regulars
+14.68,1.64,40.2,1.8,bargain hunters
+33.52,9.48,13.02,2.37,weekly regulars
+21.45,0.44,22.74,1.08,lapsed
+22.09,1.98,38.8,1.61,bargain hunters
+234.72,1.32,11.02,3.78,bulk buyers
+17.35,0.38,80.43,1.04,lapsed
+139.06,1.6,10.42,6.41,bulk buyers
+15.95,0.31,76.84,0.6,lapsed
+22.52,11.16,5.24,4.14,weekly regulars
+21.0,10.16,31.14,5.97,unclassifiable
+144.95,1.46,6.15,8.63,bulk buyers
+133.93,1.46,10.45,6.26,bulk buyers
+26.78,9.15,7.32,2.19,weekly regulars
+18.08,0.42,71.76,1.31,lapsed
+19.99,0.44,123.33,1.14,lapsed
+8.33,2.18,17.59,1.53,bargain hunters
+41.93,1.85,3.15,4.75,unclassifiable
+22.14,2.72,44.27,1.24,bargain hunters
+35.13,0.37,121.36,1.42,lapsed
+18.45,0.52,92.64,1.23,lapsed
+26.91,3.21,26.48,2.78,unclassifiable
+116.74,1.49,10.17,4.97,bulk buyers
+33.74,10.31,6.1,3.31,weekly regulars
+25.45,2.78,43.82,1.63,bargain hunters
+149.9,1.47,8.34,4.82,bulk buyers
+28.48,1.84,42.62,1.4,bargain hunters
+17.32,2.34,40.42,1.52,bargain hunters
+16.15,1.51,47.03,0.84,bargain hunters
+122.76,1.57,11.38,6.96,bulk buyers
+16.88,1.51,33.82,1.77,bargain hunters
+90.63,1.24,8.6,6.49,bulk buyers
+72.44,9.04,11.27,3.55,weekly regulars
+20.03,0.38,68.02,1.64,lapsed
+85.97,1.31,11.2,5.01,bulk buyers
+170.35,1.22,8.22,9.32,bulk buyers
+29.79,1.41,61.72,1.55,bargain hunters
+10.37,0.52,55.36,1.33,lapsed
+29.22,9.54,7.91,2.94,weekly regulars
+20.49,2.04,44.81,1.64,bargain hunters
+12.98,3.17,19.26,1.62,bargain hunters
+19.43,1.64,52.7,1.3,bargain hunters
+12.19,10.56,70.69,1.56,unclassifiable
+15.08,1.15,55.76,1.17,bargain hunters
+18.52,9.66,11.84,2.35,weekly regulars
+132.01,1.03,14.46,4.75,bulk buyers
+92.01,1.37,11.16,6.12,bulk buyers
+156.26,1.21,10.87,8.81,bulk buyers
+29.75,10.42,8.05,3.72,weekly regulars
+41.28,0.52,46.76,3.85,unclassifiable
+21.41,1.89,47.69,1.18,bargain hunters
+37.31,11.25,11.45,2.98,weekly regulars
+15.46,2.46,58.71,0.99,bargain hunters
+28.31,14.45,5.54,3.51,weekly regulars
+31.22,0.47,78.48,1.13,lapsed
+43.62,11.88,7.87,2.02,weekly regulars
+20.57,10.47,9.07,2.54,weekly regulars
+19.21,0.46,96.74,0.48,lapsed
+22.79,2.95,14.63,1.94,weekly regulars
+18.36,1.4,41.37,1.67,bargain hunters
+38.58,7.5,11.3,0.82,weekly regulars
+112.09,0.96,5.82,8.47,bulk buyers
+49.59,6.02,7.81,3.59,weekly regulars
+80.17,2.14,6.67,6.67,bulk buyers
+149.55,1.35,5.89,5.17,bulk buyers
+20.71,9.65,15.14,2.3,weekly regulars
+21.92,2.09,43.38,0.67,bargain hunters
+46.08,3.77,14.08,3.36,weekly regulars
+55.25,11.89,6.53,4.16,weekly regulars
+92.73,1.8,6.29,7.06,bulk buyers
+86.07,2.5,68.35,0.21,unclassifiable
+33.61,5.55,15.3,2.46,weekly regulars
+77.04,0.84,13.91,4.91,bulk buyers
+19.2,0.49,93.54,0.79,lapsed
+22.24,7.55,12.44,4.15,weekly regulars
+136.53,1.44,9.74,6.34,bulk buyers
+26.31,0.33,87.74,0.88,lapsed
+129.6,12.32,84.28,2.23,unclassifiable
+4.94,6.41,37.56,3.98,unclassifiable
+68.58,6.07,15.14,2.35,weekly regulars
+22.57,0.32,46.48,0.69,lapsed
+35.23,12.94,11.41,2.49,weekly regulars
+18.54,0.83,49.35,0.49,bargain hunters
+154.95,2.29,7.75,6.9,bulk buyers
+31.29,7.31,2.56,2.97,weekly regulars
+14.41,0.34,93.21,0.82,lapsed
+36.5,9.82,2.6,3.57,weekly regulars
+22.39,0.45,97.57,1.49,lapsed
+37.55,10.52,11.06,2.23,weekly regulars
+39.19,0.26,22.99,0.87,lapsed
+18.46,1.54,5.9,1.3,bargain hunters
+31.04,6.02,9.21,3.55,weekly regulars
+38.16,0.44,70.33,0.9,lapsed
+23.38,1.03,51.19,1.58,bargain hunters
+27.75,0.42,87.27,0.89,lapsed
+65.1,1.76,4.47,5.46,bulk buyers
+98.0,0.75,14.27,8.37,bulk buyers
+17.08,0.79,46.19,1.36,bargain hunters
+34.26,7.72,9.22,2.8,weekly regulars
+110.88,1.51,9.02,4.53,bulk buyers
+22.12,1.16,60.29,1.19,bargain hunters
+48.3,2.85,12.05,3.6,weekly regulars
+17.71,1.6,54.77,1.52,bargain hunters
+35.38,8.02,8.26,2.52,weekly regulars
+30.24,6.7,4.73,2.5,weekly regulars
+35.84,9.84,14.92,2.91,weekly regulars
+31.41,8.58,11.75,2.51,weekly regulars
+112.49,1.17,14.48,7.47,bulk buyers
+72.23,10.19,13.85,2.03,weekly regulars
+74.39,1.76,8.91,6.1,bulk buyers
+42.46,1.21,27.8,1.59,unclassifiable
+218.27,1.27,8.64,8.06,bulk buyers
+68.57,11.41,3.2,3.1,unclassifiable
+26.3,0.5,73.02,1.25,lapsed
+19.01,3.02,55.83,2.07,bargain hunters
+122.33,0.96,2.58,3.17,bulk buyers
+43.72,5.85,15.91,3.14,weekly regulars
+15.59,2.08,23.38,1.57,bargain hunters
+19.48,4.96,14.98,3.33,weekly regulars
+15.11,2.1,59.21,1.81,bargain hunters
+38.76,2.82,2.51,6.45,unclassifiable
+24.96,8.66,7.53,2.51,weekly regulars
+118.05,1.13,10.92,5.7,bulk buyers
+43.82,7.16,4.96,3.67,weekly regulars
+119.69,1.48,8.48,6.59,bulk buyers
+22.91,0.47,38.93,0.95,lapsed
+36.11,9.13,13.81,3.37,weekly regulars
+32.27,7.24,19.42,2.05,weekly regulars
+21.35,5.34,2.94,4.92,weekly regulars
+21.14,2.7,69.56,1.18,bargain hunters
+152.79,3.14,34.53,6.26,unclassifiable
+20.42,8.02,13.09,1.24,weekly regulars
+162.18,1.37,10.66,3.71,bulk buyers
+24.12,4.13,73.51,1.88,unclassifiable
+20.24,1.91,20.83,1.09,bargain hunters
+28.39,7.48,8.73,2.99,weekly regulars
+10.24,2.94,48.02,2.07,bargain hunters
+23.59,3.19,35.33,1.38,bargain hunters
+33.36,12.35,12.74,3.36,weekly regulars
+28.6,12.81,1.39,3.61,weekly regulars
+114.36,1.59,8.89,7.19,bulk buyers
+6.06,2.19,16.93,1.53,bargain hunters
+14.9,2.25,28.36,1.97,bargain hunters
+44.55,11.61,12.58,1.56,weekly regulars
+24.86,2.13,42.59,1.58,bargain hunters
+30.49,1.15,44.81,1.36,bargain hunters
+19.9,14.41,14.73,4.3,weekly regulars
+159.75,1.97,9.39,5.62,bulk buyers
+181.2,1.71,8.0,6.58,bulk buyers
+37.67,9.92,0.04,3.32,weekly regulars
+37.3,10.11,12.97,2.42,weekly regulars
+22.51,0.39,17.23,0.89,lapsed
+30.29,9.86,12.72,2.59,weekly regulars
+100.62,1.61,9.44,6.19,bulk buyers
+29.03,4.47,15.77,4.09,weekly regulars
+31.52,2.15,60.42,1.36,bargain hunters
+24.22,2.4,47.53,1.31,bargain hunters
+21.17,0.52,72.11,0.95,lapsed
+152.03,4.09,41.46,5.7,unclassifiable
+15.59,2.21,67.64,1.85,bargain hunters
+15.07,2.19,28.26,1.09,bargain hunters
+27.66,0.37,78.96,0.85,lapsed
+20.6,1.83,37.34,1.74,bargain hunters
+19.53,0.36,72.93,1.04,lapsed
+20.91,1.43,24.11,1.86,bargain hunters
+29.52,1.46,72.92,1.21,bargain hunters
+82.54,1.66,9.72,6.81,bulk buyers
+34.18,8.12,13.14,2.17,weekly regulars
+25.08,2.28,42.5,1.16,bargain hunters
+24.02,2.64,46.13,0.9,unclassifiable
+36.66,8.49,10.71,1.4,weekly regulars
+29.19,9.09,10.36,1.98,weekly regulars
+120.46,1.51,12.85,3.96,bulk buyers
+139.34,0.74,11.62,8.5,bulk buyers
+9.87,0.61,99.75,0.75,lapsed
+19.97,2.71,41.85,1.58,bargain hunters
+52.39,4.32,23.46,8.46,unclassifiable
+26.98,0.41,100.64,0.97,lapsed
+61.46,9.63,4.89,3.39,weekly regulars
+17.76,2.46,19.0,1.13,bargain hunters
+106.48,1.45,10.37,6.53,bulk buyers
+168.4,5.28,28.32,3.73,unclassifiable
+16.73,0.46,82.95,0.57,lapsed
+144.97,0.73,9.59,6.5,bulk buyers
+14.55,0.5,101.23,0.7,lapsed
+15.89,1.63,38.92,0.75,bargain hunters
+22.27,8.41,9.53,3.37,weekly regulars
+14.81,0.43,99.75,1.17,lapsed
+14.51,1.24,68.52,0.73,bargain hunters
+30.72,5.15,8.03,2.86,weekly regulars
+18.27,0.33,32.74,1.05,lapsed
+173.68,1.53,11.07,4.94,bulk buyers
+23.84,7.89,12.26,3.54,weekly regulars
+118.32,1.15,13.3,5.39,bulk buyers
+34.19,6.25,10.97,3.57,weekly regulars
+25.48,0.27,76.67,1.25,lapsed
+29.61,9.48,11.97,2.77,weekly regulars
+17.08,0.42,86.16,0.51,lapsed
+11.35,1.91,48.57,1.15,bargain hunters
+42.96,10.24,9.33,4.09,weekly regulars
+215.6,0.94,7.19,6.84,bulk buyers
+18.57,0.45,53.07,1.47,lapsed
+25.18,1.89,31.29,1.39,bargain hunters
+30.36,0.44,72.0,1.28,lapsed
+19.98,0.35,90.74,1.33,lapsed
+38.42,8.98,13.16,4.22,weekly regulars
+24.44,2.04,58.45,1.91,bargain hunters
+43.75,8.22,9.81,4.1,weekly regulars
+18.38,2.03,66.88,1.1,bargain hunters
+18.44,0.34,36.04,0.92,lapsed
+91.13,1.5,3.51,8.88,bulk buyers
+11.88,0.39,66.74,1.07,lapsed
+47.27,10.96,6.84,4.35,weekly regulars
+20.13,0.31,95.19,0.49,lapsed
+22.89,0.56,43.55,0.76,lapsed
+24.33,1.83,41.03,1.21,bargain hunters
+99.69,1.59,12.77,6.35,bulk buyers
+18.08,1.6,15.11,1.02,bargain hunters
+20.36,0.43,93.99,1.0,lapsed
+7.33,2.39,59.97,2.95,unclassifiable
+19.98,1.82,37.61,1.46,bargain hunters
+25.67,9.19,16.1,2.94,weekly regulars
+31.95,9.37,10.0,2.32,weekly regulars
+34.86,8.79,15.62,2.12,weekly regulars
+49.52,12.75,16.66,2.46,weekly regulars
+36.58,8.85,12.64,3.11,weekly regulars
+15.36,2.97,24.62,1.58,bargain hunters
+17.82,1.71,32.38,1.23,bargain hunters
+28.05,7.89,9.85,2.15,weekly regulars
+11.81,2.93,44.53,1.48,bargain hunters
+44.68,9.06,6.82,2.47,weekly regulars
+35.94,4.57,14.44,4.27,weekly regulars
+129.24,0.85,8.56,5.71,bulk buyers
+19.05,0.5,40.22,1.87,unclassifiable
+25.1,9.22,16.82,3.06,weekly regulars
+23.28,6.37,15.77,3.02,weekly regulars
+23.33,9.41,5.63,3.35,weekly regulars
+87.72,1.74,9.95,5.44,bulk buyers
+19.32,0.28,99.06,0.94,lapsed
+183.19,0.94,9.62,3.36,bulk buyers
+43.12,10.05,9.17,4.14,weekly regulars
+40.35,9.18,9.36,1.81,weekly regulars
+12.68,0.57,56.53,1.29,lapsed
+15.19,2.46,59.25,1.36,bargain hunters
+35.59,7.0,4.95,3.28,weekly regulars
+27.12,10.53,13.8,3.14,weekly regulars
+29.04,0.42,42.12,1.21,lapsed
+31.52,1.87,49.17,1.29,bargain hunters
+16.41,1.4,41.04,0.87,bargain hunters
+71.29,1.4,7.44,6.15,bulk buyers
+16.81,2.97,61.5,0.88,bargain hunters
+35.97,13.87,11.21,4.66,weekly regulars
+25.77,0.31,77.09,1.07,lapsed
+24.2,3.09,96.13,1.55,unclassifiable
+19.12,1.22,41.71,1.02,bargain hunters
+110.21,2.08,8.47,6.15,bulk buyers
+16.73,12.67,15.57,4.16,weekly regulars
+5.24,2.99,83.14,1.96,unclassifiable
+132.63,1.88,9.89,6.3,bulk buyers
+21.06,1.95,57.94,1.67,bargain hunters
+37.35,5.34,14.01,3.56,weekly regulars
+133.82,1.77,10.26,5.74,bulk buyers
+14.19,2.34,37.49,1.82,bargain hunters
+19.22,2.28,43.03,1.25,bargain hunters
+30.88,6.91,15.18,2.77,weekly regulars
+15.44,0.39,118.8,1.07,lapsed
+34.36,14.1,7.75,2.9,weekly regulars
+107.65,5.9,1.72,4.54,unclassifiable
+98.65,1.43,7.99,4.62,bulk buyers
+198.04,1.3,7.35,6.31,bulk buyers
+31.14,8.5,7.45,2.99,weekly regulars
+42.94,6.88,14.93,1.72,weekly regulars
+26.76,2.45,52.18,1.16,bargain hunters
+21.76,0.43,46.19,1.25,lapsed
+147.2,0.88,11.96,5.45,bulk buyers
+25.9,3.24,35.08,0.9,bargain hunters
+26.89,0.38,94.84,1.52,lapsed
+4.64,4.95,15.95,4.32,unclassifiable
+195.51,1.27,9.15,7.8,bulk buyers
+199.56,3.32,14.9,1.92,unclassifiable
+22.88,12.46,11.1,2.99,weekly regulars
+105.52,0.83,8.77,7.52,bulk buyers
+210.28,1.32,3.92,8.06,bulk buyers
+46.56,7.99,7.7,2.91,weekly regulars
+142.85,1.61,12.39,6.28,bulk buyers
+17.52,2.99,30.54,1.49,bargain hunters
+175.72,1.11,11.07,5.94,bulk buyers
+115.06,0.69,8.58,6.45,bulk buyers
+35.13,6.21,23.65,0.04,unclassifiable
+94.19,0.81,6.84,5.56,bulk buyers
+21.62,2.58,38.04,1.39,bargain hunters
+59.46,0.59,73.15,1.81,unclassifiable
+21.91,2.34,71.52,1.04,bargain hunters
+41.34,4.43,17.09,3.73,weekly regulars
+18.58,2.05,33.06,1.82,bargain hunters
+33.68,8.88,12.28,4.09,weekly regulars
+33.7,7.43,14.31,2.22,weekly regulars
+76.54,1.6,10.28,7.69,bulk buyers
+40.68,12.24,14.66,3.6,weekly regulars
+21.62,10.46,11.14,2.51,weekly regulars
+32.81,8.15,11.51,2.52,weekly regulars
+32.96,0.75,34.57,1.24,bargain hunters
+28.63,0.33,81.31,1.2,lapsed
+13.79,1.68,48.31,1.19,bargain hunters
+36.82,7.06,17.89,1.78,weekly regulars
+9.71,2.26,41.22,1.41,bargain hunters
+58.28,8.98,11.64,3.39,weekly regulars
+191.45,1.61,5.36,5.92,bulk buyers
+31.61,11.83,15.38,3.59,weekly regulars
+39.78,7.89,8.87,2.85,weekly regulars
+15.62,0.35,65.17,1.02,lapsed
+29.41,11.54,17.93,4.98,weekly regulars
+29.08,13.73,5.42,3.8,weekly regulars
+19.98,0.58,84.34,1.18,lapsed
+11.44,2.0,45.23,1.55,bargain hunters
+15.46,2.62,47.89,1.42,bargain hunters
+27.5,0.21,31.38,0.59,lapsed
+29.36,11.53,17.8,4.3,weekly regulars
+37.58,5.67,11.01,3.72,weekly regulars
+11.61,1.79,31.03,1.82,bargain hunters
+12.98,1.84,49.09,0.82,bargain hunters
+204.13,1.69,7.64,7.11,bulk buyers
+14.97,1.61,48.98,1.95,bargain hunters
+122.06,1.68,23.18,0.8,unclassifiable
+171.25,1.59,6.46,3.57,bulk buyers
+47.76,9.08,8.36,3.25,weekly regulars
+39.08,6.74,10.9,3.16,weekly regulars
+19.54,0.3,87.43,0.95,lapsed
+17.44,2.33,52.7,1.46,bargain hunters
+33.74,13.47,10.43,1.93,weekly regulars
+150.27,1.34,8.2,4.06,bulk buyers
+111.15,1.61,13.47,5.48,bulk buyers
+17.47,1.69,48.86,0.79,bargain hunters
+12.71,2.21,37.69,1.69,bargain hunters
+39.79,10.67,6.39,3.44,weekly regulars
+14.1,2.47,53.74,0.95,bargain hunters
+34.26,0.37,85.72,3.11,unclassifiable
+19.53,0.37,46.06,1.19,lapsed
+20.07,0.55,103.29,0.83,lapsed
+46.45,4.83,10.42,4.02,weekly regulars
+13.0,2.64,30.74,1.45,bargain hunters
+21.15,2.37,42.38,2.06,bargain hunters
+45.33,7.51,11.3,3.64,weekly regulars
+24.93,0.24,68.36,0.52,lapsed
+146.43,1.2,4.83,7.33,bulk buyers
+76.81,2.07,8.18,5.51,bulk buyers
+16.39,1.84,67.53,1.6,bargain hunters
+106.94,1.39,10.99,7.73,bulk buyers
+24.25,1.92,73.95,1.71,bargain hunters
+35.37,5.84,14.5,4.23,weekly regulars
+14.28,2.52,50.09,1.5,bargain hunters
+26.37,14.55,7.05,2.75,weekly regulars
+18.21,8.6,11.6,2.96,weekly regulars
+14.48,2.26,32.1,1.6,bargain hunters
+105.7,1.25,5.13,6.05,bulk buyers
+26.78,9.96,9.46,3.69,weekly regulars
+26.14,8.83,18.29,2.23,weekly regulars
+31.72,2.24,51.69,1.49,bargain hunters
+16.44,0.24,85.39,1.12,lapsed
+37.71,10.11,9.46,3.11,weekly regulars
+125.94,0.79,7.67,6.63,bulk buyers
+165.29,1.29,7.73,5.74,bulk buyers
+35.75,11.76,6.79,2.38,weekly regulars
+17.37,2.73,39.8,1.06,bargain hunters
+33.3,0.3,86.42,0.67,lapsed
+79.45,1.37,14.21,6.78,bulk buyers
+20.62,1.88,49.57,2.32,bargain hunters
+28.28,14.38,11.44,3.25,weekly regulars
+10.82,1.83,82.33,1.03,bargain hunters
+23.9,8.77,12.3,4.15,weekly regulars
+37.62,6.05,9.95,3.37,weekly regulars
+46.93,6.71,6.61,2.95,weekly regulars
+97.73,1.18,7.03,6.46,bulk buyers
+11.6,0.89,39.86,1.45,bargain hunters
+24.25,3.22,37.04,1.16,bargain hunters
+207.68,1.2,7.04,5.39,bulk buyers
+10.24,2.37,55.8,1.41,bargain hunters
+47.27,9.17,9.88,3.31,weekly regulars
+66.92,10.36,11.75,2.9,weekly regulars
+19.79,6.9,11.19,2.04,weekly regulars
+13.56,2.28,13.84,0.3,unclassifiable
+16.39,2.25,53.32,1.26,bargain hunters
+12.5,2.37,38.02,1.74,bargain hunters
+174.66,1.07,6.75,7.28,bulk buyers
+33.96,9.38,11.33,1.85,weekly regulars
+22.59,2.04,57.8,1.66,bargain hunters
+124.82,1.49,9.03,6.06,bulk buyers
+36.09,6.71,10.37,3.28,weekly regulars
+43.94,6.95,16.91,2.83,weekly regulars
+12.6,2.97,31.03,1.23,bargain hunters
+33.49,7.17,11.69,2.56,weekly regulars
+34.48,5.65,10.62,2.27,weekly regulars
+99.37,1.07,6.32,6.82,bulk buyers
+30.23,0.61,62.75,1.32,lapsed
+44.87,6.45,12.59,3.62,weekly regulars
+14.64,1.82,63.45,0.73,bargain hunters
+30.28,10.99,14.33,3.82,weekly regulars
+22.6,9.08,11.99,4.15,weekly regulars
+30.13,6.28,17.02,3.0,weekly regulars
+12.62,0.61,37.83,0.93,lapsed
+13.51,2.07,63.17,1.56,bargain hunters
+54.86,4.39,18.96,7.6,unclassifiable
+20.5,0.47,88.83,1.61,lapsed
+18.6,2.87,36.63,1.24,bargain hunters
+9.45,2.08,46.41,1.18,bargain hunters
+12.06,2.06,45.37,1.87,bargain hunters
+15.46,1.53,41.14,1.79,bargain hunters
+21.64,0.74,53.84,1.53,bargain hunters
+20.36,11.44,16.5,3.65,weekly regulars
+16.18,1.27,54.07,1.13,bargain hunters
+24.4,9.52,11.6,3.2,weekly regulars
+44.89,9.7,16.21,3.2,weekly regulars
+45.47,6.88,11.64,2.2,weekly regulars
+19.29,1.93,61.21,1.7,bargain hunters
+32.69,2.12,46.03,1.4,bargain hunters
+31.84,11.51,13.36,1.39,weekly regulars
+32.86,9.1,5.89,3.41,weekly regulars
+22.25,15.06,10.59,1.9,weekly regulars
+26.42,0.94,64.49,1.51,bargain hunters
+38.4,10.35,13.76,2.93,weekly regulars
+27.81,0.34,98.75,1.12,lapsed
+37.24,8.46,14.83,4.35,weekly regulars
+25.32,2.18,49.99,1.09,bargain hunters
+33.72,0.4,73.9,1.21,lapsed
+7.69,2.87,53.06,1.82,unclassifiable
+17.25,0.42,78.88,0.79,lapsed
+32.75,6.28,8.05,2.63,weekly regulars
+21.2,2.3,20.46,0.85,bargain hunters
+40.46,10.71,12.45,2.82,weekly regulars
+20.44,1.76,48.51,1.45,bargain hunters
+76.66,1.39,7.08,5.73,bulk buyers
+25.93,8.41,6.9,2.37,weekly regulars
+12.34,1.59,55.8,1.09,bargain hunters
+56.91,6.12,13.08,3.15,weekly regulars
+35.41,0.46,71.45,1.15,lapsed
+20.46,2.48,33.35,1.75,bargain hunters
+22.18,0.41,90.21,1.26,lapsed
+44.1,11.15,11.02,2.18,weekly regulars
+25.73,2.26,54.57,1.38,bargain hunters
+25.04,2.92,17.83,1.82,bargain hunters
+19.76,0.35,86.59,0.99,lapsed
+174.85,1.52,8.62,5.97,bulk buyers
+190.13,1.62,8.92,5.21,bulk buyers
+21.29,0.23,67.4,0.75,lapsed
+29.62,8.56,5.16,3.79,weekly regulars
+137.09,1.84,115.78,3.43,unclassifiable
+26.53,5.47,6.56,3.29,weekly regulars
+19.72,0.41,54.98,1.08,lapsed
+29.58,0.41,129.55,1.28,lapsed
+11.14,1.58,55.04,1.39,bargain hunters
+21.52,3.03,39.07,1.72,bargain hunters
+11.34,1.83,32.35,1.41,bargain hunters
+9.76,2.03,22.31,1.61,bargain hunters
+16.56,2.29,27.73,1.46,bargain hunters
+12.82,3.27,53.25,1.87,bargain hunters
+31.57,7.36,12.64,4.28,weekly regulars
+29.55,8.75,12.69,3.31,weekly regulars
+53.06,12.64,6.94,4.11,weekly regulars
+15.5,0.69,49.97,1.17,lapsed
+37.51,9.68,13.79,3.28,weekly regulars
+16.0,2.49,38.3,1.2,bargain hunters
+14.53,0.28,69.54,1.03,lapsed
+90.69,1.16,7.89,5.96,bulk buyers
+155.05,1.98,8.02,6.67,bulk buyers
+122.5,1.39,10.22,5.97,bulk buyers
+31.89,2.5,38.29,1.89,bargain hunters
+36.44,2.67,31.79,1.66,bargain hunters
+28.17,4.42,14.98,3.78,weekly regulars
+10.83,2.54,16.09,1.62,bargain hunters
+33.31,6.49,15.61,3.5,weekly regulars
+20.23,2.21,52.17,3.91,unclassifiable
+70.2,8.44,10.16,2.93,weekly regulars
+161.3,1.64,11.28,6.2,bulk buyers
+29.0,10.76,9.71,3.54,weekly regulars
+13.35,0.4,32.4,0.92,lapsed
+32.68,12.31,13.15,2.36,weekly regulars
+98.14,1.65,11.76,6.83,bulk buyers
+21.15,2.53,52.66,1.14,bargain hunters
+115.22,1.4,10.18,5.11,bulk buyers
+18.75,0.57,83.37,1.16,lapsed
+28.07,11.04,11.68,2.69,weekly regulars
+20.85,5.83,8.84,2.55,weekly regulars
+25.64,1.25,52.92,1.14,bargain hunters
+62.67,13.02,15.53,3.26,weekly regulars
+28.09,10.0,11.74,2.26,weekly regulars
+26.07,10.22,11.94,3.43,weekly regulars
+20.96,0.59,63.78,1.18,lapsed
+24.82,6.85,13.19,2.63,weekly regulars
+27.99,10.09,14.52,2.08,weekly regulars
+11.81,0.41,75.71,1.14,lapsed
+22.03,1.91,37.82,1.66,bargain hunters
+21.99,7.44,13.65,2.61,weekly regulars
+158.98,1.31,10.6,7.07,bulk buyers
+14.9,0.45,71.17,0.83,lapsed
+15.72,0.48,87.56,1.46,lapsed
+9.32,2.73,43.09,1.4,bargain hunters
+24.54,0.3,81.2,1.04,lapsed
+23.01,3.14,56.18,1.68,bargain hunters
+25.5,8.42,21.54,0.92,unclassifiable
+21.19,1.71,43.61,0.87,bargain hunters
+117.47,1.98,9.29,6.08,bulk buyers
+137.36,1.3,13.18,6.72,bulk buyers
+48.46,9.2,15.12,2.92,weekly regulars
+40.77,4.53,10.36,3.21,weekly regulars
+39.3,8.68,11.59,2.0,weekly regulars
+128.04,1.91,7.76,2.1,bulk buyers
+19.78,1.67,41.03,1.26,bargain hunters
+195.16,1.76,10.1,9.72,bulk buyers
+17.61,2.12,43.42,1.14,bargain hunters
+18.45,0.29,92.48,0.89,lapsed
+74.1,1.06,7.08,6.08,bulk buyers
+49.2,9.57,14.91,3.55,weekly regulars
+16.35,0.46,67.63,0.88,lapsed
+148.44,1.36,6.88,5.7,bulk buyers
+27.89,5.38,12.65,3.31,weekly regulars
+15.99,2.47,33.46,1.63,bargain hunters
+16.41,1.91,48.33,1.34,bargain hunters
+58.73,10.19,11.18,3.1,weekly regulars
+52.16,7.71,12.99,3.99,weekly regulars
+18.8,0.3,57.69,0.89,lapsed
+12.86,0.57,40.8,1.21,lapsed
+20.65,2.88,55.66,1.51,bargain hunters
+17.01,0.52,75.54,1.17,lapsed
+75.39,1.02,2.04,7.21,bulk buyers
+29.17,10.58,9.38,4.25,weekly regulars
+41.04,7.89,12.44,3.23,weekly regulars
+20.18,2.56,59.36,1.26,bargain hunters
+57.76,8.54,15.78,3.16,weekly regulars
+41.0,4.45,3.59,0.37,unclassifiable
+16.01,2.81,52.79,1.17,bargain hunters
+112.54,2.08,6.5,7.48,bulk buyers
+131.53,1.24,7.11,6.18,bulk buyers
+22.79,5.62,16.08,1.16,weekly regulars
+15.83,0.52,35.19,0.91,lapsed
+56.8,7.49,14.96,3.32,weekly regulars
+18.49,11.3,7.77,4.64,weekly regulars
+27.21,8.63,5.82,2.95,weekly regulars
+19.19,7.76,6.05,3.46,weekly regulars
+26.42,0.33,76.68,1.29,lapsed
+36.25,10.17,12.9,3.21,weekly regulars
+94.67,1.01,10.14,7.09,bulk buyers
+52.62,10.16,13.5,2.14,weekly regulars
+38.13,6.94,8.36,2.18,weekly regulars
+11.05,2.45,60.05,1.92,bargain hunters
+20.76,3.25,51.89,1.7,bargain hunters
+25.66,2.88,47.21,2.14,bargain hunters
+190.21,0.74,2.86,5.14,bulk buyers
+24.22,1.08,41.7,0.88,bargain hunters
+37.2,2.14,26.33,1.19,bargain hunters
+16.26,3.14,47.77,1.57,bargain hunters
+95.68,1.71,4.62,7.79,bulk buyers
+23.25,0.56,70.52,1.15,lapsed
+104.97,1.44,12.22,4.23,bulk buyers
+26.22,5.31,1.56,2.78,weekly regulars
+13.78,0.44,77.6,1.17,lapsed
+24.24,0.4,55.16,1.08,lapsed
+118.94,1.85,6.41,7.42,bulk buyers
+52.85,8.19,13.52,3.17,weekly regulars
+30.5,5.17,13.24,4.86,weekly regulars
+34.15,9.86,11.58,4.18,weekly regulars
+40.3,2.23,10.55,3.64,weekly regulars
+19.89,5.61,10.71,1.44,weekly regulars
+18.55,2.49,35.13,1.53,bargain hunters
+16.67,5.2,41.87,2.23,unclassifiable
+16.26,0.24,82.45,0.75,lapsed
+149.2,1.67,7.11,8.28,bulk buyers
+151.33,1.17,10.5,7.28,bulk buyers
+42.87,7.31,13.42,2.13,weekly regulars
+129.26,1.2,10.17,6.34,bulk buyers
+163.31,1.17,14.68,5.26,bulk buyers
+22.6,12.9,8.67,3.44,weekly regulars
+20.52,2.61,31.61,1.57,bargain hunters
+24.44,2.53,40.65,1.27,bargain hunters
+116.43,1.6,12.23,6.18,bulk buyers
+20.02,9.99,17.22,4.27,weekly regulars
+32.27,2.94,33.92,1.01,bargain hunters
+17.92,0.49,75.1,1.2,lapsed
+29.0,7.58,14.04,4.42,weekly regulars
+19.89,2.11,34.76,1.52,bargain hunters
+127.34,1.6,10.88,5.56,bulk buyers
+24.64,1.48,30.2,1.15,bargain hunters
+40.31,10.93,9.4,3.27,weekly regulars
+115.89,0.8,10.23,5.12,bulk buyers
+13.73,2.3,33.63,2.06,bargain hunters
+35.5,5.42,19.18,1.07,unclassifiable
+30.12,0.24,70.55,1.57,lapsed
+31.73,8.07,19.61,3.11,weekly regulars
+27.08,10.83,14.18,5.04,weekly regulars
+133.8,0.93,8.3,5.32,bulk buyers
+48.05,8.25,10.9,3.22,weekly regulars
+91.68,1.69,11.27,4.08,bulk buyers
+100.23,1.7,9.82,5.67,bulk buyers
+188.52,1.15,7.67,7.23,bulk buyers
+137.85,0.7,5.65,7.85,bulk buyers
+20.56,0.18,75.75,1.23,lapsed
+14.12,1.28,60.98,1.02,bargain hunters
+18.2,0.52,95.92,1.16,lapsed
+101.53,1.07,4.85,3.98,bulk buyers
+49.19,9.47,12.96,3.12,weekly regulars
+21.69,0.31,63.5,0.81,lapsed
+13.01,2.25,56.58,1.68,bargain hunters
+31.37,7.85,16.94,3.17,weekly regulars
+14.11,1.62,52.76,0.95,bargain hunters
+45.72,4.89,15.67,1.97,weekly regulars
+17.69,0.4,55.85,0.82,lapsed
+38.91,5.36,12.93,3.4,weekly regulars
+17.96,4.21,26.51,1.36,bargain hunters
+24.41,2.12,35.71,1.63,bargain hunters
+194.49,0.76,12.53,9.38,bulk buyers
+29.05,6.7,14.8,3.43,weekly regulars
+14.47,0.42,81.83,1.08,lapsed
+34.29,9.41,11.01,3.45,weekly regulars
+15.06,1.85,46.54,1.34,bargain hunters
+149.57,4.31,65.13,5.79,unclassifiable
+20.25,2.65,42.45,1.48,bargain hunters
+23.97,9.54,19.17,2.98,weekly regulars
+68.01,10.29,13.99,2.94,weekly regulars
+19.81,0.46,59.8,0.92,lapsed
+37.78,11.95,15.94,2.51,weekly regulars
+42.64,4.55,8.4,2.58,weekly regulars
+92.62,1.36,8.25,4.97,bulk buyers
+90.08,1.33,7.79,6.59,bulk buyers
+31.37,0.32,67.79,1.23,lapsed
+113.05,0.73,4.3,6.81,bulk buyers
+30.01,0.38,135.08,1.38,lapsed
+30.3,6.45,8.61,4.57,weekly regulars
+164.23,2.12,9.35,4.93,bulk buyers
+10.45,7.0,58.35,4.53,unclassifiable
+21.19,0.46,81.4,1.52,lapsed
+22.8,1.93,43.22,1.82,bargain hunters
+17.25,1.58,55.32,0.71,bargain hunters
+26.11,3.11,51.21,0.95,bargain hunters
+28.06,7.19,17.34,3.83,weekly regulars
+112.97,1.3,13.3,4.6,bulk buyers
+31.86,12.94,12.98,2.4,weekly regulars
+34.21,9.83,10.86,2.78,weekly regulars
+25.86,7.46,15.16,3.07,weekly regulars
+25.69,7.43,8.82,2.78,weekly regulars
+170.15,1.84,4.51,7.19,bulk buyers
+30.79,6.11,14.94,3.76,weekly regulars
+26.21,0.47,113.66,1.24,lapsed
+8.64,2.86,64.38,1.96,bargain hunters
+27.14,1.39,75.72,1.03,bargain hunters
+23.75,0.44,83.33,1.49,lapsed
+154.92,1.0,5.42,5.02,bulk buyers
+142.13,1.81,8.05,5.28,bulk buyers
+19.42,2.33,69.59,1.08,bargain hunters
+14.69,0.51,104.45,0.84,lapsed
+26.2,9.28,11.62,3.33,weekly regulars
+38.84,9.13,13.27,4.57,weekly regulars
+22.3,0.24,18.31,0.69,lapsed
+13.62,2.21,59.44,1.47,bargain hunters
+24.42,1.61,55.67,0.84,bargain hunters
+28.86,9.12,7.24,3.94,weekly regulars
+20.14,3.08,29.53,1.39,bargain hunters
+25.79,9.23,11.77,3.31,weekly regulars
+13.52,0.52,68.46,1.37,lapsed
+26.01,0.33,84.08,1.18,lapsed
+11.23,1.6,20.66,1.76,bargain hunters
+132.93,0.94,9.35,7.63,bulk buyers
+19.55,11.34,6.82,3.56,weekly regulars
+115.6,1.61,10.02,4.56,bulk buyers
+19.63,1.62,50.03,1.37,bargain hunters
+41.23,11.47,16.05,1.71,weekly regulars
+60.28,10.62,7.76,4.01,weekly regulars
+38.13,3.95,9.45,3.32,weekly regulars
+13.82,0.11,74.08,0.94,lapsed
+36.13,4.67,10.46,3.33,weekly regulars
+109.71,2.13,10.25,5.96,bulk buyers
+32.35,8.94,10.37,2.38,weekly regulars
+34.08,6.44,10.34,3.81,weekly regulars
+117.27,1.62,9.56,5.64,bulk buyers
+18.73,1.68,50.56,1.66,bargain hunters
+202.13,2.18,6.07,4.92,bulk buyers
+32.71,10.36,17.62,3.58,weekly regulars
+17.62,0.43,82.52,0.75,lapsed
+41.91,7.82,6.47,3.25,weekly regulars
+32.45,8.41,10.77,3.43,weekly regulars
+97.2,1.26,8.69,6.71,bulk buyers
+227.44,1.91,13.92,8.45,bulk buyers
+156.29,7.84,38.63,4.36,unclassifiable
+33.26,0.35,55.47,1.4,lapsed
+18.78,5.6,52.14,1.26,unclassifiable
+22.88,0.18,78.0,1.29,lapsed
+19.62,1.66,37.1,1.3,bargain hunters
+14.91,0.26,34.26,1.13,lapsed
+11.61,2.38,40.04,1.72,bargain hunters
+27.43,3.64,59.18,1.55,unclassifiable
+29.03,13.67,8.01,2.71,weekly regulars
+26.16,0.33,65.58,1.82,bargain hunters
+238.77,1.15,10.32,7.56,bulk buyers
+14.94,0.44,54.89,1.15,lapsed
+15.11,0.39,72.84,1.13,lapsed
+17.61,1.17,35.76,1.11,bargain hunters
+11.3,1.23,48.86,1.03,bargain hunters
+25.4,0.13,54.39,1.49,lapsed
+20.55,2.2,49.03,1.23,bargain hunters
+158.87,2.17,10.85,6.08,bulk buyers
+18.31,7.67,11.49,2.73,weekly regulars
+30.75,2.61,52.18,1.12,bargain hunters
+217.18,1.68,6.95,5.48,bulk buyers
+21.44,2.39,36.38,1.09,bargain hunters
+39.03,6.91,17.98,3.24,weekly regulars
+136.81,0.73,10.66,5.99,bulk buyers
+34.27,9.35,12.13,2.47,weekly regulars
+45.0,5.28,13.79,3.85,weekly regulars
+18.28,2.71,47.96,1.02,bargain hunters
+11.64,1.3,49.88,1.64,bargain hunters
+16.26,2.68,43.32,1.37,bargain hunters
+19.18,0.46,52.97,0.56,lapsed
+8.82,2.44,40.16,0.99,bargain hunters
+10.97,0.4,76.83,1.2,lapsed
+31.77,2.77,69.76,1.9,bargain hunters
+109.02,1.99,14.0,6.17,bulk buyers
+85.41,1.35,8.4,5.06,bulk buyers
+33.87,8.06,9.83,4.07,weekly regulars
+57.12,8.87,11.57,3.24,weekly regulars
+39.23,9.93,18.08,2.96,weekly regulars
+36.26,4.44,26.66,3.53,unclassifiable
+27.52,7.97,14.01,2.74,weekly regulars
+11.2,1.31,39.85,1.67,bargain hunters
+25.82,1.74,13.03,2.89,weekly regulars
+23.95,2.11,74.69,1.57,bargain hunters
+18.98,1.75,77.06,1.81,bargain hunters
+35.4,7.66,11.51,2.36,weekly regulars
+18.13,0.24,57.51,1.27,lapsed
+75.65,0.59,9.55,5.61,bulk buyers
+27.41,6.71,37.63,5.31,unclassifiable
+33.33,6.76,12.95,2.86,weekly regulars
+36.53,8.22,15.7,5.05,weekly regulars
+146.12,1.1,7.44,8.65,bulk buyers
+13.21,2.79,45.28,1.48,bargain hunters
+162.66,1.82,8.81,4.6,bulk buyers
+125.37,1.75,9.95,4.92,bulk buyers
+94.38,1.54,6.8,4.21,bulk buyers
+182.02,3.33,58.11,4.32,unclassifiable
+21.81,0.32,14.99,0.49,lapsed
+52.4,5.34,14.58,3.11,weekly regulars
+37.49,11.09,11.59,2.91,weekly regulars
+23.17,1.86,10.3,1.23,bargain hunters
+18.63,0.47,54.94,0.76,lapsed
+131.13,1.47,9.89,4.59,bulk buyers
+129.52,0.91,10.43,7.51,bulk buyers
+35.27,2.56,48.39,2.22,bargain hunters
+25.32,2.33,32.93,1.48,bargain hunters
+131.16,1.96,14.61,7.78,bulk buyers
+13.15,2.8,23.27,1.11,bargain hunters
+22.2,0.15,91.28,1.23,lapsed
+15.85,0.56,38.94,1.22,lapsed
+8.9,2.2,56.1,1.38,bargain hunters
+32.96,0.48,41.98,1.28,lapsed
+24.35,8.51,12.82,3.28,weekly regulars
+40.02,8.2,14.34,2.13,weekly regulars
+21.54,0.39,39.16,1.51,lapsed
+54.62,5.02,9.28,3.23,weekly regulars
+22.27,1.57,57.16,1.52,bargain hunters
+74.21,1.84,7.06,8.1,bulk buyers
+87.21,1.89,9.15,7.19,bulk buyers
+40.41,9.71,19.32,4.37,weekly regulars
+92.89,2.22,15.57,4.6,bulk buyers
+102.14,2.58,7.9,5.31,bulk buyers
+143.15,0.91,7.88,5.96,bulk buyers
+13.78,1.72,25.19,1.32,bargain hunters
+13.95,3.38,30.73,1.79,bargain hunters
+54.22,11.29,12.55,3.32,weekly regulars
+33.07,0.4,81.28,0.95,lapsed
+122.49,1.35,12.38,5.76,bulk buyers
+36.32,2.19,75.57,1.38,bargain hunters
+144.52,1.26,9.45,6.09,bulk buyers
+10.28,1.93,49.41,1.38,bargain hunters
+24.79,0.32,81.31,1.26,lapsed
+21.13,2.77,59.5,1.19,bargain hunters
+16.41,2.54,47.15,1.45,bargain hunters
+26.84,0.28,58.38,1.3,lapsed
+27.96,9.56,7.14,3.38,weekly regulars
+27.93,11.28,13.95,4.14,weekly regulars
+26.84,0.51,95.58,1.21,lapsed
+27.78,2.35,62.44,0.94,bargain hunters
+115.8,1.64,9.99,4.89,bulk buyers
+14.91,7.5,45.47,1.73,unclassifiable
+33.11,0.45,49.5,0.75,lapsed
+26.74,10.27,19.62,2.27,weekly regulars
+43.15,8.14,16.39,3.29,weekly regulars
+11.18,0.45,38.35,1.02,lapsed
+27.56,4.45,15.24,2.95,weekly regulars
+43.34,6.07,8.16,3.83,weekly regulars
+15.88,1.99,37.93,1.22,bargain hunters
+39.65,12.47,15.4,2.89,weekly regulars
+93.21,1.32,11.5,6.23,bulk buyers
+102.74,1.6,11.48,6.27,bulk buyers
+31.23,9.06,12.42,3.98,weekly regulars
+38.84,1.86,14.64,2.54,weekly regulars
+13.51,2.4,39.12,2.2,bargain hunters
+53.13,9.75,10.32,3.08,weekly regulars
+40.75,8.38,15.78,3.0,weekly regulars
+24.01,0.53,113.91,1.2,lapsed
+22.77,0.43,110.81,0.78,lapsed
+18.15,0.73,53.36,1.74,bargain hunters
+20.37,8.21,18.28,1.94,weekly regulars
+41.97,4.78,17.82,2.88,weekly regulars
+22.49,2.58,65.09,1.53,bargain hunters
+20.1,1.87,56.61,0.98,bargain hunters
+112.68,1.46,7.96,5.37,bulk buyers
+83.85,1.32,11.86,2.93,bulk buyers
+42.34,8.03,16.47,2.84,weekly regulars
+147.72,0.78,62.81,5.11,unclassifiable
+15.72,2.79,37.98,1.85,bargain hunters
+26.52,9.54,9.23,2.21,weekly regulars
+34.36,8.11,15.7,2.62,weekly regulars
+10.18,1.94,39.62,0.95,bargain hunters
+28.78,0.5,78.31,1.32,lapsed
+19.95,9.01,10.53,1.98,weekly regulars
+97.78,1.14,10.76,5.51,bulk buyers
+21.13,2.03,55.6,1.33,bargain hunters
+35.22,7.71,13.84,3.7,weekly regulars
+44.07,11.62,8.7,3.74,weekly regulars
+37.82,10.56,11.77,2.95,weekly regulars
+43.7,8.55,12.6,3.37,weekly regulars
+26.82,0.42,25.26,1.01,lapsed
+29.17,6.83,14.26,2.03,weekly regulars
+40.12,10.37,16.34,2.74,weekly regulars
+41.58,8.48,13.38,3.42,weekly regulars
+111.02,1.28,8.13,7.1,bulk buyers
+30.1,7.68,14.39,3.03,weekly regulars
+22.26,2.78,39.09,0.99,bargain hunters
+38.16,8.66,15.05,2.67,weekly regulars
+12.05,0.5,88.89,0.59,lapsed
+23.34,6.6,80.16,1.38,unclassifiable
+93.66,1.64,4.52,1.93,bulk buyers
+26.61,3.1,67.92,1.71,bargain hunters
+29.68,9.14,13.3,1.4,weekly regulars
+24.99,0.4,113.95,0.77,lapsed
+17.55,2.42,28.79,1.0,bargain hunters
+47.7,10.18,17.57,3.0,weekly regulars
+31.33,0.42,89.57,0.91,lapsed
+17.98,2.43,33.66,0.98,bargain hunters
+26.93,10.18,15.89,4.37,weekly regulars
+37.33,6.77,10.87,3.45,weekly regulars
+34.05,4.84,5.79,4.07,unclassifiable
+9.74,3.38,30.09,1.25,bargain hunters
+34.18,7.7,11.91,3.47,weekly regulars
+14.48,3.08,66.69,0.99,bargain hunters
+22.0,6.95,15.68,2.98,weekly regulars
+3.77,5.36,46.29,4.02,unclassifiable
+30.57,4.72,11.81,3.17,weekly regulars
+116.97,1.22,15.02,3.79,bulk buyers
+12.99,1.7,44.44,1.67,bargain hunters
+33.38,7.91,13.72,3.78,weekly regulars
+9.51,1.19,39.86,1.48,bargain hunters
+12.73,1.6,43.64,1.71,bargain hunters
+16.65,0.5,76.65,1.46,lapsed
+153.89,0.78,5.53,5.66,bulk buyers
+69.87,1.43,5.46,7.28,bulk buyers
+36.85,7.25,11.38,3.75,weekly regulars
+30.22,7.8,8.64,4.8,weekly regulars
+33.82,5.98,9.07,4.85,weekly regulars
+39.92,8.89,8.53,3.6,weekly regulars
+45.44,5.73,11.02,3.32,weekly regulars
+22.04,0.25,42.8,0.98,lapsed
+164.59,1.44,6.03,7.67,bulk buyers
+16.54,8.96,9.18,2.93,weekly regulars
+40.64,7.64,36.17,5.64,unclassifiable
+26.46,2.67,61.67,1.36,bargain hunters
+36.86,6.78,5.31,2.07,weekly regulars
+24.9,1.74,21.27,1.5,bargain hunters
+22.73,6.88,8.45,4.01,weekly regulars
+26.27,0.47,52.97,0.8,lapsed
+115.47,1.36,4.86,7.54,bulk buyers
+34.4,10.98,11.23,4.12,weekly regulars
+15.86,0.48,75.76,1.1,lapsed
+40.44,6.88,12.19,3.96,weekly regulars
+20.72,6.75,11.42,3.94,weekly regulars
+17.65,2.7,37.77,1.39,bargain hunters
+118.39,1.44,14.49,4.43,bulk buyers
+15.9,2.69,28.56,1.75,bargain hunters
+107.94,0.72,7.37,7.37,bulk buyers
+149.59,1.42,7.65,4.31,bulk buyers
+32.13,7.82,8.56,2.33,weekly regulars
+17.38,1.74,45.41,1.11,bargain hunters
+18.99,2.54,51.6,1.34,bargain hunters
+26.46,2.83,61.54,1.3,bargain hunters
+39.49,10.48,13.22,2.77,weekly regulars
+34.55,9.88,16.32,4.0,weekly regulars
+36.79,5.97,10.27,1.46,weekly regulars
+40.24,9.16,9.27,1.74,weekly regulars
+18.94,10.83,10.7,2.78,weekly regulars
+12.09,2.25,45.37,1.48,bargain hunters
+82.07,1.58,7.32,4.24,bulk buyers
+20.82,11.12,10.6,4.2,weekly regulars
+8.97,1.67,42.0,0.78,bargain hunters
+18.6,2.24,37.63,0.74,bargain hunters
+28.48,0.34,25.61,0.64,lapsed
+164.8,1.24,11.79,5.2,bulk buyers
+28.09,0.33,71.39,1.06,lapsed
+144.89,1.29,11.28,4.88,bulk buyers
+16.93,1.42,42.75,1.06,bargain hunters
+129.97,1.09,7.94,5.14,bulk buyers
+19.96,2.01,57.51,0.44,bargain hunters
+119.88,1.7,11.1,6.14,bulk buyers
+58.91,1.52,12.57,6.05,bulk buyers
+89.79,1.56,9.0,6.88,bulk buyers
+40.76,9.77,9.73,3.49,weekly regulars
+39.2,0.75,53.92,1.48,unclassifiable
+237.07,6.09,39.34,2.24,unclassifiable
+149.59,1.22,6.93,3.55,bulk buyers
+31.55,5.05,11.19,2.33,weekly regulars
+20.8,0.41,101.29,1.26,lapsed
+25.31,8.07,8.89,2.95,weekly regulars
+24.57,8.23,14.22,3.85,weekly regulars
+31.15,10.43,11.67,2.46,weekly regulars
+71.28,9.06,12.03,3.03,weekly regulars
+13.43,3.01,32.84,1.26,bargain hunters
+140.5,1.04,11.86,4.95,bulk buyers
+27.76,10.74,10.44,3.49,weekly regulars
+31.89,7.66,9.49,4.58,weekly regulars
+32.48,9.44,10.38,1.22,weekly regulars
+30.13,8.2,16.02,4.27,weekly regulars
+24.7,0.23,81.75,0.82,lapsed
+23.82,0.2,19.22,1.42,lapsed
+32.49,6.79,7.85,3.66,weekly regulars
+15.69,0.58,32.57,0.77,lapsed
+48.01,4.66,8.96,3.41,weekly regulars
+15.65,2.24,57.78,1.33,bargain hunters
+23.3,0.51,94.18,1.46,lapsed
+29.39,8.93,15.52,3.08,weekly regulars
+44.71,10.89,16.93,3.75,weekly regulars
+43.84,6.4,17.41,4.94,weekly regulars
+26.29,3.14,49.78,1.53,bargain hunters
+34.27,8.68,12.47,3.38,weekly regulars
+147.65,1.43,7.23,6.14,bulk buyers
+31.05,0.47,90.19,1.28,lapsed
+28.49,0.52,74.09,1.07,lapsed
+17.35,2.17,32.77,1.7,bargain hunters
+24.52,2.52,63.41,1.63,bargain hunters
+21.8,2.56,50.27,1.91,bargain hunters
+104.22,1.87,8.02,3.05,bulk buyers
+21.72,1.27,24.08,1.28,bargain hunters
+26.06,0.44,63.02,1.62,lapsed
+70.89,9.39,9.04,4.25,weekly regulars
+19.97,1.46,67.37,1.61,bargain hunters
+24.29,9.14,12.94,4.54,weekly regulars
+23.42,5.96,19.37,1.87,weekly regulars
+144.99,1.63,5.76,6.34,bulk buyers
+22.68,1.89,45.59,1.43,bargain hunters
+31.89,12.92,12.93,3.11,weekly regulars
+174.68,1.53,8.74,6.58,bulk buyers
+25.48,3.9,14.97,3.7,weekly regulars
+20.47,1.78,37.39,2.04,bargain hunters
+141.93,1.86,7.69,5.8,bulk buyers
+17.73,2.76,49.16,0.77,bargain hunters
+36.79,7.48,13.47,3.08,weekly regulars
+41.74,7.15,57.19,6.46,unclassifiable
+63.55,6.28,52.47,3.08,unclassifiable
+123.0,1.7,9.35,6.51,bulk buyers
+13.13,0.23,89.96,0.62,lapsed
+16.36,1.5,39.08,1.82,bargain hunters
+17.18,2.36,47.83,1.45,bargain hunters
+30.52,5.29,16.2,3.27,weekly regulars
+16.11,2.5,38.15,2.25,bargain hunters
+21.03,0.27,74.61,0.77,lapsed
+38.2,6.77,8.57,3.11,weekly regulars
+159.48,2.33,34.96,5.3,unclassifiable
+11.39,2.0,69.61,0.98,bargain hunters
+101.85,1.38,10.34,5.03,bulk buyers
+21.87,0.3,62.82,1.21,lapsed
+24.17,2.48,48.63,1.86,bargain hunters
+18.26,2.38,60.0,1.13,bargain hunters
+23.46,9.35,13.62,1.96,weekly regulars
+153.92,0.9,12.22,9.95,bulk buyers
+22.52,1.67,61.45,1.36,bargain hunters
+8.96,2.87,51.25,1.1,bargain hunters
+49.19,6.02,14.32,3.24,weekly regulars
+19.33,8.2,69.26,4.79,unclassifiable
+35.57,10.02,7.73,1.62,weekly regulars
+21.12,0.28,47.9,1.01,lapsed
+17.61,3.4,73.19,1.31,bargain hunters
+21.25,0.23,89.49,1.09,lapsed
+42.47,12.92,11.88,3.64,weekly regulars
+29.77,7.61,7.93,3.15,weekly regulars
+132.06,1.05,8.63,6.29,bulk buyers
+19.56,1.75,13.68,1.34,bargain hunters
+29.4,7.05,12.58,4.04,weekly regulars
+22.97,0.42,93.39,1.07,lapsed
+23.03,14.32,10.91,2.85,weekly regulars
+15.08,1.49,33.38,1.62,bargain hunters
+136.43,1.64,12.54,7.23,bulk buyers
+17.57,1.45,64.77,1.25,bargain hunters
+101.34,1.34,10.55,6.51,bulk buyers
+218.32,1.37,14.1,6.17,bulk buyers
+103.98,1.19,13.36,3.95,bulk buyers
+14.56,0.47,44.95,1.42,bargain hunters
+9.04,2.26,40.65,1.41,bargain hunters
+18.75,0.36,78.56,1.3,lapsed
+50.45,10.01,12.31,3.79,weekly regulars
+27.3,0.37,78.74,1.04,lapsed
+146.43,1.64,10.97,3.0,bulk buyers
+31.75,4.64,25.51,2.64,unclassifiable
+7.79,2.44,57.14,1.1,bargain hunters
+53.38,12.08,16.11,3.18,weekly regulars
+19.38,1.07,40.74,1.12,bargain hunters
+28.63,0.5,86.71,1.05,lapsed
+97.37,1.71,8.9,4.91,bulk buyers
+64.77,1.23,13.21,5.83,bulk buyers
+36.29,10.07,8.18,3.17,weekly regulars
+12.29,1.44,50.51,1.3,bargain hunters
+25.99,12.73,4.59,2.1,weekly regulars
+20.99,2.06,46.28,0.92,bargain hunters
+23.32,0.41,81.37,1.32,lapsed
+12.47,2.54,36.48,1.2,bargain hunters
+18.53,1.77,62.03,1.25,bargain hunters
+14.55,0.31,109.94,1.14,lapsed
+108.1,1.45,5.34,4.72,bulk buyers
+18.69,1.35,48.79,1.06,bargain hunters
+23.47,1.88,44.05,1.55,bargain hunters
+43.91,7.86,9.69,3.9,weekly regulars
+17.78,10.45,12.55,3.96,weekly regulars
+136.98,1.79,11.53,6.23,bulk buyers
+24.6,2.27,17.68,2.78,bargain hunters
+34.42,0.47,51.21,0.87,lapsed
+44.42,8.6,15.21,4.29,weekly regulars
+19.94,1.69,42.83,1.29,bargain hunters
+24.15,0.45,75.86,1.48,lapsed
+127.52,1.26,9.01,6.51,bulk buyers
+103.02,1.97,11.11,5.77,bulk buyers
+110.93,1.46,11.85,8.43,bulk buyers
+11.22,0.5,106.73,0.84,lapsed
+37.44,8.44,15.14,2.62,weekly regulars
+172.46,1.89,9.69,6.06,bulk buyers
+16.76,1.54,54.16,1.72,bargain hunters
+19.67,0.46,103.37,1.09,lapsed
+20.32,2.35,61.04,1.83,bargain hunters
+39.26,1.18,42.67,3.77,unclassifiable
+19.02,0.57,83.46,1.25,lapsed
+61.78,10.41,11.37,4.58,weekly regulars
+182.17,1.5,11.16,2.57,bulk buyers
+31.9,10.4,7.93,2.91,weekly regulars
+16.66,2.47,62.55,0.96,bargain hunters
+173.44,0.74,11.76,7.08,bulk buyers
+43.52,3.72,11.39,3.28,weekly regulars
+148.7,1.82,5.83,6.81,bulk buyers
+110.63,1.57,7.91,4.88,bulk buyers
+24.12,0.5,51.01,1.09,lapsed
+14.45,0.31,66.79,0.76,lapsed
+41.46,3.54,34.37,5.18,unclassifiable
+94.74,2.21,9.92,7.75,bulk buyers
+21.56,11.64,11.23,3.2,weekly regulars
+21.81,1.58,35.62,2.0,bargain hunters
+76.64,0.98,5.44,5.42,bulk buyers
+124.28,1.62,8.82,6.46,bulk buyers
+17.51,2.22,49.5,1.62,bargain hunters
+10.23,2.7,60.89,1.2,bargain hunters
+60.1,9.14,11.89,4.95,weekly regulars
+110.01,1.15,6.67,6.39,bulk buyers
+123.53,1.75,7.91,8.19,bulk buyers
+32.54,8.86,3.57,3.05,weekly regulars
+184.1,0.86,8.49,5.44,bulk buyers
+35.37,0.52,59.1,1.25,lapsed
+48.33,4.91,42.8,4.83,unclassifiable
+38.37,5.7,7.84,2.5,weekly regulars
+31.61,7.01,13.4,3.51,weekly regulars
+39.56,10.01,13.13,2.93,weekly regulars
+19.94,2.38,50.12,1.08,bargain hunters
+26.77,8.93,18.66,2.17,weekly regulars
+116.81,0.96,12.18,7.09,bulk buyers
+166.56,1.86,9.6,5.6,bulk buyers
+18.68,0.45,51.41,1.18,lapsed
+33.87,4.71,14.21,4.0,weekly regulars
+91.85,1.78,11.3,5.55,bulk buyers
+131.52,1.75,2.34,5.87,bulk buyers
+14.8,1.13,61.03,1.63,bargain hunters
+25.25,0.34,84.22,1.17,lapsed
+25.08,1.62,53.08,1.46,bargain hunters
+21.13,2.44,39.7,1.22,bargain hunters
+25.67,3.21,18.06,2.68,weekly regulars
+29.62,13.03,12.24,2.22,weekly regulars
+112.2,1.99,8.59,4.0,bulk buyers
+17.7,1.31,51.93,0.91,bargain hunters
+12.07,2.43,46.65,1.16,bargain hunters
+29.52,6.77,9.7,3.69,weekly regulars
+31.91,1.12,65.69,1.02,bargain hunters
+19.21,2.4,37.06,1.46,bargain hunters
+141.25,1.86,6.91,5.51,bulk buyers
+170.52,1.34,2.27,7.04,bulk buyers
+167.63,1.9,9.94,7.59,bulk buyers
+36.56,7.93,12.13,3.64,weekly regulars
+178.66,2.21,7.36,6.28,bulk buyers
+12.87,2.51,58.82,1.06,bargain hunters
+165.87,1.4,11.12,5.93,bulk buyers
+21.64,0.67,79.47,0.7,lapsed
+14.61,1.56,63.07,1.38,bargain hunters
+19.59,0.34,21.79,0.5,lapsed
+21.97,0.55,71.75,1.25,lapsed
+26.23,6.28,8.39,2.04,weekly regulars
+56.52,8.97,7.27,2.85,weekly regulars
+36.37,10.64,19.93,2.8,weekly regulars
+21.46,0.25,66.44,1.11,lapsed
+16.45,0.28,81.57,0.46,lapsed
+27.81,9.29,9.77,3.05,weekly regulars
+138.82,1.48,12.81,5.38,bulk buyers
+41.72,12.82,6.99,3.12,weekly regulars
+18.54,1.71,29.65,0.82,bargain hunters
+24.86,8.16,14.64,1.9,weekly regulars
+16.69,2.21,34.66,2.16,bargain hunters
+40.62,4.76,12.71,3.04,weekly regulars
+19.4,11.84,14.52,2.4,weekly regulars
+17.4,1.28,13.28,1.37,bargain hunters
+26.89,6.05,11.49,4.1,weekly regulars
+32.99,11.16,15.41,3.07,weekly regulars
+27.23,0.2,84.3,1.03,lapsed
+19.42,0.61,61.19,1.03,lapsed
+19.57,2.59,30.07,1.29,bargain hunters
+41.69,8.9,13.54,3.46,weekly regulars
+18.34,3.47,59.24,0.68,bargain hunters
+46.89,7.16,10.57,3.39,weekly regulars
+23.11,6.86,13.02,3.48,weekly regulars
+51.02,12.05,11.21,3.53,weekly regulars
+61.83,11.76,8.04,3.83,weekly regulars
+144.19,1.6,5.53,5.52,bulk buyers
+13.16,2.57,67.92,2.12,bargain hunters
+16.45,0.61,99.19,0.78,lapsed
+12.4,1.78,64.55,0.92,bargain hunters
+32.2,6.44,11.77,3.82,weekly regulars
+129.4,1.82,11.79,4.33,bulk buyers
+37.46,8.25,5.56,5.47,weekly regulars
+172.71,1.29,5.33,6.86,bulk buyers
+108.29,1.52,14.2,5.02,bulk buyers
+13.06,4.14,45.5,0.93,bargain hunters
+35.97,2.0,55.74,1.38,bargain hunters
+204.72,1.29,5.8,8.49,bulk buyers
+191.83,2.19,7.58,6.11,bulk buyers
+157.91,1.1,9.36,5.44,bulk buyers
+93.28,1.1,8.06,6.97,bulk buyers
+19.24,1.01,40.12,0.79,bargain hunters
+28.32,1.5,69.17,1.19,bargain hunters
+13.94,2.27,51.2,0.84,bargain hunters
+24.89,8.36,14.85,4.23,weekly regulars
+27.19,0.22,91.27,0.64,lapsed
+34.73,9.18,12.8,3.32,weekly regulars
+11.82,1.7,57.78,0.96,bargain hunters
+22.83,2.15,44.43,1.2,bargain hunters
+80.25,4.3,44.75,0.8,unclassifiable
+11.7,2.12,42.43,2.1,bargain hunters
+25.58,1.76,56.67,1.58,bargain hunters
+29.94,10.44,15.9,3.03,weekly regulars
+75.21,1.78,12.81,7.38,bulk buyers
+20.3,2.31,60.3,1.61,bargain hunters
+40.34,9.85,14.32,2.13,weekly regulars
+47.91,13.32,10.46,3.31,weekly regulars
+18.52,1.94,37.36,1.95,bargain hunters
+59.92,7.18,10.77,2.8,weekly regulars
+42.44,6.81,20.6,3.7,weekly regulars
+46.1,7.37,17.57,2.3,weekly regulars
+24.8,3.09,56.65,1.39,bargain hunters
+26.21,0.42,78.56,1.44,lapsed
+47.42,2.48,31.04,0.9,unclassifiable
+215.71,1.22,7.47,4.92,bulk buyers
+49.03,6.05,9.04,1.9,weekly regulars
+28.45,0.61,75.44,0.58,lapsed
+287.2,0.85,9.95,8.55,bulk buyers
+206.56,1.37,6.01,4.47,bulk buyers
+27.79,12.47,8.92,2.81,weekly regulars
+14.64,2.06,45.57,2.02,bargain hunters
+114.09,0.93,10.64,6.62,bulk buyers
+26.25,0.44,58.02,1.57,lapsed
+10.76,2.26,60.98,1.26,bargain hunters
+35.98,0.49,47.52,1.05,lapsed
+15.94,2.44,30.18,1.47,bargain hunters
+40.26,6.74,12.75,2.3,weekly regulars
+26.42,2.01,41.08,1.75,bargain hunters
+23.39,0.55,116.39,0.73,lapsed
+28.25,7.79,8.01,3.74,weekly regulars
+18.97,1.39,40.22,1.36,bargain hunters
+113.36,0.62,5.29,5.35,bulk buyers
+98.03,1.35,7.0,7.97,bulk buyers
+30.11,0.36,68.91,1.07,lapsed
+201.05,2.02,11.76,4.4,bulk buyers
+185.26,1.22,14.13,6.62,bulk buyers
+34.16,4.98,10.53,2.58,weekly regulars
+64.3,7.47,29.87,1.29,unclassifiable
+44.24,7.32,6.84,4.34,weekly regulars
+24.06,0.49,40.2,1.17,lapsed
+130.6,1.28,5.21,7.94,bulk buyers
+34.59,3.33,41.9,2.09,unclassifiable
+34.2,12.89,7.84,4.62,weekly regulars
+18.04,0.48,75.82,1.46,lapsed
+33.49,8.74,10.33,2.56,weekly regulars
+21.83,0.4,55.7,1.11,lapsed
+41.12,13.19,18.17,3.77,weekly regulars
+23.67,0.41,89.07,0.92,lapsed
+103.84,1.67,10.94,3.7,bulk buyers
+18.86,3.26,72.22,1.15,bargain hunters
+23.01,0.31,94.61,1.26,lapsed
+9.99,1.09,59.21,1.4,bargain hunters
+158.12,2.09,7.73,6.98,bulk buyers
+21.86,10.03,11.34,4.25,weekly regulars
+12.43,1.97,38.33,1.28,bargain hunters
+31.58,1.93,25.42,1.35,bargain hunters
+13.16,2.42,81.77,2.81,unclassifiable
+117.34,0.84,6.32,5.27,bulk buyers
+21.43,1.73,41.35,1.19,bargain hunters
+30.4,1.33,71.73,1.45,bargain hunters
+83.01,1.79,10.33,4.21,bulk buyers
+25.75,4.25,13.12,3.54,weekly regulars
+21.61,0.37,91.04,1.45,lapsed
+40.0,13.04,6.93,2.66,weekly regulars
+46.33,9.68,13.7,1.47,weekly regulars
+58.38,7.51,14.98,2.61,weekly regulars
+29.05,5.85,13.19,2.14,weekly regulars
+30.11,7.46,11.79,3.38,weekly regulars
+105.16,1.44,6.99,6.66,bulk buyers
+52.16,2.01,9.83,8.54,bulk buyers
+45.57,10.17,12.45,2.85,weekly regulars
+14.14,1.8,51.6,2.03,bargain hunters
+34.42,10.36,8.63,3.44,weekly regulars
+23.69,11.64,10.38,3.86,weekly regulars
+45.22,5.87,8.39,4.5,weekly regulars
+47.8,10.03,14.29,1.89,weekly regulars
+121.12,1.15,11.09,5.08,bulk buyers
+17.92,3.1,52.62,1.45,bargain hunters
+26.75,8.94,10.14,1.45,weekly regulars
+29.05,0.57,66.9,1.3,lapsed
+30.11,0.34,78.77,1.26,lapsed
+80.76,2.09,69.53,4.76,unclassifiable
+29.08,0.51,74.86,0.77,lapsed
+21.96,2.8,47.71,1.42,bargain hunters
+36.95,10.97,5.55,4.44,weekly regulars
+40.47,7.01,11.35,3.69,weekly regulars
+91.97,1.53,5.54,8.55,bulk buyers
+23.93,1.46,71.34,1.45,bargain hunters
+17.16,2.11,14.25,1.66,bargain hunters
+99.38,1.73,6.72,6.83,bulk buyers
+24.32,2.22,59.69,1.25,bargain hunters
+17.11,0.41,52.03,1.27,lapsed
+169.09,0.94,8.3,5.84,bulk buyers
+18.86,2.66,27.79,1.39,bargain hunters
+25.08,1.33,56.53,1.19,bargain hunters
+31.44,0.4,34.21,0.95,lapsed
+27.93,8.26,8.13,2.48,weekly regulars
+29.49,2.4,32.28,0.89,bargain hunters
+117.33,2.07,6.32,3.07,bulk buyers
+141.02,2.15,8.83,6.92,bulk buyers
+49.52,9.36,14.59,2.85,weekly regulars
+107.27,1.02,11.0,1.37,bulk buyers
+152.83,1.27,8.88,6.94,bulk buyers
+16.01,1.03,42.56,1.58,bargain hunters
+24.92,9.56,15.04,4.07,weekly regulars
+18.19,2.04,60.92,1.6,bargain hunters
+96.79,2.2,5.48,7.87,bulk buyers
+10.86,1.13,1.9,2.37,unclassifiable
+20.88,0.31,94.28,1.16,lapsed
+89.16,0.98,11.52,3.89,bulk buyers
+15.31,0.39,52.06,0.97,lapsed
+41.7,13.44,7.41,3.77,weekly regulars
+19.46,0.72,30.6,3.94,unclassifiable
+27.83,8.73,2.14,3.7,weekly regulars
+125.2,1.23,8.93,6.09,bulk buyers
+182.93,1.36,8.72,9.24,bulk buyers
+12.94,0.3,107.06,1.22,lapsed
+50.36,9.88,10.78,2.48,weekly regulars
+27.86,0.44,79.41,0.91,lapsed
+74.1,1.24,57.19,3.96,unclassifiable
+22.03,1.54,60.88,1.14,bargain hunters
+46.93,12.07,13.24,2.53,weekly regulars
+22.45,0.35,74.59,1.0,lapsed
+169.33,0.69,10.7,4.6,bulk buyers
+33.29,5.77,11.22,2.78,weekly regulars
+24.85,8.76,13.86,2.55,weekly regulars
+16.38,0.49,91.9,1.42,lapsed
+30.8,9.34,11.99,2.98,weekly regulars
+24.13,7.87,10.14,1.74,weekly regulars
+13.62,2.77,70.21,1.9,bargain hunters
+21.33,0.49,63.35,0.73,lapsed
+15.82,2.3,18.71,1.87,bargain hunters
+37.86,3.03,58.82,1.48,bargain hunters
+26.03,2.24,62.21,0.09,unclassifiable
+55.91,5.74,13.32,3.63,weekly regulars
+27.74,9.0,15.06,2.8,weekly regulars
+21.6,5.7,17.15,4.06,weekly regulars
+163.97,0.96,8.82,6.24,bulk buyers
+29.01,1.75,53.43,2.13,bargain hunters
+32.97,3.2,43.99,3.46,unclassifiable
+24.17,6.65,11.27,4.09,weekly regulars
+19.81,0.41,64.58,0.95,lapsed
+36.64,5.1,16.98,3.62,weekly regulars
+27.06,5.97,8.96,3.56,weekly regulars
+12.25,1.2,19.62,1.42,bargain hunters
+189.35,1.42,9.74,5.4,bulk buyers
+23.68,0.22,60.54,1.3,lapsed
+25.65,9.04,11.72,2.99,weekly regulars
+17.48,1.94,80.42,1.66,bargain hunters
+91.39,1.5,10.87,9.09,bulk buyers
+38.93,9.3,10.24,3.57,weekly regulars
+46.76,5.52,10.79,2.95,weekly regulars
+12.99,1.99,37.61,1.8,bargain hunters
+28.3,0.39,66.84,1.0,lapsed
+31.46,0.49,78.34,1.44,lapsed
+24.3,2.29,47.4,1.61,bargain hunters
+24.97,14.55,14.87,3.28,weekly regulars
+28.26,7.12,7.64,2.04,weekly regulars
+129.24,1.45,10.07,7.26,bulk buyers
+44.47,8.24,5.09,2.91,weekly regulars
+28.11,10.75,15.42,3.86,weekly regulars
+20.36,0.44,66.63,1.17,lapsed
+15.69,2.23,34.78,1.0,bargain hunters
+25.61,0.55,55.28,1.14,lapsed
+18.57,7.3,17.0,4.01,weekly regulars
+21.31,0.26,72.99,1.12,lapsed
+30.75,3.89,16.93,2.65,unclassifiable
+19.16,2.35,35.13,1.23,bargain hunters
+28.5,2.52,51.34,1.16,bargain hunters
+31.54,8.95,9.83,2.97,weekly regulars
+11.69,2.27,30.13,1.4,bargain hunters
+14.43,0.34,77.13,1.05,lapsed
+124.04,1.8,10.96,6.56,bulk buyers
+14.07,2.02,23.32,1.34,bargain hunters
+25.77,9.31,12.89,3.04,weekly regulars
+32.62,6.24,13.7,3.06,weekly regulars
+95.13,1.65,8.07,7.66,bulk buyers
+20.29,7.66,71.25,6.29,unclassifiable
+25.27,2.39,48.73,1.55,bargain hunters
+17.77,0.53,66.97,0.92,lapsed
+157.43,2.22,9.94,4.5,bulk buyers
+12.34,1.63,37.62,1.55,bargain hunters
+16.19,1.97,58.07,0.55,bargain hunters
+33.29,6.53,11.55,3.63,weekly regulars
+24.09,6.06,14.02,3.67,weekly regulars
+25.57,12.18,16.58,4.4,weekly regulars
+40.85,6.39,13.47,2.68,weekly regulars
+184.74,1.25,6.57,3.21,bulk buyers
+135.85,0.18,9.25,4.75,bulk buyers
+19.32,0.41,82.22,1.01,lapsed
+20.43,0.77,45.79,1.06,bargain hunters
+23.11,1.6,16.95,4.42,weekly regulars
+121.88,7.42,1.44,1.7,unclassifiable
+28.51,9.64,9.79,3.87,weekly regulars
+102.78,1.39,10.77,5.07,bulk buyers
+22.66,1.47,61.75,1.71,bargain hunters
+31.82,7.06,13.56,2.63,weekly regulars
+28.98,12.3,14.33,3.12,weekly regulars
+19.39,1.95,45.97,1.29,bargain hunters
+41.25,8.44,10.35,2.82,weekly regulars
+35.86,13.58,14.56,2.54,weekly regulars
+34.07,7.93,11.03,3.95,weekly regulars
+171.12,6.46,6.54,2.97,unclassifiable
+17.58,0.44,78.71,1.23,lapsed
+30.68,6.04,14.87,4.81,unclassifiable
+15.22,2.73,42.81,1.52,bargain hunters
+145.47,0.77,8.97,5.75,bulk buyers
+24.73,8.66,12.05,3.21,weekly regulars
+30.03,2.15,21.37,1.34,bargain hunters
+157.81,1.46,10.33,5.02,bulk buyers
+19.66,0.47,43.52,1.32,bargain hunters
+27.45,5.13,13.29,3.54,weekly regulars
+22.79,5.98,6.78,2.64,weekly regulars
+25.27,8.38,10.14,3.35,weekly regulars
+27.79,3.73,60.57,1.07,unclassifiable
+15.07,1.43,57.59,1.56,bargain hunters
+37.54,9.28,8.19,3.17,weekly regulars
+38.4,0.23,60.34,1.06,lapsed
+18.82,1.08,28.33,0.96,bargain hunters
+26.53,3.82,21.77,3.9,weekly regulars
+15.99,2.41,42.53,0.94,bargain hunters
+11.8,4.95,42.12,1.73,unclassifiable
+13.21,1.62,35.62,1.16,bargain hunters
+38.34,11.07,14.14,3.46,weekly regulars
+39.95,5.39,5.73,3.43,weekly regulars
+31.71,7.99,16.13,4.36,weekly regulars
+39.09,3.79,17.04,1.46,unclassifiable
+31.96,7.07,12.17,2.94,weekly regulars
+201.8,1.8,7.4,6.6,bulk buyers
+137.79,0.51,9.06,5.85,bulk buyers
+17.78,0.18,66.37,1.01,lapsed
+110.51,1.78,6.06,6.26,bulk buyers
+28.35,10.29,15.45,2.87,weekly regulars
+39.89,3.27,50.21,1.04,unclassifiable
+179.01,1.59,7.85,2.98,bulk buyers
+20.69,10.55,9.69,4.14,weekly regulars
+90.82,1.22,8.9,4.5,bulk buyers
+36.36,1.94,58.52,1.64,bargain hunters
+169.75,1.48,5.43,5.65,bulk buyers
+47.81,11.8,7.83,2.5,weekly regulars
+24.37,1.73,45.75,2.04,bargain hunters
+31.63,1.56,70.4,1.36,bargain hunters
+324.01,1.84,47.19,1.34,unclassifiable
+44.76,0.89,2.68,3.32,unclassifiable
+35.79,5.3,20.97,0.91,unclassifiable
+173.84,2.26,12.26,6.95,bulk buyers
+29.15,0.49,71.22,0.81,lapsed
+106.68,1.95,9.58,4.42,bulk buyers
+28.92,6.23,12.39,3.61,weekly regulars
+154.18,1.1,13.51,6.68,bulk buyers
+187.57,0.94,10.09,7.56,bulk buyers
+15.01,4.55,52.68,4.16,unclassifiable
+43.9,9.82,16.47,1.74,weekly regulars
+30.01,0.4,72.11,1.06,lapsed
+54.33,3.24,10.7,4.77,unclassifiable
+25.47,0.42,100.47,0.98,lapsed
+18.49,2.09,36.15,0.72,bargain hunters
+34.93,6.88,13.89,4.08,weekly regulars
+38.15,10.56,13.24,2.35,weekly regulars
+10.23,2.01,45.38,1.59,bargain hunters
+133.39,1.92,8.17,7.29,bulk buyers
+170.95,1.59,3.57,3.4,bulk buyers
+159.26,1.34,9.17,7.55,bulk buyers
+45.63,2.78,51.57,0.56,bargain hunters
+17.61,0.54,33.32,1.15,lapsed
+192.12,1.38,11.14,3.97,bulk buyers
+44.74,9.67,8.59,3.67,weekly regulars
+23.07,0.49,69.15,0.53,lapsed
+16.68,0.41,78.62,0.94,lapsed
+17.18,3.32,48.21,1.07,bargain hunters
+32.99,7.88,5.65,3.07,weekly regulars
+173.59,2.03,11.11,6.9,bulk buyers
+17.08,2.81,40.9,1.78,bargain hunters
+20.29,5.14,14.38,4.29,weekly regulars
+21.12,0.32,99.17,0.9,lapsed
+93.33,7.6,38.83,4.09,unclassifiable
+38.39,8.29,16.14,3.23,weekly regulars
+24.45,0.25,88.32,0.88,lapsed
+138.32,1.67,6.33,7.26,bulk buyers
+31.44,9.92,12.05,2.91,weekly regulars
+21.33,0.44,79.77,1.21,lapsed
+123.68,1.72,9.15,4.73,bulk buyers
+13.62,1.77,39.1,1.43,bargain hunters
+16.56,1.91,65.65,1.35,bargain hunters
+153.78,1.48,11.11,4.62,bulk buyers
+44.4,6.04,13.63,3.36,weekly regulars
+34.41,10.36,12.62,3.66,weekly regulars
+9.72,2.28,44.54,0.71,bargain hunters
+34.17,11.07,4.75,4.01,weekly regulars
+19.53,0.5,62.84,1.05,lapsed
+38.85,0.62,125.79,0.9,lapsed
+112.96,1.47,7.47,7.14,bulk buyers
+29.8,11.57,8.37,3.69,weekly regulars
+15.91,0.37,47.51,1.57,lapsed
+25.44,11.7,10.07,3.39,weekly regulars
+140.92,0.85,7.22,6.81,bulk buyers
+17.04,2.55,53.36,1.45,bargain hunters
+211.36,1.76,10.12,5.16,bulk buyers
+82.03,1.6,10.81,7.02,bulk buyers
+22.85,2.19,48.5,1.52,bargain hunters
+19.06,1.72,31.05,1.93,bargain hunters
+42.1,11.24,15.66,2.95,weekly regulars
+22.71,0.34,37.93,1.37,lapsed
+52.22,12.0,7.36,1.46,weekly regulars
+195.88,0.89,10.54,6.56,bulk buyers
+21.67,2.03,70.27,1.13,bargain hunters
+24.81,0.12,110.66,1.51,lapsed
+95.81,1.81,5.25,7.32,bulk buyers
+15.68,1.85,30.52,1.26,bargain hunters
+9.27,2.06,47.4,1.33,bargain hunters
+23.43,1.65,26.27,1.64,bargain hunters
+45.64,11.19,19.44,1.63,weekly regulars
+15.62,2.5,61.1,1.87,bargain hunters
+40.07,5.46,15.52,3.83,weekly regulars
+22.96,8.18,13.79,2.71,weekly regulars
+180.34,1.38,9.73,5.73,bulk buyers
+41.82,10.9,9.79,1.82,weekly regulars
+38.29,0.36,74.94,0.48,lapsed
+30.16,0.36,85.67,0.97,lapsed
+21.95,2.47,38.8,1.43,bargain hunters
+18.5,2.43,49.01,1.68,bargain hunters
+267.69,1.64,7.51,7.04,bulk buyers
+31.31,8.47,8.39,3.19,weekly regulars
+100.22,1.81,8.37,7.82,bulk buyers
+196.52,1.72,5.9,6.62,bulk buyers
+33.34,2.75,43.51,2.0,bargain hunters
+21.65,1.34,39.93,1.33,bargain hunters
+27.44,2.01,45.75,1.14,bargain hunters
+10.43,2.42,0.62,3.11,unclassifiable
+43.83,8.01,12.82,4.32,weekly regulars
+47.23,4.15,29.42,1.77,unclassifiable
+17.19,0.3,7.29,1.71,lapsed
+17.61,2.34,40.19,1.65,bargain hunters
+111.72,1.7,9.7,5.98,bulk buyers
+36.86,1.78,44.09,1.25,bargain hunters
+21.46,1.97,51.88,1.26,bargain hunters
+24.67,0.39,74.69,1.09,lapsed
+19.3,0.41,105.3,1.02,lapsed
+24.58,6.96,12.45,4.54,weekly regulars
+21.09,13.47,14.9,3.59,weekly regulars
+33.57,6.82,10.15,4.5,weekly regulars
+42.58,7.6,14.38,4.7,weekly regulars
+128.17,1.27,14.89,6.84,bulk buyers
+91.99,1.1,7.55,6.86,bulk buyers
+21.43,0.55,101.97,1.02,lapsed
+37.87,5.9,15.8,2.55,weekly regulars
+24.75,2.29,46.28,1.22,bargain hunters
+20.79,0.25,33.2,1.32,lapsed
+19.62,0.31,101.87,1.24,lapsed
+28.45,10.95,8.74,3.77,weekly regulars
+26.01,12.62,11.0,4.54,weekly regulars
+17.88,2.35,60.09,1.92,bargain hunters
+26.68,9.17,8.44,3.88,weekly regulars
+118.54,2.44,8.32,5.05,bulk buyers
+129.25,1.01,10.67,5.42,bulk buyers
+22.54,8.76,15.03,2.14,weekly regulars
+20.84,0.33,57.24,0.53,lapsed
+49.5,12.5,12.47,3.71,weekly regulars
+17.76,2.96,53.16,1.32,bargain hunters
+16.96,2.07,40.41,1.3,bargain hunters
+30.64,2.28,37.22,1.27,bargain hunters
+60.36,7.8,1.81,4.18,unclassifiable
+118.04,2.58,9.92,7.56,bulk buyers
+132.65,0.77,8.81,7.05,bulk buyers
+12.56,2.7,52.81,1.83,bargain hunters
+45.86,8.23,11.06,2.49,weekly regulars
+20.66,10.15,12.23,3.73,weekly regulars
+41.35,7.05,12.86,3.49,weekly regulars
+63.7,0.64,32.93,5.35,unclassifiable
+31.48,0.22,56.98,1.81,lapsed
+12.63,1.59,54.13,1.0,bargain hunters
+31.21,10.53,17.08,2.33,weekly regulars
+41.72,8.26,7.35,3.46,weekly regulars
+10.25,0.46,86.51,1.16,lapsed
+32.64,5.88,14.62,2.38,weekly regulars
+44.27,10.11,11.33,2.78,weekly regulars
+133.77,1.87,8.71,6.48,bulk buyers
+94.04,1.84,9.36,3.35,bulk buyers
+59.41,1.39,9.18,4.21,bulk buyers
+21.3,8.8,5.3,4.42,weekly regulars
+100.76,1.41,11.31,5.08,bulk buyers
+65.04,6.87,40.06,2.31,unclassifiable
+18.02,1.31,35.54,1.61,bargain hunters
+20.58,2.73,52.85,1.12,bargain hunters
+90.21,0.71,12.21,4.3,bulk buyers
+105.3,1.31,10.84,3.11,bulk buyers
+24.13,0.6,89.25,1.11,lapsed
+133.32,1.33,8.04,6.91,bulk buyers
+22.29,2.76,44.75,1.85,bargain hunters
+19.11,0.45,75.93,0.88,lapsed
+19.38,2.24,49.25,1.14,bargain hunters
+36.89,8.43,12.54,2.99,weekly regulars
+15.21,2.8,61.24,2.06,bargain hunters
+110.98,1.27,9.94,7.86,bulk buyers
+44.61,14.04,6.48,2.75,weekly regulars
+15.76,1.56,71.83,1.43,bargain hunters
+23.0,2.35,53.17,1.53,bargain hunters
+25.57,2.89,41.11,1.44,bargain hunters
+134.28,1.48,4.1,5.28,bulk buyers
+91.37,1.55,8.89,7.04,bulk buyers
+34.68,10.81,13.29,3.39,weekly regulars
+36.88,3.02,5.31,4.1,weekly regulars
+11.63,2.54,55.13,1.12,bargain hunters
+20.5,2.45,33.03,1.81,bargain hunters
+31.31,8.48,11.49,2.05,weekly regulars
+29.82,2.55,49.43,1.09,bargain hunters
+19.36,2.02,51.23,1.88,bargain hunters
+15.6,0.56,77.61,1.03,lapsed
+131.73,1.33,12.0,6.8,bulk buyers
+154.76,1.47,6.63,6.46,bulk buyers
+36.83,12.7,12.04,2.32,weekly regulars
+16.19,0.41,71.67,1.04,lapsed
+19.9,1.59,39.04,0.62,bargain hunters
+109.14,0.5,7.85,3.56,bulk buyers
+17.49,0.52,35.25,0.9,lapsed
+18.93,0.1,101.82,0.8,lapsed
+19.71,0.71,42.95,1.32,bargain hunters
+135.25,0.85,11.02,7.17,bulk buyers
+35.15,5.46,17.3,1.86,weekly regulars
+34.22,6.48,13.89,3.16,weekly regulars
+21.5,1.96,93.19,4.66,unclassifiable
+76.23,1.6,9.17,3.55,bulk buyers
+42.83,0.61,51.34,1.42,lapsed
+22.5,0.36,67.2,1.21,lapsed
+12.52,1.0,52.61,1.21,bargain hunters
+57.36,12.96,15.9,3.28,weekly regulars
+97.93,1.45,7.96,3.8,bulk buyers
+31.86,13.02,10.77,2.45,weekly regulars
+26.47,9.14,18.54,4.23,weekly regulars
+14.92,2.01,41.34,1.55,bargain hunters
+23.05,2.81,68.41,1.09,bargain hunters
+31.85,2.47,44.13,1.49,bargain hunters
+23.38,2.32,29.11,1.45,bargain hunters
+27.22,0.47,65.4,1.27,lapsed
+108.5,0.62,7.48,5.07,bulk buyers
+22.55,1.7,34.78,1.47,bargain hunters
+38.04,6.92,15.73,2.99,weekly regulars
+63.17,9.79,13.42,3.22,weekly regulars
+35.17,12.51,11.86,3.89,weekly regulars
+40.26,5.74,11.8,3.59,weekly regulars
+27.14,2.78,53.36,1.2,bargain hunters
+42.36,8.73,11.66,2.04,weekly regulars
+18.43,1.79,26.62,1.2,bargain hunters
+38.18,7.65,18.63,3.06,weekly regulars
+15.84,1.52,59.38,1.01,bargain hunters
+171.53,1.49,6.87,5.93,bulk buyers
+201.99,0.92,3.84,8.16,bulk buyers
+124.23,1.52,10.23,4.1,bulk buyers
+20.17,2.99,65.47,1.62,bargain hunters
+25.85,7.34,15.49,4.06,weekly regulars
+20.34,0.51,76.76,1.22,lapsed
+20.88,0.43,97.25,0.87,lapsed
+115.42,1.44,8.48,6.01,bulk buyers
+36.16,0.43,97.39,0.99,lapsed
+22.49,0.31,105.68,0.69,lapsed
+35.1,4.01,7.65,4.75,weekly regulars
+98.25,1.57,3.44,4.85,bulk buyers
+24.11,10.32,12.55,3.69,weekly regulars
+74.84,1.12,12.22,5.36,bulk buyers
+29.67,9.23,6.36,2.87,weekly regulars
+18.5,0.51,93.82,1.01,lapsed
+23.48,2.6,65.65,0.83,bargain hunters
+26.42,11.53,17.3,2.07,weekly regulars
+36.44,9.3,9.0,2.68,weekly regulars
+29.43,9.81,16.3,3.81,weekly regulars
+15.7,2.42,58.88,1.35,bargain hunters
+21.05,1.84,48.03,1.7,bargain hunters
+24.08,1.34,37.07,1.56,bargain hunters
+120.99,2.32,12.13,10.63,bulk buyers
+17.57,3.21,41.22,1.46,bargain hunters
+57.12,10.41,12.56,2.56,weekly regulars
+27.27,0.48,89.43,0.74,lapsed
+26.33,1.68,46.68,0.97,bargain hunters
+97.9,0.86,7.65,6.04,bulk buyers
+19.08,1.3,26.85,2.03,bargain hunters
+10.36,1.9,28.05,1.52,bargain hunters
+286.15,9.07,70.31,0.13,unclassifiable
+19.33,2.35,45.79,1.08,bargain hunters
+30.94,0.47,47.14,1.4,lapsed
+18.71,0.48,67.41,1.05,lapsed
+27.66,1.46,45.43,1.16,bargain hunters
+41.27,12.11,11.9,1.3,weekly regulars
+49.4,8.59,6.3,3.59,weekly regulars
+135.32,0.63,9.02,4.06,bulk buyers
+29.28,6.17,4.55,2.59,weekly regulars
+38.99,6.82,12.39,3.04,weekly regulars
+16.96,1.79,47.16,1.71,bargain hunters
+21.74,0.37,71.83,1.18,lapsed
+154.95,1.46,4.31,7.04,bulk buyers
+25.07,12.18,11.84,3.09,weekly regulars
+86.19,6.99,12.83,3.88,weekly regulars
+16.09,0.2,57.75,1.07,lapsed
+11.45,10.85,9.14,2.83,weekly regulars
+18.48,3.28,86.65,0.63,bargain hunters
+13.35,2.74,51.22,1.61,bargain hunters
+140.45,1.01,6.13,4.27,bulk buyers
+146.93,0.65,8.99,6.93,bulk buyers
+12.93,2.54,62.57,1.14,bargain hunters
+36.85,12.53,6.86,2.71,weekly regulars
+33.22,7.11,10.33,2.98,weekly regulars
+44.66,10.46,11.63,4.05,weekly regulars
+9.33,2.69,86.64,1.52,bargain hunters
+35.06,2.23,49.41,1.25,bargain hunters
+7.65,5.31,48.2,3.22,unclassifiable
+17.59,1.38,69.49,2.11,bargain hunters
+34.09,9.05,8.35,3.7,weekly regulars
+16.52,2.02,38.12,1.65,bargain hunters
+143.54,1.88,11.92,5.93,bulk buyers
+34.77,11.36,14.09,2.72,weekly regulars
+12.89,2.79,58.87,1.47,bargain hunters
+121.42,1.85,7.98,7.46,bulk buyers
+17.74,0.71,34.21,1.08,bargain hunters
+18.26,2.94,54.5,1.03,bargain hunters
+17.67,0.81,61.13,0.99,lapsed
+22.6,9.01,6.52,2.36,weekly regulars
+28.0,9.23,12.3,2.98,weekly regulars
+15.4,2.72,55.71,1.83,bargain hunters
+33.57,7.15,13.26,2.16,weekly regulars
+84.07,0.46,57.54,2.71,unclassifiable
+32.21,2.3,40.8,1.3,bargain hunters
+41.55,6.6,10.73,3.28,weekly regulars
+22.42,0.5,90.97,1.0,lapsed
+11.45,2.36,49.27,1.11,bargain hunters
+47.47,9.58,13.22,2.53,weekly regulars
+30.81,5.21,13.83,3.72,weekly regulars
+31.84,7.76,10.63,2.61,weekly regulars
+33.87,8.9,9.97,3.72,weekly regulars
+22.15,0.35,81.56,1.12,lapsed
+15.11,0.53,27.5,1.21,lapsed
+136.05,1.15,11.24,2.96,bulk buyers
+20.65,2.05,58.02,1.6,bargain hunters
+23.15,4.5,11.03,2.37,weekly regulars
+16.36,2.16,59.75,1.94,bargain hunters
+37.59,3.11,50.97,0.85,bargain hunters
+17.88,0.88,79.04,2.03,bargain hunters
+15.46,0.33,81.54,1.04,lapsed
+220.31,1.19,9.52,8.3,bulk buyers
+39.36,3.69,27.65,1.06,unclassifiable
+35.19,10.73,10.18,3.35,weekly regulars
+33.92,0.16,54.0,1.1,lapsed
+19.78,2.36,32.57,1.72,bargain hunters
+144.79,1.15,15.65,6.94,bulk buyers
+24.88,7.67,14.12,3.38,weekly regulars
+15.93,2.18,35.46,1.27,bargain hunters
+25.77,0.34,120.17,0.97,lapsed
+28.12,9.14,10.91,3.68,weekly regulars
+33.49,7.69,10.47,3.18,weekly regulars
+24.49,0.55,85.52,1.35,lapsed
+17.12,3.2,54.07,1.57,bargain hunters
+48.93,12.12,13.73,3.06,weekly regulars
+20.81,0.46,81.62,1.22,lapsed
+34.23,8.13,12.62,5.55,weekly regulars
+76.82,5.97,17.38,3.5,weekly regulars
+14.88,3.19,33.21,1.14,bargain hunters
+77.15,1.41,9.59,6.16,bulk buyers
+159.79,1.51,2.96,6.44,bulk buyers
+103.6,1.48,7.67,8.64,bulk buyers
+29.96,0.34,60.73,1.09,lapsed
+27.15,6.84,13.07,5.01,weekly regulars
+87.26,1.45,11.96,7.72,bulk buyers
+24.82,12.64,18.8,5.1,weekly regulars
+108.03,1.15,10.94,6.12,bulk buyers
+13.24,0.29,49.88,1.48,lapsed
+33.7,9.64,4.04,3.43,weekly regulars
+33.83,5.1,15.26,4.18,weekly regulars
+12.64,2.53,55.85,1.46,bargain hunters
+25.29,0.24,47.65,0.93,lapsed
+18.88,6.5,10.33,3.07,weekly regulars
+178.24,1.21,11.56,5.03,bulk buyers
+15.81,1.64,44.34,1.58,bargain hunters
+21.22,0.21,70.25,1.25,lapsed
+33.05,2.03,53.9,1.99,bargain hunters
+182.25,6.77,91.56,3.63,unclassifiable
+152.64,0.64,9.23,4.54,bulk buyers
+35.87,10.41,13.87,2.08,weekly regulars
+182.99,2.25,8.26,4.28,bulk buyers
+19.58,5.01,12.6,2.09,weekly regulars
+38.04,10.64,9.38,3.86,weekly regulars
+179.69,1.68,11.63,9.92,bulk buyers
+13.15,2.37,65.17,1.48,bargain hunters
+12.96,7.46,13.87,3.68,weekly regulars
+16.86,2.14,51.92,1.3,bargain hunters
+92.5,1.36,6.01,7.52,bulk buyers
+31.95,8.61,10.68,2.93,weekly regulars
+9.92,0.46,23.31,2.88,unclassifiable
+14.12,1.13,62.32,1.14,bargain hunters
+39.68,9.17,14.47,3.37,weekly regulars
+35.79,0.41,57.4,0.81,lapsed
+38.97,0.44,78.81,1.46,lapsed
+171.25,1.58,8.42,3.5,bulk buyers
+17.1,2.19,62.46,1.0,bargain hunters
+32.67,5.52,26.36,4.24,unclassifiable
+35.25,0.36,42.13,1.04,lapsed
+15.29,0.44,79.12,1.07,lapsed
+33.53,14.53,21.09,2.6,weekly regulars
+115.44,1.08,13.0,2.86,bulk buyers
+15.14,0.41,69.84,1.02,lapsed
+51.58,4.82,12.07,3.33,weekly regulars
+43.62,9.5,10.06,3.49,weekly regulars
+15.84,2.53,31.86,1.27,bargain hunters
+28.17,8.4,10.1,3.26,weekly regulars
+518.23,4.09,26.68,3.2,unclassifiable
+29.23,0.29,57.98,1.09,lapsed
+20.63,0.33,54.43,0.58,lapsed
+99.24,1.48,9.72,7.58,bulk buyers
+120.34,1.78,7.44,4.99,bulk buyers
+126.93,0.96,10.88,5.48,bulk buyers
+68.13,3.77,58.01,4.06,unclassifiable
+117.42,1.41,9.73,4.81,bulk buyers
+88.34,1.87,12.71,5.25,bulk buyers
+33.42,8.8,9.41,4.25,weekly regulars
+32.6,13.92,14.59,3.37,weekly regulars
+45.16,7.73,13.04,3.36,weekly regulars
+23.55,0.56,48.05,1.33,lapsed
+17.16,0.41,51.47,1.02,lapsed
+132.98,1.38,4.59,8.04,bulk buyers
+45.8,7.15,6.21,2.87,weekly regulars
+18.11,1.56,21.4,1.7,bargain hunters
+17.42,1.85,43.91,1.25,bargain hunters
+31.68,11.28,6.38,2.64,weekly regulars
+16.2,1.53,45.54,1.25,bargain hunters
+42.05,8.32,8.5,1.98,weekly regulars
+36.69,5.39,10.46,3.36,weekly regulars
+31.5,0.05,65.19,1.14,lapsed
+185.9,1.73,11.24,6.14,bulk buyers
+83.03,1.39,13.86,4.78,bulk buyers
+21.56,0.41,79.86,1.23,lapsed
+34.77,7.26,16.09,2.69,weekly regulars
+34.57,7.86,17.78,4.29,weekly regulars
+12.85,0.39,92.58,1.07,lapsed
+20.07,1.22,56.26,0.88,bargain hunters
+165.56,1.26,14.31,4.69,bulk buyers
+95.15,1.46,7.23,4.52,bulk buyers
+37.29,9.42,15.71,3.44,weekly regulars
+149.0,0.93,8.31,3.3,bulk buyers
+15.86,2.21,51.54,1.66,bargain hunters
+101.82,1.57,6.56,4.66,bulk buyers
+92.45,6.56,7.29,2.89,weekly regulars
+43.2,10.39,10.57,1.89,weekly regulars
+25.28,2.9,30.63,1.36,bargain hunters
+157.08,1.89,8.09,3.49,bulk buyers
+16.63,1.87,44.7,1.53,bargain hunters
+57.43,9.04,8.35,3.41,weekly regulars
+12.39,2.16,31.47,1.18,bargain hunters
+45.48,10.76,16.0,2.95,weekly regulars
+35.45,6.63,13.0,2.81,unclassifiable
+20.62,11.86,9.19,3.89,weekly regulars
+29.56,9.21,14.24,3.12,weekly regulars
+11.17,8.71,43.34,3.38,unclassifiable
+88.87,1.64,9.45,3.78,bulk buyers
+26.69,0.34,38.92,1.25,lapsed
+35.75,1.33,52.18,7.57,unclassifiable
+39.34,9.58,12.51,1.24,weekly regulars
+47.62,8.88,9.85,3.16,weekly regulars
+20.83,2.04,67.2,1.88,bargain hunters
+12.52,2.51,31.44,1.25,bargain hunters
+12.18,2.04,35.09,1.42,bargain hunters
+35.34,6.74,14.53,3.02,weekly regulars
+46.42,4.92,22.35,3.69,unclassifiable
+25.07,13.32,14.9,2.27,weekly regulars
+38.51,5.03,12.24,2.14,weekly regulars
+21.33,0.33,100.76,0.87,lapsed
+67.9,1.79,64.72,2.69,unclassifiable
+20.74,0.37,70.39,0.85,lapsed
+175.24,1.78,10.12,5.45,bulk buyers
+92.99,1.97,8.5,7.69,bulk buyers
+18.42,1.87,55.53,1.39,bargain hunters
+36.73,8.81,15.19,3.72,weekly regulars
+18.27,2.35,28.58,1.66,bargain hunters
+23.9,11.31,13.23,3.0,weekly regulars
+42.65,10.35,10.01,2.07,weekly regulars
+103.97,1.74,57.61,0.56,unclassifiable
+23.12,1.89,63.61,1.19,bargain hunters
+47.06,9.23,16.08,4.2,weekly regulars
+221.47,1.83,4.77,6.96,bulk buyers
+10.12,0.41,85.35,1.42,lapsed
+164.73,1.51,5.04,4.51,bulk buyers
+18.1,2.73,43.92,1.25,bargain hunters
+19.36,2.9,65.79,0.94,bargain hunters
+43.09,7.42,8.7,2.01,weekly regulars
+19.05,2.22,43.23,1.12,bargain hunters
+39.45,0.48,44.41,0.87,lapsed
+15.97,2.58,48.61,1.36,bargain hunters
+21.53,2.77,27.09,1.18,bargain hunters
+22.07,0.41,83.19,1.19,lapsed
+224.3,1.43,10.12,7.98,bulk buyers
+35.29,12.2,11.46,3.11,weekly regulars
+23.01,2.94,44.34,2.21,bargain hunters
+19.9,1.1,41.89,1.31,bargain hunters
+21.39,0.42,94.1,0.86,lapsed
+12.44,0.6,36.02,0.93,lapsed
+37.44,5.77,36.47,4.45,unclassifiable
+19.71,0.4,91.62,1.22,lapsed
+19.14,10.08,11.23,4.24,weekly regulars
+24.23,2.67,45.7,1.51,bargain hunters
+15.06,2.77,43.38,1.46,bargain hunters
+61.58,13.76,19.66,5.04,weekly regulars
+49.32,12.7,14.41,3.6,weekly regulars
+36.17,6.08,15.68,4.25,weekly regulars
+22.14,1.86,19.0,1.48,bargain hunters
+34.5,0.22,82.81,1.2,lapsed
+73.51,5.43,10.64,4.42,weekly regulars
+212.75,0.88,9.15,6.08,bulk buyers
+32.17,0.23,77.65,0.82,lapsed
+105.37,1.48,8.8,2.0,bulk buyers
+26.91,8.98,10.57,3.4,weekly regulars
+152.27,1.25,8.34,4.65,bulk buyers
+29.5,11.17,11.93,3.37,weekly regulars
+20.71,1.85,49.61,1.56,bargain hunters
+17.84,1.36,26.76,1.02,bargain hunters
+16.38,1.92,55.7,1.22,bargain hunters
+25.98,7.99,14.15,3.01,weekly regulars
+13.22,2.3,63.27,1.82,bargain hunters
+98.2,1.62,6.23,7.08,bulk buyers
+25.4,9.46,18.52,3.39,weekly regulars
+115.78,1.48,7.23,5.75,bulk buyers
+29.5,0.52,88.15,1.36,lapsed
+35.93,8.93,17.06,2.2,weekly regulars
+31.59,1.12,54.23,1.39,bargain hunters
+16.8,0.56,73.8,1.27,lapsed
+33.99,0.44,52.28,1.04,lapsed
+69.8,1.35,60.32,6.32,unclassifiable
+32.79,7.34,18.33,2.45,weekly regulars
+11.17,2.63,47.19,2.21,bargain hunters
+26.83,0.39,61.99,1.37,lapsed
+24.3,2.18,43.59,1.72,bargain hunters
+16.23,0.5,74.1,1.09,lapsed
+23.42,8.39,15.21,3.98,weekly regulars
+32.47,10.81,17.41,2.92,weekly regulars
+28.84,0.37,52.52,1.17,lapsed
+44.9,9.16,14.11,2.98,weekly regulars
+193.97,1.38,7.68,8.06,bulk buyers
+65.18,1.88,9.25,6.21,bulk buyers
+85.78,1.35,9.95,6.83,bulk buyers
+22.82,0.54,46.09,1.08,lapsed
+22.25,1.87,35.08,1.02,bargain hunters
+9.83,2.72,51.5,2.1,bargain hunters
+104.99,1.15,10.4,6.3,bulk buyers
+14.86,2.51,25.89,1.79,bargain hunters
+34.0,0.3,78.21,0.66,lapsed
+39.23,6.14,11.89,1.26,unclassifiable
+16.08,10.22,10.63,3.13,weekly regulars
+43.16,12.26,16.98,2.41,weekly regulars
+25.48,10.16,29.8,4.57,unclassifiable
+57.51,10.34,7.84,4.72,weekly regulars
+35.31,5.01,12.07,3.85,weekly regulars
+112.74,1.35,6.86,5.39,bulk buyers
+148.79,1.3,12.39,3.64,bulk buyers
+15.87,1.95,20.52,1.5,bargain hunters
+42.78,8.82,14.31,2.29,weekly regulars
+28.23,13.47,13.15,4.88,weekly regulars
+37.84,0.29,63.78,1.64,lapsed
+22.14,0.59,78.63,0.84,lapsed
+21.35,13.63,13.27,2.69,weekly regulars
+100.95,1.19,10.45,6.98,bulk buyers
+92.58,0.55,11.67,4.94,bulk buyers
+217.91,1.0,12.26,4.39,bulk buyers
+120.21,1.2,8.84,6.13,bulk buyers
+19.31,2.1,44.16,1.68,bargain hunters
+35.28,2.21,24.01,2.74,unclassifiable
+26.21,0.43,97.27,1.04,lapsed
+18.74,0.25,72.07,1.61,lapsed
+124.84,1.67,5.15,7.83,bulk buyers
+39.67,8.8,9.17,4.8,weekly regulars
+21.01,0.54,62.19,0.81,lapsed
+51.15,7.72,8.52,3.71,weekly regulars
+15.4,2.53,60.91,1.48,bargain hunters
+17.96,2.27,67.97,1.58,bargain hunters
+12.12,2.09,49.79,1.6,bargain hunters
+96.52,2.25,28.56,6.32,unclassifiable
+25.01,0.16,73.05,0.87,lapsed
+101.67,1.43,12.19,5.46,bulk buyers
+16.35,6.25,15.48,4.0,weekly regulars
+22.17,1.97,39.6,1.67,bargain hunters
+23.98,0.44,53.96,0.72,lapsed
+40.96,6.91,8.89,2.67,weekly regulars
+78.38,8.68,14.89,3.42,weekly regulars
+29.24,9.17,9.44,3.38,weekly regulars
+19.2,0.55,99.75,1.4,lapsed
+34.25,8.35,10.27,2.88,weekly regulars
+93.27,1.55,15.48,8.2,bulk buyers
+23.54,0.51,44.77,0.93,lapsed
+22.4,1.94,57.57,1.1,bargain hunters
+155.32,1.44,12.0,7.54,bulk buyers
+109.77,1.44,7.85,4.65,bulk buyers
+39.79,10.14,11.3,2.61,weekly regulars
+28.21,0.53,55.98,1.26,lapsed
+32.94,9.08,9.98,3.17,weekly regulars
+23.93,0.45,58.92,1.31,lapsed
+56.51,1.1,10.0,7.29,bulk buyers
+18.76,1.82,39.19,2.07,bargain hunters
+163.54,8.24,91.67,2.63,unclassifiable
+32.45,9.49,13.34,3.85,weekly regulars
+25.64,0.36,86.73,0.96,lapsed
+13.11,0.34,47.25,1.47,lapsed
+50.01,8.98,5.77,3.44,weekly regulars
+17.73,0.44,59.07,1.17,lapsed
+31.0,6.14,6.47,4.62,weekly regulars
+133.24,1.54,3.64,7.49,bulk buyers
+291.98,1.28,11.19,5.46,bulk buyers
+14.0,1.56,49.68,0.77,bargain hunters
+91.64,1.83,6.44,3.73,bulk buyers
+21.9,7.32,12.44,4.05,weekly regulars
+104.47,1.86,12.54,6.82,bulk buyers
+19.45,2.43,35.73,1.21,bargain hunters
+10.24,3.27,41.97,1.17,bargain hunters
+27.72,6.56,9.06,4.63,weekly regulars
+82.0,1.29,10.55,4.71,bulk buyers
+82.59,1.66,8.08,4.03,bulk buyers
+29.46,6.55,13.55,2.07,weekly regulars
+21.26,0.46,70.32,1.38,lapsed
+15.06,3.36,62.88,1.17,bargain hunters
+26.73,6.43,16.13,3.51,weekly regulars
+17.41,0.46,111.43,1.17,lapsed
+13.93,1.35,33.0,1.67,bargain hunters
+25.85,0.35,34.72,1.79,lapsed
+21.01,0.49,75.03,0.98,lapsed
+113.32,1.63,7.65,8.25,bulk buyers
+25.28,0.44,75.0,1.21,lapsed
+30.43,9.43,15.22,2.57,weekly regulars
+15.49,2.11,66.8,1.51,bargain hunters
+72.57,1.67,7.31,6.44,bulk buyers
+19.72,0.55,50.08,1.16,lapsed
+15.54,0.24,57.12,1.38,lapsed
+23.91,2.16,50.96,1.71,bargain hunters
+31.41,0.28,74.95,1.53,lapsed
+38.2,6.01,14.08,2.33,weekly regulars
+11.82,0.32,31.13,0.63,lapsed
+167.23,1.48,11.46,5.81,bulk buyers
+14.02,1.6,43.62,1.55,bargain hunters
+31.32,8.95,15.61,4.54,weekly regulars
+100.48,1.68,6.5,6.69,bulk buyers
+113.93,1.04,13.47,5.73,bulk buyers
+30.11,1.55,42.86,1.35,bargain hunters
+26.46,2.65,56.29,0.91,bargain hunters
+26.89,0.48,71.8,1.41,lapsed
+45.74,10.25,11.12,4.35,weekly regulars
+33.23,10.06,12.07,2.43,weekly regulars
+98.05,1.81,5.74,4.59,bulk buyers
+24.82,12.72,10.02,2.86,weekly regulars
+12.75,2.07,33.02,2.17,bargain hunters
+209.21,1.64,10.25,5.59,bulk buyers
+20.22,0.37,36.96,1.09,lapsed
+163.61,1.29,9.44,4.62,bulk buyers
+16.95,0.28,54.2,1.12,lapsed
+92.56,1.25,7.08,7.83,bulk buyers
+17.84,0.49,81.08,1.51,lapsed
+25.02,2.23,43.1,1.8,bargain hunters
+17.04,2.59,39.66,1.71,bargain hunters
+152.74,1.9,11.18,6.12,bulk buyers
+29.97,7.73,12.86,3.6,weekly regulars
+23.41,1.59,57.49,1.88,bargain hunters
+29.95,5.08,15.61,2.64,weekly regulars
+49.1,5.97,14.2,2.61,weekly regulars
+125.58,1.76,9.8,7.08,bulk buyers
+42.66,11.59,18.06,3.07,weekly regulars
+22.67,2.01,34.83,1.23,bargain hunters
+22.46,0.55,61.96,0.91,lapsed
+22.46,0.26,104.13,0.76,lapsed
+59.71,7.7,15.18,2.57,weekly regulars
+23.49,4.96,9.41,5.62,unclassifiable
+96.41,3.47,29.49,3.0,unclassifiable
+12.71,0.48,85.9,1.1,lapsed
+43.48,10.79,11.55,2.63,weekly regulars
+102.04,1.62,7.78,3.53,bulk buyers
+25.3,1.72,45.04,1.27,bargain hunters
+25.43,0.25,53.9,1.22,lapsed
+34.99,0.44,60.86,1.23,lapsed
+27.49,0.27,35.12,1.03,lapsed
+128.02,0.74,12.77,3.87,bulk buyers
+38.0,6.03,13.9,2.6,weekly regulars
+20.33,0.55,51.64,1.6,lapsed
+11.56,1.7,46.01,1.73,bargain hunters
+27.34,0.41,77.56,0.63,lapsed
+151.16,1.78,11.16,10.11,bulk buyers
+19.33,2.68,29.25,1.57,bargain hunters
+16.19,2.29,52.46,2.2,bargain hunters
+119.66,6.82,87.68,0.94,unclassifiable
+93.01,1.5,10.07,7.7,bulk buyers
+20.63,8.77,11.5,2.97,weekly regulars
+19.82,6.81,12.23,3.14,weekly regulars
+14.93,0.56,50.03,0.69,lapsed
+177.26,1.17,9.19,4.77,bulk buyers
+25.33,3.04,34.16,1.15,bargain hunters
+125.94,1.42,7.55,5.57,bulk buyers
+183.34,1.48,9.48,7.1,bulk buyers
+194.62,0.8,9.34,4.9,bulk buyers
+92.96,1.63,8.94,4.82,bulk buyers
+20.89,2.88,54.94,1.47,bargain hunters
+43.35,6.61,9.58,3.79,weekly regulars
+208.22,1.41,6.5,6.88,bulk buyers
+147.04,6.27,56.31,5.65,unclassifiable
+19.86,7.42,15.97,1.93,weekly regulars
+14.58,0.23,53.33,0.71,lapsed
+138.55,1.46,6.6,4.24,bulk buyers
+21.81,2.83,57.64,1.64,bargain hunters
+16.29,0.8,23.14,1.5,bargain hunters
+24.5,0.35,63.03,0.96,lapsed
+184.59,1.91,10.64,5.29,bulk buyers
+20.48,6.0,15.77,2.92,weekly regulars
+20.06,2.33,37.06,1.02,bargain hunters
+55.16,9.33,16.06,2.79,weekly regulars
+134.46,1.59,2.97,6.08,bulk buyers
+30.53,2.41,13.05,0.26,unclassifiable
+184.5,2.16,9.37,8.08,bulk buyers
+165.13,1.89,10.32,7.16,bulk buyers
+22.19,2.39,53.47,1.23,bargain hunters
+101.94,0.89,8.73,7.17,bulk buyers
+17.01,0.97,47.6,1.39,bargain hunters
+16.64,0.48,60.99,0.9,lapsed
+17.72,3.33,33.45,1.15,bargain hunters
+28.24,9.92,11.28,3.71,weekly regulars
+22.82,0.34,68.24,0.81,lapsed
+28.03,4.56,9.32,2.43,weekly regulars
+15.03,2.88,28.95,1.16,bargain hunters
+16.65,7.55,14.89,3.01,unclassifiable
+39.44,8.2,15.9,3.01,weekly regulars
+27.48,11.74,13.28,2.41,weekly regulars
+18.83,0.29,48.99,1.93,bargain hunters
+12.83,1.94,65.39,1.35,bargain hunters
+54.55,8.61,17.8,2.42,weekly regulars
+17.21,1.46,23.23,1.07,bargain hunters
+39.44,11.38,14.28,1.94,weekly regulars
+163.08,2.31,7.75,4.98,bulk buyers
+222.46,2.0,10.1,7.5,bulk buyers
+41.82,8.41,12.08,4.82,weekly regulars
+15.13,1.84,62.85,1.61,bargain hunters
+27.67,3.24,36.75,0.61,bargain hunters
+130.93,1.37,11.88,3.85,bulk buyers
+25.19,14.47,10.02,1.74,weekly regulars
+167.32,6.98,79.38,5.63,unclassifiable
+14.9,1.91,38.27,1.77,bargain hunters
+98.73,0.88,4.37,6.12,bulk buyers
+20.15,2.83,44.97,1.78,bargain hunters
+138.15,0.27,14.04,9.62,bulk buyers
+109.45,1.54,9.37,6.26,bulk buyers
+25.42,5.77,12.73,1.73,weekly regulars
+146.93,0.63,8.35,7.87,bulk buyers
+31.18,6.17,11.42,2.74,weekly regulars
+29.34,6.64,13.83,2.13,weekly regulars
+24.5,2.01,15.86,4.34,weekly regulars
+20.69,1.89,49.54,1.65,bargain hunters
+28.8,0.34,71.46,1.35,lapsed
+12.16,0.44,78.78,0.67,lapsed
+124.17,1.85,7.04,4.79,bulk buyers
+136.37,1.98,11.58,4.52,bulk buyers
+31.19,7.0,8.77,1.29,weekly regulars
+18.15,1.59,33.52,1.49,bargain hunters
+41.34,5.98,8.23,2.55,weekly regulars
+29.05,9.38,10.2,4.78,weekly regulars
+35.03,11.32,15.18,3.37,weekly regulars
+26.54,0.45,115.39,1.15,lapsed
+18.42,0.61,86.65,1.41,lapsed
+17.52,2.04,38.52,1.48,bargain hunters
+58.26,8.51,16.6,2.62,weekly regulars
+135.82,1.5,5.45,6.66,bulk buyers
+186.08,0.9,8.0,6.69,bulk buyers
+79.81,0.34,39.86,6.52,unclassifiable
+21.56,6.29,10.99,2.17,weekly regulars
+30.48,9.7,12.82,1.68,weekly regulars
+35.2,0.37,61.22,1.15,lapsed
+12.47,1.09,57.49,1.4,bargain hunters
+142.62,1.06,9.29,5.24,bulk buyers
+176.61,1.43,12.31,6.09,bulk buyers
+12.24,0.43,76.61,0.98,lapsed
+27.07,2.77,44.0,0.71,bargain hunters
+48.72,5.36,14.08,2.04,weekly regulars
+22.97,1.83,31.48,1.06,bargain hunters
+36.25,10.26,12.08,3.98,weekly regulars
+20.1,1.11,24.79,2.21,bargain hunters
+14.46,1.2,45.57,0.93,bargain hunters
+10.02,0.47,85.64,0.96,lapsed
+30.0,9.64,8.77,2.53,weekly regulars
+21.07,2.06,63.95,1.4,bargain hunters
+18.25,0.43,92.9,0.98,lapsed
+25.49,2.47,45.84,1.62,bargain hunters
+34.07,7.99,9.89,3.06,weekly regulars
+28.77,5.16,12.47,3.42,weekly regulars
+127.16,1.13,11.26,4.71,bulk buyers
+41.88,2.52,22.32,2.56,unclassifiable
+34.22,2.33,52.96,2.0,bargain hunters
+39.23,8.69,14.31,2.28,weekly regulars
+34.71,11.58,9.63,3.85,weekly regulars
+34.05,10.92,9.51,3.14,weekly regulars
+154.83,2.01,11.37,4.16,bulk buyers
+19.62,2.82,39.63,1.58,bargain hunters
+16.66,1.64,32.13,1.37,bargain hunters
+24.23,7.58,4.41,3.58,weekly regulars
+158.21,1.39,7.05,8.13,bulk buyers
+129.11,1.01,6.33,7.93,bulk buyers
+220.96,1.03,8.74,4.85,bulk buyers
+141.27,1.22,9.83,6.52,bulk buyers
+39.91,9.32,11.29,1.91,weekly regulars
+55.93,9.31,6.65,4.42,weekly regulars
+17.68,2.04,68.81,1.72,bargain hunters
+89.8,1.62,9.7,7.13,bulk buyers
+17.64,9.38,11.53,1.59,weekly regulars
+135.87,2.25,4.99,5.94,bulk buyers
+50.17,4.23,15.18,1.95,weekly regulars
+18.83,0.47,93.88,0.68,lapsed
+89.56,2.53,2.6,2.31,unclassifiable
+31.99,10.5,11.3,3.43,weekly regulars
+22.86,1.63,39.26,1.53,bargain hunters
+13.72,0.31,64.93,1.48,lapsed
+9.74,1.73,39.95,0.61,bargain hunters
+167.08,0.84,10.24,6.77,bulk buyers
+30.8,8.08,6.2,3.29,weekly regulars
+12.0,2.7,28.15,0.81,bargain hunters
+18.52,2.55,31.11,0.7,bargain hunters
+19.83,0.22,37.04,0.95,lapsed
+70.92,9.33,6.95,3.23,weekly regulars
+12.19,1.8,43.2,1.0,bargain hunters
+153.26,0.82,11.04,5.02,bulk buyers
+16.43,2.19,49.46,1.92,bargain hunters
+14.3,2.96,19.94,1.46,bargain hunters
+12.06,0.34,62.58,0.86,lapsed
+21.62,3.28,49.14,1.45,bargain hunters
+10.73,0.78,42.11,1.47,bargain hunters
+79.69,12.86,7.17,2.82,weekly regulars
+14.53,2.54,55.88,1.93,bargain hunters
+22.48,0.34,72.91,0.86,lapsed
+33.29,3.84,14.44,2.53,weekly regulars
+21.29,0.51,73.3,1.01,lapsed
+18.5,1.48,43.27,1.57,bargain hunters
+18.07,2.24,68.93,1.29,bargain hunters
+26.48,0.68,45.54,1.89,bargain hunters
+18.6,2.06,52.54,0.86,bargain hunters
+14.11,2.27,41.67,1.26,bargain hunters
+20.35,1.65,38.01,1.59,bargain hunters
+37.54,10.4,18.47,2.58,weekly regulars
+38.34,8.54,14.11,2.12,weekly regulars
+22.63,11.44,16.48,3.73,weekly regulars
+23.2,0.46,69.78,1.25,lapsed
+21.36,9.17,16.53,3.12,weekly regulars
+16.84,1.36,36.09,1.01,bargain hunters
+27.86,7.97,13.7,2.38,weekly regulars
+26.74,11.17,9.82,4.18,weekly regulars
+20.63,1.87,74.85,0.99,bargain hunters
+85.13,1.47,6.52,3.38,bulk buyers
+16.05,1.02,49.94,1.52,bargain hunters
+33.25,10.22,9.27,2.9,weekly regulars
+14.42,1.84,44.2,1.48,bargain hunters
+134.44,1.69,8.24,4.97,bulk buyers
+34.45,8.16,6.92,4.0,weekly regulars
+14.95,2.66,61.87,1.72,bargain hunters
+55.96,9.22,9.09,2.55,weekly regulars
+24.33,0.52,108.31,1.0,lapsed
+98.36,0.66,11.38,7.39,bulk buyers
+42.05,5.09,7.81,3.74,weekly regulars
+46.02,7.43,14.05,2.51,weekly regulars
+59.44,8.45,11.97,3.35,weekly regulars
+112.47,1.36,45.61,2.9,unclassifiable
+17.93,3.08,45.47,1.68,unclassifiable
+36.5,5.82,8.43,2.77,weekly regulars
+29.89,0.35,90.2,1.09,lapsed
+123.3,0.81,8.54,8.12,bulk buyers
+29.3,9.11,11.87,4.7,weekly regulars
+150.75,1.9,8.0,8.82,bulk buyers
+20.38,2.29,22.18,1.55,bargain hunters
+20.03,5.31,10.65,2.6,weekly regulars
+13.23,0.49,54.65,1.4,lapsed
+167.02,0.96,4.98,4.93,bulk buyers
+98.99,0.67,11.49,4.81,bulk buyers
+15.28,0.62,78.97,1.15,lapsed
+19.54,1.47,37.71,1.38,bargain hunters
+42.22,0.41,79.15,0.89,lapsed
+29.23,7.56,17.51,3.63,weekly regulars
+20.98,2.32,40.74,1.17,bargain hunters
+20.27,1.61,61.05,1.67,bargain hunters
+15.21,0.2,73.14,1.32,lapsed
+51.29,5.22,14.16,2.09,weekly regulars
+28.23,8.63,16.33,2.86,weekly regulars
+18.23,1.56,37.13,1.45,bargain hunters
+24.33,2.06,38.97,1.76,bargain hunters
+12.79,2.12,37.48,1.1,bargain hunters
+28.13,0.13,63.39,1.53,lapsed
+14.69,1.59,54.08,1.25,bargain hunters
+28.25,11.59,8.97,2.99,weekly regulars
+53.12,6.35,5.76,2.81,weekly regulars
+16.42,0.3,86.71,1.17,lapsed
+107.52,1.04,8.59,5.71,bulk buyers
+24.63,0.3,68.99,1.31,lapsed
+42.5,7.67,21.55,2.76,unclassifiable
+15.33,1.55,55.79,1.61,bargain hunters
+11.14,2.67,31.5,1.39,bargain hunters
+32.87,9.96,9.88,2.97,weekly regulars
+24.13,0.52,90.22,1.32,lapsed
+14.39,3.31,44.85,1.62,bargain hunters
+20.02,0.28,102.06,0.87,lapsed
+230.74,1.46,7.29,6.06,bulk buyers
+43.11,5.46,13.27,4.04,weekly regulars
+38.57,10.66,9.38,3.54,weekly regulars
+52.74,9.93,11.99,2.87,weekly regulars
+13.89,2.46,62.26,1.39,bargain hunters
+30.36,0.54,62.97,1.17,lapsed
+13.52,2.47,59.57,1.5,bargain hunters
+19.5,1.85,22.29,1.41,bargain hunters
+37.24,1.63,42.41,1.72,bargain hunters
+31.58,9.83,10.63,4.09,weekly regulars
+87.6,0.68,7.34,7.06,bulk buyers
+143.89,1.42,12.32,6.8,bulk buyers
+14.43,1.37,51.67,1.66,bargain hunters
+22.95,9.64,15.79,3.61,weekly regulars
+19.59,1.32,60.42,1.45,bargain hunters
+18.72,1.64,50.67,1.44,bargain hunters
+36.06,0.38,80.55,0.75,lapsed
+38.0,7.89,12.94,2.77,weekly regulars
+20.73,0.32,52.19,1.06,lapsed
+20.85,1.5,66.92,1.51,bargain hunters
+42.84,8.36,9.99,3.09,weekly regulars
+102.5,1.41,13.33,5.56,bulk buyers
+92.79,0.06,29.12,0.32,unclassifiable
+34.16,9.48,13.4,2.77,weekly regulars
+31.73,0.43,75.65,1.14,lapsed
+50.38,9.42,7.58,2.25,weekly regulars
+24.63,0.15,49.36,1.03,lapsed
+19.51,1.77,36.84,0.8,bargain hunters
+57.29,9.32,13.19,5.16,weekly regulars
+18.33,1.83,52.26,1.5,bargain hunters
+139.63,2.2,10.71,7.08,bulk buyers
+227.05,1.7,12.41,7.47,bulk buyers
+18.6,0.49,83.46,0.85,lapsed
+23.94,7.12,12.7,2.63,weekly regulars
+29.32,7.21,4.06,1.98,weekly regulars
+20.79,1.12,8.14,3.72,unclassifiable
+16.28,2.94,47.29,1.27,bargain hunters
+35.17,10.72,17.44,2.43,weekly regulars
+52.54,11.77,12.22,3.93,weekly regulars
+24.93,6.96,14.03,2.62,weekly regulars
+52.99,8.84,14.53,4.45,weekly regulars
+68.76,1.92,8.77,5.38,bulk buyers
+13.42,3.4,26.01,2.03,bargain hunters
+21.99,2.55,69.19,1.21,bargain hunters
+32.85,5.19,16.08,2.99,weekly regulars
+22.13,8.02,11.43,4.03,weekly regulars
+50.01,7.44,12.57,3.53,weekly regulars
+19.5,2.57,60.79,1.38,bargain hunters
+11.7,0.28,101.83,1.35,lapsed
+11.14,3.68,52.23,2.02,bargain hunters
+29.68,6.34,9.41,1.25,weekly regulars
+33.53,12.61,17.94,2.34,weekly regulars
+16.1,0.26,75.12,0.96,lapsed
+16.24,3.16,49.37,0.93,bargain hunters
+119.63,1.51,5.92,5.43,bulk buyers
+30.54,9.97,8.08,2.21,weekly regulars
+15.59,1.84,47.49,1.62,bargain hunters
+43.81,9.78,14.17,3.58,weekly regulars
+127.58,1.3,5.12,5.23,bulk buyers
+31.59,0.54,71.23,0.88,lapsed
+32.73,10.31,8.41,3.58,weekly regulars
+20.25,2.19,76.9,1.62,bargain hunters
+13.06,1.9,56.21,0.97,bargain hunters
+44.48,9.47,10.28,2.81,weekly regulars
+37.85,0.38,55.7,0.53,lapsed
+24.42,0.35,91.41,0.84,lapsed
+13.74,0.31,105.41,1.4,lapsed
+18.26,2.57,42.55,1.65,bargain hunters
+23.44,0.43,67.13,1.38,lapsed
+26.73,2.37,39.78,1.1,bargain hunters
+172.86,1.1,3.46,7.61,bulk buyers
+15.19,0.44,48.5,1.36,lapsed
+180.88,1.86,10.11,5.45,bulk buyers
+52.83,9.22,9.54,0.66,weekly regulars
+38.44,9.77,14.25,3.45,weekly regulars
+14.2,2.35,33.81,1.15,bargain hunters
+10.1,2.0,37.03,1.0,bargain hunters
+39.73,10.36,12.18,4.16,weekly regulars
+45.48,9.53,14.38,4.39,weekly regulars
+41.33,6.32,11.45,4.23,weekly regulars
+102.23,1.79,9.06,7.83,bulk buyers
+139.05,1.83,10.54,6.24,bulk buyers
+34.24,8.44,14.71,4.82,weekly regulars
+52.19,9.13,11.77,4.41,weekly regulars
+130.96,1.62,4.38,8.02,bulk buyers
+38.82,12.24,12.95,3.27,weekly regulars
+15.55,0.36,67.3,0.67,lapsed
+95.24,0.83,6.46,7.59,bulk buyers
+78.81,1.01,10.13,6.81,bulk buyers
+120.94,0.76,8.05,4.71,bulk buyers
+36.93,9.46,43.87,3.53,unclassifiable
+28.24,7.5,8.71,3.88,weekly regulars
+21.13,0.38,68.55,1.03,lapsed
+23.88,1.96,48.6,1.3,bargain hunters
+35.39,8.56,81.19,4.87,unclassifiable
+18.78,0.46,104.56,1.04,lapsed
+212.19,1.39,3.54,8.58,bulk buyers
+38.7,7.85,13.89,3.59,weekly regulars
+53.0,4.88,9.55,3.46,weekly regulars
+23.63,0.35,58.07,1.27,lapsed
+35.95,7.47,13.88,3.41,weekly regulars
+32.19,9.48,13.57,1.97,weekly regulars
+18.01,1.86,47.53,0.67,bargain hunters
+93.41,0.55,10.65,7.18,bulk buyers
+26.62,1.09,39.73,1.76,bargain hunters
+12.56,1.21,54.62,1.21,bargain hunters
+27.97,0.53,62.04,1.1,lapsed
+44.03,12.62,9.95,4.09,weekly regulars
+30.86,0.41,35.44,1.84,unclassifiable
+14.02,2.47,31.46,1.67,bargain hunters
+22.98,0.52,65.34,1.11,lapsed
+34.74,7.76,12.14,4.42,weekly regulars
+28.77,2.75,61.37,1.36,bargain hunters
+118.64,1.44,6.09,3.57,bulk buyers
+26.99,1.58,41.78,1.21,bargain hunters
+144.52,1.41,15.13,8.15,bulk buyers
+19.76,2.87,42.91,0.89,bargain hunters
+9.64,2.59,56.04,1.82,bargain hunters
+33.13,9.9,18.52,2.52,weekly regulars
+13.44,0.36,76.17,1.36,lapsed
+187.18,0.98,12.8,6.26,bulk buyers
+42.45,1.49,20.36,2.19,unclassifiable
+26.99,11.54,11.14,1.28,weekly regulars
+50.46,5.2,17.96,2.95,weekly regulars
+32.48,9.03,14.01,3.63,weekly regulars
+234.88,1.24,9.29,7.93,bulk buyers
+30.65,8.05,11.1,2.34,weekly regulars
+49.29,8.0,16.46,3.74,weekly regulars
+109.5,1.3,9.27,4.59,bulk buyers
+32.24,9.8,8.52,3.93,weekly regulars
+138.99,1.96,13.19,5.25,bulk buyers
+36.49,2.54,31.01,1.04,bargain hunters
+32.88,10.36,12.54,2.92,weekly regulars
+144.6,1.22,5.35,5.06,bulk buyers
+22.77,2.39,38.45,1.4,bargain hunters
+27.8,8.65,13.22,3.05,weekly regulars
+36.24,9.91,11.24,4.35,weekly regulars
+32.46,6.29,12.7,2.92,weekly regulars
+33.13,12.53,7.74,4.23,weekly regulars
+13.36,1.87,63.12,1.47,bargain hunters
+18.47,3.16,44.08,0.91,bargain hunters
+16.92,3.48,9.2,3.36,weekly regulars
+19.57,1.94,38.23,1.72,bargain hunters
+38.91,11.77,15.98,4.49,weekly regulars
+29.87,1.97,15.23,1.37,bargain hunters
+20.71,4.81,10.4,2.75,weekly regulars
+20.53,3.71,48.72,1.51,bargain hunters
+54.85,8.13,12.94,2.62,weekly regulars
+21.94,0.97,44.25,1.4,bargain hunters
+101.78,4.72,44.33,6.86,unclassifiable
+16.69,0.35,52.72,0.51,lapsed
+16.38,1.29,50.02,1.51,bargain hunters
+16.34,0.3,31.53,0.75,lapsed
+163.76,1.95,9.52,5.48,bulk buyers
+13.59,0.34,64.64,1.52,lapsed
+16.49,0.81,45.1,1.5,bargain hunters
+95.47,1.55,9.11,5.39,bulk buyers
+10.64,1.96,49.58,0.86,bargain hunters
+17.97,0.23,67.58,0.99,lapsed
+99.85,1.11,9.42,7.25,bulk buyers
+33.06,2.23,31.66,0.4,unclassifiable
+18.99,0.45,92.84,0.92,lapsed
+18.91,0.38,55.53,0.97,lapsed
+30.5,2.29,24.0,1.64,bargain hunters
+26.92,6.3,18.89,5.33,unclassifiable
+146.99,0.92,15.82,8.0,bulk buyers
+18.41,2.44,50.21,0.74,bargain hunters
+36.37,8.46,8.26,1.52,weekly regulars
+104.93,1.85,11.15,3.92,bulk buyers
+128.65,1.76,11.91,5.6,bulk buyers
+44.76,9.45,18.18,2.5,weekly regulars
+157.87,1.14,10.48,6.49,bulk buyers
+30.67,0.32,91.18,0.82,lapsed
+11.27,2.98,67.45,1.5,bargain hunters
+30.98,0.5,61.16,0.91,lapsed
+73.25,9.98,25.68,1.41,unclassifiable
+18.87,1.53,37.29,1.78,bargain hunters
+39.29,6.44,11.0,3.13,weekly regulars
+48.92,4.15,13.82,3.55,weekly regulars
+95.74,1.05,9.28,5.87,bulk buyers
+44.16,3.73,15.57,3.57,weekly regulars
+34.03,11.02,13.26,2.86,weekly regulars
+81.83,0.8,10.56,6.29,bulk buyers
+18.49,1.51,56.53,1.53,bargain hunters
+70.91,1.59,11.65,7.25,bulk buyers
+35.51,9.22,7.28,2.84,weekly regulars
+40.18,7.09,15.86,1.51,weekly regulars
+153.61,1.35,6.22,6.63,bulk buyers
+27.77,9.04,4.07,2.94,weekly regulars
+17.16,2.64,58.71,1.33,bargain hunters
+49.22,4.83,14.11,4.42,weekly regulars
+31.95,3.56,37.14,11.25,unclassifiable
+47.33,8.74,12.76,4.06,weekly regulars
+15.43,0.49,58.97,1.02,lapsed
+32.89,9.64,9.38,3.01,weekly regulars
+34.76,10.1,12.35,2.98,weekly regulars
+19.16,1.98,35.54,0.66,bargain hunters
+30.26,9.66,9.26,2.54,weekly regulars
+41.63,8.6,8.11,3.41,weekly regulars
+111.69,1.0,13.58,8.88,bulk buyers
+130.84,1.29,8.27,7.28,bulk buyers
+161.05,3.39,39.71,3.33,unclassifiable
+43.72,3.29,6.39,4.06,weekly regulars
+21.14,1.41,47.64,1.52,bargain hunters
+44.11,0.35,15.85,1.07,lapsed
+30.42,8.04,13.67,4.22,weekly regulars
+18.92,0.29,85.01,0.94,lapsed
+70.31,6.95,81.76,1.02,unclassifiable
+23.9,7.25,9.68,3.1,weekly regulars
+26.73,8.51,15.7,4.35,weekly regulars
+22.66,2.63,54.05,1.39,bargain hunters
+35.82,11.02,13.42,3.36,weekly regulars
+10.6,1.53,50.14,1.61,bargain hunters
+14.81,2.81,44.15,2.13,bargain hunters
+15.26,0.99,40.39,1.3,bargain hunters
+26.54,0.25,87.45,1.15,lapsed
+34.6,7.99,18.14,3.77,weekly regulars
+30.46,9.53,16.28,3.51,weekly regulars
+11.77,1.67,47.61,1.47,bargain hunters
+33.36,7.0,11.63,3.92,weekly regulars
+22.04,0.53,93.83,0.96,lapsed
+17.79,2.87,48.08,1.23,bargain hunters
+97.04,2.0,7.02,4.37,bulk buyers
+26.51,8.72,14.52,3.56,weekly regulars
+31.84,11.66,7.77,2.63,weekly regulars
+147.33,1.39,9.09,8.12,bulk buyers
+139.06,3.01,20.91,2.6,unclassifiable
+38.99,5.4,19.04,3.78,weekly regulars
+20.34,0.2,55.62,1.82,lapsed
+19.89,2.94,49.8,1.51,bargain hunters
+16.47,2.9,38.55,0.83,bargain hunters
+23.87,1.93,33.07,1.65,bargain hunters
+25.69,0.59,69.65,0.94,lapsed
+57.47,6.91,8.78,3.05,weekly regulars
+39.46,7.64,7.91,2.91,weekly regulars
+27.97,5.91,7.58,4.55,weekly regulars
+21.22,1.04,27.13,1.32,bargain hunters
+27.3,2.69,33.5,1.67,bargain hunters
+24.2,1.88,61.54,1.33,bargain hunters
+26.92,10.62,13.3,3.08,weekly regulars
+18.59,2.49,24.17,2.13,bargain hunters
+35.05,0.54,79.54,0.88,lapsed
+28.11,0.32,53.33,1.42,lapsed
+18.54,0.43,89.67,1.46,lapsed
+21.24,0.27,21.0,1.08,lapsed
+43.37,6.49,17.47,3.81,weekly regulars
+29.07,9.58,12.17,3.64,weekly regulars
+23.91,0.33,25.2,1.03,lapsed
+37.44,0.34,93.73,1.0,lapsed
+144.86,0.31,10.8,4.19,bulk buyers
+19.65,2.17,41.81,1.28,bargain hunters
+175.3,1.18,9.51,5.92,bulk buyers
+14.25,1.52,44.81,1.26,bargain hunters
+42.83,10.97,13.73,2.97,weekly regulars
+31.08,0.44,62.41,0.94,lapsed
+38.93,8.26,7.86,4.73,weekly regulars
+15.59,0.37,30.1,1.62,bargain hunters
+40.19,15.37,14.66,3.41,weekly regulars
+20.54,0.42,32.81,1.06,lapsed
+36.16,10.74,10.34,4.05,weekly regulars
+29.27,12.04,15.66,3.52,weekly regulars
+44.52,9.07,11.68,3.06,weekly regulars
+120.95,1.49,5.7,7.38,bulk buyers
+11.67,1.8,47.49,1.5,bargain hunters
+16.11,2.41,67.54,1.38,bargain hunters
+108.85,1.64,3.11,3.11,bulk buyers
+47.77,5.24,18.15,4.26,weekly regulars
+44.53,8.27,12.53,4.5,weekly regulars
+131.56,1.78,8.34,6.82,bulk buyers
+267.52,6.62,89.13,1.77,unclassifiable
+11.59,3.11,16.8,1.66,bargain hunters
+131.7,1.52,10.85,4.93,bulk buyers
+117.53,0.98,9.97,6.76,bulk buyers
+127.21,1.38,6.81,5.33,bulk buyers
+70.09,3.14,36.1,0.88,unclassifiable
+42.0,7.89,13.31,1.83,weekly regulars
+23.39,0.33,65.35,0.64,lapsed
+101.01,0.95,12.43,7.56,bulk buyers
+25.96,2.18,59.78,1.29,bargain hunters
+15.81,1.69,47.89,1.87,bargain hunters
+35.35,11.43,15.58,1.99,weekly regulars
+66.75,2.04,9.41,6.86,bulk buyers
+17.61,1.54,61.27,0.88,bargain hunters
+27.83,1.63,35.37,1.84,bargain hunters
+34.42,5.65,15.48,4.11,weekly regulars
+26.51,0.33,64.54,1.37,lapsed
+34.19,6.76,20.71,2.32,unclassifiable
+96.23,1.16,3.67,6.46,bulk buyers
+33.72,6.38,9.54,4.16,weekly regulars
+23.95,0.45,84.55,0.85,lapsed
+24.66,3.66,82.4,1.82,bargain hunters
+5.96,2.13,45.38,1.21,bargain hunters
+24.97,5.21,12.13,3.44,weekly regulars
+33.62,12.06,14.71,2.2,weekly regulars
+126.38,1.03,7.05,4.64,bulk buyers
+123.11,1.65,7.87,5.48,bulk buyers
+16.54,2.3,58.4,1.3,bargain hunters
+242.12,1.25,14.05,5.31,bulk buyers
+27.41,2.45,49.69,1.79,bargain hunters
+58.29,6.47,16.43,1.79,weekly regulars
+7.92,2.35,37.19,1.28,bargain hunters
+31.17,7.02,16.2,3.27,weekly regulars
+37.3,6.97,13.96,3.16,weekly regulars
+32.5,10.55,11.74,2.86,weekly regulars
+14.2,0.44,40.01,0.45,lapsed
+11.75,1.31,41.27,1.07,bargain hunters
+11.78,2.31,77.6,1.47,bargain hunters
+31.06,11.12,5.51,3.98,weekly regulars
+18.86,1.35,38.39,1.44,bargain hunters
+26.65,0.28,70.54,1.37,lapsed
+40.01,6.77,15.66,1.84,weekly regulars
+8.26,1.48,22.55,1.52,bargain hunters
+31.42,9.53,14.5,3.18,weekly regulars
+190.03,9.14,34.94,1.27,unclassifiable
+40.42,12.1,14.06,1.86,weekly regulars
+154.16,1.62,3.17,5.58,bulk buyers
+76.11,0.96,7.03,6.77,bulk buyers
+106.87,1.4,12.78,5.56,bulk buyers
+18.72,2.97,27.38,1.64,bargain hunters
+38.59,8.08,10.0,3.33,weekly regulars
+18.53,0.28,44.15,1.04,lapsed
+50.67,12.37,8.23,4.99,weekly regulars
+63.75,6.99,10.77,3.5,weekly regulars
+25.18,2.52,55.47,1.55,bargain hunters
+12.39,2.58,47.14,1.77,bargain hunters
+173.92,2.28,9.89,7.14,bulk buyers
+40.02,11.38,7.41,4.59,weekly regulars
+28.45,5.98,17.78,0.84,weekly regulars
+156.69,1.54,6.55,5.61,bulk buyers
+25.11,2.14,58.83,1.28,bargain hunters
+109.25,1.36,3.32,5.38,bulk buyers
+97.11,1.7,12.13,5.4,bulk buyers
+88.74,1.58,13.14,5.5,bulk buyers
+35.17,10.92,13.63,2.69,weekly regulars
+146.41,0.51,78.84,1.92,unclassifiable
+25.56,0.37,78.93,0.95,lapsed
+11.6,0.18,57.56,1.33,lapsed
+17.81,1.79,34.97,1.15,bargain hunters
+69.06,1.0,14.44,5.18,bulk buyers
+25.21,4.97,17.67,3.85,weekly regulars
+31.36,8.25,14.64,3.07,weekly regulars
+23.33,2.64,48.59,1.05,bargain hunters
+15.83,1.6,59.42,1.63,bargain hunters
+14.04,1.67,29.49,0.29,unclassifiable
+33.02,10.51,14.72,4.31,weekly regulars
+36.58,7.53,11.14,3.64,weekly regulars
+15.48,0.34,75.89,1.14,lapsed
+22.93,9.32,10.02,4.18,weekly regulars
+13.54,1.37,53.46,1.92,bargain hunters
+17.39,0.53,72.28,0.63,lapsed
+19.18,1.62,62.5,1.04,bargain hunters
+129.18,2.1,10.07,6.73,bulk buyers
+15.41,1.74,48.28,1.1,bargain hunters
+174.6,1.24,11.36,8.91,bulk buyers
+51.45,13.51,17.57,3.7,weekly regulars
+16.19,0.41,71.78,1.52,lapsed
+21.07,10.95,10.17,2.19,weekly regulars
+221.75,0.29,47.41,4.76,unclassifiable
+104.21,1.46,0.27,1.62,unclassifiable
+18.27,2.57,24.59,0.85,bargain hunters
+24.07,0.23,74.77,1.33,lapsed
+21.73,10.09,8.13,3.18,weekly regulars
+38.76,9.26,2.79,2.9,weekly regulars
+29.19,0.89,20.38,0.15,unclassifiable
+15.12,1.54,58.21,1.36,bargain hunters
+39.47,5.48,8.99,1.69,weekly regulars
+41.21,5.08,10.57,4.91,weekly regulars
+29.95,5.38,11.9,3.83,weekly regulars
+125.13,0.74,10.36,7.21,bulk buyers
+42.37,8.98,8.91,2.75,weekly regulars
+17.95,0.17,53.91,0.84,lapsed
+174.46,4.6,27.9,4.29,unclassifiable
+200.45,1.35,11.41,4.72,bulk buyers
+20.88,0.66,71.43,1.2,lapsed
+38.32,0.37,72.8,1.11,lapsed
+24.87,11.99,9.14,3.17,weekly regulars
+27.44,6.53,13.32,3.74,weekly regulars
+23.44,2.24,44.89,1.65,bargain hunters
+153.0,1.37,10.86,4.47,bulk buyers
+39.37,12.37,8.43,3.49,weekly regulars
+111.85,1.81,9.27,8.17,bulk buyers
+29.84,8.32,15.96,3.4,weekly regulars
+13.68,0.46,52.57,0.88,lapsed
+11.0,1.4,45.14,1.12,bargain hunters
+23.47,1.73,56.3,1.35,bargain hunters
+11.81,1.63,59.24,1.75,bargain hunters
+31.44,0.3,77.14,1.19,lapsed
+33.39,8.38,15.4,3.03,weekly regulars
+25.08,0.34,69.64,0.92,lapsed
+23.08,7.29,4.62,2.74,weekly regulars
+141.98,1.73,3.95,7.96,bulk buyers
+19.3,2.79,41.85,2.15,bargain hunters
+43.41,4.4,29.72,3.64,unclassifiable
+9.42,1.58,45.34,1.8,bargain hunters
+154.09,1.13,8.57,4.44,bulk buyers
+205.66,1.59,7.63,6.12,bulk buyers
+12.3,2.25,38.77,1.89,bargain hunters
+52.19,7.49,11.81,1.66,weekly regulars
+38.19,7.01,15.35,2.67,weekly regulars
+38.14,8.46,11.9,0.84,weekly regulars
+15.27,2.06,62.23,1.36,bargain hunters
+124.29,1.8,5.32,6.25,bulk buyers
+22.46,2.1,66.86,1.97,bargain hunters
+42.63,11.89,10.52,3.08,weekly regulars
+120.48,1.48,12.29,6.94,bulk buyers
+16.61,0.45,46.31,1.07,lapsed
+48.54,6.04,17.68,2.32,weekly regulars
+45.04,8.91,6.97,3.45,weekly regulars
+41.02,6.02,10.88,3.74,weekly regulars
+27.96,0.59,50.74,1.64,lapsed
+42.26,12.41,8.0,5.2,weekly regulars
+44.49,5.15,13.13,2.95,weekly regulars
+36.14,9.72,15.77,2.75,weekly regulars
+24.62,0.39,99.87,0.71,lapsed
+28.67,9.29,11.06,1.88,weekly regulars
+30.56,11.78,13.04,2.63,weekly regulars
+33.77,8.42,14.6,4.04,weekly regulars
+20.19,1.63,53.68,1.22,bargain hunters
+53.66,12.54,12.06,3.54,weekly regulars
+77.48,0.54,4.78,6.75,bulk buyers
+33.8,11.41,17.58,1.76,weekly regulars
+17.33,0.33,94.39,0.77,lapsed
+20.97,10.61,5.71,2.66,weekly regulars
+17.39,0.42,68.51,1.22,lapsed
+22.11,2.76,50.82,1.01,bargain hunters
+39.62,12.12,9.47,3.16,weekly regulars
+9.92,0.44,44.87,0.94,lapsed
+67.48,0.8,17.16,4.37,bulk buyers
+35.72,7.23,11.69,4.93,weekly regulars
+132.55,1.12,14.13,4.71,bulk buyers
+15.57,2.15,48.54,1.68,bargain hunters
+20.68,0.3,98.95,1.15,lapsed
+127.49,1.64,9.23,6.33,bulk buyers
+20.3,2.87,37.75,2.03,bargain hunters
+27.82,8.46,11.04,3.51,weekly regulars
+128.59,1.87,8.22,5.45,bulk buyers
+22.68,7.66,10.49,2.07,weekly regulars
+15.24,1.12,55.22,1.09,bargain hunters
+15.39,0.52,77.9,0.98,lapsed
+20.55,8.97,12.35,2.4,weekly regulars
+111.68,1.02,6.8,8.69,bulk buyers
+41.84,11.19,14.46,3.53,weekly regulars
+35.72,9.9,13.68,3.75,weekly regulars
+27.56,0.29,66.42,0.95,lapsed
+21.23,1.51,27.82,1.24,bargain hunters
+20.64,2.33,62.11,1.01,bargain hunters
+23.23,2.32,60.46,2.07,bargain hunters
+30.95,6.83,10.89,2.9,weekly regulars
+178.87,1.03,6.49,3.64,bulk buyers
+108.47,1.02,9.2,6.01,bulk buyers
+239.87,1.92,11.07,5.61,bulk buyers
+28.3,6.81,10.73,3.7,weekly regulars
+20.61,6.27,11.24,4.29,weekly regulars
+42.09,9.63,18.7,3.07,weekly regulars
+26.86,6.33,15.17,2.89,weekly regulars
+30.81,1.86,44.19,1.41,bargain hunters
+28.95,0.41,87.14,0.85,lapsed
+25.61,8.73,10.21,2.07,weekly regulars
+38.11,9.12,16.95,2.8,weekly regulars
+87.2,0.99,10.11,5.9,bulk buyers
+29.76,8.18,12.82,3.66,weekly regulars
+12.2,2.92,49.7,1.5,bargain hunters
+12.25,0.4,74.16,0.5,lapsed
+164.81,2.0,2.03,5.89,bulk buyers
+20.7,1.64,50.7,1.23,bargain hunters
+16.18,0.39,78.35,0.84,lapsed
+29.37,1.67,52.39,2.08,bargain hunters
+31.29,0.47,56.85,0.87,lapsed
+10.97,0.46,62.09,1.13,lapsed
+22.34,0.38,72.73,1.44,lapsed
+34.0,0.32,79.82,1.17,lapsed
+25.1,0.04,77.86,1.29,lapsed
+37.72,0.43,80.46,1.28,lapsed
+35.32,5.34,7.39,3.25,weekly regulars
+116.04,2.2,12.83,6.97,bulk buyers
+22.74,2.4,33.69,1.21,bargain hunters
+22.33,0.44,61.69,1.39,lapsed
+12.14,0.59,106.73,0.55,lapsed
+26.87,10.55,7.57,2.64,weekly regulars
+141.75,1.68,11.84,2.48,bulk buyers
+26.31,11.36,10.69,1.52,weekly regulars
+108.57,1.08,7.5,8.33,bulk buyers
+21.5,0.41,37.85,1.15,lapsed
+53.44,7.4,14.82,3.26,weekly regulars
+146.47,1.7,0.77,5.64,bulk buyers
+121.35,1.26,8.89,6.63,bulk buyers
+10.66,2.98,24.19,1.48,bargain hunters
+39.1,8.62,10.63,2.93,weekly regulars
+121.55,0.92,12.43,2.84,bulk buyers
+32.47,2.19,11.97,3.39,weekly regulars
+13.19,2.13,34.99,1.44,bargain hunters
+158.84,1.82,11.61,4.15,bulk buyers
+19.99,8.55,18.08,3.43,weekly regulars
+46.61,7.1,12.77,4.25,weekly regulars
+212.38,1.6,7.39,7.23,bulk buyers
+19.5,2.04,40.71,1.58,bargain hunters
+13.72,0.42,17.42,1.19,lapsed
+67.67,1.21,13.33,4.8,bulk buyers
+20.16,2.73,29.19,1.4,bargain hunters
+27.68,10.02,13.78,2.94,weekly regulars
+34.35,9.83,5.28,3.15,weekly regulars
+133.06,1.55,8.32,4.98,bulk buyers
+16.43,2.77,10.76,1.3,bargain hunters
+32.73,5.85,12.97,2.69,weekly regulars
+66.21,4.9,5.28,3.74,weekly regulars
+27.67,7.79,13.39,2.3,weekly regulars
+21.07,1.45,43.84,0.73,bargain hunters
+22.5,0.32,67.59,0.89,lapsed
+23.56,0.36,33.83,0.94,lapsed
+43.37,6.16,9.4,3.36,weekly regulars
+35.85,8.49,15.56,2.8,weekly regulars
+151.73,1.67,5.2,4.48,bulk buyers
+21.69,7.37,11.56,3.35,weekly regulars
+37.94,8.56,9.24,2.84,weekly regulars
+13.31,2.55,40.25,1.42,bargain hunters
+27.15,10.86,12.18,2.97,weekly regulars
+23.93,1.09,58.68,1.47,bargain hunters
+12.87,0.37,86.03,1.52,lapsed
+31.46,0.34,60.22,1.04,lapsed
+39.04,0.43,102.1,0.93,lapsed
+22.86,0.47,72.0,1.05,lapsed
+32.11,0.42,36.24,1.2,lapsed
+23.92,7.1,10.95,3.86,weekly regulars
+29.31,9.4,13.3,4.07,weekly regulars
+150.84,1.5,8.88,3.89,bulk buyers
+29.58,11.21,12.96,2.67,weekly regulars
+26.69,0.13,119.73,1.12,lapsed
+29.29,6.23,15.14,3.62,weekly regulars
+32.33,9.15,9.57,4.75,weekly regulars
+105.16,1.69,8.35,3.98,bulk buyers
+12.92,6.18,20.46,2.05,unclassifiable
+40.17,8.33,12.88,2.22,weekly regulars
+20.25,0.39,52.77,1.35,lapsed
+18.1,2.65,39.37,1.77,bargain hunters
+16.96,1.72,65.65,1.25,bargain hunters
+100.76,1.21,7.54,8.39,bulk buyers
+17.86,2.69,57.18,1.53,bargain hunters
+82.42,1.52,5.05,7.09,bulk buyers
+24.3,0.23,86.52,0.9,lapsed
+26.81,4.07,10.09,4.34,weekly regulars
+145.54,1.62,4.25,5.34,bulk buyers
+221.69,1.06,9.78,5.85,bulk buyers
+40.23,7.46,17.39,2.9,weekly regulars
+18.03,2.24,37.41,1.24,bargain hunters
+12.19,0.42,79.37,1.04,lapsed
+9.91,2.21,41.97,1.45,bargain hunters
+13.44,0.59,54.94,0.88,lapsed
+27.09,0.39,53.63,1.18,lapsed
+116.29,1.29,8.51,5.13,bulk buyers
+122.91,1.43,9.9,1.59,bulk buyers
+47.82,12.45,10.84,3.87,weekly regulars
+21.77,0.6,55.37,0.99,bargain hunters
+20.03,2.94,45.3,0.88,bargain hunters
+51.96,12.06,23.23,3.03,unclassifiable
+42.07,8.62,5.36,2.99,weekly regulars
+18.8,0.19,64.69,1.0,lapsed
+23.76,9.8,9.87,4.33,weekly regulars
+13.15,1.55,54.47,1.04,bargain hunters
+98.0,1.15,12.94,5.55,bulk buyers
+15.79,1.64,11.52,1.47,bargain hunters
+20.28,1.47,48.17,1.53,bargain hunters
+20.38,9.44,18.71,3.59,weekly regulars
+13.37,0.43,29.0,1.26,lapsed
+29.19,13.07,13.57,4.07,weekly regulars
+31.69,8.3,52.02,2.83,unclassifiable
+85.38,1.64,6.87,6.16,bulk buyers
+14.69,1.89,15.28,1.5,bargain hunters
+82.09,1.78,8.95,5.13,bulk buyers
+29.16,7.55,12.08,1.97,weekly regulars
+19.86,0.44,46.41,0.92,lapsed
+54.92,1.08,9.98,6.32,bulk buyers
+40.95,0.39,101.16,0.78,lapsed
+19.67,1.93,43.07,1.46,bargain hunters
+114.23,1.96,8.47,6.12,bulk buyers
+9.95,3.11,34.53,0.68,bargain hunters
+103.32,1.34,10.79,5.53,bulk buyers
+21.81,1.64,35.3,2.32,bargain hunters
+11.28,1.84,19.3,2.0,bargain hunters
+39.16,0.35,62.51,1.39,lapsed
+108.14,7.14,30.58,2.61,unclassifiable
+32.61,3.54,92.01,0.41,unclassifiable
+13.27,1.3,46.81,1.93,bargain hunters
+36.3,0.34,82.12,1.18,lapsed
+22.3,0.48,69.88,0.96,lapsed
+11.59,2.57,21.73,0.94,bargain hunters
+22.52,3.0,47.07,1.13,bargain hunters
+92.11,2.78,37.58,5.22,unclassifiable
+14.18,0.33,94.58,1.61,lapsed
+105.27,2.01,6.18,5.78,bulk buyers
+26.22,2.0,34.36,2.13,bargain hunters
+14.76,0.42,78.48,0.7,lapsed
+148.97,1.41,6.04,6.34,bulk buyers
+35.43,8.06,8.78,2.73,weekly regulars
+119.8,1.84,7.78,7.35,bulk buyers
+16.63,3.03,40.43,0.91,bargain hunters
+35.94,9.1,8.77,2.75,weekly regulars
+128.82,1.24,13.71,4.69,bulk buyers
+35.32,11.0,13.15,1.84,weekly regulars
+21.09,0.44,73.97,1.49,lapsed
+104.88,1.27,11.69,5.47,bulk buyers
+23.42,0.49,104.51,1.08,lapsed
+21.21,2.33,43.83,1.86,bargain hunters
+27.19,7.3,8.18,4.37,weekly regulars
+31.81,0.38,44.74,1.3,lapsed
+166.79,1.38,12.44,8.36,bulk buyers
+108.55,1.78,6.6,6.07,bulk buyers
+147.08,1.69,6.74,7.84,bulk buyers
+25.23,3.2,49.23,1.1,bargain hunters
+131.1,1.51,10.84,6.34,bulk buyers
+21.16,5.91,79.43,0.41,unclassifiable
+153.73,2.14,9.84,5.58,bulk buyers
+16.67,0.26,92.35,1.15,lapsed
+140.63,1.47,9.28,7.41,bulk buyers
+36.09,8.63,14.85,2.86,weekly regulars
+17.26,9.31,11.03,3.66,weekly regulars
+12.95,2.53,60.77,1.34,bargain hunters
+23.81,3.08,11.28,2.47,weekly regulars
+145.61,5.34,85.71,5.13,unclassifiable
+30.81,4.33,10.42,1.8,weekly regulars
+16.92,2.3,46.68,1.77,bargain hunters
+15.21,2.09,50.62,1.46,bargain hunters
+31.62,0.39,50.26,1.53,lapsed
+35.12,9.59,3.91,2.54,weekly regulars
+110.68,1.21,5.41,7.11,bulk buyers
+33.55,0.49,59.45,0.88,lapsed

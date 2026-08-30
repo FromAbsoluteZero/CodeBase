@@ -1,0 +1,1804 @@
+InvoiceNo,StockCode,Description,Category,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+536001,S1006,Milk Frother,Equipment,3,2024-01-17,31.0,12250.0,Netherlands
+536001,S1000,Cold Brew Concentrate,Beverage,4,2024-01-17,12.5,12250.0,Netherlands
+536001,S1002,Espresso Beans 1kg,Beans,11,2024-01-17,24.0,12250.0,Netherlands
+536002,S1006,Milk Frother,Equipment,2,2024-01-23,31.0,12199.0,United Kingdom
+536003,S1005,Decaf Beans 1kg,Beans,4,2024-01-10,22.5,12187.0,United Kingdom
+536004,S1004,Travel Tumbler,Merch,7,2024-01-15,18.9,12191.0,United Kingdom
+536004,S1007,Gift Card,Other,10,2024-01-15,25.0,12191.0,United Kingdom
+536005,S1003,Paper Filters x100,Supplies,3,2024-01-10,4.25,12317.0,Germany
+536005,S1006,Milk Frother,Equipment,2,2024-01-10,31.0,12317.0,Germany
+536005,S1006,Milk Frother,Equipment,8,2024-01-10,31.0,12317.0,Germany
+536006,S1004,Travel Tumbler,Merch,12,2024-01-01,18.9,12177.0,United Kingdom
+536007,S1003,Paper Filters x100,Supplies,7,2024-01-24,4.25,12186.0,Netherlands
+536007,S1002,Espresso Beans 1kg,Beans,6,2024-01-24,24.0,,Netherlands
+536008,S1001,Ceramic Mug,Merch,12,2024-01-01,8.75,12397.0,United Kingdom
+536009,S1003,Paper Filters x100,Supplies,1,2024-01-21,4.25,12276.0,United Kingdom
+536009,S1004,Travel Tumbler,Merch,10,2024-01-21,18.9,12276.0,United Kingdom
+536010,S1007,Gift Card,Other,3,2024-01-08,25.0,12213.0,United Kingdom
+536010,S1004,Travel Tumbler,Merch,12,2024-01-08,18.9,12213.0,United Kingdom
+536010,S1006,Milk Frother,Equipment,9,2024-01-08,31.0,12213.0,United Kingdom
+536011,S1001,Ceramic Mug,Merch,7,2024-01-14,8.75,12255.0,France
+536012,S1002,Espresso Beans 1kg,Beans,8,2024-01-25,24.0,12245.0,United Kingdom
+536012,S1004,Travel Tumbler,Merch,2,2024-01-25,18.9,12245.0,United Kingdom
+536012,S1000,Cold Brew Concentrate,Beverage,8,2024-01-25,12.5,12245.0,United Kingdom
+536013,S1003,Paper Filters x100,Supplies,10,2024-01-07,4.25,12155.0,United Kingdom
+536014,S1004,Travel Tumbler,Merch,6,2024-01-28,18.9,12230.0,United Kingdom
+536014,S1004,Travel Tumbler,Merch,6,2024-01-28,18.9,12230.0,United Kingdom
+536015,S1004,Travel Tumbler,Merch,6,2024-01-27,18.9,12255.0,Germany
+536016,S1000,Cold Brew Concentrate,Beverage,5,2024-01-12,12.5,12020.0,United Kingdom
+536016,S1007,Gift Card,Other,12,2024-01-12,25.0,12020.0,United Kingdom
+536016,S1001,Ceramic Mug,Merch,1,2024-01-12,8.75,12020.0,United Kingdom
+536017,S1000,Cold Brew Concentrate,Beverage,8,2024-01-14,12.5,12268.0,United Kingdom
+536017,S1004,Travel Tumbler,Merch,2,2024-01-14,18.9,12268.0,United Kingdom
+536017,S1006,Milk Frother,Equipment,11,2024-01-14,31.0,12268.0,United Kingdom
+536018,S1004,Travel Tumbler,Merch,4,2024-01-26,18.9,,Ireland
+536018,S1001,Ceramic Mug,Merch,7,2024-01-26,8.75,12242.0,Ireland
+536018,S1001,Ceramic Mug,Merch,10,2024-01-26,8.75,12242.0,Ireland
+536019,S1003,Paper Filters x100,Supplies,11,2024-01-02,4.25,12371.0,Germany
+536020,S1003,Paper Filters x100,Supplies,12,2024-01-16,4.25,12233.0,Germany
+536021,S1007,Gift Card,Other,11,2024-01-20,25.0,12164.0,United Kingdom
+536022,S1002,Espresso Beans 1kg,Beans,6,2024-01-16,24.0,12304.0,United Kingdom
+536022,S1006,Milk Frother,Equipment,1,2024-01-16,31.0,12304.0,United Kingdom
+536023,S1007,Gift Card,Other,2,2024-01-23,25.0,12010.0,United Kingdom
+536024,S1003,Paper Filters x100,Supplies,1,2024-01-19,4.25,12043.0,Ireland
+536024,S1004,Travel Tumbler,Merch,6,2024-01-19,18.9,12043.0,Ireland
+536024,S1006,Milk Frother,Equipment,9,2024-01-19,31.0,12043.0,Ireland
+536025,S1006,Milk Frother,Equipment,5,2024-01-08,31.0,12137.0,Germany
+536025,S1007,Gift Card,Other,7,2024-01-08,25.0,12137.0,Germany
+536025,S1004,Travel Tumbler,Merch,10,2024-01-08,18.9,12137.0,Germany
+536026,S1007,Gift Card,Other,4,2024-01-05,25.0,12399.0,Netherlands
+536026,S1000,Cold Brew Concentrate,Beverage,7,2024-01-05,12.5,12399.0,Netherlands
+536027,S1006,Milk Frother,Equipment,6,2024-01-19,31.0,12301.0,France
+536028,S1005,Decaf Beans 1kg,Beans,6,2024-01-01,22.5,12388.0,France
+536028,S1006,Milk Frother,Equipment,12,2024-01-01,31.0,12388.0,France
+536028,S1004,Travel Tumbler,Merch,2,2024-01-01,18.9,12388.0,France
+536029,S1007,Gift Card,Other,5,2024-01-06,25.0,12290.0,United Kingdom
+536030,S1007,Gift Card,Other,11,2024-01-10,25.0,12157.0,United Kingdom
+536031,S1000,Cold Brew Concentrate,Beverage,12,2024-01-04,12.5,12229.0,United Kingdom
+536032,S1004,Travel Tumbler,Merch,12,2024-01-28,18.9,12080.0,United Kingdom
+536033,S1004,Travel Tumbler,Merch,7,2024-01-22,18.9,12208.0,Netherlands
+536033,S1006,Milk Frother,Equipment,6,2024-01-22,31.0,12208.0,Netherlands
+536033,S1007,Gift Card,Other,11,2024-01-22,25.0,12208.0,Netherlands
+536034,S1000,Cold Brew Concentrate,Beverage,3,2024-01-26,12.5,12285.0,United Kingdom
+536035,S1005,Decaf Beans 1kg,Beans,4,2024-01-16,22.5,12171.0,United Kingdom
+536035,S1006,Milk Frother,Equipment,10,2024-01-16,31.0,12171.0,United Kingdom
+536035,S1005,Decaf Beans 1kg,Beans,9,2024-01-16,22.5,12171.0,United Kingdom
+536036,S1007,Gift Card,Other,4,2024-01-18,25.0,12053.0,France
+536036,S1002,Espresso Beans 1kg,Beans,8,2024-01-18,24.0,12053.0,France
+536036,S1003,Paper Filters x100,Supplies,9,2024-01-18,4.25,12053.0,France
+536037,S1002,Espresso Beans 1kg,Beans,11,2024-01-14,24.0,12081.0,United Kingdom
+536038,S1004,Travel Tumbler,Merch,11,2024-01-04,18.9,12237.0,Netherlands
+536038,S1003,Paper Filters x100,Supplies,3,2024-01-04,4.25,12237.0,Netherlands
+536038,S1004,Travel Tumbler,Merch,6,2024-01-04,18.9,,Netherlands
+536039,S1006,Milk Frother,Equipment,6,2024-01-04,31.0,12263.0,United Kingdom
+536039,S1001,Ceramic Mug,Merch,8,2024-01-04,8.75,12263.0,United Kingdom
+536039,S1003,Paper Filters x100,Supplies,8,2024-01-04,4.25,12263.0,United Kingdom
+536040,S1003,Paper Filters x100,Supplies,1,2024-01-02,4.25,12293.0,United Kingdom
+536040,S1006,Milk Frother,Equipment,9,2024-01-02,31.0,12293.0,United Kingdom
+536040,S1006,Milk Frother,Equipment,11,2024-01-02,31.0,12293.0,United Kingdom
+536041,S1005,Decaf Beans 1kg,Beans,10,2024-01-26,22.5,12291.0,United Kingdom
+536041,S1005,Decaf Beans 1kg,Beans,11,2024-01-26,22.5,12291.0,United Kingdom
+536041,S1007,Gift Card,Other,7,2024-01-26,25.0,12291.0,United Kingdom
+536042,S1000,Cold Brew Concentrate,Beverage,6,2024-01-02,12.5,12118.0,Netherlands
+536043,S1007,Gift Card,Other,3,2024-01-20,25.0,12008.0,United Kingdom
+536044,S1004,Travel Tumbler,Merch,2,2024-01-02,18.9,12097.0,Germany
+536045,S1003,Paper Filters x100,Supplies,4,2024-01-03,4.25,12066.0,Germany
+536046,S1006,Milk Frother,Equipment,6,2024-01-16,31.0,12343.0,Ireland
+536046,S1005,Decaf Beans 1kg,Beans,3,2024-01-16,22.5,,Ireland
+536047,S1003,Paper Filters x100,Supplies,1,2024-01-22,4.25,12244.0,United Kingdom
+536047,S1001,Ceramic Mug,Merch,10,2024-01-22,8.75,12244.0,United Kingdom
+536048,S1000,Cold Brew Concentrate,Beverage,7,2024-01-24,12.5,12360.0,Ireland
+536049,S1002,Espresso Beans 1kg,Beans,8,2024-01-05,24.0,12135.0,United Kingdom
+536050,S1006,Milk Frother,Equipment,6,2024-01-09,31.0,12121.0,France
+536050,S1006,Milk Frother,Equipment,4,2024-01-09,31.0,12121.0,France
+536051,S1003,Paper Filters x100,Supplies,3,2024-01-22,4.25,12051.0,France
+536051,S1004,Travel Tumbler,Merch,7,2024-01-22,18.9,12051.0,France
+536051,S1003,Paper Filters x100,Supplies,8,2024-01-22,4.25,12051.0,France
+536052,S1005,Decaf Beans 1kg,Beans,1,2024-01-03,22.5,12317.0,Germany
+536052,S1005,Decaf Beans 1kg,Beans,11,2024-01-03,22.5,12317.0,Germany
+536053,S1000,Cold Brew Concentrate,Beverage,9,2024-01-11,12.5,12329.0,France
+536054,S1001,Ceramic Mug,Merch,5,2024-01-26,8.75,12186.0,Netherlands
+536055,S1001,Ceramic Mug,Merch,7,2024-01-19,8.75,12010.0,Germany
+536056,S1002,Espresso Beans 1kg,Beans,11,2024-01-11,24.0,12358.0,Ireland
+536057,S1004,Travel Tumbler,Merch,5,2024-01-17,18.9,12182.0,Germany
+536058,S1006,Milk Frother,Equipment,7,2024-01-19,31.0,12076.0,United Kingdom
+536058,S1003,Paper Filters x100,Supplies,4,2024-01-19,4.25,12076.0,United Kingdom
+536058,S1002,Espresso Beans 1kg,Beans,8,2024-01-19,24.0,12076.0,United Kingdom
+536059,S1001,Ceramic Mug,Merch,4,2024-01-20,8.75,12215.0,United Kingdom
+536060,S1006,Milk Frother,Equipment,10,2024-01-03,31.0,12237.0,United Kingdom
+536060,S1004,Travel Tumbler,Merch,11,2024-01-03,18.9,12237.0,United Kingdom
+536061,S1007,Gift Card,Other,2,2024-01-06,25.0,12119.0,United Kingdom
+536061,S1004,Travel Tumbler,Merch,2,2024-01-06,18.9,12119.0,United Kingdom
+536061,S1006,Milk Frother,Equipment,2,2024-01-06,31.0,12119.0,United Kingdom
+536062,S1002,Espresso Beans 1kg,Beans,11,2024-01-26,24.0,12295.0,United Kingdom
+536062,S1002,Espresso Beans 1kg,Beans,10,2024-01-26,24.0,12295.0,United Kingdom
+536062,S1006,Milk Frother,Equipment,6,2024-01-26,31.0,12295.0,United Kingdom
+536063,S1001,Ceramic Mug,Merch,11,2024-01-01,8.75,12247.0,United Kingdom
+536063,S1006,Milk Frother,Equipment,5,2024-01-01,31.0,12247.0,United Kingdom
+536064,S1005,Decaf Beans 1kg,Beans,1,2024-01-03,22.5,,France
+536064,S1006,Milk Frother,Equipment,7,2024-01-03,31.0,,France
+536065,S1005,Decaf Beans 1kg,Beans,1,2024-01-10,22.5,12330.0,Germany
+536065,S1001,Ceramic Mug,Merch,7,2024-01-10,8.75,,Germany
+536066,S1002,Espresso Beans 1kg,Beans,9,2024-01-06,24.0,12326.0,France
+536067,S1004,Travel Tumbler,Merch,2,2024-01-18,18.9,12214.0,France
+536067,S1007,Gift Card,Other,3,2024-01-18,25.0,12214.0,France
+536067,S1000,Cold Brew Concentrate,Beverage,10,2024-01-18,12.5,12214.0,France
+536068,S1007,Gift Card,Other,8,2024-01-21,25.0,12051.0,Germany
+536068,S1007,Gift Card,Other,10,2024-01-21,25.0,12051.0,Germany
+536069,S1002,Espresso Beans 1kg,Beans,8,2024-01-17,24.0,12337.0,France
+536069,S1001,Ceramic Mug,Merch,3,2024-01-17,8.75,12337.0,France
+536070,S1005,Decaf Beans 1kg,Beans,3,2024-01-22,22.5,12236.0,France
+536071,S1003,Paper Filters x100,Supplies,1,2024-01-10,4.25,12177.0,United Kingdom
+536071,S1002,Espresso Beans 1kg,Beans,11,2024-01-10,24.0,12177.0,United Kingdom
+536072,S1004,Travel Tumbler,Merch,1,2024-01-11,18.9,12041.0,United Kingdom
+536072,S1005,Decaf Beans 1kg,Beans,10,2024-01-11,22.5,12041.0,United Kingdom
+536072,S1003,Paper Filters x100,Supplies,1,2024-01-11,4.25,12041.0,United Kingdom
+536073,S1006,Milk Frother,Equipment,2,2024-01-11,31.0,12332.0,Netherlands
+536073,S1000,Cold Brew Concentrate,Beverage,10,2024-01-11,12.5,12332.0,Netherlands
+536074,S1005,Decaf Beans 1kg,Beans,11,2024-01-05,22.5,12051.0,Ireland
+536074,S1006,Milk Frother,Equipment,5,2024-01-05,31.0,12051.0,Ireland
+536075,S1005,Decaf Beans 1kg,Beans,12,2024-01-13,22.5,12368.0,United Kingdom
+536076,S1004,Travel Tumbler,Merch,12,2024-01-05,18.9,12071.0,United Kingdom
+536076,S1003,Paper Filters x100,Supplies,12,2024-01-05,4.25,12071.0,United Kingdom
+536077,S1006,Milk Frother,Equipment,3,2024-01-13,31.0,12300.0,United Kingdom
+536077,S1006,Milk Frother,Equipment,10,2024-01-13,31.0,12300.0,United Kingdom
+536077,S1001,Ceramic Mug,Merch,1,2024-01-13,8.75,12300.0,United Kingdom
+536078,S1002,Espresso Beans 1kg,Beans,5,2024-01-01,24.0,12061.0,United Kingdom
+536079,S1005,Decaf Beans 1kg,Beans,1,2024-01-07,22.5,12124.0,France
+536079,S1007,Gift Card,Other,12,2024-01-07,25.0,12124.0,France
+536080,S1001,Ceramic Mug,Merch,1,2024-01-26,8.75,12101.0,Netherlands
+536080,S1003,Paper Filters x100,Supplies,9,2024-01-26,4.25,,Netherlands
+536081,S1007,Gift Card,Other,7,2024-01-12,25.0,12090.0,United Kingdom
+536082,S1006,Milk Frother,Equipment,8,2024-01-05,31.0,12067.0,United Kingdom
+536082,S1003,Paper Filters x100,Supplies,12,2024-01-05,4.25,12067.0,United Kingdom
+536083,S1002,Espresso Beans 1kg,Beans,7,2024-01-24,24.0,12073.0,Germany
+536084,S1003,Paper Filters x100,Supplies,7,2024-02-20,4.25,12113.0,United Kingdom
+536084,S1007,Gift Card,Other,5,2024-02-20,25.0,12113.0,United Kingdom
+536085,S1001,Ceramic Mug,Merch,4,2024-02-25,8.75,12072.0,France
+536085,S1001,Ceramic Mug,Merch,5,2024-02-25,8.75,12072.0,France
+536086,S1001,Ceramic Mug,Merch,3,2024-02-27,8.75,12045.0,Ireland
+536086,S1005,Decaf Beans 1kg,Beans,12,2024-02-27,22.5,12045.0,Ireland
+536086,S1006,Milk Frother,Equipment,3,2024-02-27,31.0,12045.0,Ireland
+536087,S1007,Gift Card,Other,10,2024-02-14,25.0,12176.0,United Kingdom
+536087,S1000,Cold Brew Concentrate,Beverage,10,2024-02-14,12.5,12176.0,United Kingdom
+536088,S1004,Travel Tumbler,Merch,3,2024-02-28,18.9,12126.0,Germany
+536089,S1006,Milk Frother,Equipment,10,2024-02-25,31.0,12342.0,United Kingdom
+536090,S1002,Espresso Beans 1kg,Beans,11,2024-02-24,24.0,12331.0,France
+536090,S1005,Decaf Beans 1kg,Beans,9,2024-02-24,22.5,,France
+536090,S1007,Gift Card,Other,9,2024-02-24,25.0,12331.0,France
+536091,S1006,Milk Frother,Equipment,10,2024-02-05,31.0,12131.0,United Kingdom
+536092,S1007,Gift Card,Other,4,2024-02-24,25.0,12066.0,Netherlands
+536092,S1006,Milk Frother,Equipment,12,2024-02-24,31.0,12066.0,Netherlands
+536093,S1000,Cold Brew Concentrate,Beverage,3,2024-02-15,12.5,12117.0,United Kingdom
+536094,S1000,Cold Brew Concentrate,Beverage,4,2024-02-13,12.5,12386.0,Germany
+536094,S1004,Travel Tumbler,Merch,10,2024-02-13,18.9,12386.0,Germany
+536094,S1003,Paper Filters x100,Supplies,9,2024-02-13,4.25,12386.0,Germany
+536095,S1003,Paper Filters x100,Supplies,3,2024-02-27,4.25,12327.0,Germany
+536096,S1005,Decaf Beans 1kg,Beans,5,2024-02-07,22.5,12166.0,Germany
+536096,S1003,Paper Filters x100,Supplies,9,2024-02-07,4.25,12166.0,Germany
+536096,S1003,Paper Filters x100,Supplies,3,2024-02-07,4.25,12166.0,Germany
+536097,S1000,Cold Brew Concentrate,Beverage,9,2024-02-22,12.5,12212.0,Germany
+536098,S1006,Milk Frother,Equipment,6,2024-02-19,31.0,12291.0,United Kingdom
+536098,S1003,Paper Filters x100,Supplies,5,2024-02-19,4.25,12291.0,United Kingdom
+536098,S1000,Cold Brew Concentrate,Beverage,9,2024-02-19,12.5,12291.0,United Kingdom
+536099,S1000,Cold Brew Concentrate,Beverage,12,2024-02-21,12.5,12372.0,United Kingdom
+536099,S1004,Travel Tumbler,Merch,5,2024-02-21,18.9,12372.0,United Kingdom
+536099,S1004,Travel Tumbler,Merch,1,2024-02-21,18.9,12372.0,United Kingdom
+536100,S1000,Cold Brew Concentrate,Beverage,8,2024-02-26,12.5,12372.0,United Kingdom
+536100,S1000,Cold Brew Concentrate,Beverage,7,2024-02-26,12.5,12372.0,United Kingdom
+536101,S1001,Ceramic Mug,Merch,1,2024-02-17,8.75,12316.0,United Kingdom
+536102,S1005,Decaf Beans 1kg,Beans,6,2024-02-15,22.5,12078.0,Netherlands
+536103,S1004,Travel Tumbler,Merch,6,2024-02-20,18.9,12373.0,France
+536104,S1000,Cold Brew Concentrate,Beverage,10,2024-02-24,12.5,12322.0,United Kingdom
+536104,S1002,Espresso Beans 1kg,Beans,9,2024-02-24,24.0,12322.0,United Kingdom
+536105,S1004,Travel Tumbler,Merch,4,2024-02-12,18.9,12166.0,Germany
+536106,S1003,Paper Filters x100,Supplies,6,2024-02-26,4.25,12158.0,France
+536106,S1000,Cold Brew Concentrate,Beverage,10,2024-02-26,12.5,12158.0,France
+536107,S1006,Milk Frother,Equipment,10,2024-02-10,31.0,12024.0,United Kingdom
+536108,S1007,Gift Card,Other,6,2024-02-03,25.0,12152.0,Netherlands
+536108,S1006,Milk Frother,Equipment,9,2024-02-03,31.0,12152.0,Netherlands
+536108,S1007,Gift Card,Other,1,2024-02-03,25.0,12152.0,Netherlands
+536109,S1004,Travel Tumbler,Merch,6,2024-02-25,18.9,12343.0,United Kingdom
+536110,S1002,Espresso Beans 1kg,Beans,8,2024-02-22,24.0,12223.0,Germany
+536110,S1003,Paper Filters x100,Supplies,6,2024-02-22,4.25,12223.0,Germany
+536110,S1000,Cold Brew Concentrate,Beverage,3,2024-02-22,12.5,12223.0,Germany
+536111,S1003,Paper Filters x100,Supplies,7,2024-02-09,4.25,12254.0,United Kingdom
+536112,S1007,Gift Card,Other,5,2024-02-10,25.0,12399.0,United Kingdom
+536112,S1001,Ceramic Mug,Merch,7,2024-02-10,8.75,12399.0,United Kingdom
+536113,S1003,Paper Filters x100,Supplies,5,2024-02-25,4.25,12112.0,Ireland
+536113,S1002,Espresso Beans 1kg,Beans,4,2024-02-25,24.0,,Ireland
+536113,S1007,Gift Card,Other,4,2024-02-25,25.0,,Ireland
+536114,S1001,Ceramic Mug,Merch,11,2024-02-04,8.75,12197.0,Germany
+536115,S1001,Ceramic Mug,Merch,12,2024-02-14,8.75,12216.0,United Kingdom
+536116,S1001,Ceramic Mug,Merch,6,2024-02-14,8.75,12168.0,Netherlands
+536116,S1006,Milk Frother,Equipment,10,2024-02-14,31.0,12168.0,Netherlands
+536116,S1005,Decaf Beans 1kg,Beans,6,2024-02-14,22.5,12168.0,Netherlands
+536117,S1001,Ceramic Mug,Merch,7,2024-02-16,8.75,12263.0,United Kingdom
+536118,S1004,Travel Tumbler,Merch,1,2024-02-23,18.9,12126.0,France
+536118,S1001,Ceramic Mug,Merch,9,2024-02-23,8.75,12126.0,France
+536118,S1004,Travel Tumbler,Merch,10,2024-02-23,18.9,12126.0,France
+536119,S1005,Decaf Beans 1kg,Beans,7,2024-02-02,22.5,12097.0,United Kingdom
+536120,S1002,Espresso Beans 1kg,Beans,8,2024-02-11,24.0,12098.0,Germany
+C536120,S1007,Gift Card,Other,-4,2024-02-11,25.0,12098.0,Germany
+536121,S1005,Decaf Beans 1kg,Beans,2,2024-02-15,22.5,12076.0,United Kingdom
+536121,S1001,Ceramic Mug,Merch,1,2024-02-15,8.75,12076.0,United Kingdom
+536121,S1007,Gift Card,Other,5,2024-02-15,25.0,12076.0,United Kingdom
+536122,S1003,Paper Filters x100,Supplies,1,2024-02-07,4.25,12115.0,United Kingdom
+536123,S1005,Decaf Beans 1kg,Beans,10,2024-02-22,22.5,12388.0,United Kingdom
+536123,S1001,Ceramic Mug,Merch,2,2024-02-22,8.75,12388.0,United Kingdom
+536124,S1003,Paper Filters x100,Supplies,6,2024-02-23,4.25,12054.0,United Kingdom
+536124,S1006,Milk Frother,Equipment,12,2024-02-23,31.0,12054.0,United Kingdom
+536124,S1002,Espresso Beans 1kg,Beans,8,2024-02-23,24.0,12054.0,United Kingdom
+536125,S1006,Milk Frother,Equipment,1,2024-02-22,31.0,12321.0,Germany
+536125,S1002,Espresso Beans 1kg,Beans,3,2024-02-22,24.0,12321.0,Germany
+536126,S1000,Cold Brew Concentrate,Beverage,2,2024-02-03,12.5,12102.0,United Kingdom
+536126,S1003,Paper Filters x100,Supplies,6,2024-02-03,4.25,12102.0,United Kingdom
+536127,S1001,Ceramic Mug,Merch,5,2024-02-04,8.75,12198.0,Germany
+536127,S1001,Ceramic Mug,Merch,12,2024-02-04,8.75,12198.0,Germany
+536127,S1002,Espresso Beans 1kg,Beans,11,2024-02-04,24.0,12198.0,Germany
+536128,S1003,Paper Filters x100,Supplies,2,2024-02-01,4.25,12384.0,United Kingdom
+536129,S1003,Paper Filters x100,Supplies,2,2024-02-01,4.25,12339.0,United Kingdom
+536130,S1004,Travel Tumbler,Merch,3,2024-02-22,18.9,12065.0,United Kingdom
+536130,S1003,Paper Filters x100,Supplies,8,2024-02-22,4.25,12065.0,United Kingdom
+536130,S1001,Ceramic Mug,Merch,5,2024-02-22,8.75,12065.0,United Kingdom
+536131,S1001,Ceramic Mug,Merch,8,2024-02-23,8.75,12188.0,United Kingdom
+536131,S1007,Gift Card,Other,3,2024-02-23,25.0,12188.0,United Kingdom
+536131,S1007,Gift Card,Other,8,2024-02-23,25.0,12188.0,United Kingdom
+536132,S1007,Gift Card,Other,8,2024-02-01,25.0,12267.0,United Kingdom
+536132,S1002,Espresso Beans 1kg,Beans,10,2024-02-01,24.0,12267.0,United Kingdom
+536133,S1007,Gift Card,Other,2,2024-02-27,25.0,12041.0,United Kingdom
+536134,S1006,Milk Frother,Equipment,10,2024-02-10,31.0,12045.0,United Kingdom
+536135,S1004,Travel Tumbler,Merch,10,2024-02-28,18.9,12375.0,Netherlands
+536135,S1005,Decaf Beans 1kg,Beans,10,2024-02-28,22.5,12375.0,Netherlands
+536136,S1007,Gift Card,Other,8,2024-02-06,25.0,12271.0,Germany
+536136,S1006,Milk Frother,Equipment,5,2024-02-06,31.0,12271.0,Germany
+536136,S1003,Paper Filters x100,Supplies,7,2024-02-06,4.25,12271.0,Germany
+536137,S1005,Decaf Beans 1kg,Beans,8,2024-02-21,22.5,12158.0,United Kingdom
+536138,S1000,Cold Brew Concentrate,Beverage,5,2024-02-27,12.5,12168.0,Netherlands
+536138,S1004,Travel Tumbler,Merch,1,2024-02-27,18.9,12168.0,Netherlands
+536138,S1003,Paper Filters x100,Supplies,2,2024-02-27,4.25,12168.0,Netherlands
+536139,S1003,Paper Filters x100,Supplies,7,2024-02-09,4.25,12108.0,United Kingdom
+536139,S1007,Gift Card,Other,1,2024-02-09,25.0,12108.0,United Kingdom
+536139,S1002,Espresso Beans 1kg,Beans,6,2024-02-09,24.0,12108.0,United Kingdom
+536140,S1001,Ceramic Mug,Merch,5,2024-02-11,8.75,12359.0,Germany
+536140,S1002,Espresso Beans 1kg,Beans,1,2024-02-11,24.0,12359.0,Germany
+536140,S1000,Cold Brew Concentrate,Beverage,10,2024-02-11,12.5,12359.0,Germany
+536141,S1006,Milk Frother,Equipment,1,2024-02-04,31.0,12030.0,United Kingdom
+536142,S1006,Milk Frother,Equipment,12,2024-02-07,31.0,12274.0,United Kingdom
+536143,S1001,Ceramic Mug,Merch,4,2024-02-20,8.75,12286.0,United Kingdom
+536143,S1006,Milk Frother,Equipment,7,2024-02-20,31.0,12286.0,United Kingdom
+536144,S1004,Travel Tumbler,Merch,7,2024-02-10,18.9,12047.0,United Kingdom
+536145,S1002,Espresso Beans 1kg,Beans,9,2024-02-03,24.0,12201.0,Netherlands
+536146,S1004,Travel Tumbler,Merch,8,2024-02-26,18.9,12305.0,Germany
+536147,S1002,Espresso Beans 1kg,Beans,9,2024-02-25,24.0,12282.0,United Kingdom
+536147,S1006,Milk Frother,Equipment,12,2024-02-25,31.0,12282.0,United Kingdom
+536147,S1005,Decaf Beans 1kg,Beans,3,2024-02-25,22.5,12282.0,United Kingdom
+536148,S1001,Ceramic Mug,Merch,9,2024-02-14,8.75,12296.0,United Kingdom
+536148,S1001,Ceramic Mug,Merch,5,2024-02-14,8.75,12296.0,United Kingdom
+536148,S1000,Cold Brew Concentrate,Beverage,1,2024-02-14,12.5,12296.0,United Kingdom
+536149,S1001,Ceramic Mug,Merch,11,2024-02-20,8.75,12224.0,Ireland
+536150,S1000,Cold Brew Concentrate,Beverage,11,2024-02-25,12.5,12292.0,United Kingdom
+536150,S1003,Paper Filters x100,Supplies,6,2024-02-25,4.25,12292.0,United Kingdom
+536151,S1000,Cold Brew Concentrate,Beverage,11,2024-02-09,12.5,12240.0,United Kingdom
+536151,S1001,Ceramic Mug,Merch,8,2024-02-09,8.75,12240.0,United Kingdom
+536152,S1006,Milk Frother,Equipment,6,2024-02-20,31.0,12108.0,United Kingdom
+536153,S1007,Gift Card,Other,8,2024-02-21,25.0,12142.0,United Kingdom
+536153,S1002,Espresso Beans 1kg,Beans,1,2024-02-21,24.0,12142.0,United Kingdom
+536153,S1004,Travel Tumbler,Merch,7,2024-02-21,18.9,12142.0,United Kingdom
+536154,S1006,Milk Frother,Equipment,11,2024-02-12,31.0,12202.0,United Kingdom
+536155,S1000,Cold Brew Concentrate,Beverage,11,2024-02-23,12.5,12320.0,United Kingdom
+536155,S1004,Travel Tumbler,Merch,6,2024-02-23,18.9,12320.0,United Kingdom
+536156,S1003,Paper Filters x100,Supplies,7,2024-02-01,4.25,12346.0,Netherlands
+536157,S1000,Cold Brew Concentrate,Beverage,5,2024-02-22,12.5,12226.0,United Kingdom
+536157,S1002,Espresso Beans 1kg,Beans,4,2024-02-22,24.0,12226.0,United Kingdom
+536157,S1006,Milk Frother,Equipment,6,2024-02-22,31.0,12226.0,United Kingdom
+536158,S1007,Gift Card,Other,4,2024-02-22,25.0,12187.0,United Kingdom
+536158,S1003,Paper Filters x100,Supplies,1,2024-02-22,4.25,12187.0,United Kingdom
+536158,S1005,Decaf Beans 1kg,Beans,5,2024-02-22,22.5,12187.0,United Kingdom
+536159,S1004,Travel Tumbler,Merch,3,2024-02-03,18.9,12071.0,United Kingdom
+536160,S1006,Milk Frother,Equipment,4,2024-02-15,31.0,12381.0,Germany
+536160,S1004,Travel Tumbler,Merch,7,2024-02-15,18.9,12381.0,Germany
+536161,S1006,Milk Frother,Equipment,12,2024-02-17,31.0,12305.0,France
+536162,S1003,Paper Filters x100,Supplies,3,2024-03-17,4.25,12183.0,United Kingdom
+536162,S1001,Ceramic Mug,Merch,7,2024-03-17,8.75,12183.0,United Kingdom
+536162,S1004,Travel Tumbler,Merch,11,2024-03-17,18.9,12183.0,United Kingdom
+536163,S1006,Milk Frother,Equipment,9,2024-03-24,31.0,12326.0,United Kingdom
+536163,S1002,Espresso Beans 1kg,Beans,5,2024-03-24,24.0,12326.0,United Kingdom
+536164,S1004,Travel Tumbler,Merch,5,2024-03-11,18.9,12307.0,United Kingdom
+536164,S1005,Decaf Beans 1kg,Beans,3,2024-03-11,22.5,12307.0,United Kingdom
+536164,S1004,Travel Tumbler,Merch,2,2024-03-11,18.9,12307.0,United Kingdom
+536165,S1004,Travel Tumbler,Merch,2,2024-03-19,18.9,12042.0,France
+536165,S1003,Paper Filters x100,Supplies,3,2024-03-19,4.25,12042.0,France
+536165,S1005,Decaf Beans 1kg,Beans,3,2024-03-19,22.5,12042.0,France
+536166,S1000,Cold Brew Concentrate,Beverage,7,2024-03-26,12.5,12073.0,Netherlands
+536166,S1002,Espresso Beans 1kg,Beans,9,2024-03-26,24.0,12073.0,Netherlands
+536166,S1001,Ceramic Mug,Merch,6,2024-03-26,8.75,12073.0,Netherlands
+536167,S1006,Milk Frother,Equipment,3,2024-03-27,31.0,12187.0,Ireland
+536168,S1005,Decaf Beans 1kg,Beans,6,2024-03-15,22.5,12390.0,United Kingdom
+536168,S1003,Paper Filters x100,Supplies,9,2024-03-15,4.25,12390.0,United Kingdom
+C536169,S1006,Milk Frother,Equipment,-10,2024-03-17,31.0,12056.0,United Kingdom
+C536169,S1006,Milk Frother,Equipment,-2,2024-03-17,31.0,12056.0,United Kingdom
+536169,S1003,Paper Filters x100,Supplies,10,2024-03-17,4.25,12056.0,United Kingdom
+536170,S1000,Cold Brew Concentrate,Beverage,6,2024-03-22,12.5,12351.0,United Kingdom
+536171,S1004,Travel Tumbler,Merch,8,2024-03-14,18.9,12348.0,United Kingdom
+536171,S1001,Ceramic Mug,Merch,7,2024-03-14,8.75,12348.0,United Kingdom
+536172,S1002,Espresso Beans 1kg,Beans,12,2024-03-04,24.0,12199.0,United Kingdom
+536173,S1004,Travel Tumbler,Merch,6,2024-03-27,18.9,12020.0,United Kingdom
+536174,S1002,Espresso Beans 1kg,Beans,5,2024-03-17,24.0,12162.0,United Kingdom
+536174,S1000,Cold Brew Concentrate,Beverage,4,2024-03-17,12.5,12162.0,United Kingdom
+C536174,S1002,Espresso Beans 1kg,Beans,-10,2024-03-17,24.0,12162.0,United Kingdom
+536175,S1003,Paper Filters x100,Supplies,10,2024-03-07,4.25,12302.0,United Kingdom
+536175,S1006,Milk Frother,Equipment,5,2024-03-07,31.0,12302.0,United Kingdom
+536176,S1002,Espresso Beans 1kg,Beans,1,2024-03-26,24.0,12214.0,Netherlands
+536176,S1005,Decaf Beans 1kg,Beans,6,2024-03-26,22.5,12214.0,Netherlands
+536177,S1002,Espresso Beans 1kg,Beans,8,2024-03-28,24.0,12101.0,United Kingdom
+536177,S1006,Milk Frother,Equipment,12,2024-03-28,31.0,12101.0,United Kingdom
+536178,S1003,Paper Filters x100,Supplies,11,2024-03-20,4.25,12167.0,United Kingdom
+536178,S1001,Ceramic Mug,Merch,5,2024-03-20,8.75,12167.0,United Kingdom
+536178,S1007,Gift Card,Other,3,2024-03-20,25.0,12167.0,United Kingdom
+536179,S1007,Gift Card,Other,2,2024-03-05,25.0,12278.0,United Kingdom
+536179,S1005,Decaf Beans 1kg,Beans,2,2024-03-05,22.5,12278.0,United Kingdom
+536179,S1006,Milk Frother,Equipment,4,2024-03-05,31.0,12278.0,United Kingdom
+536180,S1007,Gift Card,Other,5,2024-03-01,25.0,12368.0,Ireland
+536180,S1004,Travel Tumbler,Merch,11,2024-03-01,18.9,12368.0,Ireland
+536181,S1006,Milk Frother,Equipment,7,2024-03-26,31.0,12026.0,Germany
+536181,S1003,Paper Filters x100,Supplies,9,2024-03-26,4.25,12026.0,Germany
+536182,S1001,Ceramic Mug,Merch,12,2024-03-28,8.75,12247.0,Germany
+536182,S1006,Milk Frother,Equipment,5,2024-03-28,31.0,12247.0,Germany
+536183,S1000,Cold Brew Concentrate,Beverage,12,2024-03-20,12.5,12164.0,France
+536183,S1003,Paper Filters x100,Supplies,4,2024-03-20,4.25,12164.0,France
+536183,S1001,Ceramic Mug,Merch,6,2024-03-20,8.75,12164.0,France
+536184,S1002,Espresso Beans 1kg,Beans,5,2024-03-27,24.0,12199.0,Ireland
+536184,S1007,Gift Card,Other,8,2024-03-27,25.0,12199.0,Ireland
+536184,S1003,Paper Filters x100,Supplies,9,2024-03-27,4.25,12199.0,Ireland
+536185,S1003,Paper Filters x100,Supplies,6,2024-03-03,4.25,12149.0,France
+536185,S1001,Ceramic Mug,Merch,5,2024-03-03,8.75,12149.0,France
+536186,S1000,Cold Brew Concentrate,Beverage,10,2024-03-04,12.5,12294.0,United Kingdom
+536187,S1002,Espresso Beans 1kg,Beans,10,2024-03-14,24.0,12301.0,Germany
+536187,S1004,Travel Tumbler,Merch,3,2024-03-14,18.9,12301.0,Germany
+536187,S1004,Travel Tumbler,Merch,3,2024-03-14,18.9,12301.0,Germany
+536188,S1006,Milk Frother,Equipment,9,2024-03-09,31.0,12173.0,United Kingdom
+536188,S1002,Espresso Beans 1kg,Beans,6,2024-03-09,24.0,12173.0,United Kingdom
+536189,S1002,Espresso Beans 1kg,Beans,2,2024-03-22,24.0,12129.0,Germany
+536190,S1002,Espresso Beans 1kg,Beans,6,2024-03-22,24.0,12063.0,Germany
+536191,S1007,Gift Card,Other,7,2024-03-21,25.0,12254.0,United Kingdom
+536191,S1007,Gift Card,Other,4,2024-03-21,25.0,12254.0,United Kingdom
+536192,S1004,Travel Tumbler,Merch,10,2024-03-18,18.9,12343.0,United Kingdom
+536192,S1001,Ceramic Mug,Merch,3,2024-03-18,8.75,12343.0,United Kingdom
+536192,S1005,Decaf Beans 1kg,Beans,3,2024-03-18,22.5,12343.0,United Kingdom
+536193,S1005,Decaf Beans 1kg,Beans,4,2024-03-09,22.5,12032.0,Ireland
+536194,S1002,Espresso Beans 1kg,Beans,6,2024-03-28,24.0,12075.0,United Kingdom
+536194,S1004,Travel Tumbler,Merch,1,2024-03-28,18.9,12075.0,United Kingdom
+536195,S1006,Milk Frother,Equipment,7,2024-03-23,31.0,12396.0,Ireland
+536196,S1002,Espresso Beans 1kg,Beans,8,2024-03-20,24.0,12111.0,Germany
+536197,S1005,Decaf Beans 1kg,Beans,7,2024-03-11,22.5,12131.0,United Kingdom
+536198,S1002,Espresso Beans 1kg,Beans,7,2024-03-06,24.0,12298.0,United Kingdom
+536198,S1000,Cold Brew Concentrate,Beverage,7,2024-03-06,12.5,12298.0,United Kingdom
+536198,S1000,Cold Brew Concentrate,Beverage,3,2024-03-06,12.5,12298.0,United Kingdom
+536199,S1004,Travel Tumbler,Merch,9,2024-03-26,18.9,12370.0,United Kingdom
+536200,S1007,Gift Card,Other,8,2024-03-07,25.0,12237.0,United Kingdom
+536200,S1007,Gift Card,Other,3,2024-03-07,25.0,12237.0,United Kingdom
+536201,S1003,Paper Filters x100,Supplies,1,2024-03-25,4.25,12254.0,United Kingdom
+536202,S1001,Ceramic Mug,Merch,9,2024-03-01,8.75,12396.0,United Kingdom
+536203,S1005,Decaf Beans 1kg,Beans,11,2024-03-08,22.5,12253.0,United Kingdom
+536204,S1000,Cold Brew Concentrate,Beverage,8,2024-03-10,12.5,12209.0,United Kingdom
+536205,S1005,Decaf Beans 1kg,Beans,8,2024-03-04,22.5,12318.0,Germany
+536205,S1000,Cold Brew Concentrate,Beverage,2,2024-03-04,12.5,12318.0,Germany
+536206,S1007,Gift Card,Other,9,2024-03-17,25.0,,United Kingdom
+536206,S1006,Milk Frother,Equipment,12,2024-03-17,31.0,12092.0,United Kingdom
+536206,S1005,Decaf Beans 1kg,Beans,8,2024-03-17,22.5,12092.0,United Kingdom
+536207,S1002,Espresso Beans 1kg,Beans,1,2024-03-04,24.0,12207.0,United Kingdom
+536207,S1001,Ceramic Mug,Merch,2,2024-03-04,8.75,12207.0,United Kingdom
+536207,S1003,Paper Filters x100,Supplies,9,2024-03-04,4.25,12207.0,United Kingdom
+536208,S1003,Paper Filters x100,Supplies,8,2024-03-23,4.25,12383.0,France
+536209,S1002,Espresso Beans 1kg,Beans,12,2024-03-07,24.0,12070.0,United Kingdom
+536209,S1006,Milk Frother,Equipment,3,2024-03-07,31.0,12070.0,United Kingdom
+536209,S1007,Gift Card,Other,11,2024-03-07,25.0,12070.0,United Kingdom
+536210,S1004,Travel Tumbler,Merch,5,2024-03-09,18.9,12362.0,United Kingdom
+536210,S1000,Cold Brew Concentrate,Beverage,9,2024-03-09,12.5,12362.0,United Kingdom
+536211,S1005,Decaf Beans 1kg,Beans,7,2024-03-07,22.5,12177.0,United Kingdom
+536211,S1004,Travel Tumbler,Merch,11,2024-03-07,18.9,12177.0,United Kingdom
+536211,S1007,Gift Card,Other,11,2024-03-07,25.0,12177.0,United Kingdom
+536212,S1007,Gift Card,Other,6,2024-03-08,25.0,12318.0,United Kingdom
+536212,S1004,Travel Tumbler,Merch,2,2024-03-08,18.9,12318.0,United Kingdom
+536212,S1000,Cold Brew Concentrate,Beverage,3,2024-03-08,12.5,12318.0,United Kingdom
+536213,S1005,Decaf Beans 1kg,Beans,1,2024-03-20,22.5,12018.0,Ireland
+536213,S1005,Decaf Beans 1kg,Beans,7,2024-03-20,22.5,12018.0,Ireland
+536214,S1007,Gift Card,Other,5,2024-03-13,25.0,12265.0,United Kingdom
+536214,S1007,Gift Card,Other,3,2024-03-13,25.0,12265.0,United Kingdom
+536214,S1000,Cold Brew Concentrate,Beverage,8,2024-03-13,12.5,12265.0,United Kingdom
+536215,S1007,Gift Card,Other,8,2024-03-20,25.0,12060.0,United Kingdom
+536215,S1007,Gift Card,Other,9,2024-03-20,25.0,12060.0,United Kingdom
+536215,S1006,Milk Frother,Equipment,7,2024-03-20,31.0,12060.0,United Kingdom
+536216,S1000,Cold Brew Concentrate,Beverage,6,2024-03-23,12.5,12165.0,United Kingdom
+536216,S1005,Decaf Beans 1kg,Beans,12,2024-03-23,22.5,12165.0,United Kingdom
+536217,S1003,Paper Filters x100,Supplies,7,2024-03-14,4.25,12077.0,United Kingdom
+536217,S1002,Espresso Beans 1kg,Beans,1,2024-03-14,24.0,12077.0,United Kingdom
+536217,S1003,Paper Filters x100,Supplies,6,2024-03-14,4.25,12077.0,United Kingdom
+536218,S1002,Espresso Beans 1kg,Beans,9,2024-03-02,24.0,12132.0,Germany
+536218,S1000,Cold Brew Concentrate,Beverage,10,2024-03-02,12.5,12132.0,Germany
+536219,S1007,Gift Card,Other,4,2024-03-25,25.0,12216.0,United Kingdom
+536219,S1006,Milk Frother,Equipment,8,2024-03-25,31.0,12216.0,United Kingdom
+536220,S1007,Gift Card,Other,12,2024-03-26,25.0,12205.0,United Kingdom
+536221,S1005,Decaf Beans 1kg,Beans,4,2024-03-19,22.5,12197.0,United Kingdom
+536221,S1004,Travel Tumbler,Merch,10,2024-03-19,18.9,12197.0,United Kingdom
+536221,S1004,Travel Tumbler,Merch,4,2024-03-19,18.9,12197.0,United Kingdom
+536222,S1004,Travel Tumbler,Merch,3,2024-03-10,18.9,12254.0,France
+536222,S1007,Gift Card,Other,8,2024-03-10,25.0,12254.0,France
+536223,S1003,Paper Filters x100,Supplies,5,2024-03-20,4.25,12021.0,France
+536223,S1007,Gift Card,Other,5,2024-03-20,25.0,12021.0,France
+536224,S1004,Travel Tumbler,Merch,1,2024-03-08,18.9,12213.0,United Kingdom
+536224,S1000,Cold Brew Concentrate,Beverage,7,2024-03-08,12.5,12213.0,United Kingdom
+536225,S1001,Ceramic Mug,Merch,11,2024-03-13,8.75,12267.0,Ireland
+536225,S1005,Decaf Beans 1kg,Beans,10,2024-03-13,22.5,,Ireland
+536225,S1006,Milk Frother,Equipment,3,2024-03-13,31.0,12267.0,Ireland
+536226,S1006,Milk Frother,Equipment,4,2024-03-06,31.0,12173.0,Ireland
+536226,S1007,Gift Card,Other,1,2024-03-06,25.0,12173.0,Ireland
+536227,S1000,Cold Brew Concentrate,Beverage,7,2024-03-17,12.5,12248.0,United Kingdom
+536228,S1001,Ceramic Mug,Merch,2,2024-03-04,8.75,12223.0,United Kingdom
+536228,S1006,Milk Frother,Equipment,11,2024-03-04,31.0,12223.0,United Kingdom
+536229,S1002,Espresso Beans 1kg,Beans,4,2024-03-26,24.0,12368.0,United Kingdom
+536230,S1004,Travel Tumbler,Merch,4,2024-03-06,18.9,12387.0,United Kingdom
+536230,S1003,Paper Filters x100,Supplies,2,2024-03-06,4.25,12387.0,United Kingdom
+536230,S1003,Paper Filters x100,Supplies,9,2024-03-06,4.25,12387.0,United Kingdom
+536231,S1006,Milk Frother,Equipment,5,2024-03-11,31.0,12082.0,Germany
+536232,S1001,Ceramic Mug,Merch,6,2024-03-26,8.75,12280.0,United Kingdom
+536232,S1005,Decaf Beans 1kg,Beans,5,2024-03-26,22.5,12280.0,United Kingdom
+536232,S1002,Espresso Beans 1kg,Beans,8,2024-03-26,24.0,12280.0,United Kingdom
+536233,S1007,Gift Card,Other,8,2024-04-15,25.0,12304.0,United Kingdom
+536234,S1000,Cold Brew Concentrate,Beverage,12,2024-04-24,12.5,12269.0,United Kingdom
+536235,S1007,Gift Card,Other,7,2024-04-09,25.0,12280.0,United Kingdom
+536235,S1000,Cold Brew Concentrate,Beverage,9,2024-04-09,12.5,12280.0,United Kingdom
+536236,S1004,Travel Tumbler,Merch,6,2024-04-26,18.9,12064.0,United Kingdom
+536237,S1000,Cold Brew Concentrate,Beverage,10,2024-04-09,12.5,12041.0,Germany
+536237,S1006,Milk Frother,Equipment,7,2024-04-09,31.0,12041.0,Germany
+536238,S1001,Ceramic Mug,Merch,7,2024-04-14,8.75,12321.0,Germany
+536239,S1006,Milk Frother,Equipment,6,2024-04-12,31.0,12128.0,Germany
+536239,S1003,Paper Filters x100,Supplies,10,2024-04-12,4.25,12128.0,Germany
+536239,S1004,Travel Tumbler,Merch,9,2024-04-12,18.9,12128.0,Germany
+536240,S1004,Travel Tumbler,Merch,9,2024-04-06,18.9,12045.0,Germany
+536240,S1006,Milk Frother,Equipment,4,2024-04-06,31.0,12045.0,Germany
+536240,S1006,Milk Frother,Equipment,12,2024-04-06,31.0,12045.0,Germany
+536241,S1003,Paper Filters x100,Supplies,11,2024-04-12,4.25,12308.0,France
+536241,S1006,Milk Frother,Equipment,7,2024-04-12,31.0,12308.0,France
+536241,S1001,Ceramic Mug,Merch,10,2024-04-12,8.75,,France
+536242,S1003,Paper Filters x100,Supplies,11,2024-04-28,4.25,12255.0,France
+536242,S1005,Decaf Beans 1kg,Beans,6,2024-04-28,22.5,12255.0,France
+536243,S1007,Gift Card,Other,11,2024-04-08,25.0,12374.0,United Kingdom
+536243,S1002,Espresso Beans 1kg,Beans,10,2024-04-08,24.0,12374.0,United Kingdom
+536243,S1005,Decaf Beans 1kg,Beans,11,2024-04-08,22.5,12374.0,United Kingdom
+536244,S1000,Cold Brew Concentrate,Beverage,1,2024-04-26,12.5,12163.0,Ireland
+536244,S1000,Cold Brew Concentrate,Beverage,12,2024-04-26,12.5,12163.0,Ireland
+536244,S1003,Paper Filters x100,Supplies,8,2024-04-26,4.25,12163.0,Ireland
+536245,S1000,Cold Brew Concentrate,Beverage,2,2024-04-14,12.5,12364.0,United Kingdom
+536246,S1005,Decaf Beans 1kg,Beans,4,2024-04-15,22.5,12219.0,United Kingdom
+536246,S1007,Gift Card,Other,8,2024-04-15,25.0,12219.0,United Kingdom
+536247,S1002,Espresso Beans 1kg,Beans,9,2024-04-27,24.0,12257.0,Netherlands
+536247,S1004,Travel Tumbler,Merch,6,2024-04-27,18.9,12257.0,Netherlands
+536247,S1000,Cold Brew Concentrate,Beverage,10,2024-04-27,12.5,12257.0,Netherlands
+536248,S1003,Paper Filters x100,Supplies,11,2024-04-12,4.25,12148.0,Ireland
+536249,S1006,Milk Frother,Equipment,10,2024-04-09,31.0,12118.0,Germany
+536250,S1002,Espresso Beans 1kg,Beans,2,2024-04-28,24.0,12115.0,Netherlands
+536251,S1001,Ceramic Mug,Merch,10,2024-04-13,8.75,12234.0,France
+536252,S1005,Decaf Beans 1kg,Beans,9,2024-04-20,22.5,12205.0,United Kingdom
+536252,S1000,Cold Brew Concentrate,Beverage,11,2024-04-20,12.5,12205.0,United Kingdom
+536253,S1007,Gift Card,Other,1,2024-04-17,25.0,12382.0,United Kingdom
+536254,S1002,Espresso Beans 1kg,Beans,11,2024-04-22,24.0,12183.0,France
+536255,S1006,Milk Frother,Equipment,2,2024-04-25,31.0,12217.0,Germany
+536255,S1006,Milk Frother,Equipment,6,2024-04-25,31.0,12217.0,Germany
+536255,S1000,Cold Brew Concentrate,Beverage,2,2024-04-25,12.5,12217.0,Germany
+536256,S1007,Gift Card,Other,4,2024-04-09,25.0,12286.0,United Kingdom
+536257,S1007,Gift Card,Other,11,2024-04-18,25.0,12163.0,Germany
+536258,S1006,Milk Frother,Equipment,10,2024-04-13,31.0,12005.0,United Kingdom
+536258,S1002,Espresso Beans 1kg,Beans,7,2024-04-13,24.0,12005.0,United Kingdom
+536259,S1005,Decaf Beans 1kg,Beans,10,2024-04-22,22.5,12361.0,United Kingdom
+536260,S1003,Paper Filters x100,Supplies,11,2024-04-03,4.25,12115.0,United Kingdom
+536260,S1006,Milk Frother,Equipment,8,2024-04-03,31.0,12115.0,United Kingdom
+536261,S1003,Paper Filters x100,Supplies,7,2024-04-13,4.25,12075.0,United Kingdom
+536261,S1004,Travel Tumbler,Merch,5,2024-04-13,18.9,12075.0,United Kingdom
+536262,S1003,Paper Filters x100,Supplies,5,2024-04-15,4.25,12234.0,Ireland
+536262,S1002,Espresso Beans 1kg,Beans,8,2024-04-15,24.0,12234.0,Ireland
+536263,S1003,Paper Filters x100,Supplies,9,2024-04-20,4.25,12066.0,Netherlands
+536263,S1006,Milk Frother,Equipment,2,2024-04-20,31.0,12066.0,Netherlands
+536263,S1003,Paper Filters x100,Supplies,1,2024-04-20,4.25,12066.0,Netherlands
+536264,S1002,Espresso Beans 1kg,Beans,10,2024-04-02,24.0,12385.0,United Kingdom
+536265,S1004,Travel Tumbler,Merch,8,2024-04-24,18.9,12135.0,United Kingdom
+536266,S1002,Espresso Beans 1kg,Beans,1,2024-04-08,24.0,12203.0,United Kingdom
+536266,S1003,Paper Filters x100,Supplies,12,2024-04-08,4.25,12203.0,United Kingdom
+536266,S1006,Milk Frother,Equipment,11,2024-04-08,31.0,12203.0,United Kingdom
+536267,S1007,Gift Card,Other,9,2024-04-04,25.0,12061.0,United Kingdom
+536268,S1006,Milk Frother,Equipment,3,2024-04-14,31.0,12191.0,United Kingdom
+536268,S1006,Milk Frother,Equipment,5,2024-04-14,31.0,12191.0,United Kingdom
+536269,S1006,Milk Frother,Equipment,3,2024-04-26,31.0,12242.0,Germany
+536269,S1001,Ceramic Mug,Merch,8,2024-04-26,8.75,12242.0,Germany
+536270,S1007,Gift Card,Other,2,2024-04-23,25.0,12190.0,United Kingdom
+536270,S1007,Gift Card,Other,7,2024-04-23,25.0,12190.0,United Kingdom
+536270,S1002,Espresso Beans 1kg,Beans,11,2024-04-23,24.0,12190.0,United Kingdom
+536271,S1004,Travel Tumbler,Merch,7,2024-04-08,18.9,12333.0,United Kingdom
+536271,S1002,Espresso Beans 1kg,Beans,2,2024-04-08,24.0,12333.0,United Kingdom
+536271,S1007,Gift Card,Other,1,2024-04-08,25.0,12333.0,United Kingdom
+536272,S1001,Ceramic Mug,Merch,9,2024-04-21,8.75,12033.0,United Kingdom
+536273,S1007,Gift Card,Other,11,2024-04-26,25.0,12331.0,United Kingdom
+536273,S1007,Gift Card,Other,3,2024-04-26,25.0,12331.0,United Kingdom
+536274,S1007,Gift Card,Other,12,2024-04-08,25.0,12102.0,United Kingdom
+536274,S1002,Espresso Beans 1kg,Beans,10,2024-04-08,24.0,,United Kingdom
+536275,S1007,Gift Card,Other,8,2024-04-20,25.0,12159.0,United Kingdom
+536275,S1007,Gift Card,Other,6,2024-04-20,25.0,12159.0,United Kingdom
+536275,S1005,Decaf Beans 1kg,Beans,8,2024-04-20,22.5,12159.0,United Kingdom
+536276,S1007,Gift Card,Other,2,2024-04-27,25.0,12345.0,Netherlands
+536276,S1002,Espresso Beans 1kg,Beans,9,2024-04-27,24.0,12345.0,Netherlands
+536277,S1007,Gift Card,Other,3,2024-04-11,25.0,12272.0,United Kingdom
+536277,S1004,Travel Tumbler,Merch,1,2024-04-11,18.9,12272.0,United Kingdom
+536277,S1004,Travel Tumbler,Merch,11,2024-04-11,18.9,12272.0,United Kingdom
+536278,S1006,Milk Frother,Equipment,11,2024-04-11,31.0,12379.0,United Kingdom
+536278,S1001,Ceramic Mug,Merch,5,2024-04-11,8.75,12379.0,United Kingdom
+536278,S1006,Milk Frother,Equipment,4,2024-04-11,31.0,12379.0,United Kingdom
+536279,S1001,Ceramic Mug,Merch,4,2024-04-26,8.75,12025.0,United Kingdom
+536280,S1002,Espresso Beans 1kg,Beans,9,2024-04-01,24.0,12003.0,Netherlands
+536280,S1005,Decaf Beans 1kg,Beans,9,2024-04-01,22.5,12003.0,Netherlands
+536281,S1003,Paper Filters x100,Supplies,5,2024-04-03,4.25,12378.0,United Kingdom
+536281,S1000,Cold Brew Concentrate,Beverage,3,2024-04-03,12.5,12378.0,United Kingdom
+536282,S1006,Milk Frother,Equipment,8,2024-04-25,31.0,12201.0,France
+536282,S1005,Decaf Beans 1kg,Beans,1,2024-04-25,22.5,12201.0,France
+536283,S1000,Cold Brew Concentrate,Beverage,12,2024-04-26,12.5,12074.0,United Kingdom
+536283,S1004,Travel Tumbler,Merch,8,2024-04-26,18.9,12074.0,United Kingdom
+536283,S1000,Cold Brew Concentrate,Beverage,11,2024-04-26,12.5,,United Kingdom
+536284,S1003,Paper Filters x100,Supplies,7,2024-04-15,4.25,12375.0,United Kingdom
+536284,S1005,Decaf Beans 1kg,Beans,9,2024-04-15,22.5,12375.0,United Kingdom
+536285,S1002,Espresso Beans 1kg,Beans,11,2024-04-21,24.0,12174.0,Ireland
+536285,S1000,Cold Brew Concentrate,Beverage,4,2024-04-21,12.5,12174.0,Ireland
+536285,S1005,Decaf Beans 1kg,Beans,10,2024-04-21,22.5,12174.0,Ireland
+536286,S1000,Cold Brew Concentrate,Beverage,3,2024-04-13,12.5,12389.0,United Kingdom
+536286,S1003,Paper Filters x100,Supplies,6,2024-04-13,4.25,12389.0,United Kingdom
+536286,S1003,Paper Filters x100,Supplies,7,2024-04-13,4.25,12389.0,United Kingdom
+536287,S1005,Decaf Beans 1kg,Beans,8,2024-04-28,22.5,12164.0,Germany
+536287,S1003,Paper Filters x100,Supplies,8,2024-04-28,4.25,12164.0,Germany
+536288,S1006,Milk Frother,Equipment,5,2024-04-17,31.0,12286.0,United Kingdom
+536288,S1000,Cold Brew Concentrate,Beverage,6,2024-04-17,12.5,,United Kingdom
+536289,S1001,Ceramic Mug,Merch,6,2024-04-07,8.75,12124.0,United Kingdom
+536289,S1003,Paper Filters x100,Supplies,7,2024-04-07,4.25,12124.0,United Kingdom
+536289,S1002,Espresso Beans 1kg,Beans,10,2024-04-07,24.0,12124.0,United Kingdom
+536290,S1007,Gift Card,Other,8,2024-04-04,25.0,12334.0,Netherlands
+536290,S1001,Ceramic Mug,Merch,11,2024-04-04,8.75,12334.0,Netherlands
+536291,S1003,Paper Filters x100,Supplies,9,2024-04-16,4.25,12074.0,United Kingdom
+536291,S1005,Decaf Beans 1kg,Beans,10,2024-04-16,22.5,12074.0,United Kingdom
+536292,S1006,Milk Frother,Equipment,8,2024-04-01,31.0,12383.0,United Kingdom
+536292,S1002,Espresso Beans 1kg,Beans,10,2024-04-01,24.0,12383.0,United Kingdom
+536292,S1000,Cold Brew Concentrate,Beverage,8,2024-04-01,12.5,12383.0,United Kingdom
+536293,S1005,Decaf Beans 1kg,Beans,4,2024-04-10,22.5,12272.0,Netherlands
+536293,S1002,Espresso Beans 1kg,Beans,5,2024-04-10,24.0,12272.0,Netherlands
+536293,S1004,Travel Tumbler,Merch,4,2024-04-10,18.9,12272.0,Netherlands
+536294,S1007,Gift Card,Other,10,2024-04-20,25.0,12272.0,United Kingdom
+536295,S1002,Espresso Beans 1kg,Beans,1,2024-04-19,24.0,12132.0,France
+536296,S1006,Milk Frother,Equipment,7,2024-04-08,31.0,12263.0,United Kingdom
+536296,S1001,Ceramic Mug,Merch,8,2024-04-08,8.75,12263.0,United Kingdom
+536297,S1005,Decaf Beans 1kg,Beans,2,2024-04-07,22.5,12191.0,United Kingdom
+536297,S1003,Paper Filters x100,Supplies,2,2024-04-07,4.25,12191.0,United Kingdom
+536297,S1005,Decaf Beans 1kg,Beans,5,2024-04-07,22.5,12191.0,United Kingdom
+536298,S1005,Decaf Beans 1kg,Beans,8,2024-04-04,22.5,12145.0,United Kingdom
+536298,S1001,Ceramic Mug,Merch,12,2024-04-04,8.75,12145.0,United Kingdom
+536299,S1006,Milk Frother,Equipment,5,2024-04-02,31.0,12001.0,Netherlands
+536300,S1003,Paper Filters x100,Supplies,4,2024-04-13,4.25,12104.0,Germany
+536300,S1003,Paper Filters x100,Supplies,6,2024-04-13,4.25,12104.0,Germany
+536301,S1005,Decaf Beans 1kg,Beans,4,2024-04-20,22.5,12258.0,United Kingdom
+536302,S1002,Espresso Beans 1kg,Beans,5,2024-04-04,24.0,12271.0,United Kingdom
+536302,S1004,Travel Tumbler,Merch,8,2024-04-04,18.9,12271.0,United Kingdom
+536302,S1000,Cold Brew Concentrate,Beverage,6,2024-04-04,12.5,12271.0,United Kingdom
+536303,S1003,Paper Filters x100,Supplies,11,2024-04-01,4.25,12250.0,Germany
+536304,S1007,Gift Card,Other,8,2024-04-08,25.0,12087.0,United Kingdom
+536305,S1000,Cold Brew Concentrate,Beverage,4,2024-04-10,12.5,12253.0,Netherlands
+536306,S1002,Espresso Beans 1kg,Beans,2,2024-04-08,24.0,12248.0,United Kingdom
+536306,S1001,Ceramic Mug,Merch,5,2024-04-08,8.75,12248.0,United Kingdom
+536306,S1003,Paper Filters x100,Supplies,6,2024-04-08,4.25,12248.0,United Kingdom
+536307,S1002,Espresso Beans 1kg,Beans,5,2024-04-09,24.0,12082.0,United Kingdom
+536307,S1005,Decaf Beans 1kg,Beans,5,2024-04-09,22.5,12082.0,United Kingdom
+536307,S1007,Gift Card,Other,6,2024-04-09,25.0,12082.0,United Kingdom
+536308,S1002,Espresso Beans 1kg,Beans,7,2024-04-19,24.0,12145.0,France
+536309,S1006,Milk Frother,Equipment,5,2024-04-09,31.0,12113.0,United Kingdom
+536309,S1005,Decaf Beans 1kg,Beans,12,2024-04-09,22.5,12113.0,United Kingdom
+536310,S1000,Cold Brew Concentrate,Beverage,12,2024-04-03,12.5,12053.0,United Kingdom
+536310,S1001,Ceramic Mug,Merch,8,2024-04-03,8.75,12053.0,United Kingdom
+536310,S1001,Ceramic Mug,Merch,11,2024-04-03,8.75,12053.0,United Kingdom
+536311,S1005,Decaf Beans 1kg,Beans,3,2024-04-21,22.5,12315.0,Ireland
+536311,S1001,Ceramic Mug,Merch,8,2024-04-21,8.75,12315.0,Ireland
+536311,S1002,Espresso Beans 1kg,Beans,10,2024-04-21,24.0,12315.0,Ireland
+536312,S1002,Espresso Beans 1kg,Beans,5,2024-04-28,24.0,12249.0,Ireland
+536313,S1003,Paper Filters x100,Supplies,12,2024-04-20,4.25,12071.0,United Kingdom
+536313,S1006,Milk Frother,Equipment,2,2024-04-20,31.0,12071.0,United Kingdom
+536314,S1003,Paper Filters x100,Supplies,5,2024-05-19,4.25,12171.0,Germany
+536315,S1006,Milk Frother,Equipment,3,2024-05-19,31.0,12075.0,United Kingdom
+536315,S1004,Travel Tumbler,Merch,2,2024-05-19,18.9,12075.0,United Kingdom
+536315,S1001,Ceramic Mug,Merch,6,2024-05-19,8.75,12075.0,United Kingdom
+536316,S1006,Milk Frother,Equipment,2,2024-05-23,31.0,12068.0,United Kingdom
+536316,S1007,Gift Card,Other,10,2024-05-23,25.0,12068.0,United Kingdom
+536317,S1007,Gift Card,Other,10,2024-05-16,25.0,12335.0,Germany
+536318,S1005,Decaf Beans 1kg,Beans,8,2024-05-21,22.5,12070.0,France
+536318,S1006,Milk Frother,Equipment,7,2024-05-21,31.0,12070.0,France
+536319,S1005,Decaf Beans 1kg,Beans,5,2024-05-09,22.5,12119.0,Germany
+536319,S1001,Ceramic Mug,Merch,4,2024-05-09,8.75,12119.0,Germany
+536320,S1002,Espresso Beans 1kg,Beans,12,2024-05-14,24.0,12157.0,United Kingdom
+536320,S1003,Paper Filters x100,Supplies,6,2024-05-14,4.25,12157.0,United Kingdom
+536320,S1006,Milk Frother,Equipment,6,2024-05-14,31.0,12157.0,United Kingdom
+536321,S1003,Paper Filters x100,Supplies,3,2024-05-17,4.25,12272.0,Germany
+536321,S1001,Ceramic Mug,Merch,7,2024-05-17,8.75,12272.0,Germany
+536321,S1004,Travel Tumbler,Merch,2,2024-05-17,18.9,12272.0,Germany
+536322,S1000,Cold Brew Concentrate,Beverage,10,2024-05-27,12.5,12014.0,United Kingdom
+536322,S1006,Milk Frother,Equipment,9,2024-05-27,31.0,12014.0,United Kingdom
+536322,S1006,Milk Frother,Equipment,9,2024-05-27,31.0,12014.0,United Kingdom
+536323,S1004,Travel Tumbler,Merch,5,2024-05-17,18.9,12203.0,France
+536323,S1003,Paper Filters x100,Supplies,7,2024-05-17,4.25,12203.0,France
+536324,S1002,Espresso Beans 1kg,Beans,4,2024-05-09,24.0,12172.0,United Kingdom
+536325,S1007,Gift Card,Other,12,2024-05-12,25.0,12395.0,United Kingdom
+536326,S1006,Milk Frother,Equipment,8,2024-05-28,31.0,12007.0,United Kingdom
+536326,S1005,Decaf Beans 1kg,Beans,10,2024-05-28,22.5,12007.0,United Kingdom
+536326,S1003,Paper Filters x100,Supplies,10,2024-05-28,4.25,12007.0,United Kingdom
+536327,S1004,Travel Tumbler,Merch,5,2024-05-22,18.9,12078.0,United Kingdom
+536328,S1004,Travel Tumbler,Merch,8,2024-05-26,18.9,12056.0,United Kingdom
+536328,S1007,Gift Card,Other,1,2024-05-26,25.0,12056.0,United Kingdom
+536329,S1007,Gift Card,Other,2,2024-05-26,25.0,12288.0,United Kingdom
+536329,S1005,Decaf Beans 1kg,Beans,1,2024-05-26,22.5,12288.0,United Kingdom
+536330,S1001,Ceramic Mug,Merch,11,2024-05-10,8.75,12353.0,Ireland
+536330,S1000,Cold Brew Concentrate,Beverage,9,2024-05-10,12.5,12353.0,Ireland
+536330,S1005,Decaf Beans 1kg,Beans,4,2024-05-10,22.5,12353.0,Ireland
+536331,S1005,Decaf Beans 1kg,Beans,4,2024-05-02,22.5,12184.0,United Kingdom
+536331,S1003,Paper Filters x100,Supplies,10,2024-05-02,4.25,12184.0,United Kingdom
+536331,S1005,Decaf Beans 1kg,Beans,6,2024-05-02,22.5,12184.0,United Kingdom
+536332,S1005,Decaf Beans 1kg,Beans,2,2024-05-13,22.5,12002.0,United Kingdom
+536333,S1003,Paper Filters x100,Supplies,6,2024-05-13,4.25,12396.0,France
+536334,S1001,Ceramic Mug,Merch,8,2024-05-03,8.75,12082.0,United Kingdom
+536334,S1001,Ceramic Mug,Merch,6,2024-05-03,8.75,12082.0,United Kingdom
+536335,S1000,Cold Brew Concentrate,Beverage,9,2024-05-20,12.5,12383.0,France
+536335,S1001,Ceramic Mug,Merch,4,2024-05-20,8.75,12383.0,France
+536335,S1007,Gift Card,Other,5,2024-05-20,25.0,12383.0,France
+536336,S1003,Paper Filters x100,Supplies,1,2024-05-09,4.25,12042.0,United Kingdom
+536337,S1002,Espresso Beans 1kg,Beans,6,2024-05-28,24.0,12308.0,United Kingdom
+536338,S1005,Decaf Beans 1kg,Beans,11,2024-05-19,22.5,12212.0,Germany
+536339,S1006,Milk Frother,Equipment,4,2024-05-10,31.0,12042.0,United Kingdom
+536340,S1005,Decaf Beans 1kg,Beans,11,2024-05-28,22.5,12375.0,France
+536341,S1001,Ceramic Mug,Merch,12,2024-05-06,8.75,12013.0,United Kingdom
+536341,S1002,Espresso Beans 1kg,Beans,8,2024-05-06,24.0,12013.0,United Kingdom
+536341,S1003,Paper Filters x100,Supplies,5,2024-05-06,4.25,12013.0,United Kingdom
+536342,S1006,Milk Frother,Equipment,4,2024-05-18,31.0,12391.0,United Kingdom
+536342,S1002,Espresso Beans 1kg,Beans,11,2024-05-18,24.0,12391.0,United Kingdom
+536343,S1004,Travel Tumbler,Merch,11,2024-05-01,18.9,12076.0,United Kingdom
+536344,S1000,Cold Brew Concentrate,Beverage,7,2024-05-28,12.5,12256.0,Germany
+536344,S1002,Espresso Beans 1kg,Beans,2,2024-05-28,24.0,12256.0,Germany
+536344,S1006,Milk Frother,Equipment,7,2024-05-28,31.0,12256.0,Germany
+536345,S1001,Ceramic Mug,Merch,8,2024-05-25,8.75,12264.0,United Kingdom
+536345,S1002,Espresso Beans 1kg,Beans,9,2024-05-25,24.0,12264.0,United Kingdom
+536346,S1007,Gift Card,Other,7,2024-05-06,25.0,12039.0,United Kingdom
+536346,S1003,Paper Filters x100,Supplies,3,2024-05-06,4.25,12039.0,United Kingdom
+536346,S1005,Decaf Beans 1kg,Beans,8,2024-05-06,22.5,12039.0,United Kingdom
+536347,S1005,Decaf Beans 1kg,Beans,1,2024-05-28,22.5,12213.0,United Kingdom
+536348,S1003,Paper Filters x100,Supplies,7,2024-05-06,4.25,12279.0,United Kingdom
+536348,S1002,Espresso Beans 1kg,Beans,5,2024-05-06,24.0,12279.0,United Kingdom
+536349,S1001,Ceramic Mug,Merch,2,2024-05-11,8.75,12145.0,France
+536350,S1003,Paper Filters x100,Supplies,11,2024-05-15,4.25,12084.0,France
+536350,S1002,Espresso Beans 1kg,Beans,8,2024-05-15,24.0,12084.0,France
+536351,S1003,Paper Filters x100,Supplies,10,2024-05-27,4.25,12216.0,United Kingdom
+536351,S1005,Decaf Beans 1kg,Beans,4,2024-05-27,22.5,12216.0,United Kingdom
+536351,S1006,Milk Frother,Equipment,1,2024-05-27,31.0,12216.0,United Kingdom
+536352,S1005,Decaf Beans 1kg,Beans,3,2024-05-09,22.5,12317.0,Netherlands
+536352,S1006,Milk Frother,Equipment,12,2024-05-09,31.0,12317.0,Netherlands
+536352,S1006,Milk Frother,Equipment,8,2024-05-09,31.0,12317.0,Netherlands
+536353,S1000,Cold Brew Concentrate,Beverage,6,2024-05-22,12.5,12345.0,United Kingdom
+536353,S1007,Gift Card,Other,4,2024-05-22,25.0,12345.0,United Kingdom
+536353,S1004,Travel Tumbler,Merch,6,2024-05-22,18.9,12345.0,United Kingdom
+536354,S1006,Milk Frother,Equipment,4,2024-05-22,31.0,12254.0,United Kingdom
+536354,S1001,Ceramic Mug,Merch,7,2024-05-22,8.75,12254.0,United Kingdom
+536354,S1001,Ceramic Mug,Merch,8,2024-05-22,8.75,12254.0,United Kingdom
+536355,S1005,Decaf Beans 1kg,Beans,12,2024-05-16,22.5,12153.0,United Kingdom
+536355,S1001,Ceramic Mug,Merch,12,2024-05-16,8.75,12153.0,United Kingdom
+536355,S1001,Ceramic Mug,Merch,9,2024-05-16,8.75,12153.0,United Kingdom
+536356,S1002,Espresso Beans 1kg,Beans,1,2024-05-08,24.0,12352.0,Germany
+536357,S1001,Ceramic Mug,Merch,1,2024-05-12,8.75,12001.0,Netherlands
+536358,S1005,Decaf Beans 1kg,Beans,1,2024-05-10,22.5,12179.0,United Kingdom
+536358,S1000,Cold Brew Concentrate,Beverage,4,2024-05-10,12.5,12179.0,United Kingdom
+536359,S1000,Cold Brew Concentrate,Beverage,8,2024-05-03,12.5,12092.0,Netherlands
+536359,S1003,Paper Filters x100,Supplies,7,2024-05-03,4.25,12092.0,Netherlands
+536359,S1004,Travel Tumbler,Merch,3,2024-05-03,18.9,12092.0,Netherlands
+536360,S1004,Travel Tumbler,Merch,11,2024-05-22,18.9,12291.0,Netherlands
+536360,S1001,Ceramic Mug,Merch,8,2024-05-22,8.75,12291.0,Netherlands
+536361,S1004,Travel Tumbler,Merch,1,2024-05-12,18.9,12086.0,United Kingdom
+536362,S1002,Espresso Beans 1kg,Beans,6,2024-05-13,24.0,12392.0,United Kingdom
+536363,S1001,Ceramic Mug,Merch,8,2024-05-21,8.75,12153.0,United Kingdom
+536363,S1005,Decaf Beans 1kg,Beans,6,2024-05-21,22.5,12153.0,United Kingdom
+536364,S1004,Travel Tumbler,Merch,6,2024-05-23,18.9,12057.0,United Kingdom
+536364,S1003,Paper Filters x100,Supplies,3,2024-05-23,4.25,12057.0,United Kingdom
+536364,S1005,Decaf Beans 1kg,Beans,5,2024-05-23,22.5,12057.0,United Kingdom
+536365,S1002,Espresso Beans 1kg,Beans,9,2024-05-24,24.0,12300.0,Netherlands
+536365,S1006,Milk Frother,Equipment,9,2024-05-24,31.0,12300.0,Netherlands
+536365,S1007,Gift Card,Other,2,2024-05-24,25.0,12300.0,Netherlands
+536366,S1002,Espresso Beans 1kg,Beans,8,2024-05-08,24.0,12142.0,Germany
+536366,S1000,Cold Brew Concentrate,Beverage,5,2024-05-08,12.5,12142.0,Germany
+536367,S1003,Paper Filters x100,Supplies,9,2024-05-11,4.25,12158.0,United Kingdom
+536367,S1006,Milk Frother,Equipment,10,2024-05-11,31.0,12158.0,United Kingdom
+536368,S1006,Milk Frother,Equipment,7,2024-05-18,31.0,12034.0,United Kingdom
+536369,S1004,Travel Tumbler,Merch,6,2024-05-28,18.9,12014.0,United Kingdom
+536370,S1002,Espresso Beans 1kg,Beans,4,2024-05-16,24.0,12024.0,United Kingdom
+536370,S1005,Decaf Beans 1kg,Beans,12,2024-05-16,22.5,12024.0,United Kingdom
+C536370,S1004,Travel Tumbler,Merch,-12,2024-05-16,18.9,12024.0,United Kingdom
+536371,S1002,Espresso Beans 1kg,Beans,9,2024-05-16,24.0,12274.0,United Kingdom
+536371,S1003,Paper Filters x100,Supplies,9,2024-05-16,4.25,12274.0,United Kingdom
+536371,S1003,Paper Filters x100,Supplies,1,2024-05-16,4.25,12274.0,United Kingdom
+536372,S1002,Espresso Beans 1kg,Beans,5,2024-05-17,24.0,12254.0,Ireland
+536372,S1003,Paper Filters x100,Supplies,8,2024-05-17,4.25,12254.0,Ireland
+536372,S1004,Travel Tumbler,Merch,4,2024-05-17,18.9,12254.0,Ireland
+536373,S1004,Travel Tumbler,Merch,5,2024-05-06,18.9,12207.0,United Kingdom
+536374,S1000,Cold Brew Concentrate,Beverage,5,2024-05-13,12.5,12277.0,France
+536374,S1003,Paper Filters x100,Supplies,4,2024-05-13,4.25,12277.0,France
+536375,S1005,Decaf Beans 1kg,Beans,4,2024-05-28,22.5,12080.0,United Kingdom
+536375,S1002,Espresso Beans 1kg,Beans,7,2024-05-28,24.0,12080.0,United Kingdom
+536375,S1005,Decaf Beans 1kg,Beans,5,2024-05-28,22.5,12080.0,United Kingdom
+536376,S1006,Milk Frother,Equipment,3,2024-06-08,31.0,12021.0,Netherlands
+536376,S1001,Ceramic Mug,Merch,6,2024-06-08,8.75,12021.0,Netherlands
+536376,S1005,Decaf Beans 1kg,Beans,5,2024-06-08,22.5,12021.0,Netherlands
+536377,S1006,Milk Frother,Equipment,5,2024-06-19,31.0,12370.0,United Kingdom
+536378,S1005,Decaf Beans 1kg,Beans,3,2024-06-04,22.5,12303.0,Germany
+536379,S1003,Paper Filters x100,Supplies,9,2024-06-20,4.25,12373.0,United Kingdom
+536380,S1007,Gift Card,Other,4,2024-06-02,25.0,12179.0,Netherlands
+536381,S1001,Ceramic Mug,Merch,7,2024-06-28,8.75,12338.0,United Kingdom
+536381,S1000,Cold Brew Concentrate,Beverage,4,2024-06-28,12.5,12338.0,United Kingdom
+536381,S1003,Paper Filters x100,Supplies,1,2024-06-28,4.25,12338.0,United Kingdom
+536382,S1007,Gift Card,Other,3,2024-06-19,25.0,12259.0,United Kingdom
+536382,S1006,Milk Frother,Equipment,9,2024-06-19,31.0,12259.0,United Kingdom
+536382,S1006,Milk Frother,Equipment,2,2024-06-19,31.0,12259.0,United Kingdom
+536383,S1005,Decaf Beans 1kg,Beans,1,2024-06-06,22.5,12229.0,Netherlands
+536384,S1002,Espresso Beans 1kg,Beans,8,2024-06-06,24.0,12335.0,United Kingdom
+536385,S1006,Milk Frother,Equipment,9,2024-06-14,31.0,12251.0,United Kingdom
+536386,S1001,Ceramic Mug,Merch,6,2024-06-11,8.75,12185.0,United Kingdom
+536386,S1000,Cold Brew Concentrate,Beverage,5,2024-06-11,12.5,12185.0,United Kingdom
+536387,S1002,Espresso Beans 1kg,Beans,12,2024-06-09,24.0,12051.0,United Kingdom
+536387,S1001,Ceramic Mug,Merch,1,2024-06-09,8.75,12051.0,United Kingdom
+536387,S1006,Milk Frother,Equipment,2,2024-06-09,31.0,12051.0,United Kingdom
+536388,S1005,Decaf Beans 1kg,Beans,4,2024-06-17,22.5,12045.0,United Kingdom
+536388,S1002,Espresso Beans 1kg,Beans,3,2024-06-17,24.0,12045.0,United Kingdom
+536389,S1005,Decaf Beans 1kg,Beans,9,2024-06-15,22.5,12340.0,United Kingdom
+536389,S1007,Gift Card,Other,6,2024-06-15,25.0,12340.0,United Kingdom
+536389,S1006,Milk Frother,Equipment,10,2024-06-15,31.0,12340.0,United Kingdom
+536390,S1003,Paper Filters x100,Supplies,3,2024-06-19,4.25,12171.0,United Kingdom
+536390,S1005,Decaf Beans 1kg,Beans,12,2024-06-19,22.5,12171.0,United Kingdom
+536391,S1005,Decaf Beans 1kg,Beans,12,2024-06-06,22.5,12283.0,United Kingdom
+536391,S1004,Travel Tumbler,Merch,2,2024-06-06,18.9,12283.0,United Kingdom
+536391,S1002,Espresso Beans 1kg,Beans,4,2024-06-06,24.0,12283.0,United Kingdom
+536392,S1002,Espresso Beans 1kg,Beans,2,2024-06-25,24.0,12374.0,United Kingdom
+536392,S1007,Gift Card,Other,11,2024-06-25,25.0,12374.0,United Kingdom
+536393,S1007,Gift Card,Other,7,2024-06-12,25.0,12223.0,United Kingdom
+536393,S1007,Gift Card,Other,3,2024-06-12,25.0,12223.0,United Kingdom
+536393,S1007,Gift Card,Other,11,2024-06-12,25.0,12223.0,United Kingdom
+536394,S1006,Milk Frother,Equipment,6,2024-06-06,31.0,12331.0,United Kingdom
+536395,S1000,Cold Brew Concentrate,Beverage,4,2024-06-27,12.5,12105.0,United Kingdom
+536396,S1007,Gift Card,Other,6,2024-06-16,25.0,12130.0,United Kingdom
+536397,S1005,Decaf Beans 1kg,Beans,2,2024-06-26,22.5,12078.0,United Kingdom
+536397,S1002,Espresso Beans 1kg,Beans,4,2024-06-26,24.0,12078.0,United Kingdom
+536398,S1001,Ceramic Mug,Merch,11,2024-06-26,8.75,12336.0,France
+536399,S1002,Espresso Beans 1kg,Beans,5,2024-06-18,24.0,12052.0,Ireland
+536400,S1006,Milk Frother,Equipment,2,2024-06-24,31.0,12360.0,Ireland
+536400,S1001,Ceramic Mug,Merch,11,2024-06-24,8.75,12360.0,Ireland
+536401,S1004,Travel Tumbler,Merch,9,2024-06-07,18.9,12356.0,Germany
+536401,S1002,Espresso Beans 1kg,Beans,2,2024-06-07,24.0,12356.0,Germany
+536401,S1007,Gift Card,Other,2,2024-06-07,25.0,12356.0,Germany
+536402,S1001,Ceramic Mug,Merch,5,2024-06-19,8.75,12136.0,United Kingdom
+536403,S1003,Paper Filters x100,Supplies,6,2024-06-07,4.25,12074.0,Ireland
+536403,S1007,Gift Card,Other,3,2024-06-07,25.0,12074.0,Ireland
+536403,S1000,Cold Brew Concentrate,Beverage,11,2024-06-07,12.5,,Ireland
+536404,S1007,Gift Card,Other,12,2024-06-18,25.0,12118.0,Netherlands
+536405,S1004,Travel Tumbler,Merch,6,2024-06-05,18.9,12070.0,Netherlands
+536405,S1004,Travel Tumbler,Merch,3,2024-06-05,18.9,12070.0,Netherlands
+536405,S1005,Decaf Beans 1kg,Beans,5,2024-06-05,22.5,12070.0,Netherlands
+536406,S1007,Gift Card,Other,4,2024-06-02,25.0,12122.0,United Kingdom
+536407,S1007,Gift Card,Other,10,2024-06-26,25.0,12020.0,United Kingdom
+536407,S1002,Espresso Beans 1kg,Beans,6,2024-06-26,24.0,12020.0,United Kingdom
+536408,S1002,Espresso Beans 1kg,Beans,5,2024-06-02,24.0,12277.0,United Kingdom
+536409,S1004,Travel Tumbler,Merch,10,2024-06-10,18.9,12059.0,Ireland
+536410,S1000,Cold Brew Concentrate,Beverage,2,2024-06-07,12.5,12378.0,United Kingdom
+536410,S1000,Cold Brew Concentrate,Beverage,9,2024-06-07,12.5,12378.0,United Kingdom
+536410,S1006,Milk Frother,Equipment,10,2024-06-07,31.0,12378.0,United Kingdom
+536411,S1005,Decaf Beans 1kg,Beans,2,2024-06-28,22.5,12001.0,Netherlands
+536411,S1007,Gift Card,Other,5,2024-06-28,25.0,12001.0,Netherlands
+536412,S1002,Espresso Beans 1kg,Beans,2,2024-06-04,24.0,12111.0,United Kingdom
+536413,S1006,Milk Frother,Equipment,10,2024-06-21,31.0,12259.0,United Kingdom
+536414,S1004,Travel Tumbler,Merch,4,2024-06-11,18.9,12006.0,Ireland
+536415,S1005,Decaf Beans 1kg,Beans,10,2024-06-26,22.5,12240.0,Netherlands
+536415,S1002,Espresso Beans 1kg,Beans,2,2024-06-26,24.0,12240.0,Netherlands
+536415,S1003,Paper Filters x100,Supplies,12,2024-06-26,4.25,12240.0,Netherlands
+536416,S1003,Paper Filters x100,Supplies,10,2024-06-06,4.25,12333.0,United Kingdom
+536416,S1001,Ceramic Mug,Merch,6,2024-06-06,8.75,12333.0,United Kingdom
+536416,S1006,Milk Frother,Equipment,11,2024-06-06,31.0,12333.0,United Kingdom
+536417,S1005,Decaf Beans 1kg,Beans,9,2024-06-21,22.5,12106.0,United Kingdom
+536417,S1002,Espresso Beans 1kg,Beans,1,2024-06-21,24.0,12106.0,United Kingdom
+536417,S1004,Travel Tumbler,Merch,1,2024-06-21,18.9,12106.0,United Kingdom
+536418,S1003,Paper Filters x100,Supplies,12,2024-06-24,4.25,12242.0,United Kingdom
+536419,S1007,Gift Card,Other,8,2024-06-02,25.0,12001.0,Ireland
+536420,S1000,Cold Brew Concentrate,Beverage,6,2024-06-25,12.5,12212.0,United Kingdom
+536420,S1004,Travel Tumbler,Merch,9,2024-06-25,18.9,12212.0,United Kingdom
+536420,S1000,Cold Brew Concentrate,Beverage,10,2024-06-25,12.5,12212.0,United Kingdom
+536421,S1006,Milk Frother,Equipment,10,2024-06-02,31.0,12143.0,United Kingdom
+536421,S1005,Decaf Beans 1kg,Beans,6,2024-06-02,22.5,12143.0,United Kingdom
+536421,S1007,Gift Card,Other,2,2024-06-02,25.0,12143.0,United Kingdom
+536422,S1002,Espresso Beans 1kg,Beans,5,2024-06-10,24.0,12108.0,France
+536422,S1002,Espresso Beans 1kg,Beans,5,2024-06-10,24.0,12108.0,France
+C536422,S1006,Milk Frother,Equipment,-5,2024-06-10,31.0,12108.0,France
+536423,S1002,Espresso Beans 1kg,Beans,5,2024-06-07,24.0,12221.0,United Kingdom
+536423,S1000,Cold Brew Concentrate,Beverage,6,2024-06-07,12.5,12221.0,United Kingdom
+536424,S1004,Travel Tumbler,Merch,4,2024-06-24,18.9,12306.0,United Kingdom
+536424,S1005,Decaf Beans 1kg,Beans,5,2024-06-24,22.5,12306.0,United Kingdom
+536425,S1004,Travel Tumbler,Merch,10,2024-06-14,18.9,12230.0,France
+536425,S1003,Paper Filters x100,Supplies,12,2024-06-14,4.25,12230.0,France
+536425,S1004,Travel Tumbler,Merch,6,2024-06-14,18.9,12230.0,France
+536426,S1000,Cold Brew Concentrate,Beverage,9,2024-06-07,12.5,12358.0,United Kingdom
+536426,S1005,Decaf Beans 1kg,Beans,2,2024-06-07,22.5,12358.0,United Kingdom
+536427,S1001,Ceramic Mug,Merch,5,2024-06-14,8.75,12072.0,Ireland
+536427,S1006,Milk Frother,Equipment,6,2024-06-14,31.0,12072.0,Ireland
+536427,S1006,Milk Frother,Equipment,1,2024-06-14,31.0,12072.0,Ireland
+536428,S1006,Milk Frother,Equipment,7,2024-06-13,31.0,12252.0,Netherlands
+536429,S1005,Decaf Beans 1kg,Beans,3,2024-06-26,22.5,12233.0,France
+536429,S1004,Travel Tumbler,Merch,3,2024-06-26,18.9,12233.0,France
+536429,S1003,Paper Filters x100,Supplies,6,2024-06-26,4.25,12233.0,France
+536430,S1007,Gift Card,Other,10,2024-06-10,25.0,12228.0,Germany
+536430,S1001,Ceramic Mug,Merch,9,2024-06-10,8.75,12228.0,Germany
+536430,S1007,Gift Card,Other,12,2024-06-10,25.0,12228.0,Germany
+536431,S1003,Paper Filters x100,Supplies,6,2024-06-22,4.25,12060.0,United Kingdom
+536432,S1004,Travel Tumbler,Merch,10,2024-06-23,18.9,12300.0,United Kingdom
+536432,S1002,Espresso Beans 1kg,Beans,1,2024-06-23,24.0,12300.0,United Kingdom
+536433,S1006,Milk Frother,Equipment,9,2024-06-14,31.0,12103.0,United Kingdom
+536433,S1002,Espresso Beans 1kg,Beans,12,2024-06-14,24.0,12103.0,United Kingdom
+536433,S1006,Milk Frother,Equipment,1,2024-06-14,31.0,12103.0,United Kingdom
+536434,S1001,Ceramic Mug,Merch,8,2024-06-19,8.75,12097.0,United Kingdom
+536434,S1004,Travel Tumbler,Merch,11,2024-06-19,18.9,12097.0,United Kingdom
+536435,S1005,Decaf Beans 1kg,Beans,9,2024-06-08,22.5,12262.0,Netherlands
+536436,S1002,Espresso Beans 1kg,Beans,11,2024-06-16,24.0,12253.0,United Kingdom
+536436,S1001,Ceramic Mug,Merch,6,2024-06-16,8.75,12253.0,United Kingdom
+536436,S1002,Espresso Beans 1kg,Beans,11,2024-06-16,24.0,,United Kingdom
+536437,S1006,Milk Frother,Equipment,11,2024-06-05,31.0,,United Kingdom
+536437,S1002,Espresso Beans 1kg,Beans,9,2024-06-05,24.0,12273.0,United Kingdom
+536437,S1004,Travel Tumbler,Merch,6,2024-06-05,18.9,12273.0,United Kingdom
+536438,S1002,Espresso Beans 1kg,Beans,9,2024-06-04,24.0,12198.0,United Kingdom
+536438,S1005,Decaf Beans 1kg,Beans,2,2024-06-04,22.5,12198.0,United Kingdom
+536438,S1002,Espresso Beans 1kg,Beans,4,2024-06-04,24.0,12198.0,United Kingdom
+536439,S1006,Milk Frother,Equipment,9,2024-06-26,31.0,12148.0,France
+536439,S1004,Travel Tumbler,Merch,6,2024-06-26,18.9,12148.0,France
+536439,S1002,Espresso Beans 1kg,Beans,8,2024-06-26,24.0,12148.0,France
+536440,S1002,Espresso Beans 1kg,Beans,3,2024-06-11,24.0,12178.0,United Kingdom
+536440,S1004,Travel Tumbler,Merch,2,2024-06-11,18.9,12178.0,United Kingdom
+536441,S1003,Paper Filters x100,Supplies,11,2024-06-02,4.25,12300.0,United Kingdom
+536441,S1005,Decaf Beans 1kg,Beans,10,2024-06-02,22.5,12300.0,United Kingdom
+536441,S1005,Decaf Beans 1kg,Beans,2,2024-06-02,22.5,12300.0,United Kingdom
+536442,S1001,Ceramic Mug,Merch,11,2024-06-15,8.75,12390.0,Netherlands
+536442,S1006,Milk Frother,Equipment,6,2024-06-15,31.0,12390.0,Netherlands
+536443,S1004,Travel Tumbler,Merch,5,2024-06-08,18.9,12066.0,France
+536444,S1006,Milk Frother,Equipment,5,2024-07-15,31.0,12306.0,Germany
+536444,S1002,Espresso Beans 1kg,Beans,2,2024-07-15,24.0,12306.0,Germany
+536445,S1007,Gift Card,Other,3,2024-07-24,25.0,12332.0,United Kingdom
+536446,S1000,Cold Brew Concentrate,Beverage,8,2024-07-27,12.5,12373.0,United Kingdom
+536446,S1002,Espresso Beans 1kg,Beans,9,2024-07-27,24.0,12373.0,United Kingdom
+536447,S1001,Ceramic Mug,Merch,5,2024-07-09,8.75,12229.0,France
+536447,S1001,Ceramic Mug,Merch,3,2024-07-09,8.75,12229.0,France
+536447,S1003,Paper Filters x100,Supplies,11,2024-07-09,4.25,12229.0,France
+536448,S1001,Ceramic Mug,Merch,11,2024-07-02,8.75,12300.0,United Kingdom
+536448,S1003,Paper Filters x100,Supplies,5,2024-07-02,4.25,12300.0,United Kingdom
+536449,S1003,Paper Filters x100,Supplies,7,2024-07-13,4.25,12376.0,France
+536449,S1003,Paper Filters x100,Supplies,9,2024-07-13,4.25,12376.0,France
+536450,S1000,Cold Brew Concentrate,Beverage,8,2024-07-10,12.5,12290.0,Germany
+536451,S1001,Ceramic Mug,Merch,10,2024-07-13,8.75,12080.0,France
+536451,S1004,Travel Tumbler,Merch,1,2024-07-13,18.9,12080.0,France
+536452,S1007,Gift Card,Other,3,2024-07-11,25.0,12188.0,Netherlands
+536453,S1001,Ceramic Mug,Merch,8,2024-07-04,8.75,12237.0,United Kingdom
+536453,S1002,Espresso Beans 1kg,Beans,9,2024-07-04,24.0,,United Kingdom
+536453,S1000,Cold Brew Concentrate,Beverage,2,2024-07-04,12.5,12237.0,United Kingdom
+536454,S1000,Cold Brew Concentrate,Beverage,9,2024-07-10,12.5,12325.0,Germany
+536454,S1001,Ceramic Mug,Merch,8,2024-07-10,8.75,12325.0,Germany
+536454,S1003,Paper Filters x100,Supplies,8,2024-07-10,4.25,12325.0,Germany
+536455,S1003,Paper Filters x100,Supplies,1,2024-07-13,4.25,12105.0,France
+536456,S1004,Travel Tumbler,Merch,10,2024-07-09,18.9,12160.0,Ireland
+536456,S1001,Ceramic Mug,Merch,5,2024-07-09,8.75,12160.0,Ireland
+536457,S1004,Travel Tumbler,Merch,1,2024-07-18,18.9,,United Kingdom
+536457,S1007,Gift Card,Other,11,2024-07-18,25.0,12083.0,United Kingdom
+536457,S1002,Espresso Beans 1kg,Beans,12,2024-07-18,24.0,12083.0,United Kingdom
+536458,S1001,Ceramic Mug,Merch,2,2024-07-11,8.75,12173.0,Germany
+536459,S1004,Travel Tumbler,Merch,1,2024-07-06,18.9,12073.0,United Kingdom
+536459,S1002,Espresso Beans 1kg,Beans,10,2024-07-06,24.0,12073.0,United Kingdom
+536459,S1002,Espresso Beans 1kg,Beans,9,2024-07-06,24.0,12073.0,United Kingdom
+536460,S1005,Decaf Beans 1kg,Beans,2,2024-07-02,22.5,12051.0,United Kingdom
+C536460,S1005,Decaf Beans 1kg,Beans,-2,2024-07-02,22.5,12051.0,United Kingdom
+536460,S1002,Espresso Beans 1kg,Beans,9,2024-07-02,24.0,12051.0,United Kingdom
+536461,S1004,Travel Tumbler,Merch,2,2024-07-01,18.9,12344.0,United Kingdom
+536461,S1005,Decaf Beans 1kg,Beans,8,2024-07-01,22.5,12344.0,United Kingdom
+536462,S1006,Milk Frother,Equipment,3,2024-07-06,31.0,12078.0,United Kingdom
+536463,S1000,Cold Brew Concentrate,Beverage,8,2024-07-12,12.5,12200.0,Germany
+536463,S1002,Espresso Beans 1kg,Beans,3,2024-07-12,24.0,12200.0,Germany
+536463,S1001,Ceramic Mug,Merch,9,2024-07-12,8.75,12200.0,Germany
+536464,S1003,Paper Filters x100,Supplies,9,2024-07-08,4.25,12121.0,United Kingdom
+536464,S1000,Cold Brew Concentrate,Beverage,7,2024-07-08,12.5,12121.0,United Kingdom
+536465,S1005,Decaf Beans 1kg,Beans,5,2024-07-25,22.5,12042.0,Germany
+536465,S1006,Milk Frother,Equipment,5,2024-07-25,31.0,12042.0,Germany
+536465,S1001,Ceramic Mug,Merch,3,2024-07-25,8.75,12042.0,Germany
+536466,S1007,Gift Card,Other,1,2024-07-17,25.0,12101.0,United Kingdom
+536467,S1002,Espresso Beans 1kg,Beans,5,2024-07-06,24.0,12016.0,Netherlands
+536467,S1000,Cold Brew Concentrate,Beverage,9,2024-07-06,12.5,12016.0,Netherlands
+536467,S1006,Milk Frother,Equipment,10,2024-07-06,31.0,12016.0,Netherlands
+536468,S1004,Travel Tumbler,Merch,11,2024-07-09,18.9,12179.0,Germany
+536468,S1007,Gift Card,Other,11,2024-07-09,25.0,12179.0,Germany
+536468,S1000,Cold Brew Concentrate,Beverage,8,2024-07-09,12.5,12179.0,Germany
+536469,S1005,Decaf Beans 1kg,Beans,10,2024-07-06,22.5,12191.0,United Kingdom
+536469,S1007,Gift Card,Other,1,2024-07-06,25.0,12191.0,United Kingdom
+536469,S1003,Paper Filters x100,Supplies,9,2024-07-06,4.25,12191.0,United Kingdom
+536470,S1004,Travel Tumbler,Merch,4,2024-07-04,18.9,12055.0,Germany
+536470,S1005,Decaf Beans 1kg,Beans,3,2024-07-04,22.5,12055.0,Germany
+536471,S1001,Ceramic Mug,Merch,8,2024-07-21,8.75,12134.0,United Kingdom
+536471,S1000,Cold Brew Concentrate,Beverage,7,2024-07-21,12.5,12134.0,United Kingdom
+536471,S1007,Gift Card,Other,1,2024-07-21,25.0,12134.0,United Kingdom
+536472,S1005,Decaf Beans 1kg,Beans,4,2024-07-24,22.5,12212.0,United Kingdom
+536472,S1006,Milk Frother,Equipment,3,2024-07-24,31.0,12212.0,United Kingdom
+536473,S1002,Espresso Beans 1kg,Beans,9,2024-07-08,24.0,12231.0,Germany
+536473,S1001,Ceramic Mug,Merch,4,2024-07-08,8.75,12231.0,Germany
+536474,S1005,Decaf Beans 1kg,Beans,7,2024-07-14,22.5,12000.0,United Kingdom
+536474,S1001,Ceramic Mug,Merch,11,2024-07-14,8.75,12000.0,United Kingdom
+536474,S1000,Cold Brew Concentrate,Beverage,3,2024-07-14,12.5,12000.0,United Kingdom
+536475,S1004,Travel Tumbler,Merch,9,2024-07-05,18.9,12035.0,United Kingdom
+536475,S1004,Travel Tumbler,Merch,9,2024-07-05,18.9,12035.0,United Kingdom
+536475,S1006,Milk Frother,Equipment,6,2024-07-05,31.0,12035.0,United Kingdom
+536476,S1006,Milk Frother,Equipment,9,2024-07-14,31.0,12376.0,United Kingdom
+536477,S1001,Ceramic Mug,Merch,2,2024-07-23,8.75,12203.0,Germany
+536477,S1006,Milk Frother,Equipment,8,2024-07-23,31.0,12203.0,Germany
+536478,S1002,Espresso Beans 1kg,Beans,12,2024-07-10,24.0,12067.0,United Kingdom
+536478,S1005,Decaf Beans 1kg,Beans,1,2024-07-10,22.5,12067.0,United Kingdom
+536478,S1002,Espresso Beans 1kg,Beans,4,2024-07-10,24.0,12067.0,United Kingdom
+536479,S1004,Travel Tumbler,Merch,5,2024-07-05,18.9,12230.0,United Kingdom
+536479,S1005,Decaf Beans 1kg,Beans,6,2024-07-05,22.5,12230.0,United Kingdom
+536479,S1007,Gift Card,Other,12,2024-07-05,25.0,12230.0,United Kingdom
+536480,S1002,Espresso Beans 1kg,Beans,1,2024-07-21,24.0,12201.0,France
+536480,S1006,Milk Frother,Equipment,7,2024-07-21,31.0,12201.0,France
+536481,S1003,Paper Filters x100,Supplies,8,2024-07-24,4.25,12154.0,Ireland
+536481,S1004,Travel Tumbler,Merch,10,2024-07-24,18.9,12154.0,Ireland
+536481,S1005,Decaf Beans 1kg,Beans,7,2024-07-24,22.5,12154.0,Ireland
+536482,S1007,Gift Card,Other,4,2024-07-04,25.0,12200.0,France
+536483,S1007,Gift Card,Other,7,2024-07-01,25.0,12320.0,United Kingdom
+536484,S1007,Gift Card,Other,4,2024-07-05,25.0,12373.0,France
+536484,S1002,Espresso Beans 1kg,Beans,8,2024-07-05,24.0,12373.0,France
+536485,S1001,Ceramic Mug,Merch,5,2024-07-08,8.75,12397.0,France
+536485,S1007,Gift Card,Other,2,2024-07-08,25.0,12397.0,France
+536486,S1006,Milk Frother,Equipment,8,2024-07-18,31.0,12079.0,United Kingdom
+536486,S1007,Gift Card,Other,4,2024-07-18,25.0,12079.0,United Kingdom
+536487,S1001,Ceramic Mug,Merch,12,2024-07-24,8.75,12145.0,Ireland
+536488,S1006,Milk Frother,Equipment,2,2024-07-05,31.0,12126.0,Netherlands
+536488,S1005,Decaf Beans 1kg,Beans,1,2024-07-05,22.5,12126.0,Netherlands
+536489,S1001,Ceramic Mug,Merch,7,2024-07-18,8.75,12280.0,Netherlands
+536489,S1007,Gift Card,Other,5,2024-07-18,25.0,12280.0,Netherlands
+536490,S1001,Ceramic Mug,Merch,9,2024-07-26,8.75,12213.0,Netherlands
+536491,S1005,Decaf Beans 1kg,Beans,3,2024-07-08,22.5,12308.0,United Kingdom
+536492,S1001,Ceramic Mug,Merch,3,2024-07-08,8.75,12269.0,Germany
+536492,S1000,Cold Brew Concentrate,Beverage,2,2024-07-08,12.5,12269.0,Germany
+536492,S1002,Espresso Beans 1kg,Beans,2,2024-07-08,24.0,12269.0,Germany
+536493,S1005,Decaf Beans 1kg,Beans,8,2024-07-26,22.5,12309.0,United Kingdom
+536493,S1006,Milk Frother,Equipment,1,2024-07-26,31.0,12309.0,United Kingdom
+536494,S1007,Gift Card,Other,6,2024-07-26,25.0,12228.0,United Kingdom
+536495,S1003,Paper Filters x100,Supplies,6,2024-07-07,4.25,12340.0,United Kingdom
+536495,S1002,Espresso Beans 1kg,Beans,3,2024-07-07,24.0,12340.0,United Kingdom
+536495,S1006,Milk Frother,Equipment,6,2024-07-07,31.0,12340.0,United Kingdom
+536496,S1003,Paper Filters x100,Supplies,5,2024-07-25,4.25,12048.0,Ireland
+536496,S1000,Cold Brew Concentrate,Beverage,5,2024-07-25,12.5,12048.0,Ireland
+536496,S1007,Gift Card,Other,11,2024-07-25,25.0,12048.0,Ireland
+536497,S1007,Gift Card,Other,7,2024-07-23,25.0,12394.0,United Kingdom
+536498,S1002,Espresso Beans 1kg,Beans,11,2024-07-14,24.0,12235.0,Germany
+536498,S1001,Ceramic Mug,Merch,5,2024-07-14,8.75,12235.0,Germany
+536498,S1002,Espresso Beans 1kg,Beans,3,2024-07-14,24.0,12235.0,Germany
+536499,S1002,Espresso Beans 1kg,Beans,1,2024-07-28,24.0,12019.0,United Kingdom
+536499,S1005,Decaf Beans 1kg,Beans,9,2024-07-28,22.5,12019.0,United Kingdom
+536499,S1002,Espresso Beans 1kg,Beans,10,2024-07-28,24.0,12019.0,United Kingdom
+536500,S1001,Ceramic Mug,Merch,2,2024-07-17,8.75,12083.0,United Kingdom
+536501,S1004,Travel Tumbler,Merch,6,2024-07-04,18.9,12267.0,France
+536501,S1003,Paper Filters x100,Supplies,12,2024-07-04,4.25,12267.0,France
+536501,S1005,Decaf Beans 1kg,Beans,11,2024-07-04,22.5,12267.0,France
+536502,S1002,Espresso Beans 1kg,Beans,4,2024-07-20,24.0,12278.0,Germany
+536502,S1007,Gift Card,Other,4,2024-07-20,25.0,12278.0,Germany
+536503,S1000,Cold Brew Concentrate,Beverage,12,2024-07-12,12.5,12258.0,Netherlands
+536504,S1000,Cold Brew Concentrate,Beverage,11,2024-07-15,12.5,12023.0,United Kingdom
+536504,S1001,Ceramic Mug,Merch,5,2024-07-15,8.75,12023.0,United Kingdom
+536505,S1005,Decaf Beans 1kg,Beans,3,2024-07-19,22.5,12305.0,United Kingdom
+536505,S1004,Travel Tumbler,Merch,11,2024-07-19,18.9,12305.0,United Kingdom
+536506,S1006,Milk Frother,Equipment,12,2024-07-10,31.0,12192.0,United Kingdom
+536506,S1005,Decaf Beans 1kg,Beans,12,2024-07-10,22.5,12192.0,United Kingdom
+536507,S1000,Cold Brew Concentrate,Beverage,8,2024-07-06,12.5,12281.0,Ireland
+536508,S1005,Decaf Beans 1kg,Beans,9,2024-07-21,22.5,12346.0,France
+536508,S1000,Cold Brew Concentrate,Beverage,1,2024-07-21,12.5,12346.0,France
+536509,S1007,Gift Card,Other,4,2024-07-24,25.0,12033.0,France
+536509,S1001,Ceramic Mug,Merch,1,2024-07-24,8.75,12033.0,France
+536510,S1005,Decaf Beans 1kg,Beans,2,2024-07-03,22.5,12309.0,United Kingdom
+536510,S1002,Espresso Beans 1kg,Beans,8,2024-07-03,24.0,12309.0,United Kingdom
+536510,S1006,Milk Frother,Equipment,10,2024-07-03,31.0,12309.0,United Kingdom
+C536511,S1003,Paper Filters x100,Supplies,-10,2024-07-07,4.25,12038.0,United Kingdom
+536512,S1007,Gift Card,Other,2,2024-07-07,25.0,12244.0,Germany
+536512,S1005,Decaf Beans 1kg,Beans,5,2024-07-07,22.5,12244.0,Germany
+536513,S1007,Gift Card,Other,12,2024-07-13,25.0,12134.0,Netherlands
+536513,S1000,Cold Brew Concentrate,Beverage,4,2024-07-13,12.5,12134.0,Netherlands
+536514,S1005,Decaf Beans 1kg,Beans,6,2024-07-02,22.5,12010.0,Ireland
+536514,S1002,Espresso Beans 1kg,Beans,1,2024-07-02,24.0,12010.0,Ireland
+536514,S1003,Paper Filters x100,Supplies,7,2024-07-02,4.25,12010.0,Ireland
+536515,S1007,Gift Card,Other,2,2024-07-08,25.0,12254.0,United Kingdom
+536516,S1003,Paper Filters x100,Supplies,10,2024-07-07,4.25,12188.0,France
+536517,S1004,Travel Tumbler,Merch,7,2024-07-09,18.9,12131.0,United Kingdom
+536517,S1004,Travel Tumbler,Merch,8,2024-07-09,18.9,12131.0,United Kingdom
+536517,S1004,Travel Tumbler,Merch,9,2024-07-09,18.9,12131.0,United Kingdom
+536518,S1000,Cold Brew Concentrate,Beverage,10,2024-07-08,12.5,12003.0,Netherlands
+536519,S1005,Decaf Beans 1kg,Beans,12,2024-07-28,22.5,12186.0,United Kingdom
+536520,S1001,Ceramic Mug,Merch,9,2024-07-12,8.75,12391.0,Germany
+536520,S1006,Milk Frother,Equipment,1,2024-07-12,31.0,12391.0,Germany
+536521,S1006,Milk Frother,Equipment,12,2024-07-15,31.0,12213.0,United Kingdom
+536521,S1004,Travel Tumbler,Merch,12,2024-07-15,18.9,12213.0,United Kingdom
+536521,S1007,Gift Card,Other,10,2024-07-15,25.0,12213.0,United Kingdom
+536522,S1005,Decaf Beans 1kg,Beans,11,2024-07-09,22.5,12185.0,United Kingdom
+536522,S1001,Ceramic Mug,Merch,7,2024-07-09,8.75,12185.0,United Kingdom
+536523,S1005,Decaf Beans 1kg,Beans,9,2024-07-21,22.5,12246.0,United Kingdom
+536524,S1006,Milk Frother,Equipment,4,2024-07-20,31.0,12112.0,United Kingdom
+536525,S1006,Milk Frother,Equipment,8,2024-07-01,31.0,12334.0,Germany
+536525,S1007,Gift Card,Other,12,2024-07-01,25.0,12334.0,Germany
+536525,S1003,Paper Filters x100,Supplies,11,2024-07-01,4.25,12334.0,Germany
+536526,S1003,Paper Filters x100,Supplies,9,2024-07-08,4.25,12206.0,United Kingdom
+536526,S1002,Espresso Beans 1kg,Beans,11,2024-07-08,24.0,12206.0,United Kingdom
+536526,S1001,Ceramic Mug,Merch,3,2024-07-08,8.75,12206.0,United Kingdom
+536527,S1007,Gift Card,Other,10,2024-07-13,25.0,12349.0,United Kingdom
+536528,S1006,Milk Frother,Equipment,10,2024-08-18,31.0,12089.0,United Kingdom
+536528,S1001,Ceramic Mug,Merch,6,2024-08-18,8.75,12089.0,United Kingdom
+536528,S1004,Travel Tumbler,Merch,2,2024-08-18,18.9,12089.0,United Kingdom
+536529,S1006,Milk Frother,Equipment,12,2024-08-28,31.0,12397.0,United Kingdom
+536529,S1000,Cold Brew Concentrate,Beverage,3,2024-08-28,12.5,12397.0,United Kingdom
+536530,S1003,Paper Filters x100,Supplies,4,2024-08-25,4.25,12282.0,United Kingdom
+536530,S1003,Paper Filters x100,Supplies,2,2024-08-25,4.25,12282.0,United Kingdom
+536530,S1006,Milk Frother,Equipment,1,2024-08-25,31.0,12282.0,United Kingdom
+536531,S1007,Gift Card,Other,9,2024-08-25,25.0,12158.0,United Kingdom
+536531,S1005,Decaf Beans 1kg,Beans,3,2024-08-25,22.5,12158.0,United Kingdom
+536531,S1005,Decaf Beans 1kg,Beans,6,2024-08-25,22.5,12158.0,United Kingdom
+536532,S1006,Milk Frother,Equipment,12,2024-08-28,31.0,12077.0,United Kingdom
+536532,S1002,Espresso Beans 1kg,Beans,6,2024-08-28,24.0,12077.0,United Kingdom
+536532,S1001,Ceramic Mug,Merch,10,2024-08-28,8.75,12077.0,United Kingdom
+536533,S1002,Espresso Beans 1kg,Beans,12,2024-08-28,24.0,12062.0,Ireland
+536534,S1001,Ceramic Mug,Merch,6,2024-08-08,8.75,12261.0,United Kingdom
+536534,S1004,Travel Tumbler,Merch,4,2024-08-08,18.9,12261.0,United Kingdom
+536535,S1005,Decaf Beans 1kg,Beans,12,2024-08-22,22.5,12355.0,United Kingdom
+536535,S1006,Milk Frother,Equipment,3,2024-08-22,31.0,12355.0,United Kingdom
+536535,S1001,Ceramic Mug,Merch,8,2024-08-22,8.75,12355.0,United Kingdom
+536536,S1006,Milk Frother,Equipment,6,2024-08-28,31.0,12094.0,Germany
+536536,S1005,Decaf Beans 1kg,Beans,3,2024-08-28,22.5,12094.0,Germany
+536536,S1007,Gift Card,Other,8,2024-08-28,25.0,12094.0,Germany
+536537,S1007,Gift Card,Other,2,2024-08-25,25.0,12182.0,Ireland
+536537,S1003,Paper Filters x100,Supplies,8,2024-08-25,4.25,12182.0,Ireland
+536537,S1002,Espresso Beans 1kg,Beans,5,2024-08-25,24.0,12182.0,Ireland
+536538,S1000,Cold Brew Concentrate,Beverage,5,2024-08-07,12.5,12348.0,France
+536538,S1000,Cold Brew Concentrate,Beverage,4,2024-08-07,12.5,12348.0,France
+536538,S1006,Milk Frother,Equipment,3,2024-08-07,31.0,12348.0,France
+536539,S1002,Espresso Beans 1kg,Beans,8,2024-08-26,24.0,12107.0,Netherlands
+536539,S1006,Milk Frother,Equipment,4,2024-08-26,31.0,12107.0,Netherlands
+536540,S1004,Travel Tumbler,Merch,3,2024-08-10,18.9,12152.0,United Kingdom
+536540,S1002,Espresso Beans 1kg,Beans,4,2024-08-10,24.0,12152.0,United Kingdom
+536541,S1004,Travel Tumbler,Merch,1,2024-08-08,18.9,12272.0,United Kingdom
+536541,S1000,Cold Brew Concentrate,Beverage,1,2024-08-08,12.5,12272.0,United Kingdom
+536542,S1000,Cold Brew Concentrate,Beverage,8,2024-08-05,12.5,12312.0,United Kingdom
+536542,S1005,Decaf Beans 1kg,Beans,2,2024-08-05,22.5,12312.0,United Kingdom
+536543,S1004,Travel Tumbler,Merch,4,2024-08-16,18.9,12334.0,United Kingdom
+536543,S1007,Gift Card,Other,11,2024-08-16,25.0,12334.0,United Kingdom
+536543,S1006,Milk Frother,Equipment,9,2024-08-16,31.0,12334.0,United Kingdom
+536544,S1005,Decaf Beans 1kg,Beans,9,2024-08-19,22.5,12048.0,Netherlands
+536544,S1000,Cold Brew Concentrate,Beverage,2,2024-08-19,12.5,12048.0,Netherlands
+536545,S1006,Milk Frother,Equipment,3,2024-08-20,31.0,12156.0,United Kingdom
+536545,S1006,Milk Frother,Equipment,3,2024-08-20,31.0,12156.0,United Kingdom
+536546,S1007,Gift Card,Other,9,2024-08-03,25.0,,Netherlands
+536546,S1004,Travel Tumbler,Merch,11,2024-08-03,18.9,12086.0,Netherlands
+536547,S1007,Gift Card,Other,4,2024-08-26,25.0,12365.0,United Kingdom
+536547,S1006,Milk Frother,Equipment,4,2024-08-26,31.0,12365.0,United Kingdom
+536547,S1003,Paper Filters x100,Supplies,7,2024-08-26,4.25,12365.0,United Kingdom
+536548,S1003,Paper Filters x100,Supplies,11,2024-08-17,4.25,12211.0,United Kingdom
+536548,S1006,Milk Frother,Equipment,2,2024-08-17,31.0,12211.0,United Kingdom
+536548,S1001,Ceramic Mug,Merch,9,2024-08-17,8.75,12211.0,United Kingdom
+536549,S1007,Gift Card,Other,10,2024-08-02,25.0,12304.0,Germany
+536549,S1003,Paper Filters x100,Supplies,6,2024-08-02,4.25,12304.0,Germany
+536549,S1002,Espresso Beans 1kg,Beans,6,2024-08-02,24.0,12304.0,Germany
+536550,S1005,Decaf Beans 1kg,Beans,7,2024-08-09,22.5,12012.0,France
+536550,S1003,Paper Filters x100,Supplies,3,2024-08-09,4.25,12012.0,France
+536551,S1006,Milk Frother,Equipment,2,2024-08-12,31.0,12245.0,Germany
+536551,S1005,Decaf Beans 1kg,Beans,9,2024-08-12,22.5,12245.0,Germany
+536551,S1005,Decaf Beans 1kg,Beans,4,2024-08-12,22.5,12245.0,Germany
+536552,S1006,Milk Frother,Equipment,12,2024-08-09,31.0,12100.0,United Kingdom
+536552,S1000,Cold Brew Concentrate,Beverage,8,2024-08-09,12.5,12100.0,United Kingdom
+536552,S1000,Cold Brew Concentrate,Beverage,12,2024-08-09,12.5,12100.0,United Kingdom
+536553,S1003,Paper Filters x100,Supplies,10,2024-08-17,4.25,12093.0,France
+536553,S1002,Espresso Beans 1kg,Beans,3,2024-08-17,24.0,12093.0,France
+536553,S1003,Paper Filters x100,Supplies,9,2024-08-17,4.25,12093.0,France
+536554,S1000,Cold Brew Concentrate,Beverage,1,2024-08-25,12.5,12088.0,United Kingdom
+536554,S1004,Travel Tumbler,Merch,5,2024-08-25,18.9,12088.0,United Kingdom
+536555,S1006,Milk Frother,Equipment,9,2024-08-18,31.0,12137.0,United Kingdom
+536556,S1001,Ceramic Mug,Merch,4,2024-08-03,8.75,12245.0,Germany
+536556,S1006,Milk Frother,Equipment,5,2024-08-03,31.0,12245.0,Germany
+536557,S1001,Ceramic Mug,Merch,4,2024-08-27,8.75,12099.0,Netherlands
+536557,S1000,Cold Brew Concentrate,Beverage,3,2024-08-27,12.5,12099.0,Netherlands
+536558,S1007,Gift Card,Other,10,2024-08-19,25.0,12384.0,Netherlands
+536558,S1004,Travel Tumbler,Merch,8,2024-08-19,18.9,12384.0,Netherlands
+536559,S1003,Paper Filters x100,Supplies,8,2024-08-07,4.25,12134.0,Netherlands
+536560,S1000,Cold Brew Concentrate,Beverage,4,2024-08-14,12.5,12268.0,United Kingdom
+536560,S1005,Decaf Beans 1kg,Beans,9,2024-08-14,22.5,12268.0,United Kingdom
+536560,S1001,Ceramic Mug,Merch,10,2024-08-14,8.75,12268.0,United Kingdom
+536561,S1005,Decaf Beans 1kg,Beans,5,2024-08-28,22.5,12131.0,United Kingdom
+536562,S1007,Gift Card,Other,9,2024-08-02,25.0,12302.0,United Kingdom
+536563,S1007,Gift Card,Other,6,2024-08-18,25.0,12120.0,Ireland
+536563,S1000,Cold Brew Concentrate,Beverage,5,2024-08-18,12.5,12120.0,Ireland
+536564,S1001,Ceramic Mug,Merch,6,2024-08-01,8.75,12356.0,Netherlands
+536564,S1004,Travel Tumbler,Merch,9,2024-08-01,18.9,12356.0,Netherlands
+536565,S1005,Decaf Beans 1kg,Beans,12,2024-08-19,22.5,12279.0,United Kingdom
+536566,S1001,Ceramic Mug,Merch,3,2024-08-22,8.75,12215.0,United Kingdom
+536567,S1000,Cold Brew Concentrate,Beverage,4,2024-08-06,12.5,12048.0,Netherlands
+536567,S1001,Ceramic Mug,Merch,10,2024-08-06,8.75,12048.0,Netherlands
+536567,S1004,Travel Tumbler,Merch,2,2024-08-06,18.9,12048.0,Netherlands
+C536568,S1006,Milk Frother,Equipment,-12,2024-08-26,31.0,12234.0,Netherlands
+536568,S1004,Travel Tumbler,Merch,11,2024-08-26,18.9,12234.0,Netherlands
+536568,S1002,Espresso Beans 1kg,Beans,6,2024-08-26,24.0,12234.0,Netherlands
+536569,S1001,Ceramic Mug,Merch,5,2024-08-27,8.75,12023.0,United Kingdom
+536569,S1004,Travel Tumbler,Merch,2,2024-08-27,18.9,12023.0,United Kingdom
+536569,S1002,Espresso Beans 1kg,Beans,2,2024-08-27,24.0,12023.0,United Kingdom
+536570,S1005,Decaf Beans 1kg,Beans,3,2024-08-06,22.5,12326.0,United Kingdom
+536570,S1001,Ceramic Mug,Merch,11,2024-08-06,8.75,12326.0,United Kingdom
+536571,S1002,Espresso Beans 1kg,Beans,7,2024-08-18,24.0,,Germany
+536572,S1006,Milk Frother,Equipment,9,2024-08-12,31.0,12070.0,Netherlands
+536572,S1006,Milk Frother,Equipment,12,2024-08-12,31.0,12070.0,Netherlands
+536572,S1001,Ceramic Mug,Merch,7,2024-08-12,8.75,12070.0,Netherlands
+536573,S1002,Espresso Beans 1kg,Beans,4,2024-08-18,24.0,12138.0,United Kingdom
+536574,S1005,Decaf Beans 1kg,Beans,12,2024-08-23,22.5,12205.0,United Kingdom
+536574,S1004,Travel Tumbler,Merch,10,2024-08-23,18.9,12205.0,United Kingdom
+536575,S1006,Milk Frother,Equipment,2,2024-08-23,31.0,12018.0,United Kingdom
+536576,S1006,Milk Frother,Equipment,6,2024-08-22,31.0,12309.0,Germany
+536576,S1007,Gift Card,Other,2,2024-08-22,25.0,12309.0,Germany
+536576,S1000,Cold Brew Concentrate,Beverage,4,2024-08-22,12.5,12309.0,Germany
+536577,S1003,Paper Filters x100,Supplies,8,2024-08-11,4.25,12074.0,Germany
+536578,S1005,Decaf Beans 1kg,Beans,1,2024-08-02,22.5,12160.0,United Kingdom
+536579,S1003,Paper Filters x100,Supplies,10,2024-08-10,4.25,12317.0,Germany
+536579,S1007,Gift Card,Other,11,2024-08-10,25.0,12317.0,Germany
+536580,S1005,Decaf Beans 1kg,Beans,12,2024-08-24,22.5,12250.0,France
+536580,S1002,Espresso Beans 1kg,Beans,1,2024-08-24,24.0,12250.0,France
+536580,S1003,Paper Filters x100,Supplies,5,2024-08-24,4.25,12250.0,France
+536581,S1007,Gift Card,Other,6,2024-08-14,25.0,12390.0,Ireland
+536581,S1001,Ceramic Mug,Merch,2,2024-08-14,8.75,12390.0,Ireland
+536581,S1000,Cold Brew Concentrate,Beverage,1,2024-08-14,12.5,12390.0,Ireland
+536582,S1003,Paper Filters x100,Supplies,12,2024-08-27,4.25,12358.0,United Kingdom
+536582,S1005,Decaf Beans 1kg,Beans,3,2024-08-27,22.5,12358.0,United Kingdom
+536583,S1001,Ceramic Mug,Merch,12,2024-08-12,8.75,12156.0,Ireland
+536583,S1001,Ceramic Mug,Merch,10,2024-08-12,8.75,12156.0,Ireland
+536584,S1004,Travel Tumbler,Merch,1,2024-08-20,18.9,12207.0,United Kingdom
+536584,S1005,Decaf Beans 1kg,Beans,1,2024-08-20,22.5,12207.0,United Kingdom
+536584,S1004,Travel Tumbler,Merch,2,2024-08-20,18.9,12207.0,United Kingdom
+536585,S1003,Paper Filters x100,Supplies,3,2024-08-22,4.25,12257.0,Germany
+536586,S1001,Ceramic Mug,Merch,3,2024-08-17,8.75,12245.0,Germany
+536587,S1007,Gift Card,Other,4,2024-08-10,25.0,12188.0,Ireland
+536587,S1003,Paper Filters x100,Supplies,2,2024-08-10,4.25,12188.0,Ireland
+536587,S1001,Ceramic Mug,Merch,7,2024-08-10,8.75,12188.0,Ireland
+536588,S1001,Ceramic Mug,Merch,6,2024-08-15,8.75,12000.0,United Kingdom
+536589,S1003,Paper Filters x100,Supplies,8,2024-08-16,4.25,12280.0,United Kingdom
+536589,S1000,Cold Brew Concentrate,Beverage,3,2024-08-16,12.5,12280.0,United Kingdom
+536589,S1002,Espresso Beans 1kg,Beans,7,2024-08-16,24.0,12280.0,United Kingdom
+536590,S1007,Gift Card,Other,6,2024-08-19,25.0,,United Kingdom
+536590,S1006,Milk Frother,Equipment,9,2024-08-19,31.0,12384.0,United Kingdom
+536590,S1000,Cold Brew Concentrate,Beverage,4,2024-08-19,12.5,12384.0,United Kingdom
+536591,S1007,Gift Card,Other,11,2024-08-15,25.0,12234.0,United Kingdom
+536591,S1002,Espresso Beans 1kg,Beans,6,2024-08-15,24.0,12234.0,United Kingdom
+536592,S1007,Gift Card,Other,4,2024-08-13,25.0,12034.0,United Kingdom
+536592,S1007,Gift Card,Other,2,2024-08-13,25.0,12034.0,United Kingdom
+536592,S1005,Decaf Beans 1kg,Beans,8,2024-08-13,22.5,12034.0,United Kingdom
+536593,S1001,Ceramic Mug,Merch,8,2024-08-17,8.75,12174.0,Netherlands
+536593,S1003,Paper Filters x100,Supplies,5,2024-08-17,4.25,12174.0,Netherlands
+536593,S1002,Espresso Beans 1kg,Beans,6,2024-08-17,24.0,12174.0,Netherlands
+536594,S1003,Paper Filters x100,Supplies,2,2024-08-14,4.25,12006.0,Ireland
+536594,S1004,Travel Tumbler,Merch,11,2024-08-14,18.9,12006.0,Ireland
+536595,S1002,Espresso Beans 1kg,Beans,10,2024-08-23,24.0,12066.0,Ireland
+536595,S1001,Ceramic Mug,Merch,6,2024-08-23,8.75,12066.0,Ireland
+536596,S1001,Ceramic Mug,Merch,12,2024-08-03,8.75,12210.0,Germany
+536596,S1007,Gift Card,Other,11,2024-08-03,25.0,12210.0,Germany
+536596,S1002,Espresso Beans 1kg,Beans,5,2024-08-03,24.0,12210.0,Germany
+536597,S1004,Travel Tumbler,Merch,12,2024-08-04,18.9,12392.0,Germany
+536597,S1000,Cold Brew Concentrate,Beverage,6,2024-08-04,12.5,12392.0,Germany
+536598,S1003,Paper Filters x100,Supplies,4,2024-08-28,4.25,12044.0,United Kingdom
+536599,S1000,Cold Brew Concentrate,Beverage,12,2024-08-03,12.5,12146.0,France
+536600,S1007,Gift Card,Other,9,2024-08-20,25.0,12262.0,Germany
+536600,S1003,Paper Filters x100,Supplies,8,2024-08-20,4.25,12262.0,Germany
+536600,S1003,Paper Filters x100,Supplies,7,2024-08-20,4.25,12262.0,Germany
+536601,S1001,Ceramic Mug,Merch,10,2024-08-03,8.75,12012.0,France
+536602,S1005,Decaf Beans 1kg,Beans,4,2024-08-10,22.5,12296.0,United Kingdom
+536602,S1005,Decaf Beans 1kg,Beans,6,2024-08-10,22.5,12296.0,United Kingdom
+536603,S1003,Paper Filters x100,Supplies,8,2024-08-19,4.25,12130.0,Netherlands
+536604,S1004,Travel Tumbler,Merch,6,2024-08-03,18.9,12109.0,France
+536604,S1001,Ceramic Mug,Merch,11,2024-08-03,8.75,12109.0,France
+536605,S1005,Decaf Beans 1kg,Beans,12,2024-08-28,22.5,12337.0,Germany
+536605,S1007,Gift Card,Other,1,2024-08-28,25.0,12337.0,Germany
+536605,S1004,Travel Tumbler,Merch,4,2024-08-28,18.9,,Germany
+536606,S1003,Paper Filters x100,Supplies,12,2024-09-03,4.25,12387.0,Netherlands
+536606,S1004,Travel Tumbler,Merch,12,2024-09-03,18.9,12387.0,Netherlands
+536606,S1000,Cold Brew Concentrate,Beverage,8,2024-09-03,12.5,12387.0,Netherlands
+536607,S1004,Travel Tumbler,Merch,5,2024-09-24,18.9,12315.0,France
+536607,S1006,Milk Frother,Equipment,6,2024-09-24,31.0,12315.0,France
+536607,S1002,Espresso Beans 1kg,Beans,11,2024-09-24,24.0,12315.0,France
+536608,S1003,Paper Filters x100,Supplies,1,2024-09-24,4.25,12017.0,United Kingdom
+536609,S1001,Ceramic Mug,Merch,6,2024-09-02,8.75,12135.0,United Kingdom
+536610,S1007,Gift Card,Other,9,2024-09-24,25.0,12102.0,United Kingdom
+536611,S1002,Espresso Beans 1kg,Beans,12,2024-09-06,24.0,12038.0,United Kingdom
+536612,S1002,Espresso Beans 1kg,Beans,6,2024-09-20,24.0,12128.0,United Kingdom
+536612,S1001,Ceramic Mug,Merch,7,2024-09-20,8.75,12128.0,United Kingdom
+536612,S1001,Ceramic Mug,Merch,3,2024-09-20,8.75,12128.0,United Kingdom
+536613,S1002,Espresso Beans 1kg,Beans,7,2024-09-14,24.0,12275.0,United Kingdom
+536613,S1001,Ceramic Mug,Merch,3,2024-09-14,8.75,12275.0,United Kingdom
+536613,S1001,Ceramic Mug,Merch,3,2024-09-14,8.75,12275.0,United Kingdom
+536614,S1002,Espresso Beans 1kg,Beans,2,2024-09-18,24.0,12128.0,Germany
+536614,S1002,Espresso Beans 1kg,Beans,4,2024-09-18,24.0,12128.0,Germany
+536615,S1000,Cold Brew Concentrate,Beverage,11,2024-09-07,12.5,12185.0,Netherlands
+536615,S1002,Espresso Beans 1kg,Beans,8,2024-09-07,24.0,12185.0,Netherlands
+536616,S1005,Decaf Beans 1kg,Beans,8,2024-09-14,22.5,12363.0,Germany
+536616,S1003,Paper Filters x100,Supplies,12,2024-09-14,4.25,12363.0,Germany
+536616,S1005,Decaf Beans 1kg,Beans,7,2024-09-14,22.5,12363.0,Germany
+536617,S1005,Decaf Beans 1kg,Beans,5,2024-09-03,22.5,12072.0,United Kingdom
+536617,S1004,Travel Tumbler,Merch,11,2024-09-03,18.9,12072.0,United Kingdom
+536617,S1002,Espresso Beans 1kg,Beans,12,2024-09-03,24.0,12072.0,United Kingdom
+536618,S1006,Milk Frother,Equipment,8,2024-09-03,31.0,12286.0,Germany
+536619,S1000,Cold Brew Concentrate,Beverage,6,2024-09-01,12.5,12266.0,United Kingdom
+536619,S1006,Milk Frother,Equipment,1,2024-09-01,31.0,12266.0,United Kingdom
+536619,S1005,Decaf Beans 1kg,Beans,1,2024-09-01,22.5,12266.0,United Kingdom
+536620,S1006,Milk Frother,Equipment,1,2024-09-18,31.0,12144.0,United Kingdom
+536620,S1000,Cold Brew Concentrate,Beverage,3,2024-09-18,12.5,12144.0,United Kingdom
+536621,S1002,Espresso Beans 1kg,Beans,6,2024-09-19,24.0,12008.0,Germany
+536621,S1004,Travel Tumbler,Merch,10,2024-09-19,18.9,12008.0,Germany
+536622,S1006,Milk Frother,Equipment,6,2024-09-28,31.0,12154.0,Netherlands
+536623,S1001,Ceramic Mug,Merch,12,2024-09-17,8.75,12001.0,United Kingdom
+536623,S1002,Espresso Beans 1kg,Beans,1,2024-09-17,24.0,12001.0,United Kingdom
+536624,S1003,Paper Filters x100,Supplies,5,2024-09-12,4.25,,United Kingdom
+536624,S1002,Espresso Beans 1kg,Beans,5,2024-09-12,24.0,12045.0,United Kingdom
+536625,S1002,Espresso Beans 1kg,Beans,7,2024-09-04,24.0,,United Kingdom
+536626,S1005,Decaf Beans 1kg,Beans,7,2024-09-20,22.5,12264.0,United Kingdom
+536626,S1007,Gift Card,Other,11,2024-09-20,25.0,12264.0,United Kingdom
+536627,S1001,Ceramic Mug,Merch,8,2024-09-01,8.75,12135.0,Netherlands
+536627,S1000,Cold Brew Concentrate,Beverage,10,2024-09-01,12.5,12135.0,Netherlands
+536628,S1005,Decaf Beans 1kg,Beans,5,2024-09-13,22.5,12000.0,United Kingdom
+536628,S1000,Cold Brew Concentrate,Beverage,3,2024-09-13,12.5,12000.0,United Kingdom
+536629,S1003,Paper Filters x100,Supplies,8,2024-09-11,4.25,12212.0,United Kingdom
+536630,S1002,Espresso Beans 1kg,Beans,9,2024-09-28,24.0,12052.0,Ireland
+536630,S1001,Ceramic Mug,Merch,8,2024-09-28,8.75,12052.0,Ireland
+536631,S1000,Cold Brew Concentrate,Beverage,10,2024-09-07,12.5,12207.0,United Kingdom
+536631,S1001,Ceramic Mug,Merch,9,2024-09-07,8.75,12207.0,United Kingdom
+536632,S1004,Travel Tumbler,Merch,7,2024-09-18,18.9,12162.0,Germany
+536632,S1005,Decaf Beans 1kg,Beans,6,2024-09-18,22.5,12162.0,Germany
+536632,S1007,Gift Card,Other,2,2024-09-18,25.0,12162.0,Germany
+536633,S1000,Cold Brew Concentrate,Beverage,2,2024-09-17,12.5,12378.0,Ireland
+536633,S1001,Ceramic Mug,Merch,6,2024-09-17,8.75,12378.0,Ireland
+536633,S1000,Cold Brew Concentrate,Beverage,10,2024-09-17,12.5,12378.0,Ireland
+536634,S1000,Cold Brew Concentrate,Beverage,7,2024-09-17,12.5,12110.0,United Kingdom
+536634,S1001,Ceramic Mug,Merch,6,2024-09-17,8.75,12110.0,United Kingdom
+536634,S1003,Paper Filters x100,Supplies,5,2024-09-17,4.25,12110.0,United Kingdom
+536635,S1006,Milk Frother,Equipment,11,2024-09-26,31.0,12028.0,United Kingdom
+536636,S1006,Milk Frother,Equipment,5,2024-09-11,31.0,12268.0,United Kingdom
+536636,S1004,Travel Tumbler,Merch,12,2024-09-11,18.9,12268.0,United Kingdom
+536636,S1000,Cold Brew Concentrate,Beverage,3,2024-09-11,12.5,12268.0,United Kingdom
+536637,S1005,Decaf Beans 1kg,Beans,3,2024-09-20,22.5,12087.0,Germany
+536638,S1002,Espresso Beans 1kg,Beans,4,2024-09-14,24.0,12189.0,Germany
+536639,S1006,Milk Frother,Equipment,4,2024-09-23,31.0,12223.0,Germany
+536640,S1000,Cold Brew Concentrate,Beverage,2,2024-09-25,12.5,12306.0,United Kingdom
+536640,S1002,Espresso Beans 1kg,Beans,1,2024-09-25,24.0,12306.0,United Kingdom
+536640,S1001,Ceramic Mug,Merch,4,2024-09-25,8.75,12306.0,United Kingdom
+536641,S1005,Decaf Beans 1kg,Beans,11,2024-09-01,22.5,12278.0,France
+536642,S1007,Gift Card,Other,11,2024-09-07,25.0,12388.0,Germany
+536642,S1002,Espresso Beans 1kg,Beans,1,2024-09-07,24.0,12388.0,Germany
+536642,S1006,Milk Frother,Equipment,2,2024-09-07,31.0,12388.0,Germany
+536643,S1001,Ceramic Mug,Merch,11,2024-09-21,8.75,12029.0,United Kingdom
+536643,S1003,Paper Filters x100,Supplies,11,2024-09-21,4.25,12029.0,United Kingdom
+536644,S1003,Paper Filters x100,Supplies,6,2024-09-02,4.25,12108.0,United Kingdom
+536645,S1005,Decaf Beans 1kg,Beans,5,2024-09-03,22.5,12150.0,Ireland
+536645,S1003,Paper Filters x100,Supplies,5,2024-09-03,4.25,12150.0,Ireland
+536645,S1003,Paper Filters x100,Supplies,10,2024-09-03,4.25,12150.0,Ireland
+536646,S1005,Decaf Beans 1kg,Beans,1,2024-09-23,22.5,12054.0,United Kingdom
+536647,S1005,Decaf Beans 1kg,Beans,2,2024-09-16,22.5,12174.0,France
+536647,S1005,Decaf Beans 1kg,Beans,6,2024-09-16,22.5,12174.0,France
+536648,S1003,Paper Filters x100,Supplies,9,2024-09-03,4.25,12337.0,United Kingdom
+536649,S1001,Ceramic Mug,Merch,12,2024-09-11,8.75,12330.0,United Kingdom
+536649,S1002,Espresso Beans 1kg,Beans,10,2024-09-11,24.0,12330.0,United Kingdom
+536650,S1004,Travel Tumbler,Merch,3,2024-09-19,18.9,12360.0,Netherlands
+536651,S1006,Milk Frother,Equipment,5,2024-09-21,31.0,12232.0,Germany
+536651,S1004,Travel Tumbler,Merch,3,2024-09-21,18.9,12232.0,Germany
+536652,S1006,Milk Frother,Equipment,7,2024-09-11,31.0,12374.0,United Kingdom
+536652,S1004,Travel Tumbler,Merch,10,2024-09-11,18.9,12374.0,United Kingdom
+536652,S1001,Ceramic Mug,Merch,2,2024-09-11,8.75,12374.0,United Kingdom
+536653,S1003,Paper Filters x100,Supplies,8,2024-09-16,4.25,12325.0,United Kingdom
+536653,S1002,Espresso Beans 1kg,Beans,7,2024-09-16,24.0,,United Kingdom
+536653,S1002,Espresso Beans 1kg,Beans,5,2024-09-16,24.0,12325.0,United Kingdom
+536654,S1000,Cold Brew Concentrate,Beverage,7,2024-09-01,12.5,12086.0,Netherlands
+536654,S1004,Travel Tumbler,Merch,8,2024-09-01,18.9,12086.0,Netherlands
+536654,S1002,Espresso Beans 1kg,Beans,2,2024-09-01,24.0,12086.0,Netherlands
+536655,S1007,Gift Card,Other,12,2024-09-13,25.0,12160.0,United Kingdom
+536656,S1005,Decaf Beans 1kg,Beans,11,2024-09-03,22.5,12307.0,Germany
+536656,S1004,Travel Tumbler,Merch,4,2024-09-03,18.9,12307.0,Germany
+536657,S1002,Espresso Beans 1kg,Beans,2,2024-09-01,24.0,12274.0,France
+536657,S1000,Cold Brew Concentrate,Beverage,12,2024-09-01,12.5,12274.0,France
+536657,S1007,Gift Card,Other,6,2024-09-01,25.0,12274.0,France
+536658,S1002,Espresso Beans 1kg,Beans,2,2024-09-11,24.0,12373.0,United Kingdom
+536658,S1007,Gift Card,Other,10,2024-09-11,25.0,12373.0,United Kingdom
+536659,S1002,Espresso Beans 1kg,Beans,6,2024-09-13,24.0,12209.0,United Kingdom
+536659,S1001,Ceramic Mug,Merch,10,2024-09-13,8.75,12209.0,United Kingdom
+536659,S1002,Espresso Beans 1kg,Beans,1,2024-09-13,24.0,12209.0,United Kingdom
+536660,S1000,Cold Brew Concentrate,Beverage,10,2024-09-26,12.5,12202.0,Netherlands
+536660,S1003,Paper Filters x100,Supplies,2,2024-09-26,4.25,12202.0,Netherlands
+536661,S1004,Travel Tumbler,Merch,11,2024-09-19,18.9,12048.0,United Kingdom
+536662,S1005,Decaf Beans 1kg,Beans,8,2024-09-19,22.5,12107.0,United Kingdom
+536662,S1002,Espresso Beans 1kg,Beans,12,2024-09-19,24.0,12107.0,United Kingdom
+536662,S1001,Ceramic Mug,Merch,8,2024-09-19,8.75,,United Kingdom
+536663,S1007,Gift Card,Other,4,2024-09-06,25.0,12366.0,United Kingdom
+536664,S1000,Cold Brew Concentrate,Beverage,4,2024-09-11,12.5,12178.0,Germany
+536665,S1005,Decaf Beans 1kg,Beans,6,2024-09-08,22.5,12228.0,France
+536665,S1005,Decaf Beans 1kg,Beans,4,2024-09-08,22.5,12228.0,France
+536665,S1001,Ceramic Mug,Merch,1,2024-09-08,8.75,12228.0,France
+536666,S1003,Paper Filters x100,Supplies,6,2024-09-18,4.25,12047.0,United Kingdom
+536667,S1001,Ceramic Mug,Merch,9,2024-09-09,8.75,12383.0,United Kingdom
+536667,S1003,Paper Filters x100,Supplies,11,2024-09-09,4.25,12383.0,United Kingdom
+536667,S1003,Paper Filters x100,Supplies,12,2024-09-09,4.25,12383.0,United Kingdom
+536668,S1003,Paper Filters x100,Supplies,11,2024-09-26,4.25,12175.0,United Kingdom
+536668,S1005,Decaf Beans 1kg,Beans,12,2024-09-26,22.5,12175.0,United Kingdom
+536668,S1007,Gift Card,Other,10,2024-09-26,25.0,12175.0,United Kingdom
+536669,S1002,Espresso Beans 1kg,Beans,8,2024-09-24,24.0,12238.0,Germany
+536670,S1003,Paper Filters x100,Supplies,2,2024-09-11,4.25,12112.0,United Kingdom
+536670,S1007,Gift Card,Other,5,2024-09-11,25.0,12112.0,United Kingdom
+536670,S1005,Decaf Beans 1kg,Beans,5,2024-09-11,22.5,12112.0,United Kingdom
+536671,S1000,Cold Brew Concentrate,Beverage,11,2024-09-04,12.5,12289.0,United Kingdom
+536672,S1003,Paper Filters x100,Supplies,2,2024-09-27,4.25,12116.0,United Kingdom
+536672,S1003,Paper Filters x100,Supplies,5,2024-09-27,4.25,12116.0,United Kingdom
+536673,S1004,Travel Tumbler,Merch,6,2024-09-06,18.9,12205.0,United Kingdom
+536673,S1006,Milk Frother,Equipment,9,2024-09-06,31.0,12205.0,United Kingdom
+536674,S1003,Paper Filters x100,Supplies,10,2024-09-05,4.25,12190.0,United Kingdom
+536674,S1000,Cold Brew Concentrate,Beverage,9,2024-09-05,12.5,12190.0,United Kingdom
+536674,S1003,Paper Filters x100,Supplies,11,2024-09-05,4.25,12190.0,United Kingdom
+536675,S1001,Ceramic Mug,Merch,5,2024-09-20,8.75,12197.0,France
+536676,S1006,Milk Frother,Equipment,1,2024-09-10,31.0,12012.0,France
+536676,S1005,Decaf Beans 1kg,Beans,11,2024-09-10,22.5,12012.0,France
+536676,S1000,Cold Brew Concentrate,Beverage,5,2024-09-10,12.5,12012.0,France
+536677,S1000,Cold Brew Concentrate,Beverage,9,2024-09-16,12.5,12154.0,France
+536677,S1003,Paper Filters x100,Supplies,12,2024-09-16,4.25,12154.0,France
+536678,S1006,Milk Frother,Equipment,5,2024-09-16,31.0,12206.0,Germany
+536678,S1003,Paper Filters x100,Supplies,5,2024-09-16,4.25,12206.0,Germany
+536678,S1000,Cold Brew Concentrate,Beverage,4,2024-09-16,12.5,12206.0,Germany
+536679,S1005,Decaf Beans 1kg,Beans,8,2024-09-28,22.5,12108.0,Germany
+536679,S1002,Espresso Beans 1kg,Beans,4,2024-09-28,24.0,12108.0,Germany
+536679,S1003,Paper Filters x100,Supplies,12,2024-09-28,4.25,12108.0,Germany
+536680,S1004,Travel Tumbler,Merch,4,2024-09-07,18.9,12230.0,United Kingdom
+536681,S1003,Paper Filters x100,Supplies,9,2024-09-18,4.25,12137.0,United Kingdom
+536681,S1000,Cold Brew Concentrate,Beverage,12,2024-09-18,12.5,12137.0,United Kingdom
+536681,S1007,Gift Card,Other,2,2024-09-18,25.0,12137.0,United Kingdom
+536682,S1007,Gift Card,Other,6,2024-10-13,25.0,12364.0,France
+536683,S1000,Cold Brew Concentrate,Beverage,8,2024-10-09,12.5,12234.0,Germany
+536683,S1006,Milk Frother,Equipment,10,2024-10-09,31.0,12234.0,Germany
+536683,S1001,Ceramic Mug,Merch,10,2024-10-09,8.75,12234.0,Germany
+536684,S1002,Espresso Beans 1kg,Beans,7,2024-10-08,24.0,12196.0,United Kingdom
+536684,S1005,Decaf Beans 1kg,Beans,6,2024-10-08,22.5,12196.0,United Kingdom
+536684,S1001,Ceramic Mug,Merch,12,2024-10-08,8.75,12196.0,United Kingdom
+536685,S1001,Ceramic Mug,Merch,11,2024-10-21,8.75,12138.0,United Kingdom
+536686,S1006,Milk Frother,Equipment,6,2024-10-10,31.0,12302.0,France
+536686,S1005,Decaf Beans 1kg,Beans,3,2024-10-10,22.5,12302.0,France
+536686,S1002,Espresso Beans 1kg,Beans,8,2024-10-10,24.0,12302.0,France
+536687,S1000,Cold Brew Concentrate,Beverage,5,2024-10-09,12.5,12305.0,Netherlands
+536688,S1001,Ceramic Mug,Merch,1,2024-10-06,8.75,12073.0,Ireland
+536689,S1003,Paper Filters x100,Supplies,2,2024-10-25,4.25,12084.0,United Kingdom
+536689,S1005,Decaf Beans 1kg,Beans,4,2024-10-25,22.5,12084.0,United Kingdom
+536689,S1005,Decaf Beans 1kg,Beans,10,2024-10-25,22.5,12084.0,United Kingdom
+536690,S1003,Paper Filters x100,Supplies,7,2024-10-25,4.25,12173.0,France
+536690,S1007,Gift Card,Other,4,2024-10-25,25.0,12173.0,France
+536691,S1002,Espresso Beans 1kg,Beans,4,2024-10-17,24.0,12011.0,United Kingdom
+536691,S1002,Espresso Beans 1kg,Beans,4,2024-10-17,24.0,12011.0,United Kingdom
+536691,S1007,Gift Card,Other,12,2024-10-17,25.0,12011.0,United Kingdom
+536692,S1000,Cold Brew Concentrate,Beverage,7,2024-10-06,12.5,12144.0,United Kingdom
+536692,S1004,Travel Tumbler,Merch,1,2024-10-06,18.9,12144.0,United Kingdom
+536693,S1002,Espresso Beans 1kg,Beans,7,2024-10-18,24.0,12052.0,United Kingdom
+536693,S1007,Gift Card,Other,11,2024-10-18,25.0,12052.0,United Kingdom
+536693,S1006,Milk Frother,Equipment,5,2024-10-18,31.0,12052.0,United Kingdom
+536694,S1000,Cold Brew Concentrate,Beverage,3,2024-10-01,12.5,12201.0,Netherlands
+536695,S1001,Ceramic Mug,Merch,8,2024-10-15,8.75,12217.0,Netherlands
+536696,S1006,Milk Frother,Equipment,1,2024-10-08,31.0,12228.0,France
+536696,S1003,Paper Filters x100,Supplies,1,2024-10-08,4.25,12228.0,France
+536697,S1000,Cold Brew Concentrate,Beverage,12,2024-10-01,12.5,12178.0,United Kingdom
+536698,S1002,Espresso Beans 1kg,Beans,11,2024-10-13,24.0,12257.0,United Kingdom
+536699,S1004,Travel Tumbler,Merch,9,2024-10-25,18.9,12185.0,United Kingdom
+536699,S1004,Travel Tumbler,Merch,7,2024-10-25,18.9,12185.0,United Kingdom
+536699,S1003,Paper Filters x100,Supplies,5,2024-10-25,4.25,12185.0,United Kingdom
+536700,S1003,Paper Filters x100,Supplies,11,2024-10-18,4.25,12268.0,United Kingdom
+536701,S1005,Decaf Beans 1kg,Beans,12,2024-10-11,22.5,12388.0,United Kingdom
+C536701,S1002,Espresso Beans 1kg,Beans,-6,2024-10-11,24.0,,United Kingdom
+536702,S1005,Decaf Beans 1kg,Beans,3,2024-10-02,22.5,12146.0,Netherlands
+536703,S1002,Espresso Beans 1kg,Beans,2,2024-10-08,24.0,12368.0,Netherlands
+536703,S1007,Gift Card,Other,1,2024-10-08,25.0,12368.0,Netherlands
+536704,S1003,Paper Filters x100,Supplies,11,2024-10-15,4.25,12128.0,Ireland
+536704,S1004,Travel Tumbler,Merch,3,2024-10-15,18.9,12128.0,Ireland
+536704,S1000,Cold Brew Concentrate,Beverage,3,2024-10-15,12.5,12128.0,Ireland
+536705,S1001,Ceramic Mug,Merch,5,2024-10-24,8.75,12354.0,France
+536705,S1001,Ceramic Mug,Merch,11,2024-10-24,8.75,12354.0,France
+536706,S1005,Decaf Beans 1kg,Beans,7,2024-10-12,22.5,12097.0,United Kingdom
+536706,S1006,Milk Frother,Equipment,8,2024-10-12,31.0,12097.0,United Kingdom
+536707,S1000,Cold Brew Concentrate,Beverage,12,2024-10-06,12.5,12168.0,United Kingdom
+536708,S1003,Paper Filters x100,Supplies,5,2024-10-04,4.25,12108.0,United Kingdom
+536708,S1001,Ceramic Mug,Merch,2,2024-10-04,8.75,12108.0,United Kingdom
+536708,S1000,Cold Brew Concentrate,Beverage,8,2024-10-04,12.5,12108.0,United Kingdom
+536709,S1005,Decaf Beans 1kg,Beans,8,2024-10-23,22.5,12115.0,Ireland
+C536710,S1001,Ceramic Mug,Merch,-10,2024-10-10,8.75,12151.0,United Kingdom
+536711,S1006,Milk Frother,Equipment,2,2024-10-14,31.0,12254.0,France
+536711,S1005,Decaf Beans 1kg,Beans,4,2024-10-14,22.5,12254.0,France
+536711,S1005,Decaf Beans 1kg,Beans,6,2024-10-14,22.5,12254.0,France
+536712,S1007,Gift Card,Other,11,2024-10-20,25.0,12107.0,United Kingdom
+536713,S1006,Milk Frother,Equipment,11,2024-10-26,31.0,12194.0,France
+536713,S1006,Milk Frother,Equipment,5,2024-10-26,31.0,12194.0,France
+536714,S1001,Ceramic Mug,Merch,8,2024-10-03,8.75,12174.0,France
+536715,S1007,Gift Card,Other,5,2024-10-28,25.0,12161.0,United Kingdom
+536715,S1001,Ceramic Mug,Merch,1,2024-10-28,8.75,12161.0,United Kingdom
+536716,S1004,Travel Tumbler,Merch,7,2024-10-19,18.9,12307.0,Netherlands
+536717,S1007,Gift Card,Other,1,2024-10-18,25.0,12152.0,United Kingdom
+536717,S1005,Decaf Beans 1kg,Beans,3,2024-10-18,22.5,12152.0,United Kingdom
+536718,S1006,Milk Frother,Equipment,1,2024-10-01,31.0,12084.0,Germany
+536718,S1006,Milk Frother,Equipment,2,2024-10-01,31.0,12084.0,Germany
+536719,S1001,Ceramic Mug,Merch,3,2024-10-05,8.75,12145.0,United Kingdom
+536719,S1005,Decaf Beans 1kg,Beans,9,2024-10-05,22.5,12145.0,United Kingdom
+536720,S1007,Gift Card,Other,10,2024-10-20,25.0,12384.0,United Kingdom
+536720,S1007,Gift Card,Other,9,2024-10-20,25.0,12384.0,United Kingdom
+536721,S1006,Milk Frother,Equipment,8,2024-10-01,31.0,12217.0,Germany
+536722,S1002,Espresso Beans 1kg,Beans,8,2024-10-06,24.0,12064.0,United Kingdom
+536722,S1005,Decaf Beans 1kg,Beans,10,2024-10-06,22.5,12064.0,United Kingdom
+536723,S1005,Decaf Beans 1kg,Beans,6,2024-10-27,22.5,12373.0,United Kingdom
+536724,S1002,Espresso Beans 1kg,Beans,1,2024-10-10,24.0,12337.0,United Kingdom
+536725,S1003,Paper Filters x100,Supplies,11,2024-10-12,4.25,12216.0,Germany
+536725,S1002,Espresso Beans 1kg,Beans,6,2024-10-12,24.0,12216.0,Germany
+536726,S1006,Milk Frother,Equipment,11,2024-10-08,31.0,12071.0,United Kingdom
+536727,S1006,Milk Frother,Equipment,10,2024-10-28,31.0,12232.0,United Kingdom
+536727,S1003,Paper Filters x100,Supplies,4,2024-10-28,4.25,12232.0,United Kingdom
+536728,S1006,Milk Frother,Equipment,10,2024-10-02,31.0,12309.0,Germany
+536728,S1004,Travel Tumbler,Merch,10,2024-10-02,18.9,12309.0,Germany
+536729,S1000,Cold Brew Concentrate,Beverage,12,2024-10-26,12.5,12287.0,United Kingdom
+536729,S1000,Cold Brew Concentrate,Beverage,2,2024-10-26,12.5,12287.0,United Kingdom
+536730,S1000,Cold Brew Concentrate,Beverage,6,2024-10-27,12.5,12193.0,United Kingdom
+536730,S1002,Espresso Beans 1kg,Beans,6,2024-10-27,24.0,12193.0,United Kingdom
+536731,S1002,Espresso Beans 1kg,Beans,10,2024-10-26,24.0,12284.0,Netherlands
+536732,S1000,Cold Brew Concentrate,Beverage,5,2024-10-09,12.5,12115.0,Germany
+536733,S1006,Milk Frother,Equipment,12,2024-10-01,31.0,12291.0,France
+536733,S1005,Decaf Beans 1kg,Beans,4,2024-10-01,22.5,12291.0,France
+536734,S1002,Espresso Beans 1kg,Beans,4,2024-10-01,24.0,12154.0,United Kingdom
+536734,S1002,Espresso Beans 1kg,Beans,10,2024-10-01,24.0,12154.0,United Kingdom
+536735,S1006,Milk Frother,Equipment,8,2024-10-09,31.0,12292.0,Germany
+536735,S1004,Travel Tumbler,Merch,3,2024-10-09,18.9,12292.0,Germany
+536736,S1002,Espresso Beans 1kg,Beans,12,2024-10-08,24.0,12052.0,United Kingdom
+536736,S1007,Gift Card,Other,4,2024-10-08,25.0,12052.0,United Kingdom
+536737,S1003,Paper Filters x100,Supplies,6,2024-10-28,4.25,12319.0,United Kingdom
+536737,S1006,Milk Frother,Equipment,5,2024-10-28,31.0,12319.0,United Kingdom
+536737,S1000,Cold Brew Concentrate,Beverage,5,2024-10-28,12.5,12319.0,United Kingdom
+536738,S1003,Paper Filters x100,Supplies,7,2024-10-12,4.25,12157.0,United Kingdom
+536738,S1002,Espresso Beans 1kg,Beans,3,2024-10-12,24.0,12157.0,United Kingdom
+536738,S1001,Ceramic Mug,Merch,2,2024-10-12,8.75,12157.0,United Kingdom
+536739,S1003,Paper Filters x100,Supplies,11,2024-10-03,4.25,12227.0,United Kingdom
+536739,S1005,Decaf Beans 1kg,Beans,6,2024-10-03,22.5,12227.0,United Kingdom
+536739,S1002,Espresso Beans 1kg,Beans,4,2024-10-03,24.0,12227.0,United Kingdom
+536740,S1005,Decaf Beans 1kg,Beans,11,2024-10-14,22.5,12066.0,United Kingdom
+536741,S1002,Espresso Beans 1kg,Beans,12,2024-10-21,24.0,12062.0,United Kingdom
+C536742,S1003,Paper Filters x100,Supplies,-10,2024-10-08,4.25,12291.0,France
+536743,S1005,Decaf Beans 1kg,Beans,3,2024-10-16,22.5,12121.0,Ireland
+536744,S1005,Decaf Beans 1kg,Beans,10,2024-10-04,22.5,12129.0,United Kingdom
+536744,S1002,Espresso Beans 1kg,Beans,3,2024-10-04,24.0,12129.0,United Kingdom
+536744,S1001,Ceramic Mug,Merch,2,2024-10-04,8.75,12129.0,United Kingdom
+536745,S1002,Espresso Beans 1kg,Beans,2,2024-10-18,24.0,12054.0,United Kingdom
+536745,S1007,Gift Card,Other,3,2024-10-18,25.0,12054.0,United Kingdom
+536746,S1006,Milk Frother,Equipment,10,2024-10-17,31.0,12316.0,Netherlands
+536746,S1005,Decaf Beans 1kg,Beans,12,2024-10-17,22.5,12316.0,Netherlands
+536747,S1001,Ceramic Mug,Merch,2,2024-10-17,8.75,12222.0,United Kingdom
+536747,S1006,Milk Frother,Equipment,12,2024-10-17,31.0,12222.0,United Kingdom
+536747,S1001,Ceramic Mug,Merch,3,2024-10-17,8.75,12222.0,United Kingdom
+536748,S1000,Cold Brew Concentrate,Beverage,9,2024-10-18,12.5,12296.0,United Kingdom
+536748,S1004,Travel Tumbler,Merch,11,2024-10-18,18.9,12296.0,United Kingdom
+536749,S1005,Decaf Beans 1kg,Beans,12,2024-10-13,22.5,12284.0,Netherlands
+536750,S1001,Ceramic Mug,Merch,11,2024-10-07,8.75,12072.0,United Kingdom
+536750,S1007,Gift Card,Other,9,2024-10-07,25.0,12072.0,United Kingdom
+536750,S1000,Cold Brew Concentrate,Beverage,7,2024-10-07,12.5,12072.0,United Kingdom
+536751,S1004,Travel Tumbler,Merch,10,2024-10-21,18.9,12266.0,Germany
+536751,S1002,Espresso Beans 1kg,Beans,11,2024-10-21,24.0,12266.0,Germany
+536751,S1006,Milk Frother,Equipment,1,2024-10-21,31.0,12266.0,Germany
+536752,S1000,Cold Brew Concentrate,Beverage,10,2024-10-28,12.5,12147.0,Netherlands
+536752,S1000,Cold Brew Concentrate,Beverage,11,2024-10-28,12.5,12147.0,Netherlands
+536752,S1005,Decaf Beans 1kg,Beans,12,2024-10-28,22.5,12147.0,Netherlands
+536753,S1003,Paper Filters x100,Supplies,1,2024-10-15,4.25,12266.0,Ireland
+536754,S1000,Cold Brew Concentrate,Beverage,6,2024-11-18,12.5,12387.0,Ireland
+536754,S1000,Cold Brew Concentrate,Beverage,2,2024-11-18,12.5,12387.0,Ireland
+536754,S1003,Paper Filters x100,Supplies,10,2024-11-18,4.25,12387.0,Ireland
+536755,S1001,Ceramic Mug,Merch,7,2024-11-28,8.75,12315.0,Netherlands
+536755,S1007,Gift Card,Other,7,2024-11-28,25.0,12315.0,Netherlands
+536756,S1004,Travel Tumbler,Merch,4,2024-11-01,18.9,12189.0,United Kingdom
+536756,S1004,Travel Tumbler,Merch,8,2024-11-01,18.9,12189.0,United Kingdom
+536756,S1006,Milk Frother,Equipment,12,2024-11-01,31.0,12189.0,United Kingdom
+536757,S1005,Decaf Beans 1kg,Beans,7,2024-11-16,22.5,,Netherlands
+536758,S1007,Gift Card,Other,6,2024-11-05,25.0,12350.0,France
+536758,S1007,Gift Card,Other,8,2024-11-05,25.0,12350.0,France
+536758,S1007,Gift Card,Other,7,2024-11-05,25.0,12350.0,France
+536759,S1005,Decaf Beans 1kg,Beans,11,2024-11-27,22.5,12000.0,Germany
+536759,S1002,Espresso Beans 1kg,Beans,3,2024-11-27,24.0,12000.0,Germany
+536759,S1007,Gift Card,Other,2,2024-11-27,25.0,12000.0,Germany
+536760,S1000,Cold Brew Concentrate,Beverage,9,2024-11-08,12.5,12100.0,France
+536760,S1000,Cold Brew Concentrate,Beverage,2,2024-11-08,12.5,12100.0,France
+536760,S1005,Decaf Beans 1kg,Beans,7,2024-11-08,22.5,12100.0,France
+536761,S1004,Travel Tumbler,Merch,1,2024-11-05,18.9,12214.0,France
+536761,S1003,Paper Filters x100,Supplies,12,2024-11-05,4.25,12214.0,France
+536761,S1003,Paper Filters x100,Supplies,11,2024-11-05,4.25,12214.0,France
+536762,S1003,Paper Filters x100,Supplies,9,2024-11-22,4.25,12099.0,Ireland
+536763,S1007,Gift Card,Other,6,2024-11-10,25.0,12099.0,Netherlands
+536763,S1007,Gift Card,Other,9,2024-11-10,25.0,12099.0,Netherlands
+536764,S1004,Travel Tumbler,Merch,8,2024-11-20,18.9,12215.0,Germany
+536764,S1004,Travel Tumbler,Merch,7,2024-11-20,18.9,12215.0,Germany
+536765,S1006,Milk Frother,Equipment,11,2024-11-18,31.0,12306.0,United Kingdom
+536766,S1001,Ceramic Mug,Merch,11,2024-11-21,8.75,12017.0,Netherlands
+536766,S1000,Cold Brew Concentrate,Beverage,12,2024-11-21,12.5,12017.0,Netherlands
+536767,S1006,Milk Frother,Equipment,8,2024-11-20,31.0,12368.0,Ireland
+536768,S1005,Decaf Beans 1kg,Beans,12,2024-11-12,22.5,12155.0,United Kingdom
+536769,S1006,Milk Frother,Equipment,2,2024-11-11,31.0,12144.0,France
+536769,S1002,Espresso Beans 1kg,Beans,9,2024-11-11,24.0,12144.0,France
+536769,S1000,Cold Brew Concentrate,Beverage,5,2024-11-11,12.5,12144.0,France
+536770,S1003,Paper Filters x100,Supplies,11,2024-11-10,4.25,12339.0,United Kingdom
+536770,S1007,Gift Card,Other,9,2024-11-10,25.0,12339.0,United Kingdom
+536770,S1006,Milk Frother,Equipment,2,2024-11-10,31.0,12339.0,United Kingdom
+536771,S1001,Ceramic Mug,Merch,7,2024-11-02,8.75,12002.0,United Kingdom
+536771,S1000,Cold Brew Concentrate,Beverage,8,2024-11-02,12.5,,United Kingdom
+536771,S1002,Espresso Beans 1kg,Beans,5,2024-11-02,24.0,12002.0,United Kingdom
+536772,S1004,Travel Tumbler,Merch,3,2024-11-16,18.9,12394.0,Netherlands
+536773,S1007,Gift Card,Other,2,2024-11-05,25.0,12099.0,France
+536774,S1002,Espresso Beans 1kg,Beans,12,2024-11-24,24.0,12013.0,Germany
+536774,S1002,Espresso Beans 1kg,Beans,10,2024-11-24,24.0,12013.0,Germany
+536774,S1001,Ceramic Mug,Merch,10,2024-11-24,8.75,12013.0,Germany
+536775,S1003,Paper Filters x100,Supplies,7,2024-11-19,4.25,12241.0,France
+536776,S1004,Travel Tumbler,Merch,11,2024-11-03,18.9,12365.0,United Kingdom
+536776,S1002,Espresso Beans 1kg,Beans,6,2024-11-03,24.0,12365.0,United Kingdom
+536777,S1005,Decaf Beans 1kg,Beans,5,2024-11-24,22.5,12079.0,Ireland
+536778,S1000,Cold Brew Concentrate,Beverage,8,2024-11-12,12.5,12238.0,Germany
+536778,S1006,Milk Frother,Equipment,11,2024-11-12,31.0,12238.0,Germany
+536779,S1005,Decaf Beans 1kg,Beans,12,2024-11-09,22.5,12095.0,United Kingdom
+536779,S1004,Travel Tumbler,Merch,11,2024-11-09,18.9,12095.0,United Kingdom
+536779,S1005,Decaf Beans 1kg,Beans,5,2024-11-09,22.5,12095.0,United Kingdom
+536780,S1001,Ceramic Mug,Merch,8,2024-11-24,8.75,12033.0,France
+536781,S1001,Ceramic Mug,Merch,3,2024-11-09,8.75,12387.0,United Kingdom
+536781,S1003,Paper Filters x100,Supplies,3,2024-11-09,4.25,12387.0,United Kingdom
+536782,S1001,Ceramic Mug,Merch,4,2024-11-27,8.75,12117.0,United Kingdom
+536782,S1007,Gift Card,Other,12,2024-11-27,25.0,12117.0,United Kingdom
+536782,S1001,Ceramic Mug,Merch,12,2024-11-27,8.75,12117.0,United Kingdom
+536783,S1007,Gift Card,Other,2,2024-11-15,25.0,12131.0,United Kingdom
+536783,S1002,Espresso Beans 1kg,Beans,11,2024-11-15,24.0,12131.0,United Kingdom
+536783,S1007,Gift Card,Other,4,2024-11-15,25.0,12131.0,United Kingdom
+536784,S1002,Espresso Beans 1kg,Beans,11,2024-11-22,24.0,12152.0,Ireland
+536784,S1004,Travel Tumbler,Merch,7,2024-11-22,18.9,12152.0,Ireland
+536785,S1002,Espresso Beans 1kg,Beans,9,2024-11-15,24.0,12064.0,United Kingdom
+536786,S1000,Cold Brew Concentrate,Beverage,11,2024-11-08,12.5,12353.0,Germany
+536787,S1000,Cold Brew Concentrate,Beverage,1,2024-11-02,12.5,12375.0,United Kingdom
+C536788,S1004,Travel Tumbler,Merch,-11,2024-11-12,18.9,12331.0,United Kingdom
+536788,S1002,Espresso Beans 1kg,Beans,12,2024-11-12,24.0,12331.0,United Kingdom
+536788,S1001,Ceramic Mug,Merch,2,2024-11-12,8.75,12331.0,United Kingdom
+536789,S1005,Decaf Beans 1kg,Beans,6,2024-11-05,22.5,12314.0,United Kingdom
+C536790,S1000,Cold Brew Concentrate,Beverage,-2,2024-11-21,12.5,12205.0,United Kingdom
+536790,S1002,Espresso Beans 1kg,Beans,9,2024-11-21,24.0,12205.0,United Kingdom
+536791,S1001,Ceramic Mug,Merch,5,2024-11-17,8.75,12168.0,United Kingdom
+536791,S1001,Ceramic Mug,Merch,6,2024-11-17,8.75,12168.0,United Kingdom
+536791,S1003,Paper Filters x100,Supplies,6,2024-11-17,4.25,12168.0,United Kingdom
+536792,S1006,Milk Frother,Equipment,9,2024-11-07,31.0,12224.0,Netherlands
+536792,S1007,Gift Card,Other,7,2024-11-07,25.0,12224.0,Netherlands
+536793,S1005,Decaf Beans 1kg,Beans,4,2024-11-15,22.5,12106.0,United Kingdom
+536793,S1002,Espresso Beans 1kg,Beans,3,2024-11-15,24.0,12106.0,United Kingdom
+536793,S1002,Espresso Beans 1kg,Beans,1,2024-11-15,24.0,12106.0,United Kingdom
+536794,S1007,Gift Card,Other,11,2024-11-27,25.0,12092.0,Germany
+536795,S1002,Espresso Beans 1kg,Beans,8,2024-11-18,24.0,12235.0,United Kingdom
+536795,S1006,Milk Frother,Equipment,12,2024-11-18,31.0,12235.0,United Kingdom
+536795,S1002,Espresso Beans 1kg,Beans,9,2024-11-18,24.0,12235.0,United Kingdom
+536796,S1001,Ceramic Mug,Merch,11,2024-11-20,8.75,12136.0,Germany
+536796,S1002,Espresso Beans 1kg,Beans,1,2024-11-20,24.0,12136.0,Germany
+536796,S1000,Cold Brew Concentrate,Beverage,7,2024-11-20,12.5,12136.0,Germany
+536797,S1004,Travel Tumbler,Merch,2,2024-11-03,18.9,12373.0,Ireland
+536797,S1006,Milk Frother,Equipment,2,2024-11-03,31.0,12373.0,Ireland
+536798,S1001,Ceramic Mug,Merch,8,2024-11-11,8.75,12144.0,United Kingdom
+536798,S1000,Cold Brew Concentrate,Beverage,7,2024-11-11,12.5,12144.0,United Kingdom
+536799,S1003,Paper Filters x100,Supplies,4,2024-11-18,4.25,12258.0,France
+536800,S1004,Travel Tumbler,Merch,5,2024-11-16,18.9,,United Kingdom
+536801,S1002,Espresso Beans 1kg,Beans,4,2024-11-25,24.0,12164.0,Netherlands
+536801,S1003,Paper Filters x100,Supplies,10,2024-11-25,4.25,12164.0,Netherlands
+536802,S1001,Ceramic Mug,Merch,4,2024-11-25,8.75,,Netherlands
+536803,S1002,Espresso Beans 1kg,Beans,8,2024-11-07,24.0,12078.0,United Kingdom
+536803,S1004,Travel Tumbler,Merch,8,2024-11-07,18.9,12078.0,United Kingdom
+536803,S1006,Milk Frother,Equipment,4,2024-11-07,31.0,12078.0,United Kingdom
+536804,S1004,Travel Tumbler,Merch,2,2024-11-06,18.9,12204.0,Ireland
+C536805,S1006,Milk Frother,Equipment,-5,2024-11-02,31.0,12269.0,France
+536805,S1004,Travel Tumbler,Merch,4,2024-11-02,18.9,12269.0,France
+536805,S1004,Travel Tumbler,Merch,12,2024-11-02,18.9,12269.0,France
+536806,S1001,Ceramic Mug,Merch,2,2024-11-08,8.75,12252.0,Germany
+536807,S1007,Gift Card,Other,5,2024-11-13,25.0,12321.0,Netherlands
+536807,S1004,Travel Tumbler,Merch,8,2024-11-13,18.9,12321.0,Netherlands
+536808,S1006,Milk Frother,Equipment,10,2024-11-17,31.0,12329.0,Ireland
+536808,S1007,Gift Card,Other,12,2024-11-17,25.0,12329.0,Ireland
+536809,S1001,Ceramic Mug,Merch,9,2024-11-02,8.75,12302.0,United Kingdom
+536810,S1001,Ceramic Mug,Merch,10,2024-11-27,8.75,12250.0,Netherlands
+536811,S1000,Cold Brew Concentrate,Beverage,1,2024-11-12,12.5,12045.0,Germany
+536811,S1007,Gift Card,Other,8,2024-11-12,25.0,12045.0,Germany
+536811,S1001,Ceramic Mug,Merch,4,2024-11-12,8.75,12045.0,Germany
+C536812,S1000,Cold Brew Concentrate,Beverage,-11,2024-11-11,12.5,12124.0,Ireland
+536812,S1006,Milk Frother,Equipment,2,2024-11-11,31.0,12124.0,Ireland
+536812,S1002,Espresso Beans 1kg,Beans,11,2024-11-11,24.0,12124.0,Ireland
+536813,S1001,Ceramic Mug,Merch,2,2024-11-22,8.75,12167.0,United Kingdom
+536814,S1002,Espresso Beans 1kg,Beans,1,2024-11-17,24.0,12238.0,United Kingdom
+536814,S1005,Decaf Beans 1kg,Beans,6,2024-11-17,22.5,12238.0,United Kingdom
+536815,S1003,Paper Filters x100,Supplies,12,2024-11-02,4.25,12360.0,Germany
+536816,S1004,Travel Tumbler,Merch,11,2024-11-10,18.9,12352.0,United Kingdom
+536816,S1004,Travel Tumbler,Merch,5,2024-11-10,18.9,12352.0,United Kingdom
+536817,S1003,Paper Filters x100,Supplies,6,2024-11-28,4.25,12136.0,United Kingdom
+536817,S1001,Ceramic Mug,Merch,4,2024-11-28,8.75,12136.0,United Kingdom
+536818,S1002,Espresso Beans 1kg,Beans,7,2024-11-11,24.0,12009.0,United Kingdom
+536818,S1004,Travel Tumbler,Merch,4,2024-11-11,18.9,12009.0,United Kingdom
+536819,S1000,Cold Brew Concentrate,Beverage,10,2024-11-15,12.5,12204.0,United Kingdom
+536819,S1006,Milk Frother,Equipment,8,2024-11-15,31.0,12204.0,United Kingdom
+536819,S1001,Ceramic Mug,Merch,5,2024-11-15,8.75,12204.0,United Kingdom
+536820,S1006,Milk Frother,Equipment,9,2024-11-03,31.0,12391.0,Ireland
+536820,S1003,Paper Filters x100,Supplies,9,2024-11-03,4.25,12391.0,Ireland
+536820,S1003,Paper Filters x100,Supplies,2,2024-11-03,4.25,12391.0,Ireland
+536821,S1002,Espresso Beans 1kg,Beans,11,2024-11-11,24.0,12337.0,Germany
+536821,S1002,Espresso Beans 1kg,Beans,2,2024-11-11,24.0,12337.0,Germany
+536821,S1003,Paper Filters x100,Supplies,7,2024-11-11,4.25,12337.0,Germany
+536822,S1004,Travel Tumbler,Merch,6,2024-11-03,18.9,12167.0,France
+536822,S1007,Gift Card,Other,4,2024-11-03,25.0,12167.0,France
+536823,S1001,Ceramic Mug,Merch,5,2024-11-04,8.75,12095.0,United Kingdom
+536824,S1006,Milk Frother,Equipment,3,2024-11-13,31.0,12321.0,United Kingdom
+536825,S1003,Paper Filters x100,Supplies,1,2024-11-21,4.25,12206.0,Germany
+536826,S1007,Gift Card,Other,7,2024-11-10,25.0,12272.0,Ireland
+536826,S1002,Espresso Beans 1kg,Beans,2,2024-11-10,24.0,12272.0,Ireland
+536826,S1005,Decaf Beans 1kg,Beans,12,2024-11-10,22.5,12272.0,Ireland
+536827,S1007,Gift Card,Other,6,2024-11-04,25.0,12264.0,United Kingdom
+536828,S1001,Ceramic Mug,Merch,10,2024-11-09,8.75,12012.0,United Kingdom
+536828,S1002,Espresso Beans 1kg,Beans,9,2024-11-09,24.0,12012.0,United Kingdom
+536828,S1003,Paper Filters x100,Supplies,4,2024-11-09,4.25,12012.0,United Kingdom
+536829,S1005,Decaf Beans 1kg,Beans,9,2024-11-15,22.5,12124.0,United Kingdom
+536829,S1003,Paper Filters x100,Supplies,1,2024-11-15,4.25,12124.0,United Kingdom
+536830,S1002,Espresso Beans 1kg,Beans,1,2024-12-26,24.0,12399.0,United Kingdom
+536830,S1004,Travel Tumbler,Merch,1,2024-12-26,18.9,12399.0,United Kingdom
+536830,S1006,Milk Frother,Equipment,2,2024-12-26,31.0,12399.0,United Kingdom
+536831,S1006,Milk Frother,Equipment,6,2024-12-12,31.0,12227.0,Netherlands
+536832,S1006,Milk Frother,Equipment,4,2024-12-20,31.0,12277.0,United Kingdom
+536832,S1002,Espresso Beans 1kg,Beans,6,2024-12-20,24.0,12277.0,United Kingdom
+536833,S1007,Gift Card,Other,9,2024-12-03,25.0,12248.0,France
+536833,S1003,Paper Filters x100,Supplies,6,2024-12-03,4.25,12248.0,France
+536833,S1002,Espresso Beans 1kg,Beans,8,2024-12-03,24.0,12248.0,France
+536834,S1005,Decaf Beans 1kg,Beans,5,2024-12-23,22.5,12279.0,United Kingdom
+536834,S1007,Gift Card,Other,6,2024-12-23,25.0,12279.0,United Kingdom
+536834,S1003,Paper Filters x100,Supplies,3,2024-12-23,4.25,,United Kingdom
+536835,S1004,Travel Tumbler,Merch,12,2024-12-25,18.9,12115.0,United Kingdom
+536835,S1003,Paper Filters x100,Supplies,5,2024-12-25,4.25,12115.0,United Kingdom
+536835,S1006,Milk Frother,Equipment,3,2024-12-25,31.0,12115.0,United Kingdom
+536836,S1005,Decaf Beans 1kg,Beans,1,2024-12-16,22.5,12364.0,United Kingdom
+536836,S1006,Milk Frother,Equipment,8,2024-12-16,31.0,12364.0,United Kingdom
+536836,S1003,Paper Filters x100,Supplies,4,2024-12-16,4.25,12364.0,United Kingdom
+536837,S1004,Travel Tumbler,Merch,9,2024-12-14,18.9,12000.0,United Kingdom
+536837,S1003,Paper Filters x100,Supplies,6,2024-12-14,4.25,12000.0,United Kingdom
+536838,S1004,Travel Tumbler,Merch,3,2024-12-15,18.9,12285.0,Ireland
+536839,S1002,Espresso Beans 1kg,Beans,12,2024-12-12,24.0,12080.0,Germany
+536840,S1000,Cold Brew Concentrate,Beverage,12,2024-12-25,12.5,12201.0,Germany
+536840,S1002,Espresso Beans 1kg,Beans,10,2024-12-25,24.0,12201.0,Germany
+536840,S1000,Cold Brew Concentrate,Beverage,5,2024-12-25,12.5,12201.0,Germany
+536841,S1001,Ceramic Mug,Merch,9,2024-12-20,8.75,12144.0,Netherlands
+536841,S1007,Gift Card,Other,11,2024-12-20,25.0,12144.0,Netherlands
+536842,S1004,Travel Tumbler,Merch,11,2024-12-14,18.9,12098.0,Germany
+536842,S1002,Espresso Beans 1kg,Beans,8,2024-12-14,24.0,12098.0,Germany
+536842,S1001,Ceramic Mug,Merch,12,2024-12-14,8.75,12098.0,Germany
+536843,S1001,Ceramic Mug,Merch,5,2024-12-02,8.75,12312.0,United Kingdom
+536844,S1001,Ceramic Mug,Merch,3,2024-12-25,8.75,12230.0,United Kingdom
+536845,S1006,Milk Frother,Equipment,10,2024-12-12,31.0,12297.0,Germany
+536845,S1003,Paper Filters x100,Supplies,9,2024-12-12,4.25,12297.0,Germany
+536846,S1003,Paper Filters x100,Supplies,5,2024-12-20,4.25,12351.0,France
+536846,S1006,Milk Frother,Equipment,3,2024-12-20,31.0,12351.0,France
+536847,S1002,Espresso Beans 1kg,Beans,2,2024-12-10,24.0,12075.0,United Kingdom
+536847,S1001,Ceramic Mug,Merch,6,2024-12-10,8.75,12075.0,United Kingdom
+536847,S1003,Paper Filters x100,Supplies,5,2024-12-10,4.25,12075.0,United Kingdom
+536848,S1005,Decaf Beans 1kg,Beans,2,2024-12-13,22.5,12044.0,Netherlands
+536848,S1004,Travel Tumbler,Merch,4,2024-12-13,18.9,12044.0,Netherlands
+536849,S1003,Paper Filters x100,Supplies,2,2024-12-05,4.25,12049.0,United Kingdom
+536849,S1001,Ceramic Mug,Merch,9,2024-12-05,8.75,12049.0,United Kingdom
+536850,S1001,Ceramic Mug,Merch,9,2024-12-19,8.75,12060.0,France
+536850,S1003,Paper Filters x100,Supplies,6,2024-12-19,4.25,12060.0,France
+536851,S1003,Paper Filters x100,Supplies,3,2024-12-09,4.25,12021.0,United Kingdom
+536851,S1003,Paper Filters x100,Supplies,5,2024-12-09,4.25,12021.0,United Kingdom
+536852,S1006,Milk Frother,Equipment,3,2024-12-17,31.0,12136.0,Netherlands
+536853,S1006,Milk Frother,Equipment,11,2024-12-22,31.0,12382.0,United Kingdom
+536853,S1004,Travel Tumbler,Merch,11,2024-12-22,18.9,12382.0,United Kingdom
+536854,S1007,Gift Card,Other,3,2024-12-28,25.0,12144.0,Germany
+536854,S1003,Paper Filters x100,Supplies,9,2024-12-28,4.25,12144.0,Germany
+536854,S1007,Gift Card,Other,9,2024-12-28,25.0,12144.0,Germany
+536855,S1004,Travel Tumbler,Merch,3,2024-12-05,18.9,12249.0,United Kingdom
+536856,S1004,Travel Tumbler,Merch,12,2024-12-08,18.9,12084.0,United Kingdom
+536856,S1004,Travel Tumbler,Merch,2,2024-12-08,18.9,12084.0,United Kingdom
+536857,S1007,Gift Card,Other,12,2024-12-16,25.0,12217.0,United Kingdom
+536857,S1000,Cold Brew Concentrate,Beverage,1,2024-12-16,12.5,12217.0,United Kingdom
+536857,S1005,Decaf Beans 1kg,Beans,12,2024-12-16,22.5,12217.0,United Kingdom
+536858,S1003,Paper Filters x100,Supplies,8,2024-12-16,4.25,12010.0,Germany
+536859,S1002,Espresso Beans 1kg,Beans,12,2024-12-19,24.0,12276.0,United Kingdom
+536859,S1000,Cold Brew Concentrate,Beverage,1,2024-12-19,12.5,12276.0,United Kingdom
+536859,S1001,Ceramic Mug,Merch,1,2024-12-19,8.75,12276.0,United Kingdom
+536860,S1006,Milk Frother,Equipment,7,2024-12-09,31.0,12109.0,United Kingdom
+536861,S1003,Paper Filters x100,Supplies,6,2024-12-24,4.25,12222.0,United Kingdom
+536861,S1004,Travel Tumbler,Merch,7,2024-12-24,18.9,12222.0,United Kingdom
+536861,S1005,Decaf Beans 1kg,Beans,3,2024-12-24,22.5,12222.0,United Kingdom
+536862,S1007,Gift Card,Other,6,2024-12-28,25.0,12341.0,Germany
+536863,S1000,Cold Brew Concentrate,Beverage,5,2024-12-17,12.5,12349.0,United Kingdom
+536863,S1004,Travel Tumbler,Merch,3,2024-12-17,18.9,12349.0,United Kingdom
+536863,S1001,Ceramic Mug,Merch,8,2024-12-17,8.75,12349.0,United Kingdom
+536864,S1003,Paper Filters x100,Supplies,9,2024-12-08,4.25,12342.0,United Kingdom
+536864,S1007,Gift Card,Other,4,2024-12-08,25.0,12342.0,United Kingdom
+536865,S1002,Espresso Beans 1kg,Beans,1,2024-12-10,24.0,12342.0,Germany
+536866,S1001,Ceramic Mug,Merch,1,2024-12-06,8.75,12103.0,United Kingdom
+536866,S1004,Travel Tumbler,Merch,3,2024-12-06,18.9,12103.0,United Kingdom
+536866,S1005,Decaf Beans 1kg,Beans,2,2024-12-06,22.5,12103.0,United Kingdom
+536867,S1003,Paper Filters x100,Supplies,7,2024-12-15,4.25,12246.0,France
+536867,S1004,Travel Tumbler,Merch,2,2024-12-15,18.9,12246.0,France
+536868,S1007,Gift Card,Other,4,2024-12-28,25.0,12323.0,Germany
+536868,S1000,Cold Brew Concentrate,Beverage,7,2024-12-28,12.5,12323.0,Germany
+536869,S1003,Paper Filters x100,Supplies,11,2024-12-16,4.25,12262.0,Ireland
+536869,S1007,Gift Card,Other,10,2024-12-16,25.0,12262.0,Ireland
+536869,S1000,Cold Brew Concentrate,Beverage,4,2024-12-16,12.5,,Ireland
+536870,S1000,Cold Brew Concentrate,Beverage,1,2024-12-26,12.5,12025.0,France
+536870,S1004,Travel Tumbler,Merch,1,2024-12-26,18.9,12025.0,France
+536870,S1006,Milk Frother,Equipment,1,2024-12-26,31.0,12025.0,France
+536871,S1004,Travel Tumbler,Merch,9,2024-12-04,18.9,12170.0,Germany
+536871,S1005,Decaf Beans 1kg,Beans,7,2024-12-04,22.5,12170.0,Germany
+536871,S1000,Cold Brew Concentrate,Beverage,6,2024-12-04,12.5,12170.0,Germany
+536872,S1004,Travel Tumbler,Merch,5,2024-12-26,18.9,12348.0,United Kingdom
+536872,S1002,Espresso Beans 1kg,Beans,5,2024-12-26,24.0,12348.0,United Kingdom
+536873,S1003,Paper Filters x100,Supplies,10,2024-12-01,4.25,12225.0,United Kingdom
+536873,S1002,Espresso Beans 1kg,Beans,8,2024-12-01,24.0,12225.0,United Kingdom
+536873,S1002,Espresso Beans 1kg,Beans,4,2024-12-01,24.0,12225.0,United Kingdom
+536874,S1005,Decaf Beans 1kg,Beans,12,2024-12-04,22.5,12065.0,United Kingdom
+536874,S1007,Gift Card,Other,3,2024-12-04,25.0,12065.0,United Kingdom
+536874,S1000,Cold Brew Concentrate,Beverage,11,2024-12-04,12.5,12065.0,United Kingdom
+C536875,S1000,Cold Brew Concentrate,Beverage,-10,2024-12-03,12.5,12244.0,Germany
+536875,S1007,Gift Card,Other,1,2024-12-03,25.0,12244.0,Germany
+536876,S1005,Decaf Beans 1kg,Beans,9,2024-12-23,22.5,12093.0,United Kingdom
+536876,S1002,Espresso Beans 1kg,Beans,11,2024-12-23,24.0,12093.0,United Kingdom
+536877,S1002,Espresso Beans 1kg,Beans,8,2024-12-09,24.0,12298.0,United Kingdom
+C536878,S1001,Ceramic Mug,Merch,-2,2024-12-19,8.75,12081.0,Germany
+536878,S1002,Espresso Beans 1kg,Beans,5,2024-12-19,24.0,12081.0,Germany
+536878,S1000,Cold Brew Concentrate,Beverage,5,2024-12-19,12.5,,Germany
+536879,S1007,Gift Card,Other,8,2024-12-17,25.0,12372.0,United Kingdom
+536879,S1002,Espresso Beans 1kg,Beans,10,2024-12-17,24.0,12372.0,United Kingdom
+536879,S1005,Decaf Beans 1kg,Beans,7,2024-12-17,22.5,12372.0,United Kingdom
+536880,S1000,Cold Brew Concentrate,Beverage,9,2024-12-04,12.5,12360.0,United Kingdom
+536880,S1005,Decaf Beans 1kg,Beans,8,2024-12-04,22.5,,United Kingdom
+536880,S1003,Paper Filters x100,Supplies,3,2024-12-04,4.25,12360.0,United Kingdom
+536881,S1007,Gift Card,Other,8,2024-12-03,25.0,12344.0,United Kingdom
+536881,S1006,Milk Frother,Equipment,2,2024-12-03,31.0,12344.0,United Kingdom
+536882,S1004,Travel Tumbler,Merch,10,2024-12-24,18.9,12034.0,United Kingdom
+536883,S1005,Decaf Beans 1kg,Beans,8,2024-12-27,22.5,12377.0,Germany
+536883,S1000,Cold Brew Concentrate,Beverage,5,2024-12-27,12.5,12377.0,Germany
+536883,S1002,Espresso Beans 1kg,Beans,10,2024-12-27,24.0,12377.0,Germany
+536884,S1004,Travel Tumbler,Merch,3,2024-12-03,18.9,12230.0,Netherlands
+536884,S1000,Cold Brew Concentrate,Beverage,4,2024-12-03,12.5,12230.0,Netherlands
+536885,S1002,Espresso Beans 1kg,Beans,6,2024-12-05,24.0,12126.0,United Kingdom
+536885,S1001,Ceramic Mug,Merch,9,2024-12-05,8.75,12126.0,United Kingdom
+536886,S1000,Cold Brew Concentrate,Beverage,2,2024-12-21,12.5,12204.0,Netherlands
+536886,S1006,Milk Frother,Equipment,7,2024-12-21,31.0,12204.0,Netherlands
+536886,S1007,Gift Card,Other,9,2024-12-21,25.0,,Netherlands
+536887,S1001,Ceramic Mug,Merch,11,2024-12-15,8.75,12030.0,United Kingdom
+536887,S1002,Espresso Beans 1kg,Beans,6,2024-12-15,24.0,12030.0,United Kingdom
+536888,S1005,Decaf Beans 1kg,Beans,7,2024-12-13,22.5,12129.0,France
+536889,S1007,Gift Card,Other,9,2024-12-10,25.0,12092.0,Germany
+536890,S1000,Cold Brew Concentrate,Beverage,6,2024-12-27,12.5,12132.0,United Kingdom
+536890,S1003,Paper Filters x100,Supplies,9,2024-12-27,4.25,12132.0,United Kingdom
+536890,S1007,Gift Card,Other,2,2024-12-27,25.0,12132.0,United Kingdom
+536891,S1003,Paper Filters x100,Supplies,8,2024-12-21,4.25,12376.0,United Kingdom
+536891,S1006,Milk Frother,Equipment,1,2024-12-21,31.0,12376.0,United Kingdom
+536892,S1006,Milk Frother,Equipment,5,2024-12-28,31.0,12093.0,United Kingdom
+536892,S1000,Cold Brew Concentrate,Beverage,2,2024-12-28,12.5,12093.0,United Kingdom
+536892,S1004,Travel Tumbler,Merch,3,2024-12-28,18.9,12093.0,United Kingdom
+536893,S1004,Travel Tumbler,Merch,1,2024-12-08,18.9,12093.0,France
+536893,S1006,Milk Frother,Equipment,10,2024-12-08,31.0,12093.0,France
+536893,S1004,Travel Tumbler,Merch,3,2024-12-08,18.9,12093.0,France
+536894,S1007,Gift Card,Other,11,2024-12-25,25.0,12301.0,Ireland
+536895,S1001,Ceramic Mug,Merch,9,2024-12-06,8.75,12289.0,Germany
+536895,S1002,Espresso Beans 1kg,Beans,12,2024-12-06,24.0,12289.0,Germany
+536895,S1001,Ceramic Mug,Merch,5,2024-12-06,8.75,12289.0,Germany
+536896,S1000,Cold Brew Concentrate,Beverage,11,2024-12-08,12.5,12308.0,Germany
+536897,S1001,Ceramic Mug,Merch,2,2024-12-13,8.75,12271.0,Germany
+536897,S1003,Paper Filters x100,Supplies,12,2024-12-13,4.25,12271.0,Germany
+536898,S1003,Paper Filters x100,Supplies,8,2024-12-24,4.25,12366.0,Germany
+536898,S1004,Travel Tumbler,Merch,7,2024-12-24,18.9,12366.0,Germany
+536899,S1001,Ceramic Mug,Merch,3,2024-12-06,8.75,12157.0,Germany
+536899,S1000,Cold Brew Concentrate,Beverage,9,2024-12-06,12.5,12157.0,Germany
+536899,S1006,Milk Frother,Equipment,5,2024-12-06,31.0,12157.0,Germany
+536900,S1005,Decaf Beans 1kg,Beans,6,2024-12-07,22.5,12001.0,United Kingdom
+536900,S1002,Espresso Beans 1kg,Beans,11,2024-12-07,24.0,12001.0,United Kingdom
