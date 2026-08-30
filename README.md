@@ -154,7 +154,7 @@ See `CITATION.cff`. ISBN 9798170522552; publisher/imprint not yet confirmed.
 
 ## License
 
-**Code:** MIT (see `LICENSE`) — subject to final confirmation with the publisher.
+**Code:** MIT (see `LICENSE`).
 **Book text, figures and cover artwork:** *not* covered by the MIT licence. See `LICENSE` for the
 distinction, and note the JWST cover image carries its own CC BY 4.0 terms and credit requirement.
 

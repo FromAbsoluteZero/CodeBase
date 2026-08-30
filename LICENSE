@@ -1,12 +1,7 @@
 LICENSE — From Absolute Zero companion repository
 
-IMPORTANT: FINAL LICENCE TO BE CONFIRMED BY AUTHOR AND PUBLISHER BEFORE PUBLICATION.
-
-This file records the intended position. A publishing contract may change it, and the
-publisher should confirm before this repository is made public.
-
 --------------------------------------------------------------------------------
-1. SOURCE CODE  ..............................................  MIT (intended)
+1. SOURCE CODE  ..............................................  MIT
 --------------------------------------------------------------------------------
 
 MIT License
@@ -45,8 +40,7 @@ covered by the same licence as the code.
 --------------------------------------------------------------------------------
 
 The prose, structure, exercises, solutions and typeset figures of "From Absolute Zero" are
-NOT covered by the MIT licence above. All rights reserved by the author and, once a
-publishing agreement exists, subject to that agreement.
+NOT covered by the MIT licence above. All rights reserved by the author.
 
 The figure image files under figures/ are provided so readers can view them at full
 resolution. They are not licensed for redistribution or reuse outside that purpose.
@@ -66,12 +60,3 @@ COVER ARTWORK — NOT OWNED BY THE AUTHOR AND NOT LICENSED BY THIS FILE.
 
 SOFTWARE DEPENDENCIES are licensed by their own authors under their own terms (see
 requirements.txt). Nothing in this file grants rights over them.
-
---------------------------------------------------------------------------------
-5. OPEN QUESTIONS FOR THE PUBLISHER
---------------------------------------------------------------------------------
-
-  [ ] Does the publishing agreement permit an MIT-licensed companion repository?
-  [ ] Does the publisher require a specific copyright line or notice?
-  [ ] Should the repository be public at launch, or gated?
-  [ ] Does the publisher require different terms for the figure files?
