@@ -34,7 +34,7 @@ If you add code that calls an external API:
 For a security issue in this repository, please open a GitHub issue **without including the
 sensitive detail itself**, and a maintainer will follow up on a private channel.
 
-Contact: **b.shanmukh94@gmail.com**
+Contact: **shanmukh.b@outlook.com**
 
 ## Not a security guide
 
