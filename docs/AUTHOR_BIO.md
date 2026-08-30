@@ -1,41 +1,33 @@
 # Author Biography
 
-> **These are placeholders.** Only facts appearing in the manuscript are stated below. Employers,
-> degrees, titles, awards and affiliations have **not** been invented. Replace the bracketed text
-> before publication.
+## Short (~25 words — cover, catalogue listing)
 
-## Short (≈25 words — cover, catalogue listing)
+Shanmukh Behara is a Data Governance Advisor at Southern California Edison. *From Absolute Zero*
+is his first book.
 
-Shanmukh Behara is **[ROLE / AFFILIATION — TO BE SUPPLIED]**. *From Absolute Zero* is his first
-book.
+## Medium (~60 words — back cover, conference bio)
 
-## Medium (≈60 words — back cover, conference bio)
+Shanmukh Behara is a Data Governance Advisor at Southern California Edison, where he has spent
+several years turning usage, contract, and operational data into financial models and business
+recommendations. He wrote *From Absolute Zero* to be the book he wanted when he started: one that
+explains why methods behave as they do, executes every program it prints, and keeps the results
+that contradict expectation.
 
-Shanmukh Behara is **[ROLE — TO BE SUPPLIED]** working in **[FIELD — TO BE SUPPLIED]**. He wrote
-*From Absolute Zero* to be the book he wanted when he started: one that explains why methods behave
-as they do, executes every program it prints, and keeps the results that contradict expectation.
-**[ADDITIONAL DETAIL — TO BE SUPPLIED.]**
+## Long (~150 words — publisher page, press material)
 
-## Long (≈150 words — publisher page, press material)
+Shanmukh Behara is a Data Governance Advisor at Southern California Edison, a major electric
+utility, where he turns usage, contract, and operational data into financial models and business
+recommendations.
 
-Shanmukh Behara is **[ROLE / AFFILIATION — TO BE SUPPLIED]**.
+He has spent 8+ years in data and analytics, including a risk-analyst role at Uber, a business
+strategy role building demand-forecasting models at Swiggy, and — since 2023 — data and analytics
+work at Southern California Edison, including Power BI dashboards that monitor $1B+ in power
+contracts and a rate-scenario model of utility tariffs built down to the 15-minute interval. He
+holds an MS in Business Analytics and Operations Research from California State University (GPA
+3.8, Dean's List) and is currently pursuing a Professional MBA at Campbellsville University.
 
-**[BACKGROUND — TO BE SUPPLIED: education, professional experience, areas of focus.]**
-
-*From Absolute Zero* grew out of **[ORIGIN — TO BE SUPPLIED]**. It is built on one discipline: every
-program in the book was executed and its real output printed on the page, including results that
-undercut the chapter they appear in — a convolutional network that scores below the simpler model
-preceding it, a transformer that loses to a simpler predecessor. The book treats those outcomes as
-worth keeping rather than tidying away.
-
-**[CURRENT WORK / CONTACT / WEBSITE — TO BE SUPPLIED.]**
-
----
-
-## Checklist before publication
-
-- [ ] Role and affiliation confirmed
-- [ ] Educational background confirmed (if the author wishes to include it)
-- [ ] Website / contact confirmed
-- [ ] Photograph supplied at print resolution, if the publisher requires one
-- [ ] Bio approved by the author in all three lengths
+*From Absolute Zero* is built on one discipline: every program in the book was executed and its
+real output printed on the page, including results that undercut the chapter they appear in — a
+convolutional network that scores below the simpler model preceding it, a transformer that loses
+to a simpler predecessor. The book treats those outcomes as worth keeping rather than tidying
+away.

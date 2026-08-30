@@ -22,7 +22,7 @@ Applies to issues, pull requests, discussions and any other space representing t
 
 ## Reporting
 
-Report unacceptable behaviour to **[CONTACT TO BE SUPPLIED]**. Reports will be reviewed and handled
+Report unacceptable behaviour to **b.shanmukh94@gmail.com**. Reports will be reviewed and handled
 confidentially.
 
 ## Attribution
