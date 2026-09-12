@@ -1,0 +1,10 @@
+# Optional dependencies — needed by three chapters only.
+# Install with: pip install -r requirements-optional.txt
+# Pinned to the versions the book's printed output was produced under.
+
+statsmodels==0.15.0        # Chapter 28 (Holt-Winters forecasting)
+shap==0.51.0               # Chapter 29 (SHAP values)
+imbalanced-learn==0.14.2   # Chapter 23 (SMOTE comparison)
+
+# For notebooks:
+# jupyterlab
