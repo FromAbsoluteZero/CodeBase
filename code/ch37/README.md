@@ -52,3 +52,7 @@ should match the book digit for digit.
 Note: the book's Step 3 output box begins by repeating four lines of Step 2's output. `c3.py`
 prints only the reward table and the correlation line.
 See `docs/REPRODUCIBILITY.md` if a number does not match.
+
+## Practice
+
+Interview questions that draw on this chapter: [`practice/by-chapter/ch37.md`](../../practice/by-chapter/ch37.md).

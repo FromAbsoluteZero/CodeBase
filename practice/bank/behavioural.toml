@@ -1,0 +1,57 @@
+# Behavioural and working style. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q179"
+question = '''Tell me about a model or analysis that failed. What happened?'''
+answer = '''Pick a real failure, state the impact plainly, explain the root cause technically, and describe what you changed in your process afterward. Avoid failures whose cause was entirely someone else.'''
+chapters = []
+level = "any"
+type = "behavioural"
+
+[[question]]
+id = "Q180"
+question = '''Describe a time you disagreed with a stakeholder about an approach.'''
+answer = '''Show that you understood their reasoning, brought evidence rather than assertion, and describe the resolution including cases where you changed your own position.'''
+chapters = []
+level = "any"
+type = "behavioural"
+
+[[question]]
+id = "Q181"
+question = '''How do you decide when a model is good enough to ship?'''
+answer = '''Against a pre-agreed threshold tied to the decision cost, with monitoring and rollback in place. Strong answers mention agreeing the bar before building, not after seeing results.'''
+chapters = [23, 43, 44]
+level = "any"
+type = "behavioural"
+
+[[question]]
+id = "Q182"
+question = '''How do you keep current in a field that changes this quickly?'''
+answer = '''Name specific concrete sources and a habit rather than a list of newsletters. Mention how you decide what to ignore, which is the harder and more revealing skill.'''
+chapters = [45]
+level = "any"
+type = "behavioural"
+
+[[question]]
+id = "Q183"
+question = '''You are given a vague request with no clear success metric. What do you do?'''
+answer = '''Work backward from the decision the output will inform, propose a measurable proxy, agree it in writing, and start with the smallest version that tests the assumption.'''
+chapters = [1]
+level = "any"
+type = "behavioural"
+
+[[question]]
+id = "Q184"
+question = '''How do you prioritize when three people want three things?'''
+answer = '''Make the trade visible rather than resolving it privately: state what each request costs and what it displaces, and get the requesters into the same decision. Strong answers describe a default ordering — decisions with a deadline over exploratory work — and communicate the sequence rather than going quiet.'''
+chapters = []
+level = "any"
+type = "behavioural"
+
+[[question]]
+id = "Q185"
+question = '''Why analytics?'''
+answer = '''No correct answer, and the interviewer is listening for something specific rather than a general enthusiasm for data. Strong answers name a concrete thing the candidate found out, why it mattered, and what they did next.'''
+chapters = [1]
+level = "any"
+type = "behavioural"

@@ -1,0 +1,41 @@
+# Machine learning system design. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q163"
+question = '''Design a system to recommend products to users.'''
+answer = '''Clarify the objective and constraints first, then cover candidate generation and ranking, features and labels, cold start, offline and online metrics, latency budget, and feedback loops that can entrench popular items.'''
+chapters = [22, 23, 42, 43]
+level = "advanced"
+type = "scenario"
+
+[[question]]
+id = "Q164"
+question = '''Design a fraud detection system for card transactions.'''
+answer = '''Cover extreme imbalance, cost-asymmetric thresholds, real-time latency, label delay from chargebacks, feature freshness, adversarial drift requiring frequent retraining, and a review queue for borderline cases.'''
+chapters = [22, 23, 43]
+level = "advanced"
+type = "scenario"
+
+[[question]]
+id = "Q165"
+question = '''Design a retrieval-augmented question answering system over company documents.'''
+answer = '''Cover chunking strategy, embedding choice and re-indexing cost, vector store, retrieval evaluation with recall at k, reranking, grounding and citations, abstention when context is thin, and cost and latency per query.'''
+chapters = [38, 40]
+level = "advanced"
+type = "scenario"
+
+[[question]]
+id = "Q166"
+question = '''How would you serve a model with a 50 millisecond latency budget?'''
+answer = '''Budget the whole path, not just inference: network, feature retrieval, model, and overhead. Levers include caching, precomputed features, batching, quantization, distillation, and dropping to a smaller model with a fallback.'''
+chapters = [43]
+level = "advanced"
+type = "scenario"
+
+[[question]]
+id = "Q167"
+question = '''How do you decide between batch and online inference?'''
+answer = '''Batch when predictions can be precomputed and freshness in hours is acceptable; online when inputs are only known at request time. Batch is cheaper and simpler to monitor, so it should be the default.'''
+chapters = [43]
+level = "intermediate"
+type = "scenario"

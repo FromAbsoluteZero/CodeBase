@@ -9,19 +9,19 @@ Facts below are taken from the manuscript itself.
 | **Author** | Shanmukh Behara |
 | **Edition** | First Edition |
 | **Publication year** | 2026 |
-| **Page count** | 818 (Georgia interior edition) / 736 (Typography interior edition) — two interiors, same text; the page-count history is in `docs/REPRODUCIBILITY.md` and the release package’s `FINAL_HISTORY.md` |
+| **Page count** | two interiors, same text. First interior: 818 (Georgia) / 736 (Typography), with the interview bank printed as Appendix C. Second interior (Appendix C reduced to a short guide, the bank in this repository): counts recorded here when that printing is final |
 | **Chapters** | 45 |
-| **Appendices** | 5 (A–E) |
+| **Appendices** | 5 (A–E): Git; Portfolio; Interview practice (a short guide pointing to `practice/`); Quick Reference; Working with an AI assistant |
 | **Parts** | 8 |
 | **Figures** | 75 |
 | **Practice problems** | 5 per chapter, each with a full worked solution |
-| **Interview bank** | 185 questions, each with a note on what a strong answer contains, not a scripted answer (Appendix C) |
+| **Interview bank** | in this repository, `practice/`: Q1 to Q185 are the questions written for the book, each with a note on what a strong answer contains; Q186 to Q227 are coding exercises and challenges added here |
 | **Index entries** | 383 |
 | **Language** | English |
 | **ISBN** | 9798170522552 |
 | **Publisher** | Self-published via Amazon KDP |
 | **Trim size** | 7 x 10 in |
-| **Repository URL** | github.com/FromAbsoluteZero/CodeBase |
+| **Repository URL** | github.com/FromAbsoluteZero/CodeBase (the code matching the printed pages is tagged `print-2026-09`) |
 
 ## Cover artwork
 

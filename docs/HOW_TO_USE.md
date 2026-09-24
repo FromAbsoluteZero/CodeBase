@@ -182,3 +182,28 @@ Most problems are one of three things:
    versions.
 
 More in `docs/TROUBLESHOOTING.md`.
+
+---
+
+## 14. Practise a chapter
+
+You do not need any of steps 1 to 5 for this. Open `practice/by-chapter/chNN.md` for the chapter you
+have just finished (for example `practice/by-chapter/ch22.md`), answer each question aloud, then open its
+note. `practice/README.md` explains the numbering, the mock interviews and the progress tracker.
+
+The coding exercises under `practice/exercises/` do need Python and the pinned packages (steps 1 to 5).
+Each exercise folder has a README with the task, a `starter` file you complete, and a `check.py` you run
+from the repository root:
+
+```bash
+python practice/exercises/sql/q208-revenue-by-category/check.py
+```
+
+---
+
+## 15. Look something up
+
+`reference/cheatsheets/` holds one sheet per topic (pandas, SQL, Python, errors, charts, statistics,
+constants, checks, scikit-learn), each row naming its chapter. `reference/ai-assistant-prompts.md` is the
+complete prompt library from Appendix E. `reference/git/` and `reference/portfolio/` extend Appendices A
+and B, and `reference/templates/` holds files to copy into your own projects.

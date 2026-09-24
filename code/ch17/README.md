@@ -52,3 +52,7 @@ should match the book digit for digit.
 Note: the book's Step 5 output box begins by repeating the two lines Step 4 prints (`897 orders, 10
 candidate features` and the correlation). `c5.py` prints only its own table.
 See `docs/REPRODUCIBILITY.md` if a number does not match.
+
+## Practice
+
+Interview questions that draw on this chapter: [`practice/by-chapter/ch17.md`](../../practice/by-chapter/ch17.md).

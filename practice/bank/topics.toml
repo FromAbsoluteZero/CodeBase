@@ -1,0 +1,109 @@
+# Topics of the question bank, in the order the book teaches them. Each topic has one source file in this folder.
+
+[[topic]]
+slug = "python-pandas-data"
+title = "Python, pandas, and data handling"
+track = "Python and data handling"
+blurb = '''Asked in every analytics and data science loop, usually as a live exercise rather than from memory.'''
+
+[[topic]]
+slug = "sql"
+title = "SQL and data manipulation"
+track = "SQL"
+blurb = '''Still the single most reliably tested skill in data roles, and the one most often failed on nerves rather than knowledge.'''
+
+[[topic]]
+slug = "maths-statistics"
+title = "Mathematics and statistics"
+track = "Mathematics and statistics"
+blurb = '''Heaviest for data science and applied science; lighter for engineering and product.'''
+
+[[topic]]
+slug = "ml-fundamentals"
+title = "Machine learning fundamentals"
+track = "Machine learning"
+blurb = '''The screening layer. Asked in nearly every role family, including non-technical ones.'''
+
+[[topic]]
+slug = "classical-algorithms"
+title = "Classical algorithms and trade-offs"
+track = "Machine learning"
+blurb = '''The breadth round. Interviewers are checking that you can compare methods, not recite one.'''
+
+[[topic]]
+slug = "optimization-training"
+title = "Optimization and training"
+track = "Deep learning"
+blurb = '''Expected for research and deep learning roles; increasingly asked of anyone who trains models.'''
+
+[[topic]]
+slug = "features-model-selection"
+title = "Data, features, and model selection"
+track = "Machine learning"
+blurb = '''Where most real projects succeed or fail, and where experienced candidates separate themselves.'''
+
+[[topic]]
+slug = "evaluation-metrics"
+title = "Evaluation and metrics"
+track = "Machine learning"
+blurb = '''The most common source of a confidently wrong answer. Know what each metric hides.'''
+
+[[topic]]
+slug = "unsupervised"
+title = "Unsupervised learning"
+track = "Machine learning"
+blurb = '''Lighter weight, but a poor answer here reads as gaps in fundamentals.'''
+
+[[topic]]
+slug = "deep-learning"
+title = "Deep learning and architectures"
+track = "Deep learning"
+blurb = '''Core for machine learning engineering and research; skimmed for analytics roles.'''
+
+[[topic]]
+slug = "llms-modern-ai"
+title = "Large language models and modern AI"
+track = "Modern AI"
+blurb = '''New, fast-moving, and increasingly the round that decides the offer.'''
+
+[[topic]]
+slug = "ai-systems-agents"
+title = "AI systems, evaluation, and agents"
+track = "Modern AI"
+blurb = '''Applied rather than theoretical: how would you build it, and how would you know it works.'''
+
+[[topic]]
+slug = "production-mlops"
+title = "Production and MLOps"
+track = "Production, responsibility, and design"
+blurb = '''Asked of anyone whose model will meet real traffic.'''
+
+[[topic]]
+slug = "responsible-ai"
+title = "Responsible AI and governance"
+track = "Production, responsibility, and design"
+blurb = '''Once a formality, now a substantive round at any company with regulatory exposure.'''
+
+[[topic]]
+slug = "ml-system-design"
+title = "Machine learning system design"
+track = "Production, responsibility, and design"
+blurb = '''The open-ended round. There is no correct answer; there is a correct way to reason.'''
+
+[[topic]]
+slug = "business-case"
+title = "Business framing and case-style"
+track = "Business and behavioural"
+blurb = '''Tests whether you can turn a vague commercial question into an answerable one.'''
+
+[[topic]]
+slug = "behavioural"
+title = "Behavioural and working style"
+track = "Business and behavioural"
+blurb = '''Not a formality. Specific stories beat general claims every time.'''
+
+[[topic]]
+slug = "challenges"
+title = "Multi-step challenges"
+track = "Multi-step challenges"
+blurb = '''Longer problems on the book's own datasets that combine several chapters, the way a take-home exercise or a case round does.'''

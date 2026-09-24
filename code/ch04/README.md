@@ -49,3 +49,7 @@ Every block is explicitly seeded. At the versions pinned in `requirements.txt` t
 should match the book digit for digit.
 The one exception is the `loop … ms / vectorized … ms / ratio` line in `c7.py`: it measures your machine and will differ.
 See `docs/REPRODUCIBILITY.md` if a number does not match.
+
+## Practice
+
+Interview questions that draw on this chapter: [`practice/by-chapter/ch04.md`](../../practice/by-chapter/ch04.md).

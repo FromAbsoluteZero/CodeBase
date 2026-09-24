@@ -1,0 +1,133 @@
+# Evaluation and metrics. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q93"
+question = '''When does precision matter more than recall, and vice versa?'''
+answer = '''Precision when false alarms are costly, as in spam filtering or automated account suspension; recall when misses are costly, as in disease screening or fraud detection. The right answer names the cost asymmetry explicitly.'''
+chapters = [14, 22]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q94"
+question = '''When would you report PR AUC instead of ROC AUC?'''
+answer = '''ROC plots true positive rate against false positive rate and is insensitive to class balance; PR plots precision against recall and reflects performance on the rare positive class. Under heavy imbalance, PR AUC is the more informative summary.'''
+chapters = [22]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q95"
+question = '''What does calibration mean and how would you check it?'''
+answer = '''That predicted probabilities match observed frequencies — of cases predicted at 0.7, about seventy percent should be positive. Check with a reliability diagram or Brier score; fix with Platt scaling or isotonic regression.'''
+chapters = [22, 44]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q96"
+question = '''Your model has AUC 0.92 but is useless in production. What could explain that?'''
+answer = '''A threshold that has never been tuned, severe imbalance making precision poor despite good ranking, miscalibrated probabilities feeding a downstream decision, distribution shift, or optimizing a metric that does not match the business cost.'''
+chapters = [22, 23, 43]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q97"
+question = '''How do you handle imbalanced data?'''
+answer = '''Start by rejecting accuracy as the metric, then apply class weights, tune the threshold from a cost matrix, and evaluate with precision-recall. Resampling is a later option, and any resampling requires recalibration before probabilities are used.'''
+chapters = [23]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q98"
+question = '''Where should you set the decision threshold?'''
+answer = '''At the break-even point implied by the costs: false positive cost divided by the sum of false positive and false negative costs. Tune it on validation data, never on the test set.'''
+chapters = [23]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q99"
+question = '''What are the drawbacks of SMOTE?'''
+answer = '''It synthesizes examples by interpolation in regions no real process populates, blurs the boundary, and distorts calibration. Applying it before splitting also leaks information across folds.'''
+chapters = [23]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q100"
+question = '''Your fraud model has 99.5% accuracy. Is it good?'''
+answer = '''Unknown until compared with the majority-class baseline, which is probably about 99.5% as well. Ask for precision, recall at the operating threshold, PR AUC, and the cost of each error type.'''
+chapters = [14, 22, 23]
+level = "beginner"
+type = "scenario"
+
+[[question]]
+id = "Q101"
+question = '''Why is 88% accuracy a bad result at a 12% base rate?'''
+answer = '''Because predicting the majority class every time scores 88% while identifying nobody. Strong answers move immediately to precision, recall, and the confusion matrix, and ask what a flag is worth relative to a miss.'''
+chapters = [14, 22]
+level = "beginner"
+type = "scenario"
+
+[[question]]
+id = "Q102"
+question = '''What is AUC, in one sentence?'''
+answer = '''The probability that a randomly chosen positive case is scored above a randomly chosen negative one. Strong answers add that it summarizes ranking across all thresholds, is unaffected by class balance, and for that reason can look healthy on a rare-event problem where precision is poor.'''
+chapters = [22, 14]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q103"
+question = '''What does R-squared not tell you?'''
+answer = '''Whether the model is correctly specified, whether it predicts new data, whether any relationship is causal, or whether the assumptions hold. Strong answers add that it never falls when predictors are added, which is why adjusted R-squared and out-of-sample scoring exist.'''
+chapters = [13]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q104"
+question = '''A colleague reports test accuracy after a week of tuning against the test set. What is wrong with the number?'''
+answer = '''Each look followed by a change fits the choices to that set, so the score drifts upward by an amount no one can measure; the number is now a validation score. Strong answers prescribe a validation set or cross-validation for every decision, describe a test set as spent once it has been used to choose, and ask for a fresh holdout if one can be had.'''
+chapters = [16]
+level = "beginner"
+type = "conceptual"
+revised = '''Reworded from a near-duplicate of Q47, which asks why a project keeps both a validation and a test set; this question applies the rule to a report.'''
+related = ["Q47"]
+
+[[question]]
+id = "Q105"
+question = '''How would you explain overfitting to a non-technical stakeholder?'''
+answer = '''Memorizing the answers to last year's exam rather than learning the subject: perfect on the questions already seen, poor on new ones. Strong answers follow the analogy with the business consequence — the reported accuracy is not what will be achieved in production — and name the check that catches it.'''
+chapters = [16, 17, 42]
+level = "beginner"
+type = "scenario"
+
+[[question]]
+id = "Q106"
+question = '''A forecasting model scored well on a random split and badly in production. Explain the gap.'''
+answer = '''A random split trains partly on the future, so the model interpolates between known neighbours rather than forecasting, and the score reflects a task no deployment faces. The fix is a chronological split at several successive cut points, which measures what forecasting actually achieves.'''
+chapters = [16, 28]
+level = "beginner"
+type = "conceptual"
+revised = '''Reworded from a near-duplicate of Q46, which asks how to split time-series data; this question diagnoses the symptom.'''
+related = ["Q46"]
+
+[[question]]
+id = "Q107"
+question = '''Your backtest gives MAEs of 180, 195, 172, 188, and 910. What do you report?'''
+answer = '''The median or typical range, with the outlier named rather than averaged in — the mean of those is 329 and describes none of them. Strong answers ask what was happening in the fifth window before assuming the model is at fault.'''
+chapters = [28]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q108"
+question = '''What is wrong with the feature importance a tree model gives you for free?'''
+answer = '''It is computed on training data, so overfitted features look useful, and it favours features with many split points, so continuous variables are inflated and binary flags suppressed. Strong answers propose permutation importance on held-out data, reported with its spread across repeats.'''
+chapters = [29]
+level = "intermediate"
+type = "conceptual"

@@ -1,0 +1,90 @@
+# Business framing and case-style. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q168"
+question = '''A stakeholder wants to add AI to a workflow. How do you evaluate whether it is worth doing?'''
+answer = '''Define the decision being made, the cost of each error, the baseline, and the data available. Ask what changes operationally if the model works, and whether a rule or a report would suffice.'''
+chapters = [1]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q169"
+question = '''Your model is accurate but adoption is low. What do you investigate?'''
+answer = '''Trust and explainability, workflow fit, latency, whether the output arrives at the moment of decision, and whether the metric optimized matches what users are accountable for.'''
+chapters = [42, 43]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q170"
+question = '''How would you measure the business value of a deployed model?'''
+answer = '''Tie predictions to decisions and decisions to outcomes, ideally with a holdout or staged rollout. Estimate value as the change in the outcome metric against the baseline, net of serving and maintenance cost.'''
+chapters = [15, 43]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q171"
+question = '''An executive asks whether you should build or buy an AI capability.'''
+answer = '''Compare on differentiation, data advantage, time to value, total cost including maintenance, and switching risk. Build where proprietary data creates an edge; buy commodity capability.'''
+chapters = [1]
+level = "intermediate"
+type = "scenario"
+beyond_book = '''Build-versus-buy decisions are not covered in this book. Chapter 1's framing of a decision is the starting point.'''
+
+[[question]]
+id = "Q172"
+question = '''How do you explain model uncertainty to a non-technical audience?'''
+answer = '''Use frequencies rather than probabilities, give a concrete error rate in cases per hundred, state what the model does not know, and name the decision the number should and should not drive.'''
+chapters = [42, 8]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q173"
+question = '''A stakeholder wants a dashboard showing everything. What do you ask?'''
+answer = '''What decision it supports, who makes it, and how often. Strong answers explain that a dashboard showing everything gets read by nobody, and offer to build the three numbers that would change an action, with the rest available on request.'''
+chapters = [42]
+level = "beginner"
+type = "scenario"
+
+[[question]]
+id = "Q174"
+question = '''Revenue is down 8%. How do you investigate?'''
+answer = '''Decompose before theorizing: price against volume, new against returning, by segment, region, and channel, and check whether the comparison period is fair. Strong answers rule out measurement causes — a tracking change, a pipeline failure, a calendar effect — before reaching for commercial explanations.'''
+chapters = [1, 12]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q175"
+question = '''Your analysis contradicts what a senior stakeholder believes. What do you do?'''
+answer = '''Check your own work first, hard, including the data lineage. Then present the finding privately with the method visible, invite the specific objection, and state what evidence would change your mind. Strong answers treat being wrong as a live possibility without abandoning the finding if it survives scrutiny.'''
+chapters = [42]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q176"
+question = '''How do you handle a request for a number by end of day when the data is messy?'''
+answer = '''Deliver a number with its caveats attached rather than nothing, and be explicit about which direction the uncertainty runs. Strong answers scope down to what can be answered defensibly in the time, and say plainly what the fuller answer would require.'''
+chapters = [42]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q177"
+question = '''A model would improve conversion by 0.02 percentage points, significantly. Ship it?'''
+answer = '''Significance is not importance. Strong answers multiply the effect by the volume to get an absolute value, weigh it against build and maintenance cost and the risk of another system to monitor, and note that a very large sample makes trivial effects detectable.'''
+chapters = [8, 15]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q178"
+question = '''What would make you refuse to run an analysis?'''
+answer = '''When the design guarantees a predetermined conclusion, when the data was obtained without a basis for its intended use, or when the output would harm people the analysis cannot answer for. Strong answers distinguish refusing the framing from refusing the question, and offer the version they would run.'''
+chapters = [44]
+level = "intermediate"
+type = "scenario"

@@ -50,3 +50,7 @@ Writes `fig19_1.png`, `fig19_2.png` into this directory (the shipped versions ar
 Every block is explicitly seeded. At the versions pinned in `requirements.txt` the output
 should match the book digit for digit.
 See `docs/REPRODUCIBILITY.md` if a number does not match.
+
+## Practice
+
+Interview questions that draw on this chapter: [`practice/by-chapter/ch19.md`](../../practice/by-chapter/ch19.md).

@@ -32,6 +32,19 @@ approximately rather than exactly.
 - Modernising APIs — the pinned versions exist to reproduce the printed output, not to be current
 - Replacing the pure-NumPy implementations with a framework — that is the pedagogical point
 
+## Correct or suggest an interview question
+
+The question bank lives in `practice/bank/*.toml`; every page under `practice/` is generated from it.
+
+- To report a wrong or unclear question, open an issue citing its ID (for example `Q34`). IDs are
+  permanent, so that is all the reference needed.
+- To propose a correction or a new question, edit the `.toml` file only, never a generated page, then
+  run `python scripts/build_practice.py` and `python tests/test_practice.py`. New questions take the next
+  free number after the last one; a new coding question needs an exercise folder with a passing check.
+- Contributed question text is accepted under the bank's licence, CC BY-NC-SA 4.0, and contributed
+  exercise code under MIT (see `LICENSING.md`). Say in the pull request that you agree.
+- Corrections to the printed book go in `docs/ERRATA.md`.
+
 ## Pull requests
 
 Small, focused changes with a clear description of what was wrong. If a change would alter a number

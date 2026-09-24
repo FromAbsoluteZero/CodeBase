@@ -60,3 +60,7 @@ OMP_NUM_THREADS=1 python -c "for f in ['_lib.py', 'c1.py', 'c2.py', 'c3.py', 'c4
 (on Windows: `set OMP_NUM_THREADS=1` first). Steps 1, 2, 4 and 5 are unaffected, and the chapter's
 conclusion does not depend on the digits that move.
 See `docs/REPRODUCIBILITY.md` if a number does not match.
+
+## Practice
+
+Interview questions that draw on this chapter: [`practice/by-chapter/ch39.md`](../../practice/by-chapter/ch39.md).

@@ -49,3 +49,7 @@ This chapter is implemented in **pure NumPy**. No PyTorch, TensorFlow or JAX is 
 Every block is explicitly seeded. At the versions pinned in `requirements.txt` the output
 should match the book digit for digit.
 See `docs/REPRODUCIBILITY.md` if a number does not match.
+
+## Practice
+
+Interview questions that draw on this chapter: [`practice/by-chapter/ch36.md`](../../practice/by-chapter/ch36.md).

@@ -26,5 +26,8 @@ keywords:
   - reproducibility
   - algorithmic fairness
   - Python
-license: MIT
-license-url: "./LICENSE"
+license:
+  - MIT
+  - CC-BY-NC-SA-4.0
+  - CC0-1.0
+license-url: "./LICENSING.md"

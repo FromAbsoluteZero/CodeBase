@@ -53,3 +53,7 @@ This chapter needs `imbalanced-learn`, which is in `requirements-optional.txt`.
 Every block is explicitly seeded. At the versions pinned in `requirements.txt` the output
 should match the book digit for digit.
 See `docs/REPRODUCIBILITY.md` if a number does not match.
+
+## Practice
+
+Interview questions that draw on this chapter: [`practice/by-chapter/ch23.md`](../../practice/by-chapter/ch23.md).

@@ -1,8 +1,37 @@
 LICENSE — From Absolute Zero companion repository
 
---------------------------------------------------------------------------------
-1. SOURCE CODE  ..............................................  MIT
---------------------------------------------------------------------------------
+This repository holds material under four sets of terms. LICENSING.md is the authoritative map of
+which files fall under which; the full licence texts are in LICENSES/.
+
+1. SOURCE CODE AND EXECUTABLE MATERIAL ............................ MIT (LICENSES/MIT.txt)
+   code/, notebooks/, bridges/, scripts/, tests/, figures/sources/*.py, and every starter, solution
+   and check file under practice/exercises/.
+
+2. GENERATED DATASETS ............................................. MIT (LICENSES/MIT.txt)
+   data/generated/*.csv: entirely synthetic, produced by the code above, no personal or real-world data.
+
+3. BOOK-DERIVED TEXT ................................. CC BY-NC-SA 4.0 (LICENSES/CC-BY-NC-SA-4.0.txt)
+   The interview questions and answer notes (practice/bank/ and the pages generated from it), the
+   mock-interview sets, the exercise READMEs, reference/cheatsheets/, reference/ai-assistant-prompts.md,
+   the guides in reference/git/ and reference/portfolio/, and the documentation in docs/ and README.md.
+   Copyright (c) 2026 Shanmukh Behara.
+
+4. TEMPLATES MEANT TO BE COPIED ................................... CC0 1.0 (LICENSES/CC0-1.0.txt)
+   reference/templates/ and practice/tracker.csv.
+
+NOT LICENSED BY THIS FILE
+
+   The book "From Absolute Zero": its printed text, practice problems, solutions and typeset figures,
+   including the figure image files under figures/*.png, which are provided for viewing at full
+   resolution only. All rights reserved by the author.
+
+   Cover artwork: NGC 346, James Webb Space Telescope (NIRCam), ESA/Webb image weic2301a. Credit:
+   NASA, ESA, CSA, STScI, A. Pagan (STScI). Licence CC BY 4.0; reuse requires that credit line. The
+   full-resolution source image is not redistributed here.
+
+   Software dependencies (requirements.txt) are licensed by their own authors under their own terms.
+
+-------------------------------------------------------------------------------------------------
 
 MIT License
 
@@ -23,40 +52,3 @@ PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS 
 FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
-
-Scope: the .py files under code/ and scripts/, the notebooks under notebooks/, and the
-test files under tests/.
-
---------------------------------------------------------------------------------
-2. GENERATED DATASETS  ......................................  Same as code
---------------------------------------------------------------------------------
-
-The CSV files in data/generated/ are produced by the generation scripts in this
-repository. They are entirely synthetic, contain no personal or real-world data, and are
-covered by the same licence as the code.
-
---------------------------------------------------------------------------------
-3. BOOK TEXT AND FIGURES  ...................................  NOT MIT
---------------------------------------------------------------------------------
-
-The prose, structure, exercises, solutions and typeset figures of "From Absolute Zero" are
-NOT covered by the MIT licence above. All rights reserved by the author.
-
-The figure image files under figures/ are provided so readers can view them at full
-resolution. They are not licensed for redistribution or reuse outside that purpose.
-
---------------------------------------------------------------------------------
-4. THIRD-PARTY ASSETS  ......................................  Separate terms
---------------------------------------------------------------------------------
-
-COVER ARTWORK — NOT OWNED BY THE AUTHOR AND NOT LICENSED BY THIS FILE.
-
-  NGC 346, James Webb Space Telescope (NIRCam). ESA/Webb image weic2301a.
-  Credit: NASA, ESA, CSA, STScI, A. Pagan (STScI).
-  Licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-  Reuse requires the credit line above. The full-resolution source image is NOT
-  redistributed in this repository. Obtain it from the official ESA/Webb release.
-
-SOFTWARE DEPENDENCIES are licensed by their own authors under their own terms (see
-requirements.txt). Nothing in this file grants rights over them.

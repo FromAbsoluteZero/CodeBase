@@ -1,0 +1,35 @@
+# Production and MLOps. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q153"
+question = '''How do you detect that a deployed model is degrading?'''
+answer = '''Monitor leading indicators continuously — input and prediction distributions, stability indices such as PSI, and business metrics — because labels arrive late. Confirm with measured performance once labels mature.'''
+chapters = [43]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q154"
+question = '''Distinguish data drift from concept drift, and say why the distinction matters.'''
+answer = '''Data drift changes the input distribution while the input-output relationship holds; concept drift changes that relationship. The first often needs recalibration or a refresh, the second may need new features or a reframed target.'''
+chapters = [43]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q155"
+question = '''What is training-serving skew and how do you prevent it?'''
+answer = '''A mismatch between how features are computed in training and in serving, which degrades live performance invisibly. Prevent it with one shared implementation, such as a feature store, rather than two kept in sync manually.'''
+chapters = [43]
+level = "intermediate"
+type = "conceptual"
+beyond_book = '''Training-serving skew and feature stores are not named in this book. Chapter 43 covers the production problems they address.'''
+
+[[question]]
+id = "Q156"
+question = '''How would you deploy a new model safely?'''
+answer = '''Shadow it against live traffic first, then canary a small share while watching metrics and guardrails, expand gradually, and keep rollback to the previous registered version a one-step operation.'''
+chapters = [43]
+level = "intermediate"
+type = "conceptual"
+beyond_book = '''Shadow and canary deployment are not covered in this book. Chapter 43 covers serving, drift and monitoring.'''

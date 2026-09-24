@@ -30,10 +30,13 @@ def check(name, condition, detail=""):
 
 def test_required_files():
     print("\nRequired files")
-    for f in ["README.md", "LICENSE", "requirements.txt", "DATA_MANIFEST.csv",
-              "CITATION.cff", "SECURITY.md", ".gitignore",
+    for f in ["README.md", "LICENSE", "LICENSING.md", "LICENSES/MIT.txt", "LICENSES/CC-BY-NC-SA-4.0.txt",
+              "LICENSES/CC0-1.0.txt", "requirements.txt", "DATA_MANIFEST.csv",
+              "CITATION.cff", "SECURITY.md", ".gitignore", "CONTRIBUTING.md",
               "docs/HOW_TO_USE.md", "docs/CHAPTER_MAP.md", "docs/REPRODUCIBILITY.md",
-              "docs/DATA_GUIDE.md", "docs/TROUBLESHOOTING.md"]:
+              "docs/DATA_GUIDE.md", "docs/TROUBLESHOOTING.md", "docs/ERRATA.md",
+              "practice/README.md", "practice/CHANGELOG.md", "practice/bank/meta.toml",
+              "reference/README.md", "scripts/build_practice.py", "tests/test_practice.py"]:
         check(f, (ROOT / f).exists())
 
 def test_manifest_files_exist():
@@ -81,7 +84,7 @@ def test_no_secrets():
         (re.compile(r"(?i)(password|passwd|secret|api[_-]?key)\s*=\s*['\"][^'\"]{8,}"), "hardcoded credential"),
     ]
     hits = []
-    for p in list(ROOT.rglob("*.py")) + list(ROOT.rglob("*.ipynb")) + list(ROOT.rglob("*.md")):
+    for p in list(ROOT.rglob("*.py")) + list(ROOT.rglob("*.ipynb")) + list(ROOT.rglob("*.md")) + list(ROOT.rglob("*.toml")) + list(ROOT.rglob("*.sql")):
         if ".venv" in p.parts or "tests" in p.parts:
             continue
         try:

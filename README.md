@@ -1,9 +1,11 @@
-# From Absolute Zero: Companion Code
+# From Absolute Zero: Companion Repository
 
-Companion code, data and figures for **From Absolute Zero: Data science, machine learning, and AI
+Companion code, data, figures, practice and reference material for **From Absolute Zero: Data science, machine learning, and AI
 from no code to transformers and production** by Shanmukh Behara (First Edition, 2026).
 
 > Companion material for the book. ISBN 9798170522552. See `docs/BOOK_METADATA.md`.
+
+**Start here:** [run a chapter's code](#quick-start) · [practise a chapter](practice/by-chapter/README.md) · [sit a mock interview](practice/mock-interviews/README.md) · [cheat sheets, prompts and templates](reference/README.md) · [errata](docs/ERRATA.md)
 
 ---
 
@@ -14,6 +16,13 @@ production monitoring. The book assumes no programming, no calculus and no prior
 
 Its central discipline: **every program in the book was executed and its real output printed on the
 page.** This repository is how you run that code yourself instead of taking the book's word for it.
+
+The book and this repository are designed to be used together and do different jobs. The book is for
+learning and understanding: the reasoning, the explanations, the worked examples with their real output,
+and the core practice at the end of every chapter. The repository is for running, practising, searching
+and reusing: the code, the datasets, the figures, the interview question bank, the coding exercises,
+the cheat sheets, the prompt library and the templates, kept current and corrected over time while the
+printed teaching stays stable.
 
 ---
 
@@ -27,11 +36,15 @@ page.** This repository is how you run that code yourself instead of taking the 
 | **75 figures** | `figures/` — all of the book's figures at 400 DPI: 53 produced by the chapter generators, and 22 diagrams with runnable scripts in `figures/sources/`. See `figures/README.md` |
 | **Validation tests** | `tests/` — check the repository is intact and consistent |
 | **6 framework bridges** | `bridges/` — chapters 30 to 35, each comparing that chapter's hand-derived gradients against PyTorch's autograd. Optional; PyTorch is not needed anywhere else. See `bridges/README.md` |
+| **Interview practice** | `practice/` — the question bank (Q1 to Q185 from the book, Q186 on added here), organised by chapter, topic, level and type, with mock interviews, coding exercises on the book's datasets that check themselves, and a progress tracker. See `practice/README.md` |
+| **Reference** | `reference/` — the full cheat sheets, the complete AI-assistant prompt library, Git help, portfolio guidance and templates to copy into your own projects. See `reference/README.md` |
+| **Errata** | `docs/ERRATA.md` — corrections to the printed book |
 
-**11 chapters have no companion directory** (1, 2, 3, 5, 6, 8, 11, 12, 15, 42, 45). Chapters 1 and
+**11 chapters have no companion code directory** (1, 2, 3, 5, 6, 8, 11, 12, 15, 42, 45). Chapters 1 and
 45 print no code; the other nine print short blocks that run as printed (Chapters 5, 6, 8, 11 and 12
 read `retail.csv` and Chapter 42 reads `hr.csv`, both in `data/generated/`) and are not packaged here.
-`docs/CHAPTER_MAP.md` states this per chapter rather than leaving you to discover it.
+Every chapter, including those eleven, has a practice page under `practice/by-chapter/`.
+`docs/CHAPTER_MAP.md` states all of this per chapter rather than leaving you to discover it.
 
 ---
 
@@ -45,8 +58,11 @@ read `retail.csv` and Chapter 42 reads `hr.csv`, both in `data/generated/`) and 
 ├── figures/              all 75 figures, with the diagram scripts in figures/sources/
 ├── scripts/              helper scripts (regenerate data, verify install)
 ├── bridges/              optional PyTorch gradient checks for chapters 30-35
-├── tests/                repository validation
-├── docs/                 guides (start with HOW_TO_USE.md)
+├── practice/             interview question bank, mock interviews, coding exercises, tracker
+├── reference/            cheat sheets, AI-assistant prompts, Git help, portfolio guide, templates
+├── tests/                repository validation (including the practice bank and exercises)
+├── docs/                 guides (start with HOW_TO_USE.md); ERRATA.md for corrections
+├── LICENSES/             full licence texts; LICENSING.md maps folders to licences
 └── DATA_MANIFEST.csv     provenance for every dataset
 ```
 
@@ -116,8 +132,30 @@ chapter's README does exactly that.
 
 ## Chapter-by-Chapter Guide
 
-See **`docs/CHAPTER_MAP.md`** — every chapter with its code, data, figures, dependencies and
-whether it is reproducible.
+See **`docs/CHAPTER_MAP.md`** — every chapter with its code, data, figures, dependencies,
+whether it is reproducible, and how many practice questions start there.
+
+---
+
+## Practice and Interview Preparation
+
+`practice/` holds the interview question bank the book's Appendix C points to, and it needs no Python
+unless you want the coding exercises: every page reads in the browser or in the downloaded ZIP.
+
+- **By chapter:** `practice/by-chapter/chNN.md`, for example `practice/by-chapter/ch22.md` for
+  Chapter 22. Every chapter has a page, even the ones with no code.
+- **By topic, level or type:** `practice/by-topic/`, `practice/by-level.md`, `practice/by-type.md`.
+- **Mock interviews:** timed sets modelled on real rounds, with the answer notes on a separate sheet.
+- **Coding exercises:** Python, pandas and SQL tasks and multi-step challenges on the book's own
+  datasets, each with a check that tells you whether your answer is right:
+  `python practice/exercises/sql/q208-revenue-by-category/check.py`.
+- **Progress:** copy `practice/tracker.csv` and fill it in.
+
+Answer aloud, then open the note. Question numbers are permanent: Q1 to Q185 are the book's, and new
+ones continue from Q186. Start at `practice/README.md`.
+
+The code that matches the printed pages is kept at the tag `print-2026-09`; the practice and reference
+material is corrected and extended over time, and `practice/CHANGELOG.md` records every change.
 
 ---
 
@@ -156,8 +194,8 @@ That distinction matters and the guide is explicit about which chapters fall whe
 
 The book prints the output of every program. If a number you get differs from the page, check your
 package versions against `requirements.txt` first, then `docs/TROUBLESHOOTING.md`, which lists the
-chapters where a difference is expected and says why. If it still differs, please open an issue
-with the chapter, the block, and both numbers.
+chapters where a difference is expected and says why, and `docs/ERRATA.md` for known corrections.
+If it still differs, please open an issue with the chapter, the block, and both numbers.
 
 ---
 
@@ -175,9 +213,17 @@ See `CITATION.cff`. ISBN 9798170522552; self-published via Amazon KDP.
 
 ## License
 
-**Code:** MIT (see `LICENSE`).
-**Book text, figures and cover artwork:** *not* covered by the MIT licence. See `LICENSE` for the
-distinction, and note the JWST cover image carries its own CC BY 4.0 terms and credit requirement.
+Four sets of terms, mapped folder by folder in **`LICENSING.md`**:
+
+- **Code and executable material** (`code/`, `notebooks/`, `bridges/`, `scripts/`, `tests/`, the exercise
+  starters, solutions and checks) and the **generated datasets**: MIT.
+- **Book-derived text** (the question bank and every page generated from it, the cheat sheets, the
+  prompt library, the guides and this documentation): CC BY-NC-SA 4.0.
+- **Templates meant to be copied** (`reference/templates/`, `practice/tracker.csv`): CC0.
+- **The book's text and figures**, including the figure images here, are all rights reserved; the JWST
+  cover image carries its own CC BY 4.0 credit requirement.
+
+Full texts in `LICENSES/`.
 
 ---
 

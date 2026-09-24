@@ -54,7 +54,7 @@ directory, at the pinned versions**, and diffed against the book's output boxes.
 
 | Measured on | |
 |---|---|
-| Book | the First Edition as corrected through 2026-09-12 (Georgia 818 pp / Typography 736 pp); the repository commit is named in the release package's `README.md` |
+| Book | the First Edition as corrected through 2026-09-12 (Georgia 818 pp / Typography 736 pp); the commit that matches the printed pages is tagged `print-2026-09` in this repository |
 | Machine | macOS 27 on Apple Silicon (arm64, Apple Accelerate BLAS), Python 3.11.16 |
 | Libraries | exactly `requirements.txt` and `requirements-optional.txt` |
 | Settings | `OMP_NUM_THREADS=1`, `MPLBACKEND=Agg` |
@@ -88,7 +88,7 @@ thread count, against the book's 1.638644, 0.912279, 0.130881, 0.126387, 0.12799
 restating it.
 
 **Notebooks.** All 28 execute top to bottom in the same environment (kernel `faz311` in the
-release package's `6_Validation/`), and their stored outputs come from that run. A notebook's
+author's private release archive), and their stored outputs come from that run. A notebook's
 "Create the data" cell is the printed block of the chapter that creates the file, so it prints
 that chapter's line first (for example `1,470 employees, attrition rate 12.2%` at the top of the
 Chapter 16, 19, 20 and 29 notebooks).
@@ -141,7 +141,7 @@ before printing. The ones that touch this repository, each with a regression tes
 | `code/ch36/c4.py` | top-k and top-p ranked tied probabilities with an unstable sort, so sampled words depended on the platform | `kind="stable"` | `test_stable_sort_ties.py` |
 | `code/ch22/c4.py`, `figs.py` | the decile calibration table binned tied probabilities with an unstable sort | `kind="stable"`; Figure 22.2 regenerated | `test_stable_sort_ties.py` |
 | `code/ch31/c3.py` | the printed "backward signal" multiplied only the maximum sigmoid slope per layer and called the product the gradient reaching the first layer; the weight matrices multiply the gradient too | the block now also propagates a gradient of 1.0 at every output back through the network's weights (5.28e-05 here, against the slopes-only 1.53e-05), checked against finite differences | `test_ch31_backward_signal.py` |
-| `figures/sources/fig15_1.py` | Chapter 15 sized its experiment on the company-wide 12% attrition, but the experiment runs on the employees Chapter 14 flags, whose attrition is 33% | curves recomputed at 33%; the Chapter 15 and 42 blocks carry the corrected sizes (1,328 per arm) | evidence in the release package |
+| `figures/sources/fig15_1.py` | Chapter 15 sized its experiment on the company-wide 12% attrition, but the experiment runs on the employees Chapter 14 flags, whose attrition is 33% | curves recomputed at 33%; the Chapter 15 and 42 blocks carry the corrected sizes (1,328 per arm) | evidence in the author's private release archive |
 | Chapter 28, Step 7 (text) | the forest's lag features use actual values from inside the test window, which the chapter discloses; under the baselines' own single-origin protocol its MAE is about 909, not 795 | stated in the text; code unchanged | `test_ch28_matched_origin.py` |
 | Chapter 5, Step 3 (printed block) | `SUM(rev) OVER (ORDER BY rev DESC)` uses SQLite's default RANGE frame, which adds every tied customer at once, so a top-N running total could include more than N customers | deterministic tie-breaker and `ROWS UNBOUNDED PRECEDING`; the printed table is unchanged | `test_ch05_window_frame.py` |
 | Chapter 3, exercises (printed) | three snippets squeezed compound statements onto one line and did not parse | printed as indented code blocks | `test_ch03_exercises.py` |

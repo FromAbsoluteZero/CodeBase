@@ -1,0 +1,130 @@
+# Deep learning and architectures. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q117"
+question = '''Why use convolutions instead of dense layers for images?'''
+answer = '''Local connectivity matches the spatial structure of images and weight sharing reuses each filter across all positions, which cuts parameters enormously and provides translation equivariance.'''
+chapters = [32]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q118"
+question = '''What problem do residual connections solve?'''
+answer = '''The degradation problem: very deep plain networks trained worse than shallower ones. The identity shortcut carries gradients backward unimpeded and makes the identity mapping easy to represent, so depth stops hurting.'''
+chapters = [34]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q119"
+question = '''Compute the output size of a convolution.'''
+answer = '''Floor of input size minus filter size plus twice padding, divided by stride, plus one. Candidates should also give the parameter count as filter area times input channels times filter count plus biases.'''
+chapters = [32]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q120"
+question = '''What is a receptive field and why does it grow with depth?'''
+answer = '''The region of the input that influences one unit’s activation. Each layer aggregates neighboring outputs of the previous layer, so the region expands with depth, which is why stacked small filters can see broadly.'''
+chapters = [32]
+level = "intermediate"
+type = "conceptual"
+beyond_book = '''The term receptive field is not used in this book. Chapter 32 covers the mechanism: stacked small filters that see a wider region with depth.'''
+
+[[question]]
+id = "Q121"
+question = '''Why do recurrent networks struggle with long sequences?'''
+answer = '''Backpropagation through time multiplies one factor per step, the table of derivatives linking one hidden state to the next, so gradients decay or explode exponentially with distance. Exploding is fixable by clipping; vanishing silently prevents long-range learning.'''
+chapters = [33]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q122"
+question = '''What did attention add to sequence-to-sequence models?'''
+answer = '''It removed the fixed-size context bottleneck by letting the decoder compute a weighted average over all encoder states, with weights learned per output position, so long inputs no longer had to compress into one vector.'''
+chapters = [33]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q123"
+question = '''Why did attention replace recurrence rather than complement it?'''
+answer = '''Attention is parallelizable across the sequence and gives every position a direct path to every other, while recurrence is inherently sequential and attenuates long-range signal. At scale the hardware efficiency was decisive.'''
+chapters = [33, 34]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q124"
+question = '''How does an LSTM mitigate vanishing gradients?'''
+answer = '''Its cell state is updated additively and regulated by gates, so gradients flow along that path without being repeatedly multiplied by a weight matrix. It reduces attenuation rather than removing it.'''
+chapters = [33]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q125"
+question = '''Write the scaled dot-product attention formula and explain each term.'''
+answer = '''Softmax of Q times K transposed divided by the square root of d_k, all times V. Queries ask, keys advertise, values carry content; the softmax produces weights summing to one, and the output is a weighted average of values.'''
+chapters = [34]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q126"
+question = '''Why divide by the square root of the key dimension?'''
+answer = '''Dot products of high-dimensional vectors have variance proportional to the dimension, so unscaled scores grow large and saturate the softmax, driving gradients toward zero. The scaling keeps scores near unit variance.'''
+chapters = [34]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q127"
+question = '''How does a transformer know the order of tokens?'''
+answer = '''It does not inherently: self-attention is permutation-equivariant, so shuffling the input just shuffles the outputs in the same way. Position must be injected explicitly, through sinusoidal, learned, or rotary positional encodings.'''
+chapters = [34]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q128"
+question = '''What is the computational complexity of self-attention and why does it matter?'''
+answer = '''Quadratic in sequence length for both time and memory, because all pairs of positions are scored. It is the binding constraint on context length and the motivation for efficient attention variants.'''
+chapters = [34]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q129"
+question = '''What is the difference between feature extraction and fine-tuning?'''
+answer = '''Feature extraction freezes the pretrained weights and trains only a new head, suiting small datasets. Fine-tuning updates all weights at a small learning rate, reaching higher performance with more data but risking catastrophic forgetting.'''
+chapters = [35, 39]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q130"
+question = '''What is an embedding, and why use cosine similarity?'''
+answer = '''A dense vector representation where semantically similar items lie close together. Cosine ignores magnitude, which varies for reasons unrelated to meaning such as document length, and compares direction alone.'''
+chapters = [35, 9, 38]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q131"
+question = '''What is catastrophic forgetting and how do you reduce it?'''
+answer = '''Loss of previously learned capability when adapting to a narrow new task. Mitigations include small learning rates, fewer epochs, mixing in general data, freezing early layers, and parameter-efficient tuning such as LoRA.'''
+chapters = [35]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q132"
+question = '''When would you not fine-tune at all?'''
+answer = '''When off-the-shelf embeddings with a simple classifier, or a well-designed prompt, already meet the requirement. Establishing that baseline first avoids substantial cost and complexity for no measured gain.'''
+chapters = [35, 39]
+level = "intermediate"
+type = "scenario"
