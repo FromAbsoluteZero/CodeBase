@@ -54,7 +54,7 @@ directory, at the pinned versions**, and diffed against the book's output boxes.
 
 | Measured on | |
 |---|---|
-| Book | the First Edition as corrected through 2026-09-12 (Georgia 818 pp / Typography 736 pp); the commit that matches the printed pages is tagged `print-2026-09` in this repository |
+| Book | the First Edition as corrected through 2026-09-24 (Georgia 782 pp / Typography 704 pp; the interview bank moved from Appendix C to this repository's `practice/`); the commit that matches the printed pages is tagged `print-2026-09` in this repository |
 | Machine | macOS 27 on Apple Silicon (arm64, Apple Accelerate BLAS), Python 3.11.16 |
 | Libraries | exactly `requirements.txt` and `requirements-optional.txt` |
 | Settings | `OMP_NUM_THREADS=1`, `MPLBACKEND=Agg` |

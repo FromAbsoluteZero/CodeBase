@@ -11,7 +11,7 @@ If you find an error, open an issue with the chapter, the page or block, and bot
 
 | Printing | Interiors | Notes |
 |---|---|---|
-| First Edition, second interior (2026-09) | Georgia and Typography, with Appendix C reduced to *Interview practice* and the question bank moved to this repository | The current printing. Question numbers Q1 to Q185 in the bank are the numbers of the first interior's Appendix C |
+| First Edition, second interior (2026-09-24) | Georgia 782 pages, Typography 704 pages, with Appendix C reduced to *Interview practice*, Appendix D renamed *Quick reference*, and the question bank moved to this repository | The current printing. Question numbers Q1 to Q185 in the bank are the numbers of the first interior's Appendix C |
 | First Edition, first interior (2026-09) | Georgia 818 pages, Typography 736 pages, with the 185-question bank printed as Appendix C | Superseded before sale; listed so that references to its page numbers can be resolved |
 
 ## Corrections

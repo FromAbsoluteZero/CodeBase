@@ -9,7 +9,7 @@ Facts below are taken from the manuscript itself.
 | **Author** | Shanmukh Behara |
 | **Edition** | First Edition |
 | **Publication year** | 2026 |
-| **Page count** | two interiors, same text. First interior: 818 (Georgia) / 736 (Typography), with the interview bank printed as Appendix C. Second interior (Appendix C reduced to a short guide, the bank in this repository): counts recorded here when that printing is final |
+| **Page count** | 782 (Georgia interior) / 704 (Typography interior) — two interiors, same text; the second interior of 2026-09-24, in which Appendix C became a short guide to interview practice and the bank moved here. The first interior (2026-09-12) ran 818 / 736 with the bank printed |
 | **Chapters** | 45 |
 | **Appendices** | 5 (A–E): Git; Portfolio; Interview practice (a short guide pointing to `practice/`); Quick Reference; Working with an AI assistant |
 | **Parts** | 8 |
