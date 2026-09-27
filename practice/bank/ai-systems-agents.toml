@@ -1,0 +1,83 @@
+# AI systems, evaluation, and agents. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q143"
+question = '''How would you evaluate a new generative feature?'''
+answer = '''Build a task-specific eval set from real usage including known failures, apply deterministic checks first, add model-based grading calibrated against human labels, and report results with uncertainty rather than as point estimates.'''
+chapters = [40]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q144"
+question = '''What are the pitfalls of using an LLM as a judge?'''
+answer = '''Position, verbosity, and self-preference bias, plus correlated errors when the judge shares a family with the system under test. Mitigate by randomizing order, using pairwise comparison, and measuring agreement with human raters.'''
+chapters = [40]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q145"
+question = '''Why not just rely on public benchmarks?'''
+answer = '''They measure general capability, may be contaminated by pretraining data, and do not reflect your distribution. They are useful for model selection, not for deciding whether your system improved.'''
+chapters = [40]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q146"
+question = '''How do you measure hallucination in a RAG system?'''
+answer = '''Check groundedness — the fraction of claims supported by retrieved context — with claim-level annotation or a calibrated judge, and separately measure retrieval recall, since ungrounded answers often begin as retrieval failures.'''
+chapters = [38, 40]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q147"
+question = '''What are the common failure modes of agents?'''
+answer = '''Compounding error across steps, infinite loops, hallucinated tool calls, misreading tool output, and prompt injection through retrieved content. Mitigations are structural: fewer steps, validation, step budgets, and scoped permissions.'''
+chapters = [41]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q148"
+question = '''When would you use an agent rather than a single prompt?'''
+answer = '''When the task requires external information, exact computation, or actions in other systems, and cannot be decomposed into one deterministic call. If a single well-constructed prompt suffices, the agent adds cost and failure surface.'''
+chapters = [41]
+level = "beginner"
+type = "scenario"
+
+[[question]]
+id = "Q149"
+question = '''What is prompt injection and how do you defend against it?'''
+answer = '''Instructions embedded in content the model reads, which it may follow as though from the user. Defenses are architectural: treat retrieved content as untrusted data, apply least-privilege tool permissions, and require confirmation before irreversible actions.'''
+chapters = [41]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q150"
+question = '''How does per-step reliability affect agent design?'''
+answer = '''Success falls exponentially with step count, so a 95% reliable agent completes a twenty-step task about a third of the time. The response is to reduce steps, validate each one, and move deterministic work into code.'''
+chapters = [41]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q151"
+question = '''Retrieval recall at k is 0.95, but answers are still wrong. Where do you look next?'''
+answer = '''With the right chunk present almost every time, the fault is downstream of retrieval: chunk boundaries that cut the answer in half, conflicting or irrelevant chunks retrieved alongside the right one, and a prompt that does not tell the model to answer only from the context and to abstain otherwise. Strong answers read a sample of failures by hand before changing anything, because recall at k shows the chunk was present, not that it was used.'''
+chapters = [38]
+level = "intermediate"
+type = "scenario"
+revised = '''Reworded from a near-duplicate of Q139, which asks for the order of investigation; this question starts from a retrieval stage that already works.'''
+related = ["Q139"]
+
+[[question]]
+id = "Q152"
+question = '''Why is a similarity threshold an incomplete defence against answering out-of-scope questions?'''
+answer = '''Because a question can score high against a passage it has nothing to do with. Strong answers note that thresholds catch the obvious failures only, and add required citations, an instruction to state when context is insufficient, and deliberate evaluation on questions the corpus cannot answer.'''
+chapters = [38]
+level = "advanced"
+type = "conceptual"

@@ -1,0 +1,189 @@
+# Mock interviews: timed sets of question ids, modelled on the rounds of a typical loop.
+# Item minutes must add up to the set's minutes; the build checks it. Edit here, then run
+# python scripts/build_practice.py.
+
+[[mock]]
+id = "M01"
+slug = "analyst-breadth-screen"
+title = "Analyst breadth screen"
+minutes = 45
+round = "breadth screen"
+level = "beginner to intermediate"
+suits = "analyst, analytics engineer"
+items = [
+  { q = "Q6", minutes = 4 }, { q = "Q7", minutes = 4 }, { q = "Q9", minutes = 4 },
+  { q = "Q14", minutes = 3 }, { q = "Q16", minutes = 3 }, { q = "Q33", minutes = 4 },
+  { q = "Q32", minutes = 5 }, { q = "Q101", minutes = 4 }, { q = "Q174", minutes = 8 },
+  { q = "Q173", minutes = 6 },
+]
+
+[[mock]]
+id = "M02"
+slug = "sql-and-pandas-coding-screen"
+title = "SQL and pandas coding screen"
+minutes = 45
+round = "coding exercise"
+level = "intermediate"
+suits = "analyst, analytics engineer, data engineer"
+items = [
+  { q = "Q211", minutes = 8 }, { q = "Q213", minutes = 10 }, { q = "Q210", minutes = 10 },
+  { q = "Q197", minutes = 7 }, { q = "Q198", minutes = 10 },
+]
+
+[[mock]]
+id = "M03"
+slug = "statistics-and-experimentation"
+title = "Statistics and experimentation"
+minutes = 45
+round = "breadth screen"
+level = "intermediate"
+suits = "data scientist, product analyst"
+items = [
+  { q = "Q28", minutes = 4 }, { q = "Q31", minutes = 4 }, { q = "Q34", minutes = 6 },
+  { q = "Q35", minutes = 4 }, { q = "Q37", minutes = 5 }, { q = "Q38", minutes = 5 },
+  { q = "Q39", minutes = 4 }, { q = "Q177", minutes = 6 }, { q = "Q36", minutes = 4 },
+  { q = "Q107", minutes = 3 },
+]
+
+[[mock]]
+id = "M04"
+slug = "machine-learning-breadth-screen"
+title = "Machine learning breadth screen"
+minutes = 45
+round = "breadth screen"
+level = "intermediate"
+suits = "data scientist, machine learning engineer"
+items = [
+  { q = "Q42", minutes = 3 }, { q = "Q44", minutes = 5 }, { q = "Q45", minutes = 3 },
+  { q = "Q48", minutes = 4 }, { q = "Q51", minutes = 5 }, { q = "Q55", minutes = 4 },
+  { q = "Q64", minutes = 4 }, { q = "Q88", minutes = 3 }, { q = "Q92", minutes = 5 },
+  { q = "Q96", minutes = 5 }, { q = "Q98", minutes = 4 },
+]
+
+[[mock]]
+id = "M05"
+slug = "machine-learning-depth"
+title = "Machine learning depth: derivations and training"
+minutes = 60
+round = "technical deep dive"
+level = "advanced"
+suits = "machine learning engineer, research"
+items = [
+  { q = "Q52", minutes = 10 }, { q = "Q57", minutes = 8 }, { q = "Q65", minutes = 6 },
+  { q = "Q73", minutes = 6 }, { q = "Q77", minutes = 6 }, { q = "Q80", minutes = 6 },
+  { q = "Q84", minutes = 8 }, { q = "Q90", minutes = 5 }, { q = "Q126", minutes = 5 },
+]
+
+[[mock]]
+id = "M06"
+slug = "modern-ai-and-systems"
+title = "Modern AI and AI systems"
+minutes = 45
+round = "breadth screen"
+level = "intermediate to advanced"
+suits = "AI engineer, machine learning engineer"
+items = [
+  { q = "Q123", minutes = 4 }, { q = "Q127", minutes = 3 }, { q = "Q133", minutes = 4 },
+  { q = "Q134", minutes = 3 }, { q = "Q137", minutes = 5 }, { q = "Q139", minutes = 5 },
+  { q = "Q144", minutes = 5 }, { q = "Q147", minutes = 4 }, { q = "Q149", minutes = 4 },
+  { q = "Q150", minutes = 4 }, { q = "Q152", minutes = 4 },
+]
+
+[[mock]]
+id = "M07"
+slug = "case-and-business-framing"
+title = "Case and business framing"
+minutes = 45
+round = "design or case"
+level = "intermediate"
+suits = "analyst, data scientist, product"
+items = [
+  { q = "Q168", minutes = 8 }, { q = "Q169", minutes = 7 }, { q = "Q170", minutes = 7 },
+  { q = "Q174", minutes = 8 }, { q = "Q176", minutes = 5 }, { q = "Q178", minutes = 5 },
+  { q = "Q183", minutes = 5 },
+]
+
+[[mock]]
+id = "M08"
+slug = "machine-learning-system-design"
+title = "Machine learning system design"
+minutes = 45
+round = "design or case"
+level = "advanced"
+suits = "machine learning engineer, applied scientist"
+items = [
+  { q = "Q164", minutes = 25 }, { q = "Q98", minutes = 5 }, { q = "Q154", minutes = 5 },
+  { q = "Q155", minutes = 5 }, { q = "Q160", minutes = 5 },
+]
+
+[[mock]]
+id = "M09"
+slug = "behavioural"
+title = "Behavioural conversation"
+minutes = 30
+round = "behavioural"
+level = "any"
+suits = "every role"
+items = [
+  { q = "Q179", minutes = 5 }, { q = "Q180", minutes = 5 }, { q = "Q181", minutes = 4 },
+  { q = "Q182", minutes = 3 }, { q = "Q183", minutes = 4 }, { q = "Q184", minutes = 4 },
+  { q = "Q185", minutes = 5 },
+]
+
+[[mock]]
+id = "M10"
+slug = "take-home-exercise"
+title = "Take-home exercise"
+minutes = 90
+round = "coding exercise"
+level = "intermediate to advanced"
+suits = "data scientist, analyst"
+items = [
+  { q = "Q220", minutes = 30 }, { q = "Q224", minutes = 25 }, { q = "Q227", minutes = 15 },
+  { q = "Q222", minutes = 20 },
+]
+
+[[mock]]
+id = "C01"
+slug = "checkpoint-after-chapter-15"
+title = "Checkpoint: after Chapter 15"
+minutes = 40
+round = "readiness check"
+level = "beginner to intermediate"
+suits = "anyone who has finished Parts I and II"
+items = [
+  { q = "Q3", minutes = 3 }, { q = "Q7", minutes = 4 }, { q = "Q10", minutes = 4 },
+  { q = "Q15", minutes = 3 }, { q = "Q27", minutes = 4 }, { q = "Q28", minutes = 4 },
+  { q = "Q33", minutes = 3 }, { q = "Q36", minutes = 4 }, { q = "Q38", minutes = 4 },
+  { q = "Q174", minutes = 7 },
+]
+
+[[mock]]
+id = "C02"
+slug = "checkpoint-after-chapter-29"
+title = "Checkpoint: after Chapter 29"
+minutes = 40
+round = "readiness check"
+level = "intermediate"
+suits = "anyone who has finished the classical machine learning chapters"
+items = [
+  { q = "Q43", minutes = 3 }, { q = "Q47", minutes = 3 }, { q = "Q50", minutes = 4 },
+  { q = "Q61", minutes = 3 }, { q = "Q64", minutes = 4 }, { q = "Q85", minutes = 4 },
+  { q = "Q94", minutes = 4 }, { q = "Q100", minutes = 4 }, { q = "Q109", minutes = 3 },
+  { q = "Q113", minutes = 4 }, { q = "Q108", minutes = 4 },
+]
+
+[[mock]]
+id = "C03"
+slug = "checkpoint-after-chapter-45"
+title = "Checkpoint: after Chapter 45"
+minutes = 40
+round = "readiness check"
+level = "intermediate to advanced"
+suits = "anyone who has finished the book"
+items = [
+  { q = "Q78", minutes = 3 }, { q = "Q79", minutes = 4 }, { q = "Q117", minutes = 3 },
+  { q = "Q125", minutes = 5 }, { q = "Q129", minutes = 3 }, { q = "Q135", minutes = 3 },
+  { q = "Q140", minutes = 5 }, { q = "Q146", minutes = 4 }, { q = "Q153", minutes = 4 },
+  { q = "Q159", minutes = 3 }, { q = "Q161", minutes = 3 },
+]

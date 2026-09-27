@@ -1,0 +1,5 @@
+r = stats.linregress(o["units"], o["rev"])
+print(f"rev = {r.intercept:.2f} + {r.slope:.2f} * units")
+print(f"R-squared {r.rvalue**2:.4f}")
+resid0 = o["rev"] - (r.intercept + r.slope * o["units"])
+print(f"typical miss ${resid0.std(ddof=1):,.2f}")

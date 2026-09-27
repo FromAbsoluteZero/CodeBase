@@ -1,0 +1,65 @@
+# Data, features, and model selection. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q85"
+question = '''How do you prevent data leakage during preprocessing?'''
+answer = '''Fit every transformation on training data only and apply it unchanged elsewhere, which in practice means wrapping preprocessing and model in a pipeline so cross-validation refits inside each fold.'''
+chapters = [24, 16]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q86"
+question = '''When would you use target encoding instead of one-hot?'''
+answer = '''When cardinality is high enough that one-hot would explode the feature space. It must be computed within folds and smoothed toward the global mean, or it leaks the label into the feature.'''
+chapters = [24, 11]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q87"
+question = '''How do you handle missing values?'''
+answer = '''Ask first why they are missing. Then impute with a simple statistic or a model, add a binary missingness indicator so the absence itself is usable, and fit the imputer inside the pipeline.'''
+chapters = [11, 24]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q88"
+question = '''Which models require feature scaling and which do not?'''
+answer = '''Distance-based methods such as kNN and SVM, and gradient-based methods including neural networks and regularized linear models, need scaling. Tree-based models do not, since splits depend only on ordering.'''
+chapters = [21, 24]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q89"
+question = '''Compare grid, random, and Bayesian search.'''
+answer = '''Grid is exhaustive over a lattice and scales exponentially; random samples independently and covers important dimensions better per unit budget; Bayesian methods model the objective and propose promising points, paying more per proposal for fewer evaluations.'''
+chapters = [25]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q90"
+question = '''What is nested cross-validation and why use it?'''
+answer = '''An inner loop selects hyperparameters and an outer loop evaluates the entire selection procedure on folds never used for selection. It removes the optimistic bias of reporting the best inner score.'''
+chapters = [25]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q91"
+question = '''Why sample learning rates on a log scale?'''
+answer = '''They act multiplicatively and span orders of magnitude, so uniform sampling concentrates almost all draws in the largest decade and barely explores small values.'''
+chapters = [25]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q92"
+question = '''You tried 200 configurations and the best validation accuracy is 0.91. What do you report?'''
+answer = '''Not 0.91. That is the maximum of 200 noisy estimates and is biased upward; report a nested CV estimate or the score on a test set that played no part in selection.'''
+chapters = [25]
+level = "intermediate"
+type = "scenario"

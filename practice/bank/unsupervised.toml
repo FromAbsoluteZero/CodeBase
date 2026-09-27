@@ -1,0 +1,65 @@
+# Unsupervised learning. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q109"
+question = '''How do you choose the number of clusters?'''
+answer = '''Silhouette score across candidate k, the gap statistic, or external validation against a known outcome. The elbow method is a heuristic on a monotonically decreasing curve and should be described as such.'''
+chapters = [26]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q110"
+question = '''When would you use DBSCAN instead of k-means?'''
+answer = '''When clusters are non-spherical, of unknown number, or when outliers should be labeled as noise rather than absorbed. DBSCAN struggles when clusters have very different densities.'''
+chapters = [26]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q111"
+question = '''What are the main limitations of k-means?'''
+answer = '''It requires k in advance, assumes roughly spherical and similarly sized clusters, converges only to a local optimum, and is sensitive to feature scaling and to outliers pulling centroids.'''
+chapters = [26]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q112"
+question = '''How do you know a clustering is actually meaningful?'''
+answer = '''By validating outside the algorithm: does it predict something you did not cluster on, does it match a distinction domain experts recognize, and does it remain stable under resampling.'''
+chapters = [26]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q113"
+question = '''How does PCA work?'''
+answer = '''Center the data, compute the covariance matrix, take its eigenvectors ordered by eigenvalue, and project onto the leading ones. The eigenvalues give variance explained, which decides how many components to retain.'''
+chapters = [27, 9]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q114"
+question = '''Why can’t you trust cluster distances in a t-SNE plot?'''
+answer = '''The objective preserves local neighborhood probabilities and is free to distort global geometry, so inter-cluster distances and cluster sizes are artifacts of the optimization rather than properties of the data.'''
+chapters = [27]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q115"
+question = '''When would you use PCA versus t-SNE or UMAP?'''
+answer = '''PCA when you need reusable, applicable-to-new-data features or linear compression; t-SNE and UMAP when you need a picture of neighborhood structure. Mixing these up is the standard error.'''
+chapters = [27]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q116"
+question = '''Does PCA perform feature selection?'''
+answer = '''No. Every component is a linear combination of all original features, so it reduces dimensionality without discarding any input variable — which is also why components can be hard to interpret.'''
+chapters = [27]
+level = "beginner"
+type = "conceptual"

@@ -1,0 +1,84 @@
+# Large language models and modern AI. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q133"
+question = '''What is the Chinchilla finding and why did it matter?'''
+answer = '''That compute-optimal training balances parameters and tokens at roughly twenty tokens per parameter, showing prevailing models were undertrained. A 70B model on 1.4T tokens beat the 280B Gopher on the same compute budget: four times fewer parameters, trained on nearly five times as much data (1.4T tokens against Gopher's 300B).'''
+chapters = [36]
+level = "intermediate"
+type = "conceptual"
+beyond_book = '''Chapter 36 cites the Chinchilla paper; the figures in this note come from the paper, not from the chapter.'''
+revised = '''Corrected: the printed manuscript said four times more data; 1.4T against 300B tokens is nearly five times.'''
+
+[[question]]
+id = "Q134"
+question = '''Explain temperature and top-p sampling.'''
+answer = '''Temperature divides logits before the softmax, sharpening below one and flattening above. Top-p keeps the smallest token set whose cumulative probability exceeds p, adapting the candidate count to model confidence rather than fixing it.'''
+chapters = [36]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q135"
+question = '''What is byte pair encoding and why do models use subword tokens?'''
+answer = '''An algorithm that builds a vocabulary by repeatedly merging the most frequent adjacent pairs. Subwords balance vocabulary size against sequence length and handle unseen words gracefully by decomposing them.'''
+chapters = [36]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q136"
+question = '''Why do language models struggle to count letters in a word?'''
+answer = '''They operate on subword tokens, not characters, so character-level structure is not directly visible. The task requires information the tokenization has already discarded.'''
+chapters = [36]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q137"
+question = '''RAG or fine-tuning — how do you decide?'''
+answer = '''RAG for knowledge that changes, needs citation, or is too specific to bake into weights; fine-tuning for behavior, format, and style. They are complementary, and many systems need neither once prompting is done well.'''
+chapters = [38, 39]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q138"
+question = '''How does LoRA work and why is it cheap?'''
+answer = '''It freezes the pretrained matrix and learns a low-rank correction as the product of two thin matrices, so trainable parameters scale with rank times the sum of dimensions rather than their product. Adapters are small and swappable per task.'''
+chapters = [39]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q139"
+question = '''Your RAG system gives wrong answers. How do you debug it?'''
+answer = '''Measure retrieval first with recall at k — the generator cannot use what was never retrieved. Then examine chunking, embedding quality, and reranking, and only then the generation prompt and abstention instructions.'''
+chapters = [38]
+level = "intermediate"
+type = "scenario"
+related = ["Q151"]
+
+[[question]]
+id = "Q140"
+question = '''How do you reduce hallucination in a generative system?'''
+answer = '''Ground answers in retrieved sources, require citations, instruct abstention when context is insufficient, constrain output format, and evaluate against a fixed set with human review. No single measure eliminates it.'''
+chapters = [38, 40]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q141"
+question = '''What does the KL penalty do in RLHF, and what happens without it?'''
+answer = '''It charges the policy for drifting from the pretrained model, trading expected reward against distance. Without it the optimizer finds wherever the reward model peaks and goes there, collapsing onto a single high-scoring output. Strong answers describe beta as the tension in that tether.'''
+chapters = [37]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q142"
+question = '''Your RLHF run shows reward climbing steadily. Why is that not sufficient evidence?'''
+answer = '''The reward model is a proxy fitted to human labels, and human labels favour confidence, length, and agreement. Past a point the only way left to raise the proxy is to exploit where it diverges from real quality, so reward rises while outcomes worsen. Strong answers monitor KL divergence and evaluate on something the reward model did not produce.'''
+chapters = [37]
+level = "advanced"
+type = "scenario"

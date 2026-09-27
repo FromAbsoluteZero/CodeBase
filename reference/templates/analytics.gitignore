@@ -1,0 +1,33 @@
+# A first .gitignore for an analytics project (Appendix A of From Absolute Zero).
+# Copy this file into your project folder as .gitignore BEFORE your first commit.
+# CC0 1.0: copy it freely, no attribution needed.
+
+# data — never commit these
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# credentials — a committed secret stays in the history even after you delete it
+.env
+.env.*
+secrets.json
+*.key
+*.pem
+credentials*
+
+# notebook noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# environments
+venv/
+.venv/
+env/
+
+# operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
