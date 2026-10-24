@@ -1,0 +1,101 @@
+# Optimization and training. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q73"
+question = '''Write out the Adam update equations.'''
+answer = '''Exponentially weighted first and second moments of the gradient, bias-corrected by dividing by one minus beta to the power t, then a step of the learning rate times corrected first moment over the square root of corrected second moment plus epsilon.'''
+chapters = [18]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q74"
+question = '''Compare batch, stochastic, and mini-batch gradient descent.'''
+answer = '''They differ in examples per gradient estimate: the whole set, one example, or a small batch. Mini-batch dominates because it uses vectorized hardware efficiently while keeping useful gradient noise.'''
+chapters = [18]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q75"
+question = '''What does momentum do, and why does it help?'''
+answer = '''It accumulates a decaying average of past gradients, so consistent directions build velocity and oscillating ones cancel. This is especially valuable in ill-conditioned valleys where plain descent zig-zags.'''
+chapters = [18]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q76"
+question = '''Your training loss becomes not-a-number after a few steps. What do you check?'''
+answer = '''Learning rate too high is the first suspect; then exploding gradients, unnormalized inputs, a logarithm of zero in the loss, or division by a near-zero denominator. Remedies include lowering the rate, clipping gradients, and adding epsilon guards.'''
+chapters = [18, 31]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q77"
+question = '''Explain backpropagation.'''
+answer = '''It applies the chain rule backward from the loss, reusing cached forward activations, to obtain the gradient of the loss with respect to every parameter. Each layer receives an incoming error signal, produces its weight gradient, and passes a transformed signal further back.'''
+chapters = [30]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q78"
+question = '''Why do neural networks need nonlinear activation functions?'''
+answer = '''Because a composition of affine transformations is itself affine, so without nonlinearity any depth of network collapses to a single linear layer and gains no representational power.'''
+chapters = [30]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q79"
+question = '''What is the vanishing gradient problem?'''
+answer = '''When derivatives smaller than one multiply across many layers, the gradient reaching early layers becomes negligible and those layers stop learning. Saturating activations such as sigmoid cause it; ReLU, residual connections, and normalization mitigate it.'''
+chapters = [31, 33]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q80"
+question = '''Your gradient check agrees to five decimal places, but the network still does not learn. What did the check prove, and what did it not?'''
+answer = '''It proved that the backward pass computes the derivative of the loss you wrote, at the points you checked. It did not prove that the loss is the right one, that inputs and labels are aligned, that initialization and learning rate let training move, or that every layer was covered by the check. Strong answers go on to the training-failure checklist: a tiny subset the model should overfit, the loss at initialization, and the size of the updates.'''
+chapters = [30, 10]
+level = "intermediate"
+type = "conceptual"
+revised = '''Reworded from a near-duplicate of Q25, which asks how to run a gradient check; this question asks what a passing check does and does not establish.'''
+related = ["Q25"]
+
+[[question]]
+id = "Q81"
+question = '''What does batch normalization do, and how does it behave at inference?'''
+answer = '''It standardizes each feature over the mini-batch, then applies a learned scale and shift. At inference it uses running averages collected during training, since no batch statistics exist. The commonly cited covariate-shift explanation is disputed.'''
+chapters = [31]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q82"
+question = '''Why does dropout behave differently at training and test time?'''
+answer = '''It randomly zeroes units only during training. Inverted dropout divides surviving activations by the keep probability so expectations match, letting inference run the full network unchanged. Chapter 17 names dropout as a regularizer this book leaves to the reading in Chapter 45.'''
+chapters = [17]
+level = "intermediate"
+type = "conceptual"
+beyond_book = '''Chapter 17 names dropout as a regularizer but leaves its mechanism to the further reading in Chapter 45.'''
+
+[[question]]
+id = "Q83"
+question = '''What is the dying ReLU problem and how is it addressed?'''
+answer = '''A unit driven permanently negative outputs zero and receives zero gradient, so it never recovers. Leaky ReLU, GELU, better initialization, and lower learning rates all reduce the risk.'''
+chapters = [31]
+level = "intermediate"
+type = "conceptual"
+beyond_book = '''The dying ReLU problem, Leaky ReLU and GELU are not covered in this book. Chapter 31 covers the training failures they belong to.'''
+
+[[question]]
+id = "Q84"
+question = '''Your deep network’s loss does not move at all. What do you check, in order?'''
+answer = '''Learning rate, then activation and gradient statistics per layer to find where the signal dies, then initialization scale, then whether the data and labels are correctly aligned, and finally whether the loss and output layer are matched to the task.'''
+chapters = [31]
+level = "advanced"
+type = "scenario"

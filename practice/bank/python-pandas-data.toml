@@ -1,0 +1,284 @@
+# Python, pandas, and data handling. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q1"
+question = '''Why must a function return rather than print?'''
+answer = '''Printing sends text to the screen and yields None; returning hands a value back to the caller so it can be stored, tested, or composed. Strong answers note that a printing function cannot be unit tested or chained, and that the silent None is what later breaks with an unhelpful error far from its cause.'''
+chapters = [3]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q2"
+question = '''What does validate="m:1" do on a merge, and why use it?'''
+answer = '''It asserts the join is many-to-one and raises if the right key is not unique. Strong answers frame it as a cheap contract: without it a duplicated key silently multiplies rows, inflating every sum downstream, and the fault is usually found weeks later in a total that looks slightly wrong.'''
+chapters = [4]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q3"
+question = '''Explain .loc versus .iloc.'''
+answer = '''.loc selects by label, .iloc by integer position. Strong answers note that they coincide on a default RangeIndex, which is exactly why the confusion survives until an index is filtered or sorted and the two silently diverge.'''
+chapters = [4]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q4"
+question = '''What is the SettingWithCopyWarning telling you?'''
+answer = '''That you are assigning into something pandas cannot guarantee is a view of the original rather than a copy, so the write may vanish. Strong answers name the fix — .copy() when you want a new object, single-step .loc assignment when you want to write through — and know that from pandas 3.0 a filter always hands back a copy, so nothing is printed and the edit simply never reaches the original.'''
+chapters = [4]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q5"
+question = '''Why do you write & and | instead of and and or when filtering?'''
+answer = '''Python's and and or evaluate truthiness of a whole object and cannot operate element by element; & and | are the vectorized operators. Strong answers add that precedence forces parentheses around each condition, which is the second half of the same mistake.'''
+chapters = [4]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q6"
+question = '''How would you check a file before analysing it?'''
+answer = '''Shape, dtypes, head, null counts, duplicate count, and the range of every key numeric column. Strong answers add a grain check — what one row means — and reconcile at least one total against a known figure, because a file that parses cleanly can still be the wrong extract.'''
+chapters = [4, 11]
+level = "beginner"
+type = "scenario"
+
+[[question]]
+id = "Q7"
+question = '''What is the grain of a table, and why does it matter?'''
+answer = '''The grain is what a single row represents — one order, one order line, one customer-month. Strong answers explain that joining tables of different grain silently fans out rows, and that every aggregate is wrong in a way no null check will catch.'''
+chapters = [4, 1, 5, 11]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q8"
+question = '''How do you turn a long table into a cross-tab, and what is the trap?'''
+answer = '''pivot_table or pivot, with an explicit aggregation function. The trap is that pivot fails on duplicate index-column pairs while pivot_table quietly averages them, so a silent mean appears where the analyst expected a single value. Strong answers name the aggfunc explicitly rather than relying on the default.'''
+chapters = [4]
+level = "intermediate"
+type = "conceptual"
+[[question]]
+id = "Q186"
+question = '''Using only the csv module, count the rows in retail.csv and total the Quantity column.'''
+answer = '''Open the file with csv.DictReader so each row is a dictionary keyed by the header, count rows as you go, and convert Quantity with int() before adding: every value read from a CSV is a string. Strong solutions read the file once and do not load it into a list first.'''
+chapters = [3, 4]
+level = "beginner"
+type = "coding"
+exercise = "python/q186-count-rows-and-sum-a-column"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q187"
+question = '''Write a function that computes the revenue of one order line and another that totals an invoice, so that the results can be reused rather than printed.'''
+answer = '''A function that prints hands back None, so nothing downstream can use it; a function that returns hands back a value that can be stored, tested and composed. The line function does one multiplication and returns it; the invoice function calls it for every row and returns the sum. Strong solutions do not print anything.'''
+chapters = [3]
+level = "beginner"
+type = "coding"
+exercise = "python/q187-return-instead-of-print"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q188"
+question = '''Total revenue (Quantity × UnitPrice) per Category using only the csv module and a dictionary.'''
+answer = '''One pass over the file, a dictionary from category to running total, and dict.get(key, 0) or a defaultdict to avoid the KeyError on the first line of each category. Convert both numeric columns before multiplying. Strong solutions round only when reporting, not while accumulating.'''
+chapters = [3, 4]
+level = "beginner"
+type = "coding"
+exercise = "python/q188-revenue-by-category-with-a-dictionary"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q189"
+question = '''Count the distinct invoices in each calendar month of retail.csv using the standard library.'''
+answer = '''The month is the first seven characters of the ISO date, so slicing the string is enough here; parsing with datetime is the safer habit when dates arrive in mixed formats. The trap is counting rows instead of invoices: the grain is one row per order line, so collect InvoiceNo values in a set per month and report the set sizes.'''
+chapters = [3, 11]
+level = "intermediate"
+type = "coding"
+exercise = "python/q189-distinct-invoices-per-month"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q190"
+question = '''Find the rows of retail.csv that appear more than once, and count how many extra copies the file holds.'''
+answer = '''Rows are lists of strings, which are unhashable as lists, so convert each to a tuple and count with a dictionary or collections.Counter. A row that appears three times is one duplicated row with two extra copies; report the row once and count copies beyond the first. Strong solutions distinguish exact duplicates from legitimate repeats, such as a customer ordering the same product twice on different dates.'''
+chapters = [11]
+level = "intermediate"
+type = "coding"
+exercise = "python/q190-find-exact-duplicate-rows"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q191"
+question = '''Count the rows of retail.csv with no CustomerID and report them as a share of all rows.'''
+answer = '''A missing value in a CSV is an empty string, not None, so test row['CustomerID'] == '' (or .strip() == ''). Return the count and the share as a fraction, and let the caller format it as a percentage. Strong solutions note what the missing IDs mean for any per-customer analysis: those rows can be counted in revenue but cannot be attributed.'''
+chapters = [11]
+level = "beginner"
+type = "coding"
+exercise = "python/q191-missing-customer-ids"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q192"
+question = '''List the n best-selling products in retail.csv by total quantity, highest first.'''
+answer = '''Accumulate quantity per Description in a dictionary, then sort the items with sorted(..., key=lambda kv: kv[1], reverse=True) and slice the first n. Strong solutions mention that ties need a rule, and that the cancellation lines, with negative quantities, reduce a product's total as they should.'''
+chapters = [3]
+level = "beginner"
+type = "coding"
+exercise = "python/q192-top-products-by-quantity"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q193"
+question = '''Write a parser that turns a text field into a float without crashing on empty or malformed values, then use it to compute the mean total of the non-cancelled invoices.'''
+answer = '''Wrap float() in try/except ValueError and return a default, so one bad cell does not stop a run of two thousand; the caller decides what the default means. For the mean, group lines by invoice, skip invoices whose number starts with C, and divide the sum of totals by the number of invoices, not the number of lines. Strong solutions count how many values fell back to the default and report it, because silent defaults hide data problems.'''
+chapters = [3, 11]
+level = "intermediate"
+type = "coding"
+exercise = "python/q193-parse-numbers-safely"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q194"
+question = '''Build a dictionary from invoice number to the number of order lines it has, and count the invoices with more than a given number of lines.'''
+answer = '''One pass to build {InvoiceNo: count} with dict.get or a Counter, then a comprehension or sum(1 for ... if ...) over its values. Strong solutions keep the two steps separate so the dictionary can be reused for other questions about invoice size.'''
+chapters = [3]
+level = "beginner"
+type = "coding"
+exercise = "python/q194-lines-per-invoice"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q195"
+question = '''Aggregate daily revenue to months, then write a function that returns the month-over-month growth of any monthly series.'''
+answer = '''Two functions with one job each: monthly_revenue reads the file and sums by month; mom_growth takes a dictionary of month totals and returns each month's change as a fraction of the previous month, with None for the first month because it has no predecessor. Keeping the growth function independent of the file makes it testable on a three-item dictionary. Strong solutions sort by month before differencing rather than trusting file order.'''
+chapters = [3, 28]
+level = "intermediate"
+type = "coding"
+exercise = "python/q195-month-over-month-growth-as-a-function"
+dataset = "daily_revenue.csv"
+
+[[question]]
+id = "Q196"
+question = '''Write the file check you would run before any analysis: rows, columns, missing values, exact duplicates and the date range.'''
+answer = '''Shape, dtypes, null counts, duplicate count and the range of the key columns, in one function that returns a dictionary rather than printing, so the same check runs in a notebook and in a test. Strong solutions add a grain check (Q7): what one row represents, and whether the columns you expect to identify a row actually do.'''
+chapters = [4, 11]
+level = "beginner"
+type = "coding"
+exercise = "pandas/q196-check-a-file-before-analysing-it"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q197"
+question = '''Test whether a set of columns identifies a row uniquely, drop exact duplicates, and find out what one row of retail.csv really represents.'''
+answer = '''df.duplicated(subset=keys).any() answers whether the keys are a grain; drop_duplicates() removes exact copies. The trap is assuming that (InvoiceNo, StockCode) identifies a line: even after the exact duplicates are gone, some invoices list the same product on two lines with different quantities, so the grain is one row per order line and nothing in the file names it. Strong solutions say so, add a line number if the analysis needs a key, and check the grain again after every merge.'''
+chapters = [4, 11]
+level = "intermediate"
+type = "coding"
+exercise = "pandas/q197-establish-the-grain"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q198"
+question = '''Attach each order line's invoice total to the line with a merge that asserts the many-to-one relationship.'''
+answer = '''Aggregate to one row per invoice first, then merge back with how='left' and validate='m:1', which raises if the right side's key is not unique. The row count must not change; a merge that grows the frame has multiplied rows (Q2, Q7). Strong solutions check the count before and after in code, not by eye.'''
+chapters = [4]
+level = "intermediate"
+type = "coding"
+exercise = "pandas/q198-merge-with-a-contract"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q199"
+question = '''Build a Country × Category table of total revenue with pivot_table, with zeros where a combination has no sales.'''
+answer = '''pivot_table(values='Revenue', index='Country', columns='Category', aggfunc='sum', fill_value=0). Name the aggregation explicitly: the default is the mean, which silently answers a different question (Q8). Strong solutions check that the table's grand total equals the sum of the revenue column.'''
+chapters = [4]
+level = "beginner"
+type = "coding"
+exercise = "pandas/q199-cross-tab-with-pivot-table"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q200"
+question = '''Select the order lines that are either a bulk Beans purchase (ten or more units) or shipped to France.'''
+answer = '''Vectorized boolean operators, each condition in parentheses: (df.Category == 'Beans') & (df.Quantity >= 10) | (df.Country == 'France'). Python's and/or cannot combine Series (Q5), and without the parentheses the comparison binds after & and raises. Strong solutions name the mask and reuse it.'''
+chapters = [4]
+level = "beginner"
+type = "coding"
+exercise = "pandas/q200-filter-with-and"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q201"
+question = '''Report revenue per category twice: gross, excluding cancellation lines, and net, including them.'''
+answer = '''Cancellations are the invoices whose number starts with C; their quantities are negative, so a plain sum already nets them out. Gross needs the cancellation rows excluded first. Strong solutions state which figure answers which question: gross for what was ordered, net for what was kept, and report both when the gap is material.'''
+chapters = [11]
+level = "intermediate"
+type = "coding"
+exercise = "pandas/q201-cancellations-gross-and-net"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q202"
+question = '''Fill the missing AnnualIncome values in customers.csv with the median income of each customer's Plan, and count what you filled.'''
+answer = '''groupby('Plan')['AnnualIncome'].transform('median') gives every row its group's median, and fillna with that Series fills only the gaps. Return a new frame rather than mutating the input, and count the filled rows so the reader of your analysis knows how much is imputed. Strong solutions mention the leakage rule from Chapter 24: when a model follows, compute the medians on the training rows only.'''
+chapters = [11, 24]
+level = "intermediate"
+type = "coding"
+exercise = "pandas/q202-impute-missing-income-by-plan"
+dataset = "customers.csv"
+
+[[question]]
+id = "Q203"
+question = '''Parse the signup dates in customers.csv and compute the churn rate of each signup year.'''
+answer = '''pd.to_datetime on SignupDate, .dt.year for the cohort, then groupby(year)['Churn'].mean(): Churn is 0 or 1, so its mean is the rate. Strong solutions report the cohort sizes beside the rates, because a rate from a small cohort is noise, and note that recent cohorts have had less time to churn.'''
+chapters = [11, 12]
+level = "intermediate"
+type = "coding"
+exercise = "pandas/q203-churn-by-signup-year"
+dataset = "customers.csv"
+
+[[question]]
+id = "Q204"
+question = '''Compute each order line's share of its invoice's revenue without collapsing the frame.'''
+answer = '''groupby('InvoiceNo')['Revenue'].transform('sum') returns a Series aligned to the original rows, so dividing gives a per-line share and the shares of an invoice sum to one. A groupby().sum() would collapse to one row per invoice and need a merge back. Strong solutions handle the invoices whose total is zero or negative explicitly rather than letting a division by zero through.'''
+chapters = [4]
+level = "intermediate"
+type = "coding"
+exercise = "pandas/q204-share-within-group-with-transform"
+dataset = "retail.csv"
+
+[[question]]
+id = "Q205"
+question = '''Turn daily revenue into weekly means and find the best week.'''
+answer = '''Parse Date, set it as the index, then resample('W').mean(): weekly bins ending on Sunday. idxmax gives the week with the highest mean. Strong solutions say what the label of a resampled bin means (the end of the week, by default) and that a partial first or last week can distort a mean.'''
+chapters = [28]
+level = "beginner"
+type = "coding"
+exercise = "pandas/q205-weekly-resample"
+dataset = "daily_revenue.csv"
+
+[[question]]
+id = "Q206"
+question = '''Cross-tabulate attrition rate by Department and OverTime in hr.csv and find the riskiest combination.'''
+answer = '''pivot_table with values='Attrition', index='Department', columns='OverTime', aggfunc='mean' turns a 0/1 outcome into a rate per cell. To find the maximum cell, stack the table and take idxmax. Strong solutions show the counts behind the rates and resist reading the table causally: overtime and attrition can share a cause.'''
+chapters = [12, 14]
+level = "beginner"
+type = "coding"
+exercise = "pandas/q206-attrition-by-department-and-overtime"
+dataset = "hr.csv"
+
+[[question]]
+id = "Q207"
+question = '''Compute the fraud base rate in transactions.csv and the fraud rate by hour of day, and find the riskiest hour.'''
+answer = '''The base rate is the mean of the 0/1 Fraud column; the hourly rate is groupby('Hour')['Fraud'].mean(), with size() beside it because an hour with few transactions gives a noisy rate. The base rate is what makes 99.5% accuracy meaningless here (Q100). Strong solutions express the hourly rate relative to the base rate rather than as raw percentages.'''
+chapters = [22, 23]
+level = "beginner"
+type = "coding"
+exercise = "pandas/q207-fraud-rate-by-hour"
+dataset = "transactions.csv"

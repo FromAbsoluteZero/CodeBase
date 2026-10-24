@@ -1,0 +1,248 @@
+# Questions by level
+
+Beginner questions ask for one idea from one chapter. Intermediate questions connect two ideas, compare a trade-off or read a number in context. Advanced questions ask for a derivation, research-level depth or an open design. Behavioural questions have no level.
+
+[Practice home](README.md)
+
+## Beginner (69)
+
+- [Q1](by-topic/python-pandas-data.md#q1) Why must a function return rather than print? <sub>(python-pandas-data · chapter 3)</sub>
+- [Q3](by-topic/python-pandas-data.md#q3) Explain .loc versus .iloc. <sub>(python-pandas-data · chapter 4)</sub>
+- [Q5](by-topic/python-pandas-data.md#q5) Why do you write & and | instead of and and or when filtering? <sub>(python-pandas-data · chapter 4)</sub>
+- [Q6](by-topic/python-pandas-data.md#q6) How would you check a file before analysing it? <sub>(python-pandas-data · chapter 4)</sub>
+- [Q7](by-topic/python-pandas-data.md#q7) What is the grain of a table, and why does it matter? <sub>(python-pandas-data · chapter 4)</sub>
+- [Q9](by-topic/sql.md#q9) Explain the difference between INNER, LEFT, and FULL OUTER JOIN. <sub>(sql · chapter 5)</sub>
+- [Q10](by-topic/sql.md#q10) What is a window function, and when would you use one instead of GROUP BY? <sub>(sql · chapter 5)</sub>
+- [Q14](by-topic/sql.md#q14) WHERE or HAVING — how do you decide? <sub>(sql · chapter 5)</sub>
+- [Q15](by-topic/sql.md#q15) Why can you not filter on a column alias in WHERE? <sub>(sql · chapter 5)</sub>
+- [Q16](by-topic/sql.md#q16) Why does WHERE x = NULL return nothing? <sub>(sql · chapter 5)</sub>
+- [Q17](by-topic/sql.md#q17) What is a CTE and when would you use one? <sub>(sql · chapter 5)</sub>
+- [Q20](by-topic/maths-statistics.md#q20) What is a dot product, geometrically? <sub>(maths-statistics · chapter 9)</sub>
+- [Q23](by-topic/maths-statistics.md#q23) What is a gradient, and why do we move against it? <sub>(maths-statistics · chapter 10)</sub>
+- [Q24](by-topic/maths-statistics.md#q24) State the chain rule and explain its role in neural networks. <sub>(maths-statistics · chapter 10)</sub>
+- [Q27](by-topic/maths-statistics.md#q27) Explain Bayes’ theorem and give a concrete example. <sub>(maths-statistics · chapter 7)</sub>
+- [Q28](by-topic/maths-statistics.md#q28) What does a p-value actually mean? <sub>(maths-statistics · chapter 8)</sub>
+- [Q31](by-topic/maths-statistics.md#q31) What does a 95% confidence interval mean? <sub>(maths-statistics · chapter 8)</sub>
+- [Q33](by-topic/maths-statistics.md#q33) When does the mean mislead, and what do you report instead? <sub>(maths-statistics · chapter 6)</sub>
+- [Q40](by-topic/ml-fundamentals.md#q40) When would you choose not to use machine learning? <sub>(ml-fundamentals · chapter 1)</sub>
+- [Q41](by-topic/ml-fundamentals.md#q41) Explain the difference between supervised, unsupervised, and reinforcement learning. <sub>(ml-fundamentals · chapter 1)</sub>
+- [Q42](by-topic/ml-fundamentals.md#q42) What is a baseline model and why does it matter? <sub>(ml-fundamentals · chapter 1)</sub>
+- [Q43](by-topic/ml-fundamentals.md#q43) What does it mean for a model to generalize? <sub>(ml-fundamentals · chapter 16)</sub>
+- [Q45](by-topic/ml-fundamentals.md#q45) Why cross-validate instead of using a single train-test split? <sub>(ml-fundamentals · chapter 16)</sub>
+- [Q47](by-topic/ml-fundamentals.md#q47) Why keep a validation set and a test set rather than one holdout? <sub>(ml-fundamentals · chapter 16)</sub>
+- [Q50](by-topic/ml-fundamentals.md#q50) Name five ways to combat overfitting. <sub>(ml-fundamentals · chapter 17)</sub>
+- [Q51](by-topic/ml-fundamentals.md#q51) Your model has 99% training accuracy and 71% validation accuracy. What do you do? <sub>(ml-fundamentals · chapter 16)</sub>
+- [Q59](by-topic/classical-algorithms.md#q59) How do you interpret a logistic regression coefficient? <sub>(classical-algorithms · chapter 14)</sub>
+- [Q61](by-topic/classical-algorithms.md#q61) How does a decision tree choose a split? <sub>(classical-algorithms · chapter 19)</sub>
+- [Q62](by-topic/classical-algorithms.md#q62) How do you stop a decision tree from overfitting? <sub>(classical-algorithms · chapter 19)</sub>
+- [Q64](by-topic/classical-algorithms.md#q64) What is the difference between a random forest and gradient boosting? <sub>(classical-algorithms · chapter 20)</sub>
+- [Q71](by-topic/classical-algorithms.md#q71) How do you choose k in k-nearest neighbors? <sub>(classical-algorithms · chapter 21)</sub>
+- [Q74](by-topic/optimization-training.md#q74) Compare batch, stochastic, and mini-batch gradient descent. <sub>(optimization-training · chapter 18)</sub>
+- [Q78](by-topic/optimization-training.md#q78) Why do neural networks need nonlinear activation functions? <sub>(optimization-training · chapter 30)</sub>
+- [Q87](by-topic/features-model-selection.md#q87) How do you handle missing values? <sub>(features-model-selection · chapter 11)</sub>
+- [Q88](by-topic/features-model-selection.md#q88) Which models require feature scaling and which do not? <sub>(features-model-selection · chapter 21)</sub>
+- [Q93](by-topic/evaluation-metrics.md#q93) When does precision matter more than recall, and vice versa? <sub>(evaluation-metrics · chapter 14)</sub>
+- [Q100](by-topic/evaluation-metrics.md#q100) Your fraud model has 99.5% accuracy. Is it good? <sub>(evaluation-metrics · chapter 14)</sub>
+- [Q101](by-topic/evaluation-metrics.md#q101) Why is 88% accuracy a bad result at a 12% base rate? <sub>(evaluation-metrics · chapter 14)</sub>
+- [Q104](by-topic/evaluation-metrics.md#q104) A colleague reports test accuracy after a week of tuning against the test set. What is wrong with the number? <sub>(evaluation-metrics · chapter 16)</sub>
+- [Q105](by-topic/evaluation-metrics.md#q105) How would you explain overfitting to a non-technical stakeholder? <sub>(evaluation-metrics · chapter 16)</sub>
+- [Q106](by-topic/evaluation-metrics.md#q106) A forecasting model scored well on a random split and badly in production. Explain the gap. <sub>(evaluation-metrics · chapter 16)</sub>
+- [Q109](by-topic/unsupervised.md#q109) How do you choose the number of clusters? <sub>(unsupervised · chapter 26)</sub>
+- [Q111](by-topic/unsupervised.md#q111) What are the main limitations of k-means? <sub>(unsupervised · chapter 26)</sub>
+- [Q116](by-topic/unsupervised.md#q116) Does PCA perform feature selection? <sub>(unsupervised · chapter 27)</sub>
+- [Q117](by-topic/deep-learning.md#q117) Why use convolutions instead of dense layers for images? <sub>(deep-learning · chapter 32)</sub>
+- [Q129](by-topic/deep-learning.md#q129) What is the difference between feature extraction and fine-tuning? <sub>(deep-learning · chapter 35)</sub>
+- [Q130](by-topic/deep-learning.md#q130) What is an embedding, and why use cosine similarity? <sub>(deep-learning · chapter 35)</sub>
+- [Q134](by-topic/llms-modern-ai.md#q134) Explain temperature and top-p sampling. <sub>(llms-modern-ai · chapter 36)</sub>
+- [Q135](by-topic/llms-modern-ai.md#q135) What is byte pair encoding and why do models use subword tokens? <sub>(llms-modern-ai · chapter 36)</sub>
+- [Q136](by-topic/llms-modern-ai.md#q136) Why do language models struggle to count letters in a word? <sub>(llms-modern-ai · chapter 36)</sub>
+- [Q145](by-topic/ai-systems-agents.md#q145) Why not just rely on public benchmarks? <sub>(ai-systems-agents · chapter 40)</sub>
+- [Q148](by-topic/ai-systems-agents.md#q148) When would you use an agent rather than a single prompt? <sub>(ai-systems-agents · chapter 41)</sub>
+- [Q159](by-topic/responsible-ai.md#q159) A model does not use race as a feature. Can it still be discriminatory? <sub>(responsible-ai · chapter 44)</sub>
+- [Q173](by-topic/business-case.md#q173) A stakeholder wants a dashboard showing everything. What do you ask? <sub>(business-case · chapter 42)</sub>
+- [Q186](by-topic/python-pandas-data.md#q186) Using only the csv module, count the rows in retail.csv and total the Quantity column. <sub>(python-pandas-data · chapter 3)</sub>
+- [Q187](by-topic/python-pandas-data.md#q187) Write a function that computes the revenue of one order line and another that totals an invoice, so that the… <sub>(python-pandas-data · chapter 3)</sub>
+- [Q188](by-topic/python-pandas-data.md#q188) Total revenue (Quantity × UnitPrice) per Category using only the csv module and a dictionary. <sub>(python-pandas-data · chapter 3)</sub>
+- [Q191](by-topic/python-pandas-data.md#q191) Count the rows of retail.csv with no CustomerID and report them as a share of all rows. <sub>(python-pandas-data · chapter 11)</sub>
+- [Q192](by-topic/python-pandas-data.md#q192) List the n best-selling products in retail.csv by total quantity, highest first. <sub>(python-pandas-data · chapter 3)</sub>
+- [Q194](by-topic/python-pandas-data.md#q194) Build a dictionary from invoice number to the number of order lines it has, and count the invoices with more… <sub>(python-pandas-data · chapter 3)</sub>
+- [Q196](by-topic/python-pandas-data.md#q196) Write the file check you would run before any analysis: rows, columns, missing values, exact duplicates and… <sub>(python-pandas-data · chapter 4)</sub>
+- [Q199](by-topic/python-pandas-data.md#q199) Build a Country × Category table of total revenue with pivot_table, with zeros where a combination has no… <sub>(python-pandas-data · chapter 4)</sub>
+- [Q200](by-topic/python-pandas-data.md#q200) Select the order lines that are either a bulk Beans purchase (ten or more units) or shipped to France. <sub>(python-pandas-data · chapter 4)</sub>
+- [Q205](by-topic/python-pandas-data.md#q205) Turn daily revenue into weekly means and find the best week. <sub>(python-pandas-data · chapter 28)</sub>
+- [Q206](by-topic/python-pandas-data.md#q206) Cross-tabulate attrition rate by Department and OverTime in hr.csv and find the riskiest combination. <sub>(python-pandas-data · chapter 12)</sub>
+- [Q207](by-topic/python-pandas-data.md#q207) Compute the fraud base rate in transactions.csv and the fraud rate by hour of day, and find the riskiest hour. <sub>(python-pandas-data · chapter 22)</sub>
+- [Q208](by-topic/sql.md#q208) Write the query that returns total revenue per category, highest first. <sub>(sql · chapter 5)</sub>
+- [Q209](by-topic/sql.md#q209) List the countries whose revenue from Beans exceeds 6,000, using WHERE for the rows and HAVING for the groups. <sub>(sql · chapter 5)</sub>
+- [Q214](by-topic/sql.md#q214) Count all rows, the rows with a customer, and the rows without one, in a single query. <sub>(sql · chapter 5)</sub>
+
+## Intermediate (130)
+
+- [Q2](by-topic/python-pandas-data.md#q2) What does validate="m:1" do on a merge, and why use it? <sub>(python-pandas-data · chapter 4)</sub>
+- [Q4](by-topic/python-pandas-data.md#q4) What is the SettingWithCopyWarning telling you? <sub>(python-pandas-data · chapter 4)</sub>
+- [Q8](by-topic/python-pandas-data.md#q8) How do you turn a long table into a cross-tab, and what is the trap? <sub>(python-pandas-data · chapter 4)</sub>
+- [Q11](by-topic/sql.md#q11) Write a query to find the second highest salary in a table. <sub>(sql · chapter 5)</sub>
+- [Q12](by-topic/sql.md#q12) How would you find and remove duplicate rows? <sub>(sql · chapter 5)</sub>
+- [Q18](by-topic/sql.md#q18) How would you compute month-over-month growth? <sub>(sql · chapter 5)</sub>
+- [Q19](by-topic/maths-statistics.md#q19) Explain broadcasting in NumPy. <sub>(maths-statistics · chapter 9)</sub>
+- [Q21](by-topic/maths-statistics.md#q21) What is the computational complexity of multiplying two n by n matrices? <sub>(maths-statistics · chapter 9)</sub>
+- [Q22](by-topic/maths-statistics.md#q22) Why should you avoid explicitly inverting a matrix in code? <sub>(maths-statistics · chapter 9)</sub>
+- [Q25](by-topic/maths-statistics.md#q25) How would you check whether your gradient implementation is correct? <sub>(maths-statistics · chapter 10)</sub>
+- [Q26](by-topic/maths-statistics.md#q26) What is the difference between a local minimum and a saddle point, and which matters more in deep learning? <sub>(maths-statistics · chapter 10)</sub>
+- [Q30](by-topic/maths-statistics.md#q30) Likelihood and probability sound interchangeable. What separates them? <sub>(maths-statistics · chapter 7)</sub>
+- [Q32](by-topic/maths-statistics.md#q32) A test returns p = 0.12. Your manager concludes the two options are identical. Respond. <sub>(maths-statistics · chapter 8)</sub>
+- [Q34](by-topic/maths-statistics.md#q34) A test is 95% accurate for a condition affecting 1 in 500. Someone tests positive. What is the chance they… <sub>(maths-statistics · chapter 7)</sub>
+- [Q35](by-topic/maths-statistics.md#q35) Why is the central limit theorem the reason inference works? <sub>(maths-statistics · chapter 7)</sub>
+- [Q36](by-topic/maths-statistics.md#q36) What is the difference between correlation and causation, in practice? <sub>(maths-statistics · chapter 15)</sub>
+- [Q37](by-topic/maths-statistics.md#q37) You test 15 segments and two come back significant. What do you conclude? <sub>(maths-statistics · chapter 8)</sub>
+- [Q38](by-topic/maths-statistics.md#q38) How do you determine the sample size for an A/B test? <sub>(maths-statistics · chapter 15)</sub>
+- [Q39](by-topic/maths-statistics.md#q39) Why is checking test results daily a problem? <sub>(maths-statistics · chapter 15)</sub>
+- [Q44](by-topic/ml-fundamentals.md#q44) Give three concrete examples of data leakage. <sub>(ml-fundamentals · chapter 16)</sub>
+- [Q46](by-topic/ml-fundamentals.md#q46) How do you split time-series data, and why is random k-fold invalid? <sub>(ml-fundamentals · chapter 16)</sub>
+- [Q48](by-topic/ml-fundamentals.md#q48) Explain the bias-variance tradeoff. <sub>(ml-fundamentals · chapter 17)</sub>
+- [Q49](by-topic/ml-fundamentals.md#q49) What is the difference between L1 and L2 regularization? <sub>(ml-fundamentals · chapter 17)</sub>
+- [Q53](by-topic/classical-algorithms.md#q53) When would you prefer gradient descent over the normal equation? <sub>(classical-algorithms · chapter 13)</sub>
+- [Q54](by-topic/classical-algorithms.md#q54) What are the assumptions of linear regression? <sub>(classical-algorithms · chapter 13)</sub>
+- [Q55](by-topic/classical-algorithms.md#q55) Two of your features are highly correlated. What happens and what do you do? <sub>(classical-algorithms · chapter 13)</sub>
+- [Q56](by-topic/classical-algorithms.md#q56) Why use cross-entropy rather than mean squared error for classification? <sub>(classical-algorithms · chapter 14)</sub>
+- [Q58](by-topic/classical-algorithms.md#q58) Is the decision boundary of logistic regression linear? <sub>(classical-algorithms · chapter 14)</sub>
+- [Q60](by-topic/classical-algorithms.md#q60) Entropy or Gini: does the choice of impurity measure change the tree? <sub>(classical-algorithms · chapter 19)</sub>
+- [Q63](by-topic/classical-algorithms.md#q63) When do decision trees perform poorly? <sub>(classical-algorithms · chapter 19)</sub>
+- [Q66](by-topic/classical-algorithms.md#q66) What does the learning rate do in gradient boosting? <sub>(classical-algorithms · chapter 20)</sub>
+- [Q67](by-topic/classical-algorithms.md#q67) Why is a random forest relatively insensitive to the number of trees? <sub>(classical-algorithms · chapter 20)</sub>
+- [Q69](by-topic/classical-algorithms.md#q69) Why do support vector machines maximize the margin? <sub>(classical-algorithms · chapter 21)</sub>
+- [Q70](by-topic/classical-algorithms.md#q70) What is the computational cost of kNN at prediction time? <sub>(classical-algorithms · chapter 21)</sub>
+- [Q72](by-topic/classical-algorithms.md#q72) Why do tree models struggle on a trending time series? <sub>(classical-algorithms · chapter 28)</sub>
+- [Q75](by-topic/optimization-training.md#q75) What does momentum do, and why does it help? <sub>(optimization-training · chapter 18)</sub>
+- [Q76](by-topic/optimization-training.md#q76) Your training loss becomes not-a-number after a few steps. What do you check? <sub>(optimization-training · chapter 18)</sub>
+- [Q77](by-topic/optimization-training.md#q77) Explain backpropagation. <sub>(optimization-training · chapter 30)</sub>
+- [Q79](by-topic/optimization-training.md#q79) What is the vanishing gradient problem? <sub>(optimization-training · chapter 31)</sub>
+- [Q80](by-topic/optimization-training.md#q80) Your gradient check agrees to five decimal places, but the network still does not learn. What did the check… <sub>(optimization-training · chapter 30)</sub>
+- [Q82](by-topic/optimization-training.md#q82) Why does dropout behave differently at training and test time? <sub>(optimization-training · chapter 17)</sub>
+- [Q83](by-topic/optimization-training.md#q83) What is the dying ReLU problem and how is it addressed? <sub>(optimization-training · chapter 31)</sub>
+- [Q85](by-topic/features-model-selection.md#q85) How do you prevent data leakage during preprocessing? <sub>(features-model-selection · chapter 24)</sub>
+- [Q86](by-topic/features-model-selection.md#q86) When would you use target encoding instead of one-hot? <sub>(features-model-selection · chapter 24)</sub>
+- [Q89](by-topic/features-model-selection.md#q89) Compare grid, random, and Bayesian search. <sub>(features-model-selection · chapter 25)</sub>
+- [Q91](by-topic/features-model-selection.md#q91) Why sample learning rates on a log scale? <sub>(features-model-selection · chapter 25)</sub>
+- [Q92](by-topic/features-model-selection.md#q92) You tried 200 configurations and the best validation accuracy is 0.91. What do you report? <sub>(features-model-selection · chapter 25)</sub>
+- [Q94](by-topic/evaluation-metrics.md#q94) When would you report PR AUC instead of ROC AUC? <sub>(evaluation-metrics · chapter 22)</sub>
+- [Q95](by-topic/evaluation-metrics.md#q95) What does calibration mean and how would you check it? <sub>(evaluation-metrics · chapter 22)</sub>
+- [Q96](by-topic/evaluation-metrics.md#q96) Your model has AUC 0.92 but is useless in production. What could explain that? <sub>(evaluation-metrics · chapter 22)</sub>
+- [Q97](by-topic/evaluation-metrics.md#q97) How do you handle imbalanced data? <sub>(evaluation-metrics · chapter 23)</sub>
+- [Q98](by-topic/evaluation-metrics.md#q98) Where should you set the decision threshold? <sub>(evaluation-metrics · chapter 23)</sub>
+- [Q99](by-topic/evaluation-metrics.md#q99) What are the drawbacks of SMOTE? <sub>(evaluation-metrics · chapter 23)</sub>
+- [Q102](by-topic/evaluation-metrics.md#q102) What is AUC, in one sentence? <sub>(evaluation-metrics · chapter 22)</sub>
+- [Q103](by-topic/evaluation-metrics.md#q103) What does R-squared not tell you? <sub>(evaluation-metrics · chapter 13)</sub>
+- [Q107](by-topic/evaluation-metrics.md#q107) Your backtest gives MAEs of 180, 195, 172, 188, and 910. What do you report? <sub>(evaluation-metrics · chapter 28)</sub>
+- [Q108](by-topic/evaluation-metrics.md#q108) What is wrong with the feature importance a tree model gives you for free? <sub>(evaluation-metrics · chapter 29)</sub>
+- [Q110](by-topic/unsupervised.md#q110) When would you use DBSCAN instead of k-means? <sub>(unsupervised · chapter 26)</sub>
+- [Q112](by-topic/unsupervised.md#q112) How do you know a clustering is actually meaningful? <sub>(unsupervised · chapter 26)</sub>
+- [Q113](by-topic/unsupervised.md#q113) How does PCA work? <sub>(unsupervised · chapter 27)</sub>
+- [Q114](by-topic/unsupervised.md#q114) Why can’t you trust cluster distances in a t-SNE plot? <sub>(unsupervised · chapter 27)</sub>
+- [Q115](by-topic/unsupervised.md#q115) When would you use PCA versus t-SNE or UMAP? <sub>(unsupervised · chapter 27)</sub>
+- [Q118](by-topic/deep-learning.md#q118) What problem do residual connections solve? <sub>(deep-learning · chapter 34)</sub>
+- [Q119](by-topic/deep-learning.md#q119) Compute the output size of a convolution. <sub>(deep-learning · chapter 32)</sub>
+- [Q120](by-topic/deep-learning.md#q120) What is a receptive field and why does it grow with depth? <sub>(deep-learning · chapter 32)</sub>
+- [Q121](by-topic/deep-learning.md#q121) Why do recurrent networks struggle with long sequences? <sub>(deep-learning · chapter 33)</sub>
+- [Q122](by-topic/deep-learning.md#q122) What did attention add to sequence-to-sequence models? <sub>(deep-learning · chapter 33)</sub>
+- [Q123](by-topic/deep-learning.md#q123) Why did attention replace recurrence rather than complement it? <sub>(deep-learning · chapter 33)</sub>
+- [Q124](by-topic/deep-learning.md#q124) How does an LSTM mitigate vanishing gradients? <sub>(deep-learning · chapter 33)</sub>
+- [Q125](by-topic/deep-learning.md#q125) Write the scaled dot-product attention formula and explain each term. <sub>(deep-learning · chapter 34)</sub>
+- [Q127](by-topic/deep-learning.md#q127) How does a transformer know the order of tokens? <sub>(deep-learning · chapter 34)</sub>
+- [Q128](by-topic/deep-learning.md#q128) What is the computational complexity of self-attention and why does it matter? <sub>(deep-learning · chapter 34)</sub>
+- [Q131](by-topic/deep-learning.md#q131) What is catastrophic forgetting and how do you reduce it? <sub>(deep-learning · chapter 35)</sub>
+- [Q132](by-topic/deep-learning.md#q132) When would you not fine-tune at all? <sub>(deep-learning · chapter 35)</sub>
+- [Q133](by-topic/llms-modern-ai.md#q133) What is the Chinchilla finding and why did it matter? <sub>(llms-modern-ai · chapter 36)</sub>
+- [Q137](by-topic/llms-modern-ai.md#q137) RAG or fine-tuning — how do you decide? <sub>(llms-modern-ai · chapter 38)</sub>
+- [Q138](by-topic/llms-modern-ai.md#q138) How does LoRA work and why is it cheap? <sub>(llms-modern-ai · chapter 39)</sub>
+- [Q139](by-topic/llms-modern-ai.md#q139) Your RAG system gives wrong answers. How do you debug it? <sub>(llms-modern-ai · chapter 38)</sub>
+- [Q140](by-topic/llms-modern-ai.md#q140) How do you reduce hallucination in a generative system? <sub>(llms-modern-ai · chapter 38)</sub>
+- [Q143](by-topic/ai-systems-agents.md#q143) How would you evaluate a new generative feature? <sub>(ai-systems-agents · chapter 40)</sub>
+- [Q144](by-topic/ai-systems-agents.md#q144) What are the pitfalls of using an LLM as a judge? <sub>(ai-systems-agents · chapter 40)</sub>
+- [Q146](by-topic/ai-systems-agents.md#q146) How do you measure hallucination in a RAG system? <sub>(ai-systems-agents · chapter 38)</sub>
+- [Q147](by-topic/ai-systems-agents.md#q147) What are the common failure modes of agents? <sub>(ai-systems-agents · chapter 41)</sub>
+- [Q149](by-topic/ai-systems-agents.md#q149) What is prompt injection and how do you defend against it? <sub>(ai-systems-agents · chapter 41)</sub>
+- [Q150](by-topic/ai-systems-agents.md#q150) How does per-step reliability affect agent design? <sub>(ai-systems-agents · chapter 41)</sub>
+- [Q151](by-topic/ai-systems-agents.md#q151) Retrieval recall at k is 0.95, but answers are still wrong. Where do you look next? <sub>(ai-systems-agents · chapter 38)</sub>
+- [Q153](by-topic/production-mlops.md#q153) How do you detect that a deployed model is degrading? <sub>(production-mlops · chapter 43)</sub>
+- [Q154](by-topic/production-mlops.md#q154) Distinguish data drift from concept drift, and say why the distinction matters. <sub>(production-mlops · chapter 43)</sub>
+- [Q155](by-topic/production-mlops.md#q155) What is training-serving skew and how do you prevent it? <sub>(production-mlops · chapter 43)</sub>
+- [Q156](by-topic/production-mlops.md#q156) How would you deploy a new model safely? <sub>(production-mlops · chapter 43)</sub>
+- [Q158](by-topic/responsible-ai.md#q158) How do SHAP and LIME differ, and when would you reach for each? <sub>(responsible-ai · chapter 29)</sub>
+- [Q160](by-topic/responsible-ai.md#q160) How would you govern a machine learning system in production? <sub>(responsible-ai · chapter 44)</sub>
+- [Q161](by-topic/responsible-ai.md#q161) A model declines someone's application. What do you owe them, and which method provides it? <sub>(responsible-ai · chapter 29)</sub>
+- [Q162](by-topic/responsible-ai.md#q162) Two of your features are correlated at 0.95. What will importance methods report? <sub>(responsible-ai · chapter 29)</sub>
+- [Q167](by-topic/ml-system-design.md#q167) How do you decide between batch and online inference? <sub>(ml-system-design · chapter 43)</sub>
+- [Q168](by-topic/business-case.md#q168) A stakeholder wants to add AI to a workflow. How do you evaluate whether it is worth doing? <sub>(business-case · chapter 1)</sub>
+- [Q169](by-topic/business-case.md#q169) Your model is accurate but adoption is low. What do you investigate? <sub>(business-case · chapter 42)</sub>
+- [Q170](by-topic/business-case.md#q170) How would you measure the business value of a deployed model? <sub>(business-case · chapter 15)</sub>
+- [Q171](by-topic/business-case.md#q171) An executive asks whether you should build or buy an AI capability. <sub>(business-case · chapter 1)</sub>
+- [Q172](by-topic/business-case.md#q172) How do you explain model uncertainty to a non-technical audience? <sub>(business-case · chapter 42)</sub>
+- [Q174](by-topic/business-case.md#q174) Revenue is down 8%. How do you investigate? <sub>(business-case · chapter 1)</sub>
+- [Q175](by-topic/business-case.md#q175) Your analysis contradicts what a senior stakeholder believes. What do you do? <sub>(business-case · chapter 42)</sub>
+- [Q176](by-topic/business-case.md#q176) How do you handle a request for a number by end of day when the data is messy? <sub>(business-case · chapter 42)</sub>
+- [Q177](by-topic/business-case.md#q177) A model would improve conversion by 0.02 percentage points, significantly. Ship it? <sub>(business-case · chapter 8)</sub>
+- [Q178](by-topic/business-case.md#q178) What would make you refuse to run an analysis? <sub>(business-case · chapter 44)</sub>
+- [Q189](by-topic/python-pandas-data.md#q189) Count the distinct invoices in each calendar month of retail.csv using the standard library. <sub>(python-pandas-data · chapter 3)</sub>
+- [Q190](by-topic/python-pandas-data.md#q190) Find the rows of retail.csv that appear more than once, and count how many extra copies the file holds. <sub>(python-pandas-data · chapter 11)</sub>
+- [Q193](by-topic/python-pandas-data.md#q193) Write a parser that turns a text field into a float without crashing on empty or malformed values, then use… <sub>(python-pandas-data · chapter 3)</sub>
+- [Q195](by-topic/python-pandas-data.md#q195) Aggregate daily revenue to months, then write a function that returns the month-over-month growth of any… <sub>(python-pandas-data · chapter 3)</sub>
+- [Q197](by-topic/python-pandas-data.md#q197) Test whether a set of columns identifies a row uniquely, drop exact duplicates, and find out what one row of… <sub>(python-pandas-data · chapter 4)</sub>
+- [Q198](by-topic/python-pandas-data.md#q198) Attach each order line's invoice total to the line with a merge that asserts the many-to-one relationship. <sub>(python-pandas-data · chapter 4)</sub>
+- [Q201](by-topic/python-pandas-data.md#q201) Report revenue per category twice: gross, excluding cancellation lines, and net, including them. <sub>(python-pandas-data · chapter 11)</sub>
+- [Q202](by-topic/python-pandas-data.md#q202) Fill the missing AnnualIncome values in customers.csv with the median income of each customer's Plan, and… <sub>(python-pandas-data · chapter 11)</sub>
+- [Q203](by-topic/python-pandas-data.md#q203) Parse the signup dates in customers.csv and compute the churn rate of each signup year. <sub>(python-pandas-data · chapter 11)</sub>
+- [Q204](by-topic/python-pandas-data.md#q204) Compute each order line's share of its invoice's revenue without collapsing the frame. <sub>(python-pandas-data · chapter 4)</sub>
+- [Q210](by-topic/sql.md#q210) For each category, return its top product by revenue, using ROW_NUMBER in a CTE. <sub>(sql · chapter 5)</sub>
+- [Q211](by-topic/sql.md#q211) Find the invoice with the second-highest total revenue, using DENSE_RANK so that ties are handled. <sub>(sql · chapter 5)</sub>
+- [Q212](by-topic/sql.md#q212) Count the rows that remain after exact duplicates are removed, using ROW_NUMBER over every column. <sub>(sql · chapter 5)</sub>
+- [Q213](by-topic/sql.md#q213) Compute each month's revenue, the previous month's revenue, and the growth between them. <sub>(sql · chapter 5)</sub>
+- [Q215](by-topic/sql.md#q215) Compute the average number of order lines per invoice in each country, aggregating in two steps. <sub>(sql · chapter 5)</sub>
+- [Q216](by-topic/sql.md#q216) List the customers with at least five invoices, with their invoice count and total revenue. <sub>(sql · chapter 5)</sub>
+- [Q217](by-topic/sql.md#q217) Compute the cumulative revenue month by month with a window frame stated explicitly. <sub>(sql · chapter 5)</sub>
+- [Q218](by-topic/sql.md#q218) Report each month's gross revenue (cancellations excluded) and net revenue (cancellations included) in one… <sub>(sql · chapter 5)</sub>
+- [Q219](by-topic/sql.md#q219) Compute a three-month moving average of monthly revenue with a bounded window frame. <sub>(sql · chapter 5)</sub>
+- [Q220](by-topic/challenges.md#q220) Summarize a year of retail.csv the way a first analysis brief would: net revenue, the cost of cancellations,… <sub>(challenges · chapter 1)</sub>
+- [Q221](by-topic/challenges.md#q221) Build a logistic-regression baseline for attrition in hr.csv with a proper split, and report what it beats. <sub>(challenges · chapter 14)</sub>
+- [Q223](by-topic/challenges.md#q223) Measure how much a leaky preprocessing step changes a cross-validated score on customers.csv, by running the… <sub>(challenges · chapter 16)</sub>
+- [Q224](by-topic/challenges.md#q224) Hold out the last 90 days of daily revenue and measure three baselines any forecasting model has to beat:… <sub>(challenges · chapter 28)</sub>
+- [Q225](by-topic/challenges.md#q225) Cluster segments.csv with k-means and measure the result two ways: against the true segment labels and… <sub>(challenges · chapter 26)</sub>
+- [Q227](by-topic/challenges.md#q227) Compare attrition between employees who work overtime and those who do not, with a confidence interval and a… <sub>(challenges · chapter 8)</sub>
+
+## Advanced (21)
+
+- [Q13](by-topic/sql.md#q13) A query that ran in two seconds now takes four minutes. How do you diagnose it? <sub>(sql · chapter 5)</sub>
+- [Q29](by-topic/maths-statistics.md#q29) What is maximum likelihood estimation, and how does it relate to loss functions? <sub>(maths-statistics · chapter 7)</sub>
+- [Q52](by-topic/classical-algorithms.md#q52) Derive the closed-form solution for ordinary least squares. <sub>(classical-algorithms · chapter 13)</sub>
+- [Q57](by-topic/classical-algorithms.md#q57) Derive the gradient of the logistic loss. <sub>(classical-algorithms · chapter 14)</sub>
+- [Q65](by-topic/classical-algorithms.md#q65) Why does bagging reduce variance? <sub>(classical-algorithms · chapter 20)</sub>
+- [Q68](by-topic/classical-algorithms.md#q68) Explain the kernel trick. <sub>(classical-algorithms · chapter 21)</sub>
+- [Q73](by-topic/optimization-training.md#q73) Write out the Adam update equations. <sub>(optimization-training · chapter 18)</sub>
+- [Q81](by-topic/optimization-training.md#q81) What does batch normalization do, and how does it behave at inference? <sub>(optimization-training · chapter 31)</sub>
+- [Q84](by-topic/optimization-training.md#q84) Your deep network’s loss does not move at all. What do you check, in order? <sub>(optimization-training · chapter 31)</sub>
+- [Q90](by-topic/features-model-selection.md#q90) What is nested cross-validation and why use it? <sub>(features-model-selection · chapter 25)</sub>
+- [Q126](by-topic/deep-learning.md#q126) Why divide by the square root of the key dimension? <sub>(deep-learning · chapter 34)</sub>
+- [Q141](by-topic/llms-modern-ai.md#q141) What does the KL penalty do in RLHF, and what happens without it? <sub>(llms-modern-ai · chapter 37)</sub>
+- [Q142](by-topic/llms-modern-ai.md#q142) Your RLHF run shows reward climbing steadily. Why is that not sufficient evidence? <sub>(llms-modern-ai · chapter 37)</sub>
+- [Q152](by-topic/ai-systems-agents.md#q152) Why is a similarity threshold an incomplete defence against answering out-of-scope questions? <sub>(ai-systems-agents · chapter 38)</sub>
+- [Q157](by-topic/responsible-ai.md#q157) Name several fairness metrics and explain why you cannot satisfy them all. <sub>(responsible-ai · chapter 44)</sub>
+- [Q163](by-topic/ml-system-design.md#q163) Design a system to recommend products to users. <sub>(ml-system-design · chapter 22)</sub>
+- [Q164](by-topic/ml-system-design.md#q164) Design a fraud detection system for card transactions. <sub>(ml-system-design · chapter 22)</sub>
+- [Q165](by-topic/ml-system-design.md#q165) Design a retrieval-augmented question answering system over company documents. <sub>(ml-system-design · chapter 38)</sub>
+- [Q166](by-topic/ml-system-design.md#q166) How would you serve a model with a 50 millisecond latency budget? <sub>(ml-system-design · chapter 43)</sub>
+- [Q222](by-topic/challenges.md#q222) Train a fraud classifier on transactions.csv and pick the decision threshold that reaches a required recall,… <sub>(challenges · chapter 22)</sub>
+- [Q226](by-topic/challenges.md#q226) Build an RFM table for the identified customers in retail.csv, score each dimension into quartiles, and… <sub>(challenges · chapter 4)</sub>
+
+## Any level (behavioural) (7)
+
+- [Q179](by-topic/behavioural.md#q179) Tell me about a model or analysis that failed. What happened? <sub>(behavioural)</sub>
+- [Q180](by-topic/behavioural.md#q180) Describe a time you disagreed with a stakeholder about an approach. <sub>(behavioural)</sub>
+- [Q181](by-topic/behavioural.md#q181) How do you decide when a model is good enough to ship? <sub>(behavioural · chapter 23)</sub>
+- [Q182](by-topic/behavioural.md#q182) How do you keep current in a field that changes this quickly? <sub>(behavioural · chapter 45)</sub>
+- [Q183](by-topic/behavioural.md#q183) You are given a vague request with no clear success metric. What do you do? <sub>(behavioural · chapter 1)</sub>
+- [Q184](by-topic/behavioural.md#q184) How do you prioritize when three people want three things? <sub>(behavioural)</sub>
+- [Q185](by-topic/behavioural.md#q185) Why analytics? <sub>(behavioural · chapter 1)</sub>
+
+---
+
+<sub>Question and answer text © 2026 Shanmukh Behara, licensed under [CC BY-NC-SA 4.0](../LICENSES/CC-BY-NC-SA-4.0.txt). It is not covered by the MIT licence that applies to the code. See [LICENSING.md](../LICENSING.md).</sub>

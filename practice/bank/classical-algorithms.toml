@@ -1,0 +1,169 @@
+# Classical algorithms and trade-offs. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q52"
+question = '''Derive the closed-form solution for ordinary least squares.'''
+answer = '''Write the loss in matrix form, differentiate with respect to w to get minus two X-transpose times (y minus Xw), set to zero, and solve to reach w equals (X-transpose-X) inverse times X-transpose-y. Strong candidates add that in practice you solve rather than invert.'''
+chapters = [13, 10, 9]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q53"
+question = '''When would you prefer gradient descent over the normal equation?'''
+answer = '''When the feature count is large enough that forming or factorizing the d-by-d matrix is impractical, when data arrives in streams or does not fit in memory, or when the model has no closed form. The crossover is usually somewhere in the thousands of features.'''
+chapters = [13, 18]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q54"
+question = '''What are the assumptions of linear regression?'''
+answer = '''Linearity in the parameters, independent errors, homoscedasticity, and approximately normal residuals for valid inference. A strong answer notes that prediction can survive mild violations while confidence intervals and p-values do not.'''
+chapters = [13]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q55"
+question = '''Two of your features are highly correlated. What happens and what do you do?'''
+answer = '''Coefficients become unstable and hard to interpret while predictions may remain acceptable. Remedies include dropping one feature, combining them, or applying ridge regularization, which resolves the near-tie by preferring smaller weights.'''
+chapters = [13, 17]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q56"
+question = '''Why use cross-entropy rather than mean squared error for classification?'''
+answer = '''Cross-entropy is the negative log-likelihood of a Bernoulli outcome and is convex in the weights, while squared error through a sigmoid is non-convex and produces vanishing gradients on confidently wrong predictions.'''
+chapters = [14, 30]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q57"
+question = '''Derive the gradient of the logistic loss.'''
+answer = '''Differentiating the cross-entropy with respect to w yields X-transpose times (sigma(Xw) minus y), divided by n. Strong candidates note it has the same form as linear regression’s gradient.'''
+chapters = [14]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q58"
+question = '''Is the decision boundary of logistic regression linear?'''
+answer = '''Yes, in the feature space provided. The sigmoid is nonlinear but monotone, so the set where probability equals one half is where the linear score is zero. Curved boundaries require engineered nonlinear features.'''
+chapters = [14]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q59"
+question = '''How do you interpret a logistic regression coefficient?'''
+answer = '''As the change in log-odds per unit increase in that feature, holding others fixed; exponentiating gives the odds multiplier. The key precision is that it multiplies odds, not probability.'''
+chapters = [14]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q60"
+question = '''Entropy or Gini: does the choice of impurity measure change the tree?'''
+answer = '''Both measure node impurity: entropy is the information-theoretic measure in bits, Gini is the probability that two random members differ in label. They select similar splits; Gini is slightly cheaper and is scikit-learn’s default.'''
+chapters = [19]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q61"
+question = '''How does a decision tree choose a split?'''
+answer = '''It evaluates candidate feature and threshold pairs, computes the size-weighted impurity of the resulting children, and picks the split with the greatest impurity reduction. The procedure is greedy and never revisits earlier splits.'''
+chapters = [19]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q62"
+question = '''How do you stop a decision tree from overfitting?'''
+answer = '''Limit depth, require minimum samples per split or per leaf, cap the number of leaves, or grow fully and prune back using cost-complexity pruning. Ensembling, covered next, is the other standard answer.'''
+chapters = [19, 20]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q63"
+question = '''When do decision trees perform poorly?'''
+answer = '''When the true boundary is diagonal or smooth, since axis-aligned splits approximate it as a staircase; also with strongly linear relationships, which a linear model captures with one coefficient and a tree needs many splits for.'''
+chapters = [19]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q64"
+question = '''What is the difference between a random forest and gradient boosting?'''
+answer = '''Forests train deep trees independently on bootstrap samples and average to reduce variance; boosting trains shallow trees sequentially on residual errors to reduce bias. Forests are robust with little tuning, boosting has a higher ceiling but is tuning-sensitive.'''
+chapters = [20]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q65"
+question = '''Why does bagging reduce variance?'''
+answer = '''Averaging B models with pairwise correlation rho leaves rho times the variance plus the remainder divided by B. Only decorrelated error shrinks, which is why random forests also subsample features at each split.'''
+chapters = [20]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q66"
+question = '''What does the learning rate do in gradient boosting?'''
+answer = '''It shrinks each tree’s contribution, so more trees are needed but the ensemble generalizes better. Learning rate and number of trees are tuned jointly, usually with early stopping on a validation set.'''
+chapters = [20, 25]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q67"
+question = '''Why is a random forest relatively insensitive to the number of trees?'''
+answer = '''Each tree is trained independently, so adding more refines the average toward its expectation rather than fitting new error. Boosting differs because each added tree deliberately fits remaining residuals, including noise.'''
+chapters = [20]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q68"
+question = '''Explain the kernel trick.'''
+answer = '''The optimization depends on the data only through inner products, so replacing each inner product with a kernel function computes the result of an implicit mapping to a higher-dimensional space without constructing it. The RBF kernel corresponds to an infinite-dimensional space.'''
+chapters = [21]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q69"
+question = '''Why do support vector machines maximize the margin?'''
+answer = '''A wider margin makes the boundary more robust to sampling variation and supports better generalization bounds. Only the closest points, the support vectors, determine the solution.'''
+chapters = [21]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q70"
+question = '''What is the computational cost of kNN at prediction time?'''
+answer = '''Naively order n times d per query, since it computes distance to every stored point. Approximate nearest-neighbor indexes reduce this and are what production vector search relies on.'''
+chapters = [21, 38]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q71"
+question = '''How do you choose k in k-nearest neighbors?'''
+answer = '''By cross-validation, using odd values to avoid ties in binary problems. Small k gives high variance and a jagged boundary; large k smooths toward the majority class and raises bias.'''
+chapters = [21]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q72"
+question = '''Why do tree models struggle on a trending time series?'''
+answer = '''A tree predicts the average of training targets in a leaf, so its output cannot exceed the range it was trained on. A trending series puts the test period above everything seen, and the model cannot reach it at any depth. Strong answers propose removing the trend first, or predicting a difference rather than a level.'''
+chapters = [28, 19, 20]
+level = "intermediate"
+type = "scenario"

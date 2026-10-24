@@ -1,0 +1,50 @@
+# Responsible AI and governance. Source file for the question bank: edit here, then run python scripts/build_practice.py.
+
+[[question]]
+id = "Q157"
+question = '''Name several fairness metrics and explain why you cannot satisfy them all.'''
+answer = '''Demographic parity, equal opportunity, equalized odds, and calibration within groups. When base rates differ these are provably incompatible, so the choice must be justified against the specific harm.'''
+chapters = [44]
+level = "advanced"
+type = "conceptual"
+
+[[question]]
+id = "Q158"
+question = '''How do SHAP and LIME differ, and when would you reach for each?'''
+answer = '''SHAP uses Shapley values with a local accuracy guarantee, so attributions sum exactly to prediction minus baseline, and is exact and fast for trees. LIME fits a local surrogate: quicker, less consistent.'''
+chapters = [29, 45]
+level = "intermediate"
+type = "conceptual"
+beyond_book = '''Chapter 29 teaches SHAP-style attribution; LIME is only named, in the further reading of Chapter 45.'''
+
+[[question]]
+id = "Q159"
+question = '''A model does not use race as a feature. Can it still be discriminatory?'''
+answer = '''Yes. Correlated features such as geography or purchase history act as proxies, so disparate outcomes persist. Fairness must be measured on outcomes, not inferred from the feature list.'''
+chapters = [44]
+level = "beginner"
+type = "conceptual"
+
+[[question]]
+id = "Q160"
+question = '''How would you govern a machine learning system in production?'''
+answer = '''Keep an inventory with risk tiers, document lineage and intended use, measure performance and fairness on a schedule, monitor drift, and assign accountability with a rollback path. NIST’s four functions structure this.'''
+chapters = [44]
+level = "intermediate"
+type = "conceptual"
+
+[[question]]
+id = "Q161"
+question = '''A model declines someone's application. What do you owe them, and which method provides it?'''
+answer = '''A local explanation, not a global one: SHAP decomposes their individual prediction into per-feature contributions summing exactly to their score. Strong answers stress that this explains the model rather than the world, and that presenting a SHAP value as a cause is a mistake with a polished appearance.'''
+chapters = [29, 44]
+level = "intermediate"
+type = "scenario"
+
+[[question]]
+id = "Q162"
+question = '''Two of your features are correlated at 0.95. What will importance methods report?'''
+answer = '''Both will look unimportant: permuting one leaves the other carrying the signal, so the measured drop is small in each direction, while the pair may be jointly essential. Strong answers permute or drop them as a group and report the pair.'''
+chapters = [29]
+level = "intermediate"
+type = "scenario"

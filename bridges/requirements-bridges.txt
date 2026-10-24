@@ -1,0 +1,8 @@
+# Only the optional framework bridges need this. Nothing in the book itself does.
+# Install on top of the book's own requirements.txt:
+#     pip install -r requirements.txt -r bridges/requirements-bridges.txt
+#
+# PyTorch is a large download (a few hundred MB). That is the whole cost of the bridges,
+# and it is why they are optional and kept out of the book's own environment.
+torch==2.14.0
+jupyter                 # to run the notebooks

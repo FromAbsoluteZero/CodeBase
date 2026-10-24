@@ -1,0 +1,22 @@
+# Every repository path the printed book names. Each must exist; tests/test_practice.py checks them.
+# Never rename or remove one of these without an erratum.
+README.md
+code/ch04
+code/ch30
+docs/CHAPTER_MAP.md
+docs/ERRATA.md
+docs/REPRODUCIBILITY.md
+practice
+practice/README.md
+practice/by-chapter/ch22.md
+practice/mock-interviews
+practice/exercises
+reference
+reference/cheatsheets
+reference/ai-assistant-prompts.md
+reference/git
+reference/portfolio
+reference/templates
+notebooks/chapter_16.ipynb
+data/generated
+figures

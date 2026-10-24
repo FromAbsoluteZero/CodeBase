@@ -1,0 +1,243 @@
+# The book's 45 chapters, with their companion folders. Titles match the printed Contents.
+
+[[chapter]]
+number = 1
+title = "What Analytics and Machine Learning Actually Are"
+
+[[chapter]]
+number = 2
+title = "Python from Zero I: The Mechanics"
+
+[[chapter]]
+number = 3
+title = "Python from Zero II: Logic, Loops, and Functions"
+
+[[chapter]]
+number = 4
+title = "Working with Data: NumPy and pandas"
+code = "code/ch04"
+
+[[chapter]]
+number = 5
+title = "SQL for Analysts"
+
+[[chapter]]
+number = 6
+title = "Descriptive Statistics and Distributions"
+
+[[chapter]]
+number = 7
+title = "Probability"
+code = "code/ch07"
+
+[[chapter]]
+number = 8
+title = "Statistical Inference: Confidence and Doubt"
+
+[[chapter]]
+number = 9
+title = "Linear Algebra Without Tears"
+code = "code/ch09"
+
+[[chapter]]
+number = 10
+title = "Calculus for Optimization: How Models Learn"
+code = "code/ch10"
+
+[[chapter]]
+number = 11
+title = "Data Cleaning and Preparation"
+
+[[chapter]]
+number = 12
+title = "Exploring and Visualizing Data"
+
+[[chapter]]
+number = 13
+title = "Linear Regression, Thoroughly"
+code = "code/ch13"
+
+[[chapter]]
+number = 14
+title = "Classification and Logistic Regression"
+code = "code/ch14"
+
+[[chapter]]
+number = 15
+title = "Experimentation and A/B Testing"
+
+[[chapter]]
+number = 16
+title = "Generalization: Splits, Validation, and Leakage"
+code = "code/ch16"
+notebook = "notebooks/chapter_16.ipynb"
+
+[[chapter]]
+number = 17
+title = "Bias, Variance, and Regularization"
+code = "code/ch17"
+notebook = "notebooks/chapter_17.ipynb"
+
+[[chapter]]
+number = 18
+title = "Gradient Descent in Practice"
+code = "code/ch18"
+notebook = "notebooks/chapter_18.ipynb"
+
+[[chapter]]
+number = 19
+title = "Decision Trees"
+code = "code/ch19"
+notebook = "notebooks/chapter_19.ipynb"
+
+[[chapter]]
+number = 20
+title = "Ensembles: Bagging, Random Forests, Boosting"
+code = "code/ch20"
+notebook = "notebooks/chapter_20.ipynb"
+
+[[chapter]]
+number = 21
+title = "Distance and Margin: kNN and SVMs"
+code = "code/ch21"
+notebook = "notebooks/chapter_21.ipynb"
+
+[[chapter]]
+number = 22
+title = "Classification Metrics"
+code = "code/ch22"
+notebook = "notebooks/chapter_22.ipynb"
+
+[[chapter]]
+number = 23
+title = "Imbalance, Thresholds, and Cost-Sensitive Decisions"
+code = "code/ch23"
+notebook = "notebooks/chapter_23.ipynb"
+
+[[chapter]]
+number = 24
+title = "Feature Engineering, Encoding, and Pipelines"
+code = "code/ch24"
+notebook = "notebooks/chapter_24.ipynb"
+
+[[chapter]]
+number = 25
+title = "Hyperparameter Tuning and Honest Model Selection"
+code = "code/ch25"
+notebook = "notebooks/chapter_25.ipynb"
+
+[[chapter]]
+number = 26
+title = "Clustering"
+code = "code/ch26"
+notebook = "notebooks/chapter_26.ipynb"
+
+[[chapter]]
+number = 27
+title = "Dimensionality Reduction"
+code = "code/ch27"
+notebook = "notebooks/chapter_27.ipynb"
+
+[[chapter]]
+number = 28
+title = "Time Series and Forecasting"
+code = "code/ch28"
+notebook = "notebooks/chapter_28.ipynb"
+
+[[chapter]]
+number = 29
+title = "Opening the Model"
+code = "code/ch29"
+notebook = "notebooks/chapter_29.ipynb"
+
+[[chapter]]
+number = 30
+title = "Neural Networks from Scratch"
+code = "code/ch30"
+notebook = "notebooks/chapter_30.ipynb"
+
+[[chapter]]
+number = 31
+title = "Making Deep Networks Train"
+code = "code/ch31"
+notebook = "notebooks/chapter_31.ipynb"
+
+[[chapter]]
+number = 32
+title = "Convolutional Networks and Computer Vision"
+code = "code/ch32"
+notebook = "notebooks/chapter_32.ipynb"
+
+[[chapter]]
+number = 33
+title = "Sequence Models and the Arrival of Attention"
+code = "code/ch33"
+notebook = "notebooks/chapter_33.ipynb"
+
+[[chapter]]
+number = 34
+title = "Transformers: Self-Attention"
+code = "code/ch34"
+notebook = "notebooks/chapter_34.ipynb"
+
+[[chapter]]
+number = 35
+title = "Transfer Learning, Fine-Tuning, and Embeddings"
+code = "code/ch35"
+notebook = "notebooks/chapter_35.ipynb"
+
+[[chapter]]
+number = 36
+title = "Large Language Models: Tokens, Decoding, Scaling"
+code = "code/ch36"
+notebook = "notebooks/chapter_36.ipynb"
+
+[[chapter]]
+number = 37
+title = "Alignment: Turning a Predictor into an Assistant"
+code = "code/ch37"
+notebook = "notebooks/chapter_37.ipynb"
+
+[[chapter]]
+number = 38
+title = "Retrieval: Grounding a Model in Your Documents"
+code = "code/ch38"
+notebook = "notebooks/chapter_38.ipynb"
+
+[[chapter]]
+number = 39
+title = "Efficient Fine-Tuning: LoRA and Adapters"
+code = "code/ch39"
+notebook = "notebooks/chapter_39.ipynb"
+
+[[chapter]]
+number = 40
+title = "Evaluating AI Systems Without a Right Answer"
+code = "code/ch40"
+notebook = "notebooks/chapter_40.ipynb"
+
+[[chapter]]
+number = 41
+title = "Agents, Tool Use, Cost, and Where They Break"
+code = "code/ch41"
+notebook = "notebooks/chapter_41.ipynb"
+
+[[chapter]]
+number = 42
+title = "Communicating Analysis"
+
+[[chapter]]
+number = 43
+title = "Production: Serving, Drift, and MLOps"
+code = "code/ch43"
+notebook = "notebooks/chapter_43.ipynb"
+
+[[chapter]]
+number = 44
+title = "Responsible AI: Fairness, Governance, and Law"
+code = "code/ch44"
+notebook = "notebooks/chapter_44.ipynb"
+
+[[chapter]]
+number = 45
+title = "Where to Go Next"
